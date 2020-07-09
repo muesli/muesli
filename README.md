@@ -2,6 +2,8 @@
 
 What's this? A mysterious secret page? Shhh, don't tell anyone!
 
+<img src="assets/termenv.png" width="480">
+
 #### 🌱 Check out what I'm currently working on
 
 - [Beehive](https://github.com/muesli/beehive), a light-weight event agent (like IFTTT)
