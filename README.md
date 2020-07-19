@@ -10,23 +10,23 @@ of other projects. Curious what I've been hacking on recently?
 
 #### 🌱 Check out what I'm currently working on
 
-- [muesli/markscribe](https://github.com/muesli/markscribe) - Your personal markdown scribe with template-engine and Git(Hub) & RSS powers 📜
+- [muesli/markscribe](https://github.com/muesli/markscribe) - Your personal markdown scribe with template-engine and Git(Hub) &amp; RSS powers 📜
 - [muesli/gitcha](https://github.com/muesli/gitcha) - Go helpers to work with git repositories
 - [muesli/cap-generator](https://github.com/muesli/cap-generator) - OpenSCAD cap with thread generator
 - [muesli/combinator](https://github.com/muesli/combinator) - Generates a slice of all possible value combinations for any given struct and a set of its potential member values
-- [muesli/homebrew-tap](https://github.com/muesli/homebrew-tap) - muesli's Homebrew tap
+- [muesli/homebrew-tap](https://github.com/muesli/homebrew-tap) - muesli&#39;s Homebrew tap
 - [muesli/obs-scene-switcher](https://github.com/muesli/obs-scene-switcher) - Tracks your active window and switches OBS scenes accordingly
 - [muesli/obs-cli](https://github.com/muesli/obs-cli) - OBS-cli is a command-line remote control for OBS
 - [muesli/knopp](https://github.com/muesli/knopp) - knopp - the homemade 360° infinite rotation remote control
-- [muesli/termenv](https://github.com/muesli/termenv) - Advanced ANSI style & color support for your terminal applications
+- [muesli/termenv](https://github.com/muesli/termenv) - Advanced ANSI style &amp; color support for your terminal applications
 - [muesli/reflow](https://github.com/muesli/reflow) - Reflow lets you word-wrap strings or entire blocks of text. It follows the io.Writer interface and supports ANSI escape sequences.
 
 #### 🔭 Latest releases I've contributed to
 
-- [muesli/termenv](https://github.com/muesli/termenv) ([v0.6.0](https://github.com/muesli/termenv/releases/tag/v0.6.0), 1 hour ago) - Advanced ANSI style & color support for your terminal applications
-- [minio/minio](https://github.com/minio/minio) ([RELEASE.2020-07-18T18-48-16Z](https://github.com/minio/minio/releases/tag/RELEASE.2020-07-18T18-48-16Z), 10 hours ago) - High Performance, Kubernetes Native Object Storage
-- [imdario/mergo](https://github.com/imdario/mergo) ([v0.3.10](https://github.com/imdario/mergo/releases/tag/v0.3.10), 14 hours ago) - Mergo: merging Go structs and maps since 2013.
-- [google/go-github](https://github.com/google/go-github) ([v32.1.0](https://github.com/google/go-github/releases/tag/v32.1.0), 16 hours ago) - Go library for accessing the GitHub API
+- [muesli/termenv](https://github.com/muesli/termenv) ([v0.6.0](https://github.com/muesli/termenv/releases/tag/v0.6.0), 6 hours ago) - Advanced ANSI style &amp; color support for your terminal applications
+- [minio/minio](https://github.com/minio/minio) ([RELEASE.2020-07-18T18-48-16Z](https://github.com/minio/minio/releases/tag/RELEASE.2020-07-18T18-48-16Z), 15 hours ago) - High Performance, Kubernetes Native Object Storage
+- [imdario/mergo](https://github.com/imdario/mergo) ([v0.3.10](https://github.com/imdario/mergo/releases/tag/v0.3.10), 19 hours ago) - Mergo: merging Go structs and maps since 2013.
+- [google/go-github](https://github.com/google/go-github) ([v32.1.0](https://github.com/google/go-github/releases/tag/v32.1.0), 21 hours ago) - Go library for accessing the GitHub API
 - [aws/aws-sdk-go](https://github.com/aws/aws-sdk-go) ([v1.33.7](https://github.com/aws/aws-sdk-go/releases/tag/v1.33.7), 1 day ago) - AWS SDK for the Go programming language.
 - [gohugoio/hugo](https://github.com/gohugoio/hugo) ([v0.74.2](https://github.com/gohugoio/hugo/releases/tag/v0.74.2), 1 day ago) - The world’s fastest framework for building websites.
 - [cli/cli](https://github.com/cli/cli) ([v0.11.0](https://github.com/cli/cli/releases/tag/v0.11.0), 2 days ago) - GitHub’s official command line tool
@@ -40,15 +40,15 @@ of other projects. Curious what I've been hacking on recently?
 - [Remotely Installing a Fully-Encrypted Debian Server](https://fribbledom.com/posts/encrypted-remote-debian-install/) (2 years ago)
 - [Gamut, a Go Package to Manage Color Palettes](https://fribbledom.com/posts/gamut-package-to-handle-color-palettes/) (2 years ago)
 - [An Algorithm to Generate Color Palettes](https://fribbledom.com/posts/an-algorithm-to-generate-color-palettes/) (2 years ago)
-- [A 'Shiny' New Keyboard](https://fribbledom.com/posts/a-shiny-new-keyboard/) (2 years ago)
+- [A &#39;Shiny&#39; New Keyboard](https://fribbledom.com/posts/a-shiny-new-keyboard/) (2 years ago)
 
 #### 👯 Check out some of my recent followers
 
+- [danburzo](https://github.com/danburzo)
 - [XN17](https://github.com/XN17)
 - [R-L-T-Y](https://github.com/R-L-T-Y)
 - [ThanawatP](https://github.com/ThanawatP)
 - [rednafi](https://github.com/rednafi)
-- [dmalawey](https://github.com/dmalawey)
 
 #### 💬 Feedback
 
