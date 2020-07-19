@@ -3,7 +3,7 @@
 <img align="right" src="https://raw.githubusercontent.com/muesli/muesli/master/assets/termenv.png" width="260">
 
 What's this? A mysterious secret page? Shhh, don't tell anyone!
-Want your own awesome profile page? Check out [smartdown](https://github.com/muesli/smartdown)!
+Want your own awesome profile page? Check out [markscribe](https://github.com/muesli/markscribe)!
 
 I'm Chris, an open-source enthusiast and avid contributor. I'm the author of Beehive, Knoxite, Tomahawk and a bunch
 of other projects. Curious what I've been hacking on recently?
