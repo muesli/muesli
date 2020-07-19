@@ -1,9 +1,8 @@
 ### Hi there 👋
 
-<img align="right" src="https://raw.githubusercontent.com/muesli/muesli/master/assets/termenv.png" width="280">
+<img align="right" src="https://raw.githubusercontent.com/muesli/muesli/master/assets/termenv.png" width="260">
 
 What's this? A mysterious secret page? Shhh, don't tell anyone!
-Want your own awesome profile page? Check out [smartdown](https://github.com/muesli/smartdown)!
 
 I'm Chris, an open-source enthusiast and avid contributor. I'm the author of Beehive, Knoxite, Tomahawk and a bunch
 of other projects. Curious what I've been hacking on recently?
@@ -23,16 +22,16 @@ of other projects. Curious what I've been hacking on recently?
 
 #### 🔭 Latest releases I've contributed to
 
-- [minio/minio](https://github.com/minio/minio) [RELEASE.2020-07-18T18-48-16Z](https://github.com/minio/minio/releases/tag/RELEASE.2020-07-18T18-48-16Z) - High Performance, Kubernetes Native Object Storage
-- [imdario/mergo](https://github.com/imdario/mergo) [v0.3.10](https://github.com/imdario/mergo/releases/tag/v0.3.10) - Mergo: merging Go structs and maps since 2013.
-- [google/go-github](https://github.com/google/go-github) [v32.1.0](https://github.com/google/go-github/releases/tag/v32.1.0) - Go library for accessing the GitHub API
-- [aws/aws-sdk-go](https://github.com/aws/aws-sdk-go) [v1.33.7](https://github.com/aws/aws-sdk-go/releases/tag/v1.33.7) - AWS SDK for the Go programming language.
-- [gohugoio/hugo](https://github.com/gohugoio/hugo) [v0.74.2](https://github.com/gohugoio/hugo/releases/tag/v0.74.2) - The world’s fastest framework for building websites.
-- [cli/cli](https://github.com/cli/cli) [v0.11.0](https://github.com/cli/cli/releases/tag/v0.11.0) - GitHub’s official command line tool
-- [open-policy-agent/opa](https://github.com/open-policy-agent/opa) [v0.22.0](https://github.com/open-policy-agent/opa/releases/tag/v0.22.0) - An open source, general-purpose policy engine.
-- [facebookincubator/ent](https://github.com/facebookincubator/ent) [v0.2.7](https://github.com/facebookincubator/ent/releases/tag/v0.2.7) - An entity framework for Go
-- [jpmorganchase/quorum](https://github.com/jpmorganchase/quorum) [v2.7.0](https://github.com/jpmorganchase/quorum/releases/tag/v2.7.0) - A permissioned implementation of Ethereum supporting data privacy
-- [jesseduffield/lazygit](https://github.com/jesseduffield/lazygit) [v0.20.9](https://github.com/jesseduffield/lazygit/releases/tag/v0.20.9) - simple terminal UI for git commands
+- [minio/minio](https://github.com/minio/minio) ([RELEASE.2020-07-18T18-48-16Z](https://github.com/minio/minio/releases/tag/RELEASE.2020-07-18T18-48-16Z), 8 hours ago) - High Performance, Kubernetes Native Object Storage
+- [imdario/mergo](https://github.com/imdario/mergo) ([v0.3.10](https://github.com/imdario/mergo/releases/tag/v0.3.10), 12 hours ago) - Mergo: merging Go structs and maps since 2013.
+- [google/go-github](https://github.com/google/go-github) ([v32.1.0](https://github.com/google/go-github/releases/tag/v32.1.0), 14 hours ago) - Go library for accessing the GitHub API
+- [aws/aws-sdk-go](https://github.com/aws/aws-sdk-go) ([v1.33.7](https://github.com/aws/aws-sdk-go/releases/tag/v1.33.7), 1 day ago) - AWS SDK for the Go programming language.
+- [gohugoio/hugo](https://github.com/gohugoio/hugo) ([v0.74.2](https://github.com/gohugoio/hugo/releases/tag/v0.74.2), 1 day ago) - The world’s fastest framework for building websites.
+- [cli/cli](https://github.com/cli/cli) ([v0.11.0](https://github.com/cli/cli/releases/tag/v0.11.0), 2 days ago) - GitHub’s official command line tool
+- [open-policy-agent/opa](https://github.com/open-policy-agent/opa) ([v0.22.0](https://github.com/open-policy-agent/opa/releases/tag/v0.22.0), 2 days ago) - An open source, general-purpose policy engine.
+- [facebookincubator/ent](https://github.com/facebookincubator/ent) ([v0.2.7](https://github.com/facebookincubator/ent/releases/tag/v0.2.7), 2 days ago) - An entity framework for Go
+- [jpmorganchase/quorum](https://github.com/jpmorganchase/quorum) ([v2.7.0](https://github.com/jpmorganchase/quorum/releases/tag/v2.7.0), 3 days ago) - A permissioned implementation of Ethereum supporting data privacy
+- [jesseduffield/lazygit](https://github.com/jesseduffield/lazygit) ([v0.20.9](https://github.com/jesseduffield/lazygit/releases/tag/v0.20.9), 4 days ago) - simple terminal UI for git commands
 
 #### 👯 Check out some of my recent followers
 
