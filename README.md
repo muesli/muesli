@@ -25,16 +25,16 @@ of other projects. Curious what I've been hacking on recently?
 
 #### 🔭 Latest releases I've contributed to
 
-- [muesli/termenv](https://github.com/muesli/termenv) ([v0.6.0](https://github.com/muesli/termenv/releases/tag/v0.6.0), today) - Advanced ANSI style &amp; color support for your terminal applications
-- [minio/minio](https://github.com/minio/minio) ([RELEASE.2020-07-18T18-48-16Z](https://github.com/minio/minio/releases/tag/RELEASE.2020-07-18T18-48-16Z), 1 day ago) - High Performance, Kubernetes Native Object Storage
+- [minio/minio](https://github.com/minio/minio) ([RELEASE.2020-07-20T02-25-16Z](https://github.com/minio/minio/releases/tag/RELEASE.2020-07-20T02-25-16Z), today) - High Performance, Kubernetes Native Object Storage
+- [muesli/termenv](https://github.com/muesli/termenv) ([v0.6.0](https://github.com/muesli/termenv/releases/tag/v0.6.0), 1 day ago) - Advanced ANSI style &amp; color support for your terminal applications
 - [imdario/mergo](https://github.com/imdario/mergo) ([v0.3.10](https://github.com/imdario/mergo/releases/tag/v0.3.10), 1 day ago) - Mergo: merging Go structs and maps since 2013.
 - [google/go-github](https://github.com/google/go-github) ([v32.1.0](https://github.com/google/go-github/releases/tag/v32.1.0), 1 day ago) - Go library for accessing the GitHub API
 - [aws/aws-sdk-go](https://github.com/aws/aws-sdk-go) ([v1.33.7](https://github.com/aws/aws-sdk-go/releases/tag/v1.33.7), 2 days ago) - AWS SDK for the Go programming language.
 - [gohugoio/hugo](https://github.com/gohugoio/hugo) ([v0.74.2](https://github.com/gohugoio/hugo/releases/tag/v0.74.2), 2 days ago) - The world’s fastest framework for building websites.
 - [cli/cli](https://github.com/cli/cli) ([v0.11.0](https://github.com/cli/cli/releases/tag/v0.11.0), 3 days ago) - GitHub’s official command line tool
-- [open-policy-agent/opa](https://github.com/open-policy-agent/opa) ([v0.22.0](https://github.com/open-policy-agent/opa/releases/tag/v0.22.0), 3 days ago) - An open source, general-purpose policy engine.
 - [facebookincubator/ent](https://github.com/facebookincubator/ent) ([v0.2.7](https://github.com/facebookincubator/ent/releases/tag/v0.2.7), 3 days ago) - An entity framework for Go
-- [jpmorganchase/quorum](https://github.com/jpmorganchase/quorum) ([v2.7.0](https://github.com/jpmorganchase/quorum/releases/tag/v2.7.0), 3 days ago) - A permissioned implementation of Ethereum supporting data privacy
+- [jpmorganchase/quorum](https://github.com/jpmorganchase/quorum) ([v2.7.0](https://github.com/jpmorganchase/quorum/releases/tag/v2.7.0), 4 days ago) - A permissioned implementation of Ethereum supporting data privacy
+- [go-gitea/gitea](https://github.com/go-gitea/gitea) ([v1.12.2](https://github.com/go-gitea/gitea/releases/tag/v1.12.2), 1 week ago) - Git with a cup of tea, painless self-hosted git service
 
 #### 📜 My recent blog posts
 
@@ -46,11 +46,11 @@ of other projects. Curious what I've been hacking on recently?
 
 #### 👯 Check out some of my recent followers
 
+- [Fontinalis](https://github.com/Fontinalis)
 - [midnightrun](https://github.com/midnightrun)
 - [mammuth](https://github.com/mammuth)
 - [sjmarshy](https://github.com/sjmarshy)
 - [danburzo](https://github.com/danburzo)
-- [XN17](https://github.com/XN17)
 
 #### 💬 Feedback
 
