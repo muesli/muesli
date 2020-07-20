@@ -46,11 +46,11 @@ of other projects. Curious what I've been hacking on recently?
 
 #### 👯 Check out some of my recent followers
 
+- [AJuliette](https://github.com/AJuliette)
+- [atomfrede](https://github.com/atomfrede)
 - [Fontinalis](https://github.com/Fontinalis)
 - [midnightrun](https://github.com/midnightrun)
 - [mammuth](https://github.com/mammuth)
-- [sjmarshy](https://github.com/sjmarshy)
-- [danburzo](https://github.com/danburzo)
 
 #### 💬 Feedback
 
