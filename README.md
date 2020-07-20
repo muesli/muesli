@@ -25,16 +25,16 @@ of other projects. Curious what I've been hacking on recently?
 
 #### 🔭 Latest releases I've contributed to
 
+- [lib/pq](https://github.com/lib/pq) ([v1.7.1](https://github.com/lib/pq/releases/tag/v1.7.1), today) - Pure Go Postgres driver for database/sql
 - [ethereum/go-ethereum](https://github.com/ethereum/go-ethereum) ([v1.9.17](https://github.com/ethereum/go-ethereum/releases/tag/v1.9.17), today) - Official Go implementation of the Ethereum protocol
 - [minio/minio](https://github.com/minio/minio) ([RELEASE.2020-07-20T02-25-16Z](https://github.com/minio/minio/releases/tag/RELEASE.2020-07-20T02-25-16Z), today) - High Performance, Kubernetes Native Object Storage
 - [muesli/termenv](https://github.com/muesli/termenv) ([v0.6.0](https://github.com/muesli/termenv/releases/tag/v0.6.0), 1 day ago) - Advanced ANSI style &amp; color support for your terminal applications
-- [imdario/mergo](https://github.com/imdario/mergo) ([v0.3.10](https://github.com/imdario/mergo/releases/tag/v0.3.10), 1 day ago) - Mergo: merging Go structs and maps since 2013.
+- [imdario/mergo](https://github.com/imdario/mergo) ([v0.3.10](https://github.com/imdario/mergo/releases/tag/v0.3.10), 2 days ago) - Mergo: merging Go structs and maps since 2013.
 - [google/go-github](https://github.com/google/go-github) ([v32.1.0](https://github.com/google/go-github/releases/tag/v32.1.0), 2 days ago) - Go library for accessing the GitHub API
 - [aws/aws-sdk-go](https://github.com/aws/aws-sdk-go) ([v1.33.7](https://github.com/aws/aws-sdk-go/releases/tag/v1.33.7), 2 days ago) - AWS SDK for the Go programming language.
 - [gohugoio/hugo](https://github.com/gohugoio/hugo) ([v0.74.2](https://github.com/gohugoio/hugo/releases/tag/v0.74.2), 2 days ago) - The world’s fastest framework for building websites.
 - [cli/cli](https://github.com/cli/cli) ([v0.11.0](https://github.com/cli/cli/releases/tag/v0.11.0), 3 days ago) - GitHub’s official command line tool
 - [facebookincubator/ent](https://github.com/facebookincubator/ent) ([v0.2.7](https://github.com/facebookincubator/ent/releases/tag/v0.2.7), 4 days ago) - An entity framework for Go
-- [jpmorganchase/quorum](https://github.com/jpmorganchase/quorum) ([v2.7.0](https://github.com/jpmorganchase/quorum/releases/tag/v2.7.0), 4 days ago) - A permissioned implementation of Ethereum supporting data privacy
 
 #### 📜 My recent blog posts
 
@@ -46,11 +46,11 @@ of other projects. Curious what I've been hacking on recently?
 
 #### 👯 Check out some of my recent followers
 
+- [trevorblades](https://github.com/trevorblades)
+- [patrick91](https://github.com/patrick91)
 - [utf18](https://github.com/utf18)
 - [evolbug](https://github.com/evolbug)
 - [AJuliette](https://github.com/AJuliette)
-- [atomfrede](https://github.com/atomfrede)
-- [Fontinalis](https://github.com/Fontinalis)
 
 #### 💬 Feedback
 
