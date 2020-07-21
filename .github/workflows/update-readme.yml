@@ -1,8 +1,12 @@
 name: Update README
-on: [push]
+
+on:
+  push:
+  schedule:
+    - cron: "0 */12 * * *"
 
 jobs:
-  scribe:
+  markscribe:
     runs-on: ubuntu-latest
 
     steps:
