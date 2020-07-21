@@ -46,11 +46,11 @@ of other projects. Curious what I've been hacking on recently?
 
 #### 👯 Check out some of my recent followers
 
+- [LuRsT](https://github.com/LuRsT)
 - [d3v3l0](https://github.com/d3v3l0)
 - [trevorblades](https://github.com/trevorblades)
 - [patrick91](https://github.com/patrick91)
 - [utf18](https://github.com/utf18)
-- [evolbug](https://github.com/evolbug)
 
 #### 💬 Feedback
 
