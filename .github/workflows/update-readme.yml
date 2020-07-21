@@ -19,6 +19,7 @@ jobs:
         with:
           name: README.md
           path: README.md
-#      - uses: stefanzweifel/git-auto-commit-action@v2
-#        with:
-#          commit_message: Update generated README
+
+      - uses: stefanzweifel/git-auto-commit-action@v2
+        with:
+          commit_message: Update generated README
