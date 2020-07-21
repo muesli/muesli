@@ -34,7 +34,7 @@ of other projects. Curious what I've been hacking on recently?
 - [google/go-github](https://github.com/google/go-github) ([v32.1.0](https://github.com/google/go-github/releases/tag/v32.1.0), 3 days ago) - Go library for accessing the GitHub API
 - [argoproj/argo](https://github.com/argoproj/argo) ([v2.10.0-rc1](https://github.com/argoproj/argo/releases/tag/v2.10.0-rc1), 3 days ago) - Argo Workflows: Get stuff done with Kubernetes.
 - [gohugoio/hugo](https://github.com/gohugoio/hugo) ([v0.74.2](https://github.com/gohugoio/hugo/releases/tag/v0.74.2), 4 days ago) - The world’s fastest framework for building websites.
-- [gopasspw/gopass](https://github.com/gopasspw/gopass) ([v1.9.3-rc.0](https://github.com/gopasspw/gopass/releases/tag/v1.9.3-rc.0), 4 days ago) - The slightly more awesome standard unix password manager for teams
+- [gopasspw/gopass](https://github.com/gopasspw/gopass) ([v1.9.3-rc.0](https://github.com/gopasspw/gopass/releases/tag/v1.9.3-rc.0), 5 days ago) - The slightly more awesome standard unix password manager for teams
 
 #### 📜 My recent blog posts
 
@@ -46,11 +46,11 @@ of other projects. Curious what I've been hacking on recently?
 
 #### 👯 Check out some of my recent followers
 
+- [s-ol](https://github.com/s-ol)
 - [chaitanya3po](https://github.com/chaitanya3po)
 - [BluemediaGER](https://github.com/BluemediaGER)
 - [LuRsT](https://github.com/LuRsT)
 - [d3v3l0](https://github.com/d3v3l0)
-- [trevorblades](https://github.com/trevorblades)
 
 #### 💬 Feedback
 
