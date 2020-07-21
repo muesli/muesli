@@ -3,12 +3,11 @@ name: Update README
 on:
   push:
   schedule:
-    - cron: "0 */12 * * *"
+    - cron: "0 */1 * * *"
 
 jobs:
   markscribe:
     runs-on: ubuntu-latest
-
     steps:
       - uses: actions/checkout@master
 
