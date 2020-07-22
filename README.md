@@ -46,11 +46,11 @@ of other projects. Curious what I've been hacking on recently?
 
 #### 👯 Check out some of my recent followers
 
+- [raphink](https://github.com/raphink)
 - [n0emis](https://github.com/n0emis)
 - [s-ol](https://github.com/s-ol)
 - [chaitanya3po](https://github.com/chaitanya3po)
 - [BluemediaGER](https://github.com/BluemediaGER)
-- [LuRsT](https://github.com/LuRsT)
 
 #### 💬 Feedback
 
