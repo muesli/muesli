@@ -12,6 +12,7 @@ of other projects. Curious what I've been hacking on recently?
 
 #### 🌱 Check out what I'm currently working on
 
+- [muesli/marky](https://github.com/muesli/marky) - Generate markdown programmatically
 - [muesli/readme-scribe](https://github.com/muesli/readme-scribe) - A GitHub Action that automatically generates &amp; updates markdown content (like your README.md)
 - [muesli/markscribe](https://github.com/muesli/markscribe) - Your personal markdown scribe with template-engine and Git(Hub) &amp; RSS powers 📜
 - [muesli/gitcha](https://github.com/muesli/gitcha) - Go helpers to work with git repositories
@@ -21,7 +22,6 @@ of other projects. Curious what I've been hacking on recently?
 - [muesli/obs-scene-switcher](https://github.com/muesli/obs-scene-switcher) - Tracks your active window and switches OBS scenes accordingly
 - [muesli/obs-cli](https://github.com/muesli/obs-cli) - OBS-cli is a command-line remote control for OBS
 - [muesli/knopp](https://github.com/muesli/knopp) - knopp - the homemade 360° infinite rotation remote control
-- [muesli/termenv](https://github.com/muesli/termenv) - Advanced ANSI style &amp; color support for your terminal applications
 
 #### 🔭 Latest releases I've contributed to
 
@@ -46,11 +46,11 @@ of other projects. Curious what I've been hacking on recently?
 
 #### 👯 Check out some of my recent followers
 
+- [TeddyDD](https://github.com/TeddyDD)
 - [raphink](https://github.com/raphink)
 - [n0emis](https://github.com/n0emis)
 - [s-ol](https://github.com/s-ol)
 - [chaitanya3po](https://github.com/chaitanya3po)
-- [BluemediaGER](https://github.com/BluemediaGER)
 
 #### 💬 Feedback
 
