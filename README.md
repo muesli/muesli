@@ -25,11 +25,11 @@ of other projects. Curious what I've been hacking on recently?
 
 #### 🔭 Latest releases I've contributed to
 
+- [minio/minio](https://github.com/minio/minio) ([RELEASE.2020-07-22T00-26-33Z](https://github.com/minio/minio/releases/tag/RELEASE.2020-07-22T00-26-33Z), today) - High Performance, Kubernetes Native Object Storage
 - [google/go-cmp](https://github.com/google/go-cmp) ([v0.5.1](https://github.com/google/go-cmp/releases/tag/v0.5.1), today) - Package for comparing Go values in tests
 - [aws/aws-sdk-go](https://github.com/aws/aws-sdk-go) ([v1.33.9](https://github.com/aws/aws-sdk-go/releases/tag/v1.33.9), today) - AWS SDK for the Go programming language.
 - [muesli/readme-scribe](https://github.com/muesli/readme-scribe) ([v0.1](https://github.com/muesli/readme-scribe/releases/tag/v0.1), today) - A GitHub Action that automatically generates &amp; updates markdown content (like your README.md)
 - [ethereum/go-ethereum](https://github.com/ethereum/go-ethereum) ([v1.9.17](https://github.com/ethereum/go-ethereum/releases/tag/v1.9.17), 1 day ago) - Official Go implementation of the Ethereum protocol
-- [minio/minio](https://github.com/minio/minio) ([RELEASE.2020-07-20T02-25-16Z](https://github.com/minio/minio/releases/tag/RELEASE.2020-07-20T02-25-16Z), 1 day ago) - High Performance, Kubernetes Native Object Storage
 - [muesli/termenv](https://github.com/muesli/termenv) ([v0.6.0](https://github.com/muesli/termenv/releases/tag/v0.6.0), 2 days ago) - Advanced ANSI style &amp; color support for your terminal applications
 - [imdario/mergo](https://github.com/imdario/mergo) ([v0.3.10](https://github.com/imdario/mergo/releases/tag/v0.3.10), 3 days ago) - Mergo: merging Go structs and maps since 2013.
 - [google/go-github](https://github.com/google/go-github) ([v32.1.0](https://github.com/google/go-github/releases/tag/v32.1.0), 3 days ago) - Go library for accessing the GitHub API
