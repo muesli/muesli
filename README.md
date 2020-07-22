@@ -26,15 +26,15 @@ of other projects. Curious what I've been hacking on recently?
 #### 🔭 Latest releases I've contributed to
 
 - [charmbracelet/glamour](https://github.com/charmbracelet/glamour) ([v0.2.0](https://github.com/charmbracelet/glamour/releases/tag/v0.2.0), today) - Write runway-ready command-line tools 💇🏻‍♀️
-- [aws/aws-sdk-go](https://github.com/aws/aws-sdk-go) ([v1.33.10](https://github.com/aws/aws-sdk-go/releases/tag/v1.33.10), today) - AWS SDK for the Go programming language.
 - [minio/minio](https://github.com/minio/minio) ([RELEASE.2020-07-22T00-26-33Z](https://github.com/minio/minio/releases/tag/RELEASE.2020-07-22T00-26-33Z), today) - High Performance, Kubernetes Native Object Storage
 - [google/go-cmp](https://github.com/google/go-cmp) ([v0.5.1](https://github.com/google/go-cmp/releases/tag/v0.5.1), 1 day ago) - Package for comparing Go values in tests
 - [muesli/readme-scribe](https://github.com/muesli/readme-scribe) ([v0.1](https://github.com/muesli/readme-scribe/releases/tag/v0.1), 1 day ago) - A GitHub Action that automatically generates &amp; updates markdown content (like your README.md)
-- [ethereum/go-ethereum](https://github.com/ethereum/go-ethereum) ([v1.9.17](https://github.com/ethereum/go-ethereum/releases/tag/v1.9.17), 2 days ago) - Official Go implementation of the Ethereum protocol
 - [muesli/termenv](https://github.com/muesli/termenv) ([v0.6.0](https://github.com/muesli/termenv/releases/tag/v0.6.0), 3 days ago) - Advanced ANSI style &amp; color support for your terminal applications
-- [imdario/mergo](https://github.com/imdario/mergo) ([v0.3.10](https://github.com/imdario/mergo/releases/tag/v0.3.10), 4 days ago) - Mergo: merging Go structs and maps since 2013.
 - [google/go-github](https://github.com/google/go-github) ([v32.1.0](https://github.com/google/go-github/releases/tag/v32.1.0), 4 days ago) - Go library for accessing the GitHub API
 - [argoproj/argo](https://github.com/argoproj/argo) ([v2.10.0-rc1](https://github.com/argoproj/argo/releases/tag/v2.10.0-rc1), 5 days ago) - Argo Workflows: Get stuff done with Kubernetes.
+- [gohugoio/hugo](https://github.com/gohugoio/hugo) ([v0.74.2](https://github.com/gohugoio/hugo/releases/tag/v0.74.2), 5 days ago) - The world’s fastest framework for building websites.
+- [gopasspw/gopass](https://github.com/gopasspw/gopass) ([v1.9.3-rc.0](https://github.com/gopasspw/gopass/releases/tag/v1.9.3-rc.0), 6 days ago) - The slightly more awesome standard unix password manager for teams
+- [cli/cli](https://github.com/cli/cli) ([v0.11.0](https://github.com/cli/cli/releases/tag/v0.11.0), 6 days ago) - GitHub’s official command line tool
 
 #### 📜 My recent blog posts
 
