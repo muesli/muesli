@@ -25,7 +25,7 @@ of other projects. Curious what I've been hacking on recently?
 
 #### 🔭 Latest releases I've contributed to
 
-- [charmbracelet/glamour](https://github.com/charmbracelet/glamour) ([v0.2.0](https://github.com/charmbracelet/glamour/releases/tag/v0.2.0), 1 day ago) - Write runway-ready command-line tools 💇🏻‍♀️
+- [charmbracelet/glamour](https://github.com/charmbracelet/glamour) ([v0.2.0](https://github.com/charmbracelet/glamour/releases/tag/v0.2.0), 1 day ago) - Stylesheet-based markdown rendering for your CLI apps 💇🏻‍♀️
 - [minio/minio](https://github.com/minio/minio) ([RELEASE.2020-07-22T00-26-33Z](https://github.com/minio/minio/releases/tag/RELEASE.2020-07-22T00-26-33Z), 1 day ago) - High Performance, Kubernetes Native Object Storage
 - [google/go-cmp](https://github.com/google/go-cmp) ([v0.5.1](https://github.com/google/go-cmp/releases/tag/v0.5.1), 2 days ago) - Package for comparing Go values in tests
 - [muesli/readme-scribe](https://github.com/muesli/readme-scribe) ([v0.1](https://github.com/muesli/readme-scribe/releases/tag/v0.1), 2 days ago) - A GitHub Action that automatically generates &amp; updates markdown content (like your README.md)
