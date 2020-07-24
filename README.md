@@ -25,9 +25,9 @@ of other projects. Curious what I've been hacking on recently?
 
 #### 🔭 Latest releases I've contributed to
 
+- [argoproj/argo](https://github.com/argoproj/argo) ([v2.9.4](https://github.com/argoproj/argo/releases/tag/v2.9.4), today) - Argo Workflows: Get stuff done with Kubernetes.
 - [muesli/termenv](https://github.com/muesli/termenv) ([v0.7.0](https://github.com/muesli/termenv/releases/tag/v0.7.0), today) - Advanced ANSI style &amp; color support for your terminal applications
 - [muesli/markscribe](https://github.com/muesli/markscribe) ([v0.1.0](https://github.com/muesli/markscribe/releases/tag/v0.1.0), today) - Your personal markdown scribe with template-engine and Git(Hub) &amp; RSS powers 📜
-- [argoproj/argo](https://github.com/argoproj/argo) ([v2.10.0-rc3](https://github.com/argoproj/argo/releases/tag/v2.10.0-rc3), 1 day ago) - Argo Workflows: Get stuff done with Kubernetes.
 - [gohugoio/hugo](https://github.com/gohugoio/hugo) ([v0.74.3](https://github.com/gohugoio/hugo/releases/tag/v0.74.3), 1 day ago) - The world’s fastest framework for building websites.
 - [charmbracelet/glamour](https://github.com/charmbracelet/glamour) ([v0.2.0](https://github.com/charmbracelet/glamour/releases/tag/v0.2.0), 2 days ago) - Stylesheet-based markdown rendering for your CLI apps 💇🏻‍♀️
 - [google/go-cmp](https://github.com/google/go-cmp) ([v0.5.1](https://github.com/google/go-cmp/releases/tag/v0.5.1), 3 days ago) - Package for comparing Go values in tests
