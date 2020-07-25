@@ -10,18 +10,26 @@ of other projects. Curious what I've been hacking on recently?
 
 (Love the logo on the right as much as I do? The awesome [Christian Rocha](https://github.com/meowgorithm/) made it!)
 
-#### 🌱 Check out what I'm currently working on
+#### 👷 Check out what I'm currently working on
+
+- [muesli/markscribe](https://github.com/muesli/markscribe) - Your personal markdown scribe with template-engine and Git(Hub) &amp; RSS powers 📜 (today)
+- [muesli/readme-scribe](https://github.com/muesli/readme-scribe) - A GitHub Action that automatically generates &amp; updates markdown content (like your README.md) (1 day ago)
+- [charmbracelet/glamour](https://github.com/charmbracelet/glamour) - Stylesheet-based markdown rendering for your CLI apps 💇🏻‍♀️ (3 days ago)
+- [muesli/gitcha](https://github.com/muesli/gitcha) - Go helpers to work with git repositories (3 days ago)
+- [muesli/reflow](https://github.com/muesli/reflow) - Reflow lets you word-wrap strings or entire blocks of text. It follows the io.Writer interface and supports ANSI escape sequences. (1 week ago)
+- [muesli/termenv](https://github.com/muesli/termenv) - Advanced ANSI style &amp; color support for your terminal applications (1 week ago)
+- [muesli/dotfiles](https://github.com/muesli/dotfiles) - My dotfiles (2 weeks ago)
+- [muesli/modular-case](https://github.com/muesli/modular-case) - Modular Case (1 month ago)
+- [knoxite/knoxite](https://github.com/knoxite/knoxite) - A data storage &amp; backup system (1 month ago)
+- [muesli/deckmaster](https://github.com/muesli/deckmaster) - An application to control your Elgato Stream Deck on Linux (2 months ago)
+
+#### 🌱 My latest projects
 
 - [muesli/marky](https://github.com/muesli/marky) - Generate markdown programmatically
 - [muesli/readme-scribe](https://github.com/muesli/readme-scribe) - A GitHub Action that automatically generates &amp; updates markdown content (like your README.md)
 - [muesli/markscribe](https://github.com/muesli/markscribe) - Your personal markdown scribe with template-engine and Git(Hub) &amp; RSS powers 📜
 - [muesli/gitcha](https://github.com/muesli/gitcha) - Go helpers to work with git repositories
 - [muesli/cap-generator](https://github.com/muesli/cap-generator) - OpenSCAD cap with thread generator
-- [muesli/combinator](https://github.com/muesli/combinator) - Generates a slice of all possible value combinations for any given struct and a set of its potential member values
-- [muesli/homebrew-tap](https://github.com/muesli/homebrew-tap) - muesli&#39;s Homebrew tap
-- [muesli/obs-scene-switcher](https://github.com/muesli/obs-scene-switcher) - Tracks your active window and switches OBS scenes accordingly
-- [muesli/obs-cli](https://github.com/muesli/obs-cli) - OBS-cli is a command-line remote control for OBS
-- [muesli/knopp](https://github.com/muesli/knopp) - knopp - the homemade 360° infinite rotation remote control
 
 #### 🔭 Latest releases I've contributed to
 
