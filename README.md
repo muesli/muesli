@@ -12,14 +12,14 @@ of other projects. Curious what I've been hacking on recently?
 
 #### 👷 Check out what I'm currently working on
 
+- [muesli/homebrew-tap](https://github.com/muesli/homebrew-tap) - muesli&#39;s Homebrew tap (today)
 - [muesli/markscribe](https://github.com/muesli/markscribe) - Your personal markdown scribe with template-engine and Git(Hub) &amp; RSS powers 📜 (today)
-- [muesli/homebrew-tap](https://github.com/muesli/homebrew-tap) - muesli&#39;s Homebrew tap (1 day ago)
 - [muesli/readme-scribe](https://github.com/muesli/readme-scribe) - A GitHub Action that automatically generates &amp; updates markdown content (like your README.md) (1 day ago)
-- [muesli/gitcha](https://github.com/muesli/gitcha) - Go helpers to work with git repositories (3 days ago)
 - [charmbracelet/glamour](https://github.com/charmbracelet/glamour) - Stylesheet-based markdown rendering for your CLI apps 💇🏻‍♀️ (3 days ago)
 - [muesli/marky](https://github.com/muesli/marky) - Generate markdown programmatically (3 days ago)
-- [muesli/reflow](https://github.com/muesli/reflow) - Reflow lets you word-wrap strings or entire blocks of text. It follows the io.Writer interface and supports ANSI escape sequences. (1 week ago)
+- [muesli/gitcha](https://github.com/muesli/gitcha) - Go helpers to work with git repositories (3 days ago)
 - [muesli/termenv](https://github.com/muesli/termenv) - Advanced ANSI style &amp; color support for your terminal applications (1 week ago)
+- [muesli/reflow](https://github.com/muesli/reflow) - Reflow lets you word-wrap strings or entire blocks of text. It follows the io.Writer interface and supports ANSI escape sequences. (1 week ago)
 - [elves/awesome-elvish](https://github.com/elves/awesome-elvish) - The official list of awesome unofficial Elvish modules (2 weeks ago)
 - [muesli/dotfiles](https://github.com/muesli/dotfiles) - My dotfiles (2 weeks ago)
 
@@ -33,9 +33,9 @@ of other projects. Curious what I've been hacking on recently?
 
 #### 🔭 Latest releases I've contributed to
 
+- [muesli/markscribe](https://github.com/muesli/markscribe) ([v0.2.0](https://github.com/muesli/markscribe/releases/tag/v0.2.0), today) - Your personal markdown scribe with template-engine and Git(Hub) &amp; RSS powers 📜
 - [argoproj/argo](https://github.com/argoproj/argo) ([v2.9.4](https://github.com/argoproj/argo/releases/tag/v2.9.4), 1 day ago) - Argo Workflows: Get stuff done with Kubernetes.
 - [muesli/termenv](https://github.com/muesli/termenv) ([v0.7.0](https://github.com/muesli/termenv/releases/tag/v0.7.0), 1 day ago) - Advanced ANSI style &amp; color support for your terminal applications
-- [muesli/markscribe](https://github.com/muesli/markscribe) ([v0.1.0](https://github.com/muesli/markscribe/releases/tag/v0.1.0), 1 day ago) - Your personal markdown scribe with template-engine and Git(Hub) &amp; RSS powers 📜
 - [gohugoio/hugo](https://github.com/gohugoio/hugo) ([v0.74.3](https://github.com/gohugoio/hugo/releases/tag/v0.74.3), 2 days ago) - The world’s fastest framework for building websites.
 - [charmbracelet/glamour](https://github.com/charmbracelet/glamour) ([v0.2.0](https://github.com/charmbracelet/glamour/releases/tag/v0.2.0), 3 days ago) - Stylesheet-based markdown rendering for your CLI apps 💇🏻‍♀️
 - [google/go-cmp](https://github.com/google/go-cmp) ([v0.5.1](https://github.com/google/go-cmp/releases/tag/v0.5.1), 4 days ago) - Package for comparing Go values in tests
