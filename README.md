@@ -40,9 +40,9 @@ of other projects. Curious what I've been hacking on recently?
 - [charmbracelet/glamour](https://github.com/charmbracelet/glamour) ([v0.2.0](https://github.com/charmbracelet/glamour/releases/tag/v0.2.0), 3 days ago) - Stylesheet-based markdown rendering for your CLI apps 💇🏻‍♀️
 - [google/go-cmp](https://github.com/google/go-cmp) ([v0.5.1](https://github.com/google/go-cmp/releases/tag/v0.5.1), 4 days ago) - Package for comparing Go values in tests
 - [muesli/readme-scribe](https://github.com/muesli/readme-scribe) ([v0.1](https://github.com/muesli/readme-scribe/releases/tag/v0.1), 4 days ago) - A GitHub Action that automatically generates &amp; updates markdown content (like your README.md)
-- [google/go-github](https://github.com/google/go-github) ([v32.1.0](https://github.com/google/go-github/releases/tag/v32.1.0), 1 week ago) - Go library for accessing the GitHub API
 - [gopasspw/gopass](https://github.com/gopasspw/gopass) ([v1.9.3-rc.0](https://github.com/gopasspw/gopass/releases/tag/v1.9.3-rc.0), 1 week ago) - The slightly more awesome standard unix password manager for teams
 - [cli/cli](https://github.com/cli/cli) ([v0.11.0](https://github.com/cli/cli/releases/tag/v0.11.0), 1 week ago) - GitHub’s official command line tool
+- [facebookincubator/ent](https://github.com/facebookincubator/ent) ([v0.2.7](https://github.com/facebookincubator/ent/releases/tag/v0.2.7), 1 week ago) - An entity framework for Go
 
 #### 📜 My recent blog posts
 
