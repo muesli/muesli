@@ -54,11 +54,11 @@ of other projects. Curious what I've been hacking on recently?
 
 #### 👯 Check out some of my recent followers
 
+- [Sheshtawy](https://github.com/Sheshtawy)
 - [yikaus](https://github.com/yikaus)
 - [usernam3](https://github.com/usernam3)
 - [asnielrod](https://github.com/asnielrod)
 - [GusBedasi](https://github.com/GusBedasi)
-- [hasaniqbal777](https://github.com/hasaniqbal777)
 
 #### 💬 Feedback
 
