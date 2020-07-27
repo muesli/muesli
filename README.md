@@ -15,13 +15,8 @@ of other projects. Curious what I've been hacking on recently?
 - [muesli/homebrew-tap](https://github.com/muesli/homebrew-tap) - muesli&#39;s Homebrew tap (2 days ago)
 - [muesli/markscribe](https://github.com/muesli/markscribe) - Your personal markdown scribe with template-engine and Git(Hub) &amp; RSS powers 📜 (2 days ago)
 - [muesli/readme-scribe](https://github.com/muesli/readme-scribe) - A GitHub Action that automatically generates &amp; updates markdown content (like your README.md) (3 days ago)
-- [charmbracelet/glamour](https://github.com/charmbracelet/glamour) - Stylesheet-based markdown rendering for your CLI apps 💇🏻‍♀️ (5 days ago)
 - [muesli/marky](https://github.com/muesli/marky) - Generate markdown programmatically (5 days ago)
 - [muesli/gitcha](https://github.com/muesli/gitcha) - Go helpers to work with git repositories (5 days ago)
-- [muesli/termenv](https://github.com/muesli/termenv) - Advanced ANSI style &amp; color support for your terminal applications (1 week ago)
-- [muesli/reflow](https://github.com/muesli/reflow) - Reflow lets you word-wrap strings or entire blocks of text. It follows the io.Writer interface and supports ANSI escape sequences. (1 week ago)
-- [elves/awesome-elvish](https://github.com/elves/awesome-elvish) - The official list of awesome unofficial Elvish modules (2 weeks ago)
-- [muesli/dotfiles](https://github.com/muesli/dotfiles) - My dotfiles (2 weeks ago)
 
 #### 🌱 My latest projects
 
@@ -38,11 +33,6 @@ of other projects. Curious what I've been hacking on recently?
 - [muesli/termenv](https://github.com/muesli/termenv) ([v0.7.0](https://github.com/muesli/termenv/releases/tag/v0.7.0), 3 days ago) - Advanced ANSI style &amp; color support for your terminal applications
 - [gohugoio/hugo](https://github.com/gohugoio/hugo) ([v0.74.3](https://github.com/gohugoio/hugo/releases/tag/v0.74.3), 4 days ago) - The world’s fastest framework for building websites.
 - [charmbracelet/glamour](https://github.com/charmbracelet/glamour) ([v0.2.0](https://github.com/charmbracelet/glamour/releases/tag/v0.2.0), 5 days ago) - Stylesheet-based markdown rendering for your CLI apps 💇🏻‍♀️
-- [google/go-cmp](https://github.com/google/go-cmp) ([v0.5.1](https://github.com/google/go-cmp/releases/tag/v0.5.1), 6 days ago) - Package for comparing Go values in tests
-- [muesli/readme-scribe](https://github.com/muesli/readme-scribe) ([v0.1](https://github.com/muesli/readme-scribe/releases/tag/v0.1), 6 days ago) - A GitHub Action that automatically generates &amp; updates markdown content (like your README.md)
-- [gopasspw/gopass](https://github.com/gopasspw/gopass) ([v1.9.3-rc.0](https://github.com/gopasspw/gopass/releases/tag/v1.9.3-rc.0), 1 week ago) - The slightly more awesome standard unix password manager for teams
-- [cli/cli](https://github.com/cli/cli) ([v0.11.0](https://github.com/cli/cli/releases/tag/v0.11.0), 1 week ago) - GitHub’s official command line tool
-- [facebookincubator/ent](https://github.com/facebookincubator/ent) ([v0.2.7](https://github.com/facebookincubator/ent/releases/tag/v0.2.7), 1 week ago) - An entity framework for Go
 
 #### 📜 My recent blog posts
 
@@ -52,13 +42,13 @@ of other projects. Curious what I've been hacking on recently?
 - [An Algorithm to Generate Color Palettes](https://fribbledom.com/posts/an-algorithm-to-generate-color-palettes/) (2 years ago)
 - [A &#39;Shiny&#39; New Keyboard](https://fribbledom.com/posts/a-shiny-new-keyboard/) (2 years ago)
 
-#### 👯 Check out some of my recent followers
+#### ❤️ These awesome people sponsor me (thank you!)
 
-- [Sheshtawy](https://github.com/Sheshtawy)
-- [yikaus](https://github.com/yikaus)
-- [usernam3](https://github.com/usernam3)
-- [asnielrod](https://github.com/asnielrod)
-- [GusBedasi](https://github.com/GusBedasi)
+- [asnielrod](https://github.com/asnielrod) (2 days ago)
+- [lfuelling](https://github.com/lfuelling) (3 months ago)
+- [rubiojr](https://github.com/rubiojr) (9 months ago)
+- [midzer](https://github.com/midzer) (9 months ago)
+- [penguwin](https://github.com/penguwin) (9 months ago)
 
 #### 💬 Feedback
 
