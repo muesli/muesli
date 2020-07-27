@@ -15,8 +15,8 @@ of other projects. Curious what I've been hacking on recently?
 - [muesli/homebrew-tap](https://github.com/muesli/homebrew-tap) - muesli&#39;s Homebrew tap (2 days ago)
 - [muesli/markscribe](https://github.com/muesli/markscribe) - Your personal markdown scribe with template-engine and Git(Hub) &amp; RSS powers 📜 (2 days ago)
 - [muesli/readme-scribe](https://github.com/muesli/readme-scribe) - A GitHub Action that automatically generates &amp; updates markdown content (like your README.md) (3 days ago)
+- [charmbracelet/glamour](https://github.com/charmbracelet/glamour) - Stylesheet-based markdown rendering for your CLI apps 💇🏻‍♀️ (5 days ago)
 - [muesli/marky](https://github.com/muesli/marky) - Generate markdown programmatically (5 days ago)
-- [muesli/gitcha](https://github.com/muesli/gitcha) - Go helpers to work with git repositories (5 days ago)
 
 #### 🌱 My latest projects
 
