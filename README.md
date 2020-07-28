@@ -28,11 +28,11 @@ of other projects. Curious what I've been hacking on recently?
 
 #### 🔭 Latest releases I've contributed to
 
+- [cli/cli](https://github.com/cli/cli) ([v0.11.1](https://github.com/cli/cli/releases/tag/v0.11.1), today) - GitHub’s official command line tool
 - [muesli/markscribe](https://github.com/muesli/markscribe) ([v0.2.0](https://github.com/muesli/markscribe/releases/tag/v0.2.0), 3 days ago) - Your personal markdown scribe with template-engine and Git(Hub) &amp; RSS powers 📜
 - [argoproj/argo](https://github.com/argoproj/argo) ([v2.9.4](https://github.com/argoproj/argo/releases/tag/v2.9.4), 4 days ago) - Argo Workflows: Get stuff done with Kubernetes.
 - [muesli/termenv](https://github.com/muesli/termenv) ([v0.7.0](https://github.com/muesli/termenv/releases/tag/v0.7.0), 4 days ago) - Advanced ANSI style &amp; color support for your terminal applications
 - [gohugoio/hugo](https://github.com/gohugoio/hugo) ([v0.74.3](https://github.com/gohugoio/hugo/releases/tag/v0.74.3), 5 days ago) - The world’s fastest framework for building websites.
-- [charmbracelet/glamour](https://github.com/charmbracelet/glamour) ([v0.2.0](https://github.com/charmbracelet/glamour/releases/tag/v0.2.0), 6 days ago) - Stylesheet-based markdown rendering for your CLI apps 💇🏻‍♀️
 
 #### 📜 My recent blog posts
 
