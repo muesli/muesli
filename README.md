@@ -12,9 +12,9 @@ of other projects. Curious what I've been hacking on recently?
 
 #### 👷 Check out what I'm currently working on
 
-- [muesli/markscribe](https://github.com/muesli/markscribe) - Your personal markdown scribe with template-engine and Git(Hub) &amp; RSS powers 📜 (5 days ago)
-- [muesli/homebrew-tap](https://github.com/muesli/homebrew-tap) - muesli&#39;s Homebrew tap (5 days ago)
-- [muesli/readme-scribe](https://github.com/muesli/readme-scribe) - A GitHub Action that automatically generates &amp; updates markdown content (like your README.md) (6 days ago)
+- [muesli/markscribe](https://github.com/muesli/markscribe) - Your personal markdown scribe with template-engine and Git(Hub) &amp; RSS powers 📜 (6 days ago)
+- [muesli/homebrew-tap](https://github.com/muesli/homebrew-tap) - muesli&#39;s Homebrew tap (6 days ago)
+- [muesli/readme-scribe](https://github.com/muesli/readme-scribe) - A GitHub Action that automatically generates &amp; updates markdown content (like your README.md) (1 week ago)
 - [muesli/gitcha](https://github.com/muesli/gitcha) - Go helpers to work with git repositories (1 week ago)
 - [charmbracelet/glamour](https://github.com/charmbracelet/glamour) - Stylesheet-based markdown rendering for your CLI apps 💇🏻‍♀️ (1 week ago)
 
@@ -28,10 +28,10 @@ of other projects. Curious what I've been hacking on recently?
 
 #### 🔭 Latest releases I've contributed to
 
-- [argoproj/argo](https://github.com/argoproj/argo) ([v2.10.0-rc4](https://github.com/argoproj/argo/releases/tag/v2.10.0-rc4), 1 day ago) - Argo Workflows: Get stuff done with Kubernetes.
-- [cli/cli](https://github.com/cli/cli) ([v0.11.1](https://github.com/cli/cli/releases/tag/v0.11.1), 2 days ago) - GitHub’s official command line tool
-- [muesli/markscribe](https://github.com/muesli/markscribe) ([v0.2.0](https://github.com/muesli/markscribe/releases/tag/v0.2.0), 5 days ago) - Your personal markdown scribe with template-engine and Git(Hub) &amp; RSS powers 📜
-- [muesli/termenv](https://github.com/muesli/termenv) ([v0.7.0](https://github.com/muesli/termenv/releases/tag/v0.7.0), 6 days ago) - Advanced ANSI style &amp; color support for your terminal applications
+- [argoproj/argo](https://github.com/argoproj/argo) ([v2.10.0-rc4](https://github.com/argoproj/argo/releases/tag/v2.10.0-rc4), 2 days ago) - Argo Workflows: Get stuff done with Kubernetes.
+- [cli/cli](https://github.com/cli/cli) ([v0.11.1](https://github.com/cli/cli/releases/tag/v0.11.1), 3 days ago) - GitHub’s official command line tool
+- [muesli/markscribe](https://github.com/muesli/markscribe) ([v0.2.0](https://github.com/muesli/markscribe/releases/tag/v0.2.0), 6 days ago) - Your personal markdown scribe with template-engine and Git(Hub) &amp; RSS powers 📜
+- [muesli/termenv](https://github.com/muesli/termenv) ([v0.7.0](https://github.com/muesli/termenv/releases/tag/v0.7.0), 1 week ago) - Advanced ANSI style &amp; color support for your terminal applications
 - [gohugoio/hugo](https://github.com/gohugoio/hugo) ([v0.74.3](https://github.com/gohugoio/hugo/releases/tag/v0.74.3), 1 week ago) - The world’s fastest framework for building websites.
 
 #### 📜 My recent blog posts
@@ -44,7 +44,7 @@ of other projects. Curious what I've been hacking on recently?
 
 #### ❤️ These awesome people sponsor me (thank you!)
 
-- [asnielrod](https://github.com/asnielrod) (5 days ago)
+- [asnielrod](https://github.com/asnielrod) (6 days ago)
 - [lfuelling](https://github.com/lfuelling) (4 months ago)
 - [rubiojr](https://github.com/rubiojr) (9 months ago)
 - [midzer](https://github.com/midzer) (9 months ago)
