@@ -12,11 +12,11 @@ of other projects. Curious what I've been hacking on recently?
 
 #### 👷 Check out what I'm currently working on
 
-- [muesli/markscribe](https://github.com/muesli/markscribe) - Your personal markdown scribe with template-engine and Git(Hub) &amp; RSS powers 📜 (1 week ago)
+- [42wim/matterircd](https://github.com/42wim/matterircd) - Connect to your mattermost or slack using your IRC-client of choice. (today)
 - [muesli/homebrew-tap](https://github.com/muesli/homebrew-tap) - muesli&#39;s Homebrew tap (1 week ago)
+- [muesli/markscribe](https://github.com/muesli/markscribe) - Your personal markdown scribe with template-engine and Git(Hub) &amp; RSS powers 📜 (1 week ago)
 - [muesli/readme-scribe](https://github.com/muesli/readme-scribe) - A GitHub Action that automatically generates &amp; updates markdown content (like your README.md) (1 week ago)
 - [muesli/gitcha](https://github.com/muesli/gitcha) - Go helpers to work with git repositories (1 week ago)
-- [charmbracelet/glamour](https://github.com/charmbracelet/glamour) - Stylesheet-based markdown rendering for your CLI apps 💇🏻‍♀️ (1 week ago)
 
 #### 🌱 My latest projects
 
