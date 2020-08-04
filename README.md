@@ -13,8 +13,8 @@ of other projects. Curious what I've been hacking on recently?
 #### 👷 Check out what I'm currently working on
 
 - [muesli/dotfiles](https://github.com/muesli/dotfiles) - My dotfiles (today)
-- [muesli/sasquatch](https://github.com/muesli/sasquatch) - A simple data encryption library (today)
-- [42wim/matterircd](https://github.com/42wim/matterircd) - Connect to your mattermost or slack using your IRC-client of choice. (1 day ago)
+- [muesli/sasquatch](https://github.com/muesli/sasquatch) - A simple data encryption library (1 day ago)
+- [42wim/matterircd](https://github.com/42wim/matterircd) - Connect to your mattermost or slack using your IRC-client of choice. (2 days ago)
 - [muesli/homebrew-tap](https://github.com/muesli/homebrew-tap) - muesli&#39;s Homebrew tap (1 week ago)
 - [muesli/markscribe](https://github.com/muesli/markscribe) - Your personal markdown scribe with template-engine and Git(Hub) &amp; RSS powers 📜 (1 week ago)
 
@@ -28,8 +28,8 @@ of other projects. Curious what I've been hacking on recently?
 
 #### 🔭 Latest releases I've contributed to
 
-- [argoproj/argo](https://github.com/argoproj/argo) ([v2.10.0-rc4](https://github.com/argoproj/argo/releases/tag/v2.10.0-rc4), 5 days ago) - Argo Workflows: Get stuff done with Kubernetes.
-- [cli/cli](https://github.com/cli/cli) ([v0.11.1](https://github.com/cli/cli/releases/tag/v0.11.1), 6 days ago) - GitHub’s official command line tool
+- [argoproj/argo](https://github.com/argoproj/argo) ([v2.10.0-rc5](https://github.com/argoproj/argo/releases/tag/v2.10.0-rc5), 1 day ago) - Argo Workflows: Get stuff done with Kubernetes.
+- [cli/cli](https://github.com/cli/cli) ([v0.11.1](https://github.com/cli/cli/releases/tag/v0.11.1), 1 week ago) - GitHub’s official command line tool
 - [muesli/markscribe](https://github.com/muesli/markscribe) ([v0.2.0](https://github.com/muesli/markscribe/releases/tag/v0.2.0), 1 week ago) - Your personal markdown scribe with template-engine and Git(Hub) &amp; RSS powers 📜
 - [muesli/termenv](https://github.com/muesli/termenv) ([v0.7.0](https://github.com/muesli/termenv/releases/tag/v0.7.0), 1 week ago) - Advanced ANSI style &amp; color support for your terminal applications
 - [charmbracelet/glamour](https://github.com/charmbracelet/glamour) ([v0.2.0](https://github.com/charmbracelet/glamour/releases/tag/v0.2.0), 1 week ago) - Stylesheet-based markdown rendering for your CLI apps 💇🏻‍♀️
