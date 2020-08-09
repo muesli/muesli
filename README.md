@@ -12,9 +12,9 @@ of other projects. Curious what I've been hacking on recently?
 
 #### 👷 Check out what I'm currently working on
 
-- [muesli/dotfiles](https://github.com/muesli/dotfiles) - My dotfiles (4 days ago)
-- [muesli/sasquatch](https://github.com/muesli/sasquatch) - A simple data encryption library (4 days ago)
-- [42wim/matterircd](https://github.com/42wim/matterircd) - Connect to your mattermost or slack using your IRC-client of choice. (6 days ago)
+- [muesli/dotfiles](https://github.com/muesli/dotfiles) - My dotfiles (5 days ago)
+- [muesli/sasquatch](https://github.com/muesli/sasquatch) - A simple data encryption library (5 days ago)
+- [42wim/matterircd](https://github.com/42wim/matterircd) - Connect to your mattermost or slack using your IRC-client of choice. (1 week ago)
 - [muesli/markscribe](https://github.com/muesli/markscribe) - Your personal markdown scribe with template-engine and Git(Hub) &amp; RSS powers 📜 (2 weeks ago)
 - [muesli/homebrew-tap](https://github.com/muesli/homebrew-tap) - muesli&#39;s Homebrew tap (2 weeks ago)
 
@@ -28,8 +28,8 @@ of other projects. Curious what I've been hacking on recently?
 
 #### 🔭 Latest releases I've contributed to
 
-- [gopasspw/gopass](https://github.com/gopasspw/gopass) ([v1.9.3-rc.1](https://github.com/gopasspw/gopass/releases/tag/v1.9.3-rc.1), today) - The slightly more awesome standard unix password manager for teams
-- [facebookincubator/ent](https://github.com/facebookincubator/ent) ([v0.3.0](https://github.com/facebookincubator/ent/releases/tag/v0.3.0), 3 days ago) - An entity framework for Go
+- [gopasspw/gopass](https://github.com/gopasspw/gopass) ([v1.9.3-rc.1](https://github.com/gopasspw/gopass/releases/tag/v1.9.3-rc.1), 1 day ago) - The slightly more awesome standard unix password manager for teams
+- [facebookincubator/ent](https://github.com/facebookincubator/ent) ([v0.3.0](https://github.com/facebookincubator/ent/releases/tag/v0.3.0), 4 days ago) - An entity framework for Go
 - [cli/cli](https://github.com/cli/cli) ([v0.11.1](https://github.com/cli/cli/releases/tag/v0.11.1), 1 week ago) - GitHub’s official command line tool
 - [muesli/markscribe](https://github.com/muesli/markscribe) ([v0.2.0](https://github.com/muesli/markscribe/releases/tag/v0.2.0), 2 weeks ago) - Your personal markdown scribe with template-engine and Git(Hub) &amp; RSS powers 📜
 - [muesli/termenv](https://github.com/muesli/termenv) ([v0.7.0](https://github.com/muesli/termenv/releases/tag/v0.7.0), 2 weeks ago) - Advanced ANSI style &amp; color support for your terminal applications
