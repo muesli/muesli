@@ -28,10 +28,10 @@ of other projects. Curious what I've been hacking on recently?
 
 #### 🔭 Latest releases I've contributed to
 
+- [facebook/ent](https://github.com/facebook/ent) ([v0.4.0](https://github.com/facebook/ent/releases/tag/v0.4.0), today) - An entity framework for Go
 - [muesli/termenv](https://github.com/muesli/termenv) ([v0.7.1](https://github.com/muesli/termenv/releases/tag/v0.7.1), 1 day ago) - Advanced ANSI style &amp; color support for your terminal applications
 - [aligator/GoSlice](https://github.com/aligator/GoSlice) ([v0.0.2](https://github.com/aligator/GoSlice/releases/tag/v0.0.2), 4 days ago) - This is an experimental slicer for 3d printing written in Go.
 - [gopasspw/gopass](https://github.com/gopasspw/gopass) ([v1.10.0-rc.0](https://github.com/gopasspw/gopass/releases/tag/v1.10.0-rc.0), 1 week ago) - The slightly more awesome standard unix password manager for teams
-- [facebook/ent](https://github.com/facebook/ent) ([v0.3.0](https://github.com/facebook/ent/releases/tag/v0.3.0), 1 week ago) - An entity framework for Go
 - [cli/cli](https://github.com/cli/cli) ([v0.11.1](https://github.com/cli/cli/releases/tag/v0.11.1), 3 weeks ago) - GitHub’s official command line tool
 
 #### 📜 My recent blog posts
