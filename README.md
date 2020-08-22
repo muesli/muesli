@@ -13,10 +13,10 @@ of other projects. Curious what I've been hacking on recently?
 #### 👷 Check out what I'm currently working on
 
 - [muesli/gitcha](https://github.com/muesli/gitcha) - Go helpers to work with git repositories (today)
+- [muesli/termenv](https://github.com/muesli/termenv) - Advanced ANSI style &amp; color support for your terminal applications (today)
 - [knoxite/knoxite](https://github.com/knoxite/knoxite) - A data storage &amp; backup system (1 day ago)
 - [muesli/sasquatch](https://github.com/muesli/sasquatch) - A simple data encryption library (1 week ago)
 - [muesli/go-razer](https://github.com/muesli/go-razer) - Go library to control Razer (Chroma) devices (1 week ago)
-- [muesli/dotfiles](https://github.com/muesli/dotfiles) - My dotfiles (2 weeks ago)
 
 #### 🌱 My latest projects
 
@@ -28,9 +28,9 @@ of other projects. Curious what I've been hacking on recently?
 
 #### 🔭 Latest releases I've contributed to
 
+- [muesli/termenv](https://github.com/muesli/termenv) ([v0.7.2](https://github.com/muesli/termenv/releases/tag/v0.7.2), today) - Advanced ANSI style &amp; color support for your terminal applications
 - [muesli/gitcha](https://github.com/muesli/gitcha) ([v0.1.0](https://github.com/muesli/gitcha/releases/tag/v0.1.0), today) - Go helpers to work with git repositories
 - [facebook/ent](https://github.com/facebook/ent) ([v0.4.0](https://github.com/facebook/ent/releases/tag/v0.4.0), 4 days ago) - An entity framework for Go
-- [muesli/termenv](https://github.com/muesli/termenv) ([v0.7.1](https://github.com/muesli/termenv/releases/tag/v0.7.1), 5 days ago) - Advanced ANSI style &amp; color support for your terminal applications
 - [aligator/GoSlice](https://github.com/aligator/GoSlice) ([v0.0.2](https://github.com/aligator/GoSlice/releases/tag/v0.0.2), 1 week ago) - This is an experimental slicer for 3d printing written in Go.
 - [gopasspw/gopass](https://github.com/gopasspw/gopass) ([v1.10.0-rc.0](https://github.com/gopasspw/gopass/releases/tag/v1.10.0-rc.0), 1 week ago) - The slightly more awesome standard unix password manager for teams
 
