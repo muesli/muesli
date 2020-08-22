@@ -12,11 +12,11 @@ of other projects. Curious what I've been hacking on recently?
 
 #### 👷 Check out what I'm currently working on
 
+- [muesli/gitcha](https://github.com/muesli/gitcha) - Go helpers to work with git repositories (today)
 - [knoxite/knoxite](https://github.com/knoxite/knoxite) - A data storage &amp; backup system (1 day ago)
 - [muesli/sasquatch](https://github.com/muesli/sasquatch) - A simple data encryption library (1 week ago)
 - [muesli/go-razer](https://github.com/muesli/go-razer) - Go library to control Razer (Chroma) devices (1 week ago)
 - [muesli/dotfiles](https://github.com/muesli/dotfiles) - My dotfiles (2 weeks ago)
-- [42wim/matterircd](https://github.com/42wim/matterircd) - Connect to your mattermost or slack using your IRC-client of choice. (2 weeks ago)
 
 #### 🌱 My latest projects
 
