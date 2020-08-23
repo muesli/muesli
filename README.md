@@ -28,8 +28,8 @@ of other projects. Curious what I've been hacking on recently?
 
 #### 🔭 Latest releases I've contributed to
 
+- [gopasspw/gopass](https://github.com/gopasspw/gopass) ([v1.10.0](https://github.com/gopasspw/gopass/releases/tag/v1.10.0), today) - The slightly more awesome standard unix password manager for teams
 - [muesli/mastotool](https://github.com/muesli/mastotool) ([v0.2.1](https://github.com/muesli/mastotool/releases/tag/v0.2.1), today) - Mastodon Statistics Generator
-- [gopasspw/gopass](https://github.com/gopasspw/gopass) ([v1.10.0-rc.1](https://github.com/gopasspw/gopass/releases/tag/v1.10.0-rc.1), 1 day ago) - The slightly more awesome standard unix password manager for teams
 - [muesli/termenv](https://github.com/muesli/termenv) ([v0.7.2](https://github.com/muesli/termenv/releases/tag/v0.7.2), 1 day ago) - Advanced ANSI style &amp; color support for your terminal applications
 - [muesli/gitcha](https://github.com/muesli/gitcha) ([v0.1.0](https://github.com/muesli/gitcha/releases/tag/v0.1.0), 1 day ago) - Go helpers to work with git repositories
 - [facebook/ent](https://github.com/facebook/ent) ([v0.4.0](https://github.com/facebook/ent/releases/tag/v0.4.0), 5 days ago) - An entity framework for Go
