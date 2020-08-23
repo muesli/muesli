@@ -12,10 +12,10 @@ of other projects. Curious what I've been hacking on recently?
 
 #### 👷 Check out what I'm currently working on
 
-- [muesli/mastotool](https://github.com/muesli/mastotool) - Mastodon Statistics Generator (today)
-- [muesli/gitcha](https://github.com/muesli/gitcha) - Go helpers to work with git repositories (today)
-- [muesli/termenv](https://github.com/muesli/termenv) - Advanced ANSI style &amp; color support for your terminal applications (today)
-- [knoxite/knoxite](https://github.com/knoxite/knoxite) - A data storage &amp; backup system (1 day ago)
+- [muesli/mastotool](https://github.com/muesli/mastotool) - Mastodon Statistics Generator (1 day ago)
+- [muesli/gitcha](https://github.com/muesli/gitcha) - Go helpers to work with git repositories (1 day ago)
+- [muesli/termenv](https://github.com/muesli/termenv) - Advanced ANSI style &amp; color support for your terminal applications (1 day ago)
+- [knoxite/knoxite](https://github.com/knoxite/knoxite) - A data storage &amp; backup system (2 days ago)
 - [muesli/sasquatch](https://github.com/muesli/sasquatch) - A simple data encryption library (1 week ago)
 
 #### 🌱 My latest projects
@@ -28,11 +28,11 @@ of other projects. Curious what I've been hacking on recently?
 
 #### 🔭 Latest releases I've contributed to
 
-- [gopasspw/gopass](https://github.com/gopasspw/gopass) ([v1.10.0-rc.1](https://github.com/gopasspw/gopass/releases/tag/v1.10.0-rc.1), today) - The slightly more awesome standard unix password manager for teams
-- [muesli/mastotool](https://github.com/muesli/mastotool) ([v0.1.1](https://github.com/muesli/mastotool/releases/tag/v0.1.1), today) - Mastodon Statistics Generator
-- [muesli/termenv](https://github.com/muesli/termenv) ([v0.7.2](https://github.com/muesli/termenv/releases/tag/v0.7.2), today) - Advanced ANSI style &amp; color support for your terminal applications
-- [muesli/gitcha](https://github.com/muesli/gitcha) ([v0.1.0](https://github.com/muesli/gitcha/releases/tag/v0.1.0), today) - Go helpers to work with git repositories
-- [facebook/ent](https://github.com/facebook/ent) ([v0.4.0](https://github.com/facebook/ent/releases/tag/v0.4.0), 4 days ago) - An entity framework for Go
+- [gopasspw/gopass](https://github.com/gopasspw/gopass) ([v1.10.0-rc.1](https://github.com/gopasspw/gopass/releases/tag/v1.10.0-rc.1), 1 day ago) - The slightly more awesome standard unix password manager for teams
+- [muesli/mastotool](https://github.com/muesli/mastotool) ([v0.1.1](https://github.com/muesli/mastotool/releases/tag/v0.1.1), 1 day ago) - Mastodon Statistics Generator
+- [muesli/termenv](https://github.com/muesli/termenv) ([v0.7.2](https://github.com/muesli/termenv/releases/tag/v0.7.2), 1 day ago) - Advanced ANSI style &amp; color support for your terminal applications
+- [muesli/gitcha](https://github.com/muesli/gitcha) ([v0.1.0](https://github.com/muesli/gitcha/releases/tag/v0.1.0), 1 day ago) - Go helpers to work with git repositories
+- [facebook/ent](https://github.com/facebook/ent) ([v0.4.0](https://github.com/facebook/ent/releases/tag/v0.4.0), 5 days ago) - An entity framework for Go
 
 #### 📜 My recent blog posts
 
