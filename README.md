@@ -13,9 +13,9 @@ of other projects. Curious what I've been hacking on recently?
 #### 👷 Check out what I'm currently working on
 
 - [charmbracelet/glamour](https://github.com/charmbracelet/glamour) - Stylesheet-based markdown rendering for your CLI apps 💇🏻‍♀️ (today)
+- [muesli/gitcha](https://github.com/muesli/gitcha) - Go helpers to work with git repositories (today)
 - [muesli/homebrew-tap](https://github.com/muesli/homebrew-tap) - muesli&#39;s Homebrew tap (1 day ago)
 - [muesli/mastotool](https://github.com/muesli/mastotool) - Mastodon Statistics Generator (1 day ago)
-- [muesli/gitcha](https://github.com/muesli/gitcha) - Go helpers to work with git repositories (1 day ago)
 - [muesli/termenv](https://github.com/muesli/termenv) - Advanced ANSI style &amp; color support for your terminal applications (2 days ago)
 
 #### 🌱 My latest projects
