@@ -12,11 +12,11 @@ of other projects. Curious what I've been hacking on recently?
 
 #### 👷 Check out what I'm currently working on
 
-- [muesli/homebrew-tap](https://github.com/muesli/homebrew-tap) - muesli&#39;s Homebrew tap (today)
-- [muesli/mastotool](https://github.com/muesli/mastotool) - Mastodon Statistics Generator (today)
-- [muesli/gitcha](https://github.com/muesli/gitcha) - Go helpers to work with git repositories (today)
-- [muesli/termenv](https://github.com/muesli/termenv) - Advanced ANSI style &amp; color support for your terminal applications (1 day ago)
-- [knoxite/knoxite](https://github.com/knoxite/knoxite) - A data storage &amp; backup system (2 days ago)
+- [muesli/homebrew-tap](https://github.com/muesli/homebrew-tap) - muesli&#39;s Homebrew tap (1 day ago)
+- [muesli/mastotool](https://github.com/muesli/mastotool) - Mastodon Statistics Generator (1 day ago)
+- [muesli/gitcha](https://github.com/muesli/gitcha) - Go helpers to work with git repositories (1 day ago)
+- [muesli/termenv](https://github.com/muesli/termenv) - Advanced ANSI style &amp; color support for your terminal applications (2 days ago)
+- [knoxite/knoxite](https://github.com/knoxite/knoxite) - A data storage &amp; backup system (3 days ago)
 
 #### 🌱 My latest projects
 
@@ -28,11 +28,11 @@ of other projects. Curious what I've been hacking on recently?
 
 #### 🔭 Latest releases I've contributed to
 
-- [gopasspw/gopass](https://github.com/gopasspw/gopass) ([v1.10.0](https://github.com/gopasspw/gopass/releases/tag/v1.10.0), today) - The slightly more awesome standard unix password manager for teams
-- [aligator/GoSlice](https://github.com/aligator/GoSlice) ([v0.1.0](https://github.com/aligator/GoSlice/releases/tag/v0.1.0), today) - This is an experimental slicer for 3d printing written in Go.
-- [muesli/mastotool](https://github.com/muesli/mastotool) ([v0.2.1](https://github.com/muesli/mastotool/releases/tag/v0.2.1), today) - Mastodon Statistics Generator
-- [muesli/termenv](https://github.com/muesli/termenv) ([v0.7.2](https://github.com/muesli/termenv/releases/tag/v0.7.2), 1 day ago) - Advanced ANSI style &amp; color support for your terminal applications
-- [muesli/gitcha](https://github.com/muesli/gitcha) ([v0.1.0](https://github.com/muesli/gitcha/releases/tag/v0.1.0), 1 day ago) - Go helpers to work with git repositories
+- [gopasspw/gopass](https://github.com/gopasspw/gopass) ([v1.10.0](https://github.com/gopasspw/gopass/releases/tag/v1.10.0), 1 day ago) - The slightly more awesome standard unix password manager for teams
+- [aligator/GoSlice](https://github.com/aligator/GoSlice) ([v0.1.0](https://github.com/aligator/GoSlice/releases/tag/v0.1.0), 1 day ago) - This is an experimental slicer for 3d printing written in Go.
+- [muesli/mastotool](https://github.com/muesli/mastotool) ([v0.2.1](https://github.com/muesli/mastotool/releases/tag/v0.2.1), 1 day ago) - Mastodon Statistics Generator
+- [muesli/termenv](https://github.com/muesli/termenv) ([v0.7.2](https://github.com/muesli/termenv/releases/tag/v0.7.2), 2 days ago) - Advanced ANSI style &amp; color support for your terminal applications
+- [muesli/gitcha](https://github.com/muesli/gitcha) ([v0.1.0](https://github.com/muesli/gitcha/releases/tag/v0.1.0), 2 days ago) - Go helpers to work with git repositories
 
 #### 📜 My recent blog posts
 
@@ -44,7 +44,7 @@ of other projects. Curious what I've been hacking on recently?
 
 #### ❤️ These awesome people sponsor me (thank you!)
 
-- [asnielrod](https://github.com/asnielrod) (4 weeks ago)
+- [asnielrod](https://github.com/asnielrod) (1 month ago)
 - [lfuelling](https://github.com/lfuelling) (4 months ago)
 - [rubiojr](https://github.com/rubiojr) (10 months ago)
 - [midzer](https://github.com/midzer) (10 months ago)
