@@ -28,7 +28,7 @@ of other projects. Curious what I've been hacking on recently?
 
 #### 🔭 Latest releases I've contributed to
 
-- [gopasspw/gopass](https://github.com/gopasspw/gopass) ([v1.10.0](https://github.com/gopasspw/gopass/releases/tag/v1.10.0), 2 days ago) - The slightly more awesome standard unix password manager for teams
+- [gopasspw/gopass](https://github.com/gopasspw/gopass) ([v1.10.1](https://github.com/gopasspw/gopass/releases/tag/v1.10.1), today) - The slightly more awesome standard unix password manager for teams
 - [aligator/GoSlice](https://github.com/aligator/GoSlice) ([v0.1.0](https://github.com/aligator/GoSlice/releases/tag/v0.1.0), 2 days ago) - This is an experimental slicer for 3d printing written in Go.
 - [muesli/mastotool](https://github.com/muesli/mastotool) ([v0.2.1](https://github.com/muesli/mastotool/releases/tag/v0.2.1), 2 days ago) - Mastodon Statistics Generator
 - [muesli/termenv](https://github.com/muesli/termenv) ([v0.7.2](https://github.com/muesli/termenv/releases/tag/v0.7.2), 3 days ago) - Advanced ANSI style &amp; color support for your terminal applications
