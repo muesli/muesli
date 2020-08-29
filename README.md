@@ -12,27 +12,27 @@ of other projects. Curious what I've been hacking on recently?
 
 #### 👷 Check out what I'm currently working on
 
-- [knoxite/knoxite](https://github.com/knoxite/knoxite) - A data storage &amp; backup system (today)
 - [muesli/goprogressbar](https://github.com/muesli/goprogressbar) - Print progress bars on the console with Go (today)
+- [muesli/jigo](https://github.com/muesli/jigo) - A set of #golang jigs (today)
+- [knoxite/knoxite](https://github.com/knoxite/knoxite) - A data storage &amp; backup system (today)
 - [muesli/dotfiles](https://github.com/muesli/dotfiles) - My dotfiles (2 days ago)
 - [muesli/gitcha](https://github.com/muesli/gitcha) - Go helpers to work with git repositories (3 days ago)
-- [charmbracelet/glamour](https://github.com/charmbracelet/glamour) - Stylesheet-based markdown rendering for your CLI apps 💇🏻‍♀️ (5 days ago)
 
 #### 🌱 My latest projects
 
+- [muesli/jigo](https://github.com/muesli/jigo) - A set of #golang jigs
 - [muesli/sasquatch](https://github.com/muesli/sasquatch) - A simple data encryption library
 - [muesli/marky](https://github.com/muesli/marky) - Generate markdown programmatically
 - [muesli/readme-scribe](https://github.com/muesli/readme-scribe) - A GitHub Action that automatically generates &amp; updates markdown content (like your README.md)
 - [muesli/markscribe](https://github.com/muesli/markscribe) - Your personal markdown scribe with template-engine and Git(Hub) &amp; RSS powers 📜
-- [muesli/gitcha](https://github.com/muesli/gitcha) - Go helpers to work with git repositories
 
 #### 🔭 Latest releases I've contributed to
 
+- [muesli/goprogressbar](https://github.com/muesli/goprogressbar) ([v0.2.0](https://github.com/muesli/goprogressbar/releases/tag/v0.2.0), today) - Print progress bars on the console with Go
 - [muesli/gitcha](https://github.com/muesli/gitcha) ([v0.1.1](https://github.com/muesli/gitcha/releases/tag/v0.1.1), 4 days ago) - Go helpers to work with git repositories
 - [gopasspw/gopass](https://github.com/gopasspw/gopass) ([v1.10.1](https://github.com/gopasspw/gopass/releases/tag/v1.10.1), 4 days ago) - The slightly more awesome standard unix password manager for teams
 - [aligator/GoSlice](https://github.com/aligator/GoSlice) ([v0.1.0](https://github.com/aligator/GoSlice/releases/tag/v0.1.0), 6 days ago) - This is an experimental slicer for 3d printing written in Go.
 - [muesli/mastotool](https://github.com/muesli/mastotool) ([v0.2.1](https://github.com/muesli/mastotool/releases/tag/v0.2.1), 6 days ago) - Mastodon Statistics Generator
-- [muesli/termenv](https://github.com/muesli/termenv) ([v0.7.2](https://github.com/muesli/termenv/releases/tag/v0.7.2), 1 week ago) - Advanced ANSI style &amp; color support for your terminal applications
 
 #### 📜 My recent blog posts
 
