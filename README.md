@@ -12,11 +12,11 @@ of other projects. Curious what I've been hacking on recently?
 
 #### 👷 Check out what I'm currently working on
 
+- [charmbracelet/glamour](https://github.com/charmbracelet/glamour) - Stylesheet-based markdown rendering for your CLI apps 💇🏻‍♀️ (today)
 - [muesli/goprogressbar](https://github.com/muesli/goprogressbar) - Print progress bars on the console with Go (today)
 - [muesli/jigo](https://github.com/muesli/jigo) - A set of #golang jigs (today)
-- [knoxite/knoxite](https://github.com/knoxite/knoxite) - A data storage &amp; backup system (today)
-- [muesli/dotfiles](https://github.com/muesli/dotfiles) - My dotfiles (2 days ago)
-- [muesli/gitcha](https://github.com/muesli/gitcha) - Go helpers to work with git repositories (3 days ago)
+- [knoxite/knoxite](https://github.com/knoxite/knoxite) - A data storage &amp; backup system (1 day ago)
+- [muesli/dotfiles](https://github.com/muesli/dotfiles) - My dotfiles (3 days ago)
 
 #### 🌱 My latest projects
 
@@ -28,11 +28,11 @@ of other projects. Curious what I've been hacking on recently?
 
 #### 🔭 Latest releases I've contributed to
 
-- [muesli/goprogressbar](https://github.com/muesli/goprogressbar) ([v0.2.0](https://github.com/muesli/goprogressbar/releases/tag/v0.2.0), today) - Print progress bars on the console with Go
-- [muesli/gitcha](https://github.com/muesli/gitcha) ([v0.1.1](https://github.com/muesli/gitcha/releases/tag/v0.1.1), 4 days ago) - Go helpers to work with git repositories
-- [gopasspw/gopass](https://github.com/gopasspw/gopass) ([v1.10.1](https://github.com/gopasspw/gopass/releases/tag/v1.10.1), 4 days ago) - The slightly more awesome standard unix password manager for teams
-- [aligator/GoSlice](https://github.com/aligator/GoSlice) ([v0.1.0](https://github.com/aligator/GoSlice/releases/tag/v0.1.0), 6 days ago) - This is an experimental slicer for 3d printing written in Go.
-- [muesli/mastotool](https://github.com/muesli/mastotool) ([v0.2.1](https://github.com/muesli/mastotool/releases/tag/v0.2.1), 6 days ago) - Mastodon Statistics Generator
+- [muesli/goprogressbar](https://github.com/muesli/goprogressbar) ([v0.2.0](https://github.com/muesli/goprogressbar/releases/tag/v0.2.0), 1 day ago) - Print progress bars on the console with Go
+- [muesli/gitcha](https://github.com/muesli/gitcha) ([v0.1.1](https://github.com/muesli/gitcha/releases/tag/v0.1.1), 5 days ago) - Go helpers to work with git repositories
+- [gopasspw/gopass](https://github.com/gopasspw/gopass) ([v1.10.1](https://github.com/gopasspw/gopass/releases/tag/v1.10.1), 5 days ago) - The slightly more awesome standard unix password manager for teams
+- [aligator/GoSlice](https://github.com/aligator/GoSlice) ([v0.1.0](https://github.com/aligator/GoSlice/releases/tag/v0.1.0), 1 week ago) - This is an experimental slicer for 3d printing written in Go.
+- [muesli/mastotool](https://github.com/muesli/mastotool) ([v0.2.1](https://github.com/muesli/mastotool/releases/tag/v0.2.1), 1 week ago) - Mastodon Statistics Generator
 
 #### 📜 My recent blog posts
 
