@@ -14,8 +14,8 @@ of other projects. Curious what I've been hacking on recently?
 
 - [muesli/pkgbuilds](https://github.com/muesli/pkgbuilds) - My collection of Arch Linux PKGBUILDs (today)
 - [charmbracelet/glamour](https://github.com/charmbracelet/glamour) - Stylesheet-based markdown rendering for your CLI apps 💇🏻‍♀️ (1 day ago)
-- [muesli/jigo](https://github.com/muesli/jigo) - A set of #golang jigs (1 day ago)
 - [muesli/goprogressbar](https://github.com/muesli/goprogressbar) - Print progress bars on the console with Go (1 day ago)
+- [muesli/jigo](https://github.com/muesli/jigo) - A set of #golang jigs (1 day ago)
 - [knoxite/knoxite](https://github.com/knoxite/knoxite) - A data storage &amp; backup system (2 days ago)
 
 #### 🌱 My latest projects
