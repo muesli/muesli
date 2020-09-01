@@ -28,11 +28,11 @@ of other projects. Curious what I've been hacking on recently?
 
 #### 🔭 Latest releases I've contributed to
 
+- [42wim/matterircd](https://github.com/42wim/matterircd) ([v0.20.0](https://github.com/42wim/matterircd/releases/tag/v0.20.0), today) - Connect to your mattermost or slack using your IRC-client of choice.
 - [facebook/ent](https://github.com/facebook/ent) ([v0.4.2](https://github.com/facebook/ent/releases/tag/v0.4.2), 2 days ago) - An entity framework for Go
 - [muesli/goprogressbar](https://github.com/muesli/goprogressbar) ([v0.2.0](https://github.com/muesli/goprogressbar/releases/tag/v0.2.0), 3 days ago) - Print progress bars on the console with Go
 - [muesli/gitcha](https://github.com/muesli/gitcha) ([v0.1.1](https://github.com/muesli/gitcha/releases/tag/v0.1.1), 1 week ago) - Go helpers to work with git repositories
 - [gopasspw/gopass](https://github.com/gopasspw/gopass) ([v1.10.1](https://github.com/gopasspw/gopass/releases/tag/v1.10.1), 1 week ago) - The slightly more awesome standard unix password manager for teams
-- [aligator/GoSlice](https://github.com/aligator/GoSlice) ([v0.1.0](https://github.com/aligator/GoSlice/releases/tag/v0.1.0), 1 week ago) - This is an experimental slicer for 3d printing written in Go.
 
 #### 📜 My recent blog posts
 
