@@ -12,7 +12,7 @@ of other projects. Curious what I've been hacking on recently?
 
 #### 👷 Check out what I'm currently working on
 
-- [knoxite/knoxite](https://github.com/knoxite/knoxite) - A data storage &amp; backup system (1 day ago)
+- [knoxite/knoxite](https://github.com/knoxite/knoxite) - A data storage &amp; backup system (today)
 - [muesli/pkgbuilds](https://github.com/muesli/pkgbuilds) - My collection of Arch Linux PKGBUILDs (5 days ago)
 - [charmbracelet/glamour](https://github.com/charmbracelet/glamour) - Stylesheet-based markdown rendering for your CLI apps 💇🏻‍♀️ (6 days ago)
 - [muesli/goprogressbar](https://github.com/muesli/goprogressbar) - Print progress bars on the console with Go (6 days ago)
