@@ -28,7 +28,7 @@ of other projects. Curious what I've been hacking on recently?
 
 #### 🔭 Latest releases I've contributed to
 
-- [cli/cli](https://github.com/cli/cli) ([v0.12.0-pre.2](https://github.com/cli/cli/releases/tag/v0.12.0-pre.2), 1 day ago) - GitHub’s official command line tool
+- [cli/cli](https://github.com/cli/cli) ([v0.12.0](https://github.com/cli/cli/releases/tag/v0.12.0), today) - GitHub’s official command line tool
 - [42wim/matterircd](https://github.com/42wim/matterircd) ([v0.20.0](https://github.com/42wim/matterircd/releases/tag/v0.20.0), 1 week ago) - Connect to your mattermost or slack using your IRC-client of choice.
 - [facebook/ent](https://github.com/facebook/ent) ([v0.4.2](https://github.com/facebook/ent/releases/tag/v0.4.2), 1 week ago) - An entity framework for Go
 - [muesli/goprogressbar](https://github.com/muesli/goprogressbar) ([v0.2.0](https://github.com/muesli/goprogressbar/releases/tag/v0.2.0), 1 week ago) - Print progress bars on the console with Go
