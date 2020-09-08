@@ -12,7 +12,7 @@ of other projects. Curious what I've been hacking on recently?
 
 #### 👷 Check out what I'm currently working on
 
-- [knoxite/knoxite](https://github.com/knoxite/knoxite) - A data storage &amp; backup system (2 days ago)
+- [knoxite/knoxite](https://github.com/knoxite/knoxite) - A data storage &amp; backup system (3 days ago)
 - [muesli/pkgbuilds](https://github.com/muesli/pkgbuilds) - My collection of Arch Linux PKGBUILDs (1 week ago)
 - [charmbracelet/glamour](https://github.com/charmbracelet/glamour) - Stylesheet-based markdown rendering for your CLI apps 💇🏻‍♀️ (1 week ago)
 - [muesli/goprogressbar](https://github.com/muesli/goprogressbar) - Print progress bars on the console with Go (1 week ago)
@@ -28,11 +28,11 @@ of other projects. Curious what I've been hacking on recently?
 
 #### 🔭 Latest releases I've contributed to
 
-- [cli/cli](https://github.com/cli/cli) ([v0.12.0-pre.2](https://github.com/cli/cli/releases/tag/v0.12.0-pre.2), today) - GitHub’s official command line tool
-- [42wim/matterircd](https://github.com/42wim/matterircd) ([v0.20.0](https://github.com/42wim/matterircd/releases/tag/v0.20.0), 6 days ago) - Connect to your mattermost or slack using your IRC-client of choice.
+- [cli/cli](https://github.com/cli/cli) ([v0.12.0-pre.2](https://github.com/cli/cli/releases/tag/v0.12.0-pre.2), 1 day ago) - GitHub’s official command line tool
+- [42wim/matterircd](https://github.com/42wim/matterircd) ([v0.20.0](https://github.com/42wim/matterircd/releases/tag/v0.20.0), 1 week ago) - Connect to your mattermost or slack using your IRC-client of choice.
 - [facebook/ent](https://github.com/facebook/ent) ([v0.4.2](https://github.com/facebook/ent/releases/tag/v0.4.2), 1 week ago) - An entity framework for Go
 - [muesli/goprogressbar](https://github.com/muesli/goprogressbar) ([v0.2.0](https://github.com/muesli/goprogressbar/releases/tag/v0.2.0), 1 week ago) - Print progress bars on the console with Go
-- [muesli/gitcha](https://github.com/muesli/gitcha) ([v0.1.1](https://github.com/muesli/gitcha/releases/tag/v0.1.1), 1 week ago) - Go helpers to work with git repositories
+- [muesli/gitcha](https://github.com/muesli/gitcha) ([v0.1.1](https://github.com/muesli/gitcha/releases/tag/v0.1.1), 2 weeks ago) - Go helpers to work with git repositories
 
 #### 📜 My recent blog posts
 
