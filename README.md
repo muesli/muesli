@@ -12,11 +12,11 @@ of other projects. Curious what I've been hacking on recently?
 
 #### 👷 Check out what I'm currently working on
 
+- [charmbracelet/glow](https://github.com/charmbracelet/glow) - Render markdown on the CLI, with pizzazz! 💅🏻 (today)
 - [knoxite/knoxite](https://github.com/knoxite/knoxite) - A data storage &amp; backup system (2 days ago)
 - [knoxite/website](https://github.com/knoxite/website) - knoxite.com (2 days ago)
 - [muesli/pkgbuilds](https://github.com/muesli/pkgbuilds) - My collection of Arch Linux PKGBUILDs (1 week ago)
-- [muesli/goprogressbar](https://github.com/muesli/goprogressbar) - Print progress bars on the console with Go (1 week ago)
-- [muesli/jigo](https://github.com/muesli/jigo) - A set of #golang jigs (1 week ago)
+- [charmbracelet/glamour](https://github.com/charmbracelet/glamour) - Stylesheet-based markdown rendering for your CLI apps 💇🏻‍♀️ (1 week ago)
 
 #### 🌱 My latest projects
 
