@@ -12,8 +12,8 @@ of other projects. Curious what I've been hacking on recently?
 
 #### 👷 Check out what I'm currently working on
 
+- [knoxite/knoxite](https://github.com/knoxite/knoxite) - A data storage &amp; backup system (today)
 - [charmbracelet/glow](https://github.com/charmbracelet/glow) - Render markdown on the CLI, with pizzazz! 💅🏻 (1 day ago)
-- [knoxite/knoxite](https://github.com/knoxite/knoxite) - A data storage &amp; backup system (3 days ago)
 - [knoxite/website](https://github.com/knoxite/website) - knoxite.com (3 days ago)
 - [muesli/pkgbuilds](https://github.com/muesli/pkgbuilds) - My collection of Arch Linux PKGBUILDs (1 week ago)
 - [charmbracelet/glamour](https://github.com/charmbracelet/glamour) - Stylesheet-based markdown rendering for your CLI apps 💇🏻‍♀️ (1 week ago)
