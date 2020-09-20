@@ -12,19 +12,19 @@ of other projects. Curious what I've been hacking on recently?
 
 #### 👷 Check out what I'm currently working on
 
+- [muesli/duf](https://github.com/muesli/duf) - Disk Usage/Free Utility (today)
 - [knoxite/knoxite](https://github.com/knoxite/knoxite) - A data storage &amp; backup system (today)
 - [knoxite/website](https://github.com/knoxite/website) - knoxite.com (2 days ago)
 - [charmbracelet/glow](https://github.com/charmbracelet/glow) - Render markdown on the CLI, with pizzazz! 💅🏻 (1 week ago)
 - [muesli/pkgbuilds](https://github.com/muesli/pkgbuilds) - My collection of Arch Linux PKGBUILDs (2 weeks ago)
-- [charmbracelet/glamour](https://github.com/charmbracelet/glamour) - Stylesheet-based markdown rendering for your CLI apps 💇🏻‍♀️ (3 weeks ago)
 
 #### 🌱 My latest projects
 
+- [muesli/duf](https://github.com/muesli/duf) - Disk Usage/Free Utility
 - [muesli/jigo](https://github.com/muesli/jigo) - A set of #golang jigs
 - [muesli/sasquatch](https://github.com/muesli/sasquatch) - A simple data encryption library
 - [muesli/marky](https://github.com/muesli/marky) - Generate markdown programmatically
 - [muesli/readme-scribe](https://github.com/muesli/readme-scribe) - A GitHub Action that automatically generates &amp; updates markdown content (like your README.md)
-- [muesli/markscribe](https://github.com/muesli/markscribe) - Your personal markdown scribe with template-engine and Git(Hub) &amp; RSS powers 📜
 
 #### 🔭 Latest releases I've contributed to
 
