@@ -12,11 +12,11 @@ of other projects. Curious what I've been hacking on recently?
 
 #### 👷 Check out what I'm currently working on
 
-- [knoxite/knoxite](https://github.com/knoxite/knoxite) - A data storage &amp; backup system (1 day ago)
-- [knoxite/website](https://github.com/knoxite/website) - knoxite.com (1 day ago)
+- [knoxite/knoxite](https://github.com/knoxite/knoxite) - A data storage &amp; backup system (2 days ago)
+- [knoxite/website](https://github.com/knoxite/website) - knoxite.com (2 days ago)
 - [charmbracelet/glow](https://github.com/charmbracelet/glow) - Render markdown on the CLI, with pizzazz! 💅🏻 (1 week ago)
 - [muesli/pkgbuilds](https://github.com/muesli/pkgbuilds) - My collection of Arch Linux PKGBUILDs (2 weeks ago)
-- [charmbracelet/glamour](https://github.com/charmbracelet/glamour) - Stylesheet-based markdown rendering for your CLI apps 💇🏻‍♀️ (2 weeks ago)
+- [charmbracelet/glamour](https://github.com/charmbracelet/glamour) - Stylesheet-based markdown rendering for your CLI apps 💇🏻‍♀️ (3 weeks ago)
 
 #### 🌱 My latest projects
 
@@ -28,10 +28,10 @@ of other projects. Curious what I've been hacking on recently?
 
 #### 🔭 Latest releases I've contributed to
 
-- [cli/cli](https://github.com/cli/cli) ([v1.0.0](https://github.com/cli/cli/releases/tag/v1.0.0), 3 days ago) - GitHub’s official command line tool
+- [cli/cli](https://github.com/cli/cli) ([v1.0.0](https://github.com/cli/cli/releases/tag/v1.0.0), 4 days ago) - GitHub’s official command line tool
 - [mkrakowitzer/actions-makepdfs](https://github.com/mkrakowitzer/actions-makepdfs) ([v1.2](https://github.com/mkrakowitzer/actions-makepdfs/releases/tag/v1.2), 1 week ago) - A github action to make PDF froms files markdown documentation
 - [42wim/matterircd](https://github.com/42wim/matterircd) ([v0.20.0](https://github.com/42wim/matterircd/releases/tag/v0.20.0), 2 weeks ago) - Connect to your mattermost or slack using your IRC-client of choice.
-- [facebook/ent](https://github.com/facebook/ent) ([v0.4.2](https://github.com/facebook/ent/releases/tag/v0.4.2), 2 weeks ago) - An entity framework for Go
+- [facebook/ent](https://github.com/facebook/ent) ([v0.4.2](https://github.com/facebook/ent/releases/tag/v0.4.2), 3 weeks ago) - An entity framework for Go
 - [muesli/goprogressbar](https://github.com/muesli/goprogressbar) ([v0.2.0](https://github.com/muesli/goprogressbar/releases/tag/v0.2.0), 3 weeks ago) - Print progress bars on the console with Go
 
 #### 📜 My recent blog posts
