@@ -12,7 +12,7 @@ of other projects. Curious what I've been hacking on recently?
 
 #### 👷 Check out what I'm currently working on
 
-- [muesli/duf](https://github.com/muesli/duf) - Disk Usage/Free Utility (1 day ago)
+- [muesli/duf](https://github.com/muesli/duf) - Disk Usage/Free Utility (today)
 - [knoxite/knoxite](https://github.com/knoxite/knoxite) - A data storage &amp; backup system (2 days ago)
 - [knoxite/website](https://github.com/knoxite/website) - knoxite.com (5 days ago)
 - [charmbracelet/glow](https://github.com/charmbracelet/glow) - Render markdown on the CLI, with pizzazz! 💅🏻 (1 week ago)
