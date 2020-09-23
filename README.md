@@ -28,8 +28,8 @@ of other projects. Curious what I've been hacking on recently?
 
 #### 🔭 Latest releases I've contributed to
 
+- [muesli/duf](https://github.com/muesli/duf) ([v0.2.0](https://github.com/muesli/duf/releases/tag/v0.2.0), today) - Disk Usage/Free Utility
 - [facebook/ent](https://github.com/facebook/ent) ([v0.4.3](https://github.com/facebook/ent/releases/tag/v0.4.3), 2 days ago) - An entity framework for Go
-- [muesli/duf](https://github.com/muesli/duf) ([v0.1.0](https://github.com/muesli/duf/releases/tag/v0.1.0), 2 days ago) - Disk Usage/Free Utility
 - [cli/cli](https://github.com/cli/cli) ([v1.0.0](https://github.com/cli/cli/releases/tag/v1.0.0), 1 week ago) - GitHub’s official command line tool
 - [mkrakowitzer/actions-makepdfs](https://github.com/mkrakowitzer/actions-makepdfs) ([v1.2](https://github.com/mkrakowitzer/actions-makepdfs/releases/tag/v1.2), 2 weeks ago) - A github action to make PDF froms files markdown documentation
 - [42wim/matterircd](https://github.com/42wim/matterircd) ([v0.20.0](https://github.com/42wim/matterircd/releases/tag/v0.20.0), 3 weeks ago) - Connect to your mattermost or slack using your IRC-client of choice.
