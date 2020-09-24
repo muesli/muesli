@@ -13,8 +13,8 @@ of other projects. Curious what I've been hacking on recently?
 #### 👷 Check out what I'm currently working on
 
 - [muesli/duf](https://github.com/muesli/duf) - Disk Usage/Free Utility (today)
-- [knoxite/knoxite](https://github.com/knoxite/knoxite) - A data storage &amp; backup system (2 days ago)
-- [knoxite/website](https://github.com/knoxite/website) - knoxite.com (5 days ago)
+- [knoxite/knoxite](https://github.com/knoxite/knoxite) - A data storage &amp; backup system (3 days ago)
+- [knoxite/website](https://github.com/knoxite/website) - knoxite.com (6 days ago)
 - [charmbracelet/glow](https://github.com/charmbracelet/glow) - Render markdown on the CLI, with pizzazz! 💅🏻 (1 week ago)
 - [muesli/pkgbuilds](https://github.com/muesli/pkgbuilds) - My collection of Arch Linux PKGBUILDs (3 weeks ago)
 
@@ -28,8 +28,8 @@ of other projects. Curious what I've been hacking on recently?
 
 #### 🔭 Latest releases I've contributed to
 
-- [muesli/duf](https://github.com/muesli/duf) ([v0.2.0](https://github.com/muesli/duf/releases/tag/v0.2.0), today) - Disk Usage/Free Utility
-- [facebook/ent](https://github.com/facebook/ent) ([v0.4.3](https://github.com/facebook/ent/releases/tag/v0.4.3), 2 days ago) - An entity framework for Go
+- [muesli/duf](https://github.com/muesli/duf) ([v0.2.0](https://github.com/muesli/duf/releases/tag/v0.2.0), 1 day ago) - Disk Usage/Free Utility
+- [facebook/ent](https://github.com/facebook/ent) ([v0.4.3](https://github.com/facebook/ent/releases/tag/v0.4.3), 3 days ago) - An entity framework for Go
 - [cli/cli](https://github.com/cli/cli) ([v1.0.0](https://github.com/cli/cli/releases/tag/v1.0.0), 1 week ago) - GitHub’s official command line tool
 - [mkrakowitzer/actions-makepdfs](https://github.com/mkrakowitzer/actions-makepdfs) ([v1.2](https://github.com/mkrakowitzer/actions-makepdfs/releases/tag/v1.2), 2 weeks ago) - A github action to make PDF froms files markdown documentation
 - [42wim/matterircd](https://github.com/42wim/matterircd) ([v0.20.0](https://github.com/42wim/matterircd/releases/tag/v0.20.0), 3 weeks ago) - Connect to your mattermost or slack using your IRC-client of choice.
@@ -44,11 +44,11 @@ of other projects. Curious what I've been hacking on recently?
 
 #### ❤️ These awesome people sponsor me (thank you!)
 
-- [asnielrod](https://github.com/asnielrod) (2 months ago)
 - [lfuelling](https://github.com/lfuelling) (5 months ago)
 - [rubiojr](https://github.com/rubiojr) (11 months ago)
 - [midzer](https://github.com/midzer) (11 months ago)
 - [penguwin](https://github.com/penguwin) (11 months ago)
+- [Profpatsch](https://github.com/Profpatsch) (11 months ago)
 
 #### 💬 Feedback
 
