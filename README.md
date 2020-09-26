@@ -12,8 +12,8 @@ of other projects. Curious what I've been hacking on recently?
 
 #### 👷 Check out what I'm currently working on
 
+- [muesli/homebrew-tap](https://github.com/muesli/homebrew-tap) - muesli&#39;s Homebrew tap (today)
 - [muesli/duf](https://github.com/muesli/duf) - Disk Usage/Free Utility (1 day ago)
-- [muesli/homebrew-tap](https://github.com/muesli/homebrew-tap) - muesli&#39;s Homebrew tap (1 day ago)
 - [knoxite/knoxite](https://github.com/knoxite/knoxite) - A data storage &amp; backup system (5 days ago)
 - [knoxite/website](https://github.com/knoxite/website) - knoxite.com (1 week ago)
 - [charmbracelet/glow](https://github.com/charmbracelet/glow) - Render markdown on the CLI, with pizzazz! 💅🏻 (2 weeks ago)
@@ -28,7 +28,7 @@ of other projects. Curious what I've been hacking on recently?
 
 #### 🔭 Latest releases I've contributed to
 
-- [muesli/duf](https://github.com/muesli/duf) ([v0.3.0](https://github.com/muesli/duf/releases/tag/v0.3.0), 1 day ago) - Disk Usage/Free Utility
+- [muesli/duf](https://github.com/muesli/duf) ([v0.3.1](https://github.com/muesli/duf/releases/tag/v0.3.1), today) - Disk Usage/Free Utility
 - [facebook/ent](https://github.com/facebook/ent) ([v0.4.3](https://github.com/facebook/ent/releases/tag/v0.4.3), 5 days ago) - An entity framework for Go
 - [cli/cli](https://github.com/cli/cli) ([v1.0.0](https://github.com/cli/cli/releases/tag/v1.0.0), 1 week ago) - GitHub’s official command line tool
 - [mkrakowitzer/actions-makepdfs](https://github.com/mkrakowitzer/actions-makepdfs) ([v1.2](https://github.com/mkrakowitzer/actions-makepdfs/releases/tag/v1.2), 2 weeks ago) - A github action to make PDF froms files markdown documentation
