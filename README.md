@@ -12,11 +12,11 @@ of other projects. Curious what I've been hacking on recently?
 
 #### 👷 Check out what I'm currently working on
 
-- [katzenpost/catchat](https://github.com/katzenpost/catchat) - Traffic analysis resistant messaging with Qt based user interface (today)
+- [muesli/termenv](https://github.com/muesli/termenv) - Advanced ANSI style &amp; color support for your terminal applications (today)
+- [muesli/duf](https://github.com/muesli/duf) - Disk Usage/Free Utility (today)
 - [muesli/beehive](https://github.com/muesli/beehive) - A flexible event/agent &amp; automation system with lots of bees 🐝 (today)
-- [muesli/duf](https://github.com/muesli/duf) - Disk Usage/Free Utility (1 day ago)
+- [katzenpost/catchat](https://github.com/katzenpost/catchat) - Traffic analysis resistant messaging with Qt based user interface (today)
 - [muesli/homebrew-tap](https://github.com/muesli/homebrew-tap) - muesli&#39;s Homebrew tap (1 week ago)
-- [knoxite/knoxite](https://github.com/knoxite/knoxite) - A data storage &amp; backup system (1 week ago)
 
 #### 🌱 My latest projects
 
