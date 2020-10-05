@@ -12,11 +12,11 @@ of other projects. Curious what I've been hacking on recently?
 
 #### 👷 Check out what I'm currently working on
 
-- [muesli/homebrew-tap](https://github.com/muesli/homebrew-tap) - muesli&#39;s Homebrew tap (1 day ago)
+- [muesli/duf](https://github.com/muesli/duf) - Disk Usage/Free Utility (today)
+- [muesli/mastotool](https://github.com/muesli/mastotool) - Mastodon Statistics Generator (1 day ago)
 - [knoxite/knoxite](https://github.com/knoxite/knoxite) - A data storage &amp; backup system (1 day ago)
-- [fleaz/hacktoberfest-tagger](https://github.com/fleaz/hacktoberfest-tagger) - Quickly add/remove the &#39;hacktoberfest&#39; topic to all your public repositories (1 day ago)
+- [muesli/homebrew-tap](https://github.com/muesli/homebrew-tap) - muesli&#39;s Homebrew tap (1 day ago)
 - [muesli/termenv](https://github.com/muesli/termenv) - Advanced ANSI style &amp; color support for your terminal applications (1 day ago)
-- [muesli/duf](https://github.com/muesli/duf) - Disk Usage/Free Utility (1 day ago)
 
 #### 🌱 My latest projects
 
