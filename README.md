@@ -12,8 +12,8 @@ of other projects. Curious what I've been hacking on recently?
 
 #### 👷 Check out what I'm currently working on
 
-- [muesli/mastotool](https://github.com/muesli/mastotool) - A collection of command-line tools to work with your Mastodon account (today)
 - [muesli/homebrew-tap](https://github.com/muesli/homebrew-tap) - muesli&#39;s Homebrew tap (today)
+- [muesli/mastotool](https://github.com/muesli/mastotool) - A collection of command-line tools to work with your Mastodon account (today)
 - [muesli/duf](https://github.com/muesli/duf) - Disk Usage/Free Utility (today)
 - [knoxite/knoxite](https://github.com/knoxite/knoxite) - A data storage &amp; backup system (2 days ago)
 - [muesli/termenv](https://github.com/muesli/termenv) - Advanced ANSI style &amp; color support for your terminal applications (2 days ago)
