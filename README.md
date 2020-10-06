@@ -28,11 +28,11 @@ of other projects. Curious what I've been hacking on recently?
 
 #### 🔭 Latest releases I've contributed to
 
+- [charmbracelet/charm](https://github.com/charmbracelet/charm) ([v0.8.2](https://github.com/charmbracelet/charm/releases/tag/v0.8.2), today) - The Charm Tool and Library ✨
 - [cli/cli](https://github.com/cli/cli) ([v1.1.0](https://github.com/cli/cli/releases/tag/v1.1.0), today) - GitHub’s official command line tool
 - [muesli/mastotool](https://github.com/muesli/mastotool) ([v0.2.3](https://github.com/muesli/mastotool/releases/tag/v0.2.3), today) - A collection of command-line tools to work with your Mastodon account
 - [42wim/matterircd](https://github.com/42wim/matterircd) ([v0.20.1](https://github.com/42wim/matterircd/releases/tag/v0.20.1), 1 week ago) - Connect to your mattermost or slack using your IRC-client of choice.
 - [muesli/duf](https://github.com/muesli/duf) ([v0.3.1](https://github.com/muesli/duf/releases/tag/v0.3.1), 1 week ago) - Disk Usage/Free Utility
-- [facebook/ent](https://github.com/facebook/ent) ([v0.4.3](https://github.com/facebook/ent/releases/tag/v0.4.3), 2 weeks ago) - An entity framework for Go
 
 #### 📜 My recent blog posts
 
