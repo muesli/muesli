@@ -12,10 +12,10 @@ of other projects. Curious what I've been hacking on recently?
 
 #### 👷 Check out what I'm currently working on
 
+- [muesli/mastotool](https://github.com/muesli/mastotool) - A collection of command-line tools to work with your Mastodon account (today)
+- [muesli/homebrew-tap](https://github.com/muesli/homebrew-tap) - muesli&#39;s Homebrew tap (today)
 - [muesli/duf](https://github.com/muesli/duf) - Disk Usage/Free Utility (today)
-- [muesli/mastotool](https://github.com/muesli/mastotool) - Mastodon Statistics Generator (2 days ago)
 - [knoxite/knoxite](https://github.com/knoxite/knoxite) - A data storage &amp; backup system (2 days ago)
-- [muesli/homebrew-tap](https://github.com/muesli/homebrew-tap) - muesli&#39;s Homebrew tap (2 days ago)
 - [muesli/termenv](https://github.com/muesli/termenv) - Advanced ANSI style &amp; color support for your terminal applications (2 days ago)
 
 #### 🌱 My latest projects
@@ -28,7 +28,7 @@ of other projects. Curious what I've been hacking on recently?
 
 #### 🔭 Latest releases I've contributed to
 
-- [muesli/mastotool](https://github.com/muesli/mastotool) ([v0.2.2](https://github.com/muesli/mastotool/releases/tag/v0.2.2), 2 days ago) - Mastodon Statistics Generator
+- [muesli/mastotool](https://github.com/muesli/mastotool) ([v0.2.3](https://github.com/muesli/mastotool/releases/tag/v0.2.3), today) - A collection of command-line tools to work with your Mastodon account
 - [42wim/matterircd](https://github.com/42wim/matterircd) ([v0.20.1](https://github.com/42wim/matterircd/releases/tag/v0.20.1), 1 week ago) - Connect to your mattermost or slack using your IRC-client of choice.
 - [muesli/duf](https://github.com/muesli/duf) ([v0.3.1](https://github.com/muesli/duf/releases/tag/v0.3.1), 1 week ago) - Disk Usage/Free Utility
 - [facebook/ent](https://github.com/facebook/ent) ([v0.4.3](https://github.com/facebook/ent/releases/tag/v0.4.3), 2 weeks ago) - An entity framework for Go
