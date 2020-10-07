@@ -13,9 +13,9 @@ of other projects. Curious what I've been hacking on recently?
 #### 👷 Check out what I'm currently working on
 
 - [Homebrew/homebrew-core](https://github.com/Homebrew/homebrew-core) - 🍻 Default formulae for the missing package manager for macOS (today)
+- [charmbracelet/glow](https://github.com/charmbracelet/glow) - Render markdown on the CLI, with pizzazz! 💅🏻 (today)
 - [muesli/duf](https://github.com/muesli/duf) - Disk Usage/Free Utility (today)
-- [muesli/mastotool](https://github.com/muesli/mastotool) - A collection of command-line tools to work with your Mastodon account (1 day ago)
-- [charmbracelet/glow](https://github.com/charmbracelet/glow) - Render markdown on the CLI, with pizzazz! 💅🏻 (1 day ago)
+- [charmbracelet/homebrew-tap](https://github.com/charmbracelet/homebrew-tap) - Our homebrew tap 🍺 (today)
 - [muesli/homebrew-tap](https://github.com/muesli/homebrew-tap) - muesli&#39;s Homebrew tap (1 day ago)
 
 #### 🌱 My latest projects
@@ -28,8 +28,8 @@ of other projects. Curious what I've been hacking on recently?
 
 #### 🔭 Latest releases I've contributed to
 
+- [charmbracelet/glow](https://github.com/charmbracelet/glow) ([v1.0.1](https://github.com/charmbracelet/glow/releases/tag/v1.0.1), today) - Render markdown on the CLI, with pizzazz! 💅🏻
 - [charmbracelet/charm](https://github.com/charmbracelet/charm) ([v0.8.3](https://github.com/charmbracelet/charm/releases/tag/v0.8.3), today) - The Charm Tool and Library 🌟
-- [charmbracelet/glow](https://github.com/charmbracelet/glow) ([v1.0.0](https://github.com/charmbracelet/glow/releases/tag/v1.0.0), 1 day ago) - Render markdown on the CLI, with pizzazz! 💅🏻
 - [cli/cli](https://github.com/cli/cli) ([v1.1.0](https://github.com/cli/cli/releases/tag/v1.1.0), 1 day ago) - GitHub’s official command line tool
 - [muesli/mastotool](https://github.com/muesli/mastotool) ([v0.2.3](https://github.com/muesli/mastotool/releases/tag/v0.2.3), 1 day ago) - A collection of command-line tools to work with your Mastodon account
 - [42wim/matterircd](https://github.com/42wim/matterircd) ([v0.20.1](https://github.com/42wim/matterircd/releases/tag/v0.20.1), 1 week ago) - Connect to your mattermost or slack using your IRC-client of choice.
