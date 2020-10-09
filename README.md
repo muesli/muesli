@@ -28,11 +28,11 @@ of other projects. Curious what I've been hacking on recently?
 
 #### 🔭 Latest releases I've contributed to
 
+- [muesli/termenv](https://github.com/muesli/termenv) ([v0.7.3](https://github.com/muesli/termenv/releases/tag/v0.7.3), today) - Advanced ANSI style &amp; color support for your terminal applications
 - [aligator/GoSlice](https://github.com/aligator/GoSlice) ([v0.2.0](https://github.com/aligator/GoSlice/releases/tag/v0.2.0), 1 day ago) - This is an experimental slicer for 3d printing written in Go.
 - [charmbracelet/glow](https://github.com/charmbracelet/glow) ([v1.0.1](https://github.com/charmbracelet/glow/releases/tag/v1.0.1), 2 days ago) - Render markdown on the CLI, with pizzazz! 💅🏻
 - [charmbracelet/charm](https://github.com/charmbracelet/charm) ([v0.8.3](https://github.com/charmbracelet/charm/releases/tag/v0.8.3), 2 days ago) - The Charm Tool and Library 🌟
 - [cli/cli](https://github.com/cli/cli) ([v1.1.0](https://github.com/cli/cli/releases/tag/v1.1.0), 3 days ago) - GitHub’s official command line tool
-- [muesli/mastotool](https://github.com/muesli/mastotool) ([v0.2.3](https://github.com/muesli/mastotool/releases/tag/v0.2.3), 3 days ago) - A collection of command-line tools to work with your Mastodon account
 
 #### 📜 My recent blog posts
 
