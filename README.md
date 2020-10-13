@@ -12,19 +12,19 @@ of other projects. Curious what I've been hacking on recently?
 
 #### 👷 Check out what I'm currently working on
 
+- [muesli/configaro](https://github.com/muesli/configaro) - The Marriage of (Con)Figaro - A small but flexible config system that&#39;s XDG-compliant (today)
+- [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) - A powerful little TUI framework 🏗 (today)
 - [dghubble/gologin](https://github.com/dghubble/gologin) - Go login handlers for authentication providers (OAuth1, OAuth2) (1 day ago)
-- [muesli/homebrew-tap](https://github.com/muesli/homebrew-tap) - muesli&#39;s Homebrew tap (3 days ago)
 - [muesli/duf](https://github.com/muesli/duf) - Disk Usage/Free Utility (3 days ago)
 - [muesli/termenv](https://github.com/muesli/termenv) - Advanced ANSI style &amp; color support for your terminal applications (3 days ago)
-- [charmbracelet/glow](https://github.com/charmbracelet/glow) - Render markdown on the CLI, with pizzazz! 💅🏻 (6 days ago)
 
 #### 🌱 My latest projects
 
+- [muesli/configaro](https://github.com/muesli/configaro) - The Marriage of (Con)Figaro - A small but flexible config system that&#39;s XDG-compliant
 - [muesli/duf](https://github.com/muesli/duf) - Disk Usage/Free Utility
 - [muesli/jigo](https://github.com/muesli/jigo) - A set of #golang jigs
 - [muesli/sasquatch](https://github.com/muesli/sasquatch) - A simple data encryption library
 - [muesli/marky](https://github.com/muesli/marky) - Generate markdown programmatically
-- [muesli/readme-scribe](https://github.com/muesli/readme-scribe) - A GitHub Action that automatically generates &amp; updates markdown content (like your README.md)
 
 #### 🔭 Latest releases I've contributed to
 
