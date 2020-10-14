@@ -28,11 +28,11 @@ of other projects. Curious what I've been hacking on recently?
 
 #### 🔭 Latest releases I've contributed to
 
+- [charmbracelet/charm](https://github.com/charmbracelet/charm) ([v0.8.4](https://github.com/charmbracelet/charm/releases/tag/v0.8.4), today) - The Charm Tool and Library 🌟
 - [charmbracelet/glow](https://github.com/charmbracelet/glow) ([v1.0.2](https://github.com/charmbracelet/glow/releases/tag/v1.0.2), today) - Render markdown on the CLI, with pizzazz! 💅🏻
 - [muesli/duf](https://github.com/muesli/duf) ([v0.4.0](https://github.com/muesli/duf/releases/tag/v0.4.0), 4 days ago) - Disk Usage/Free Utility
 - [muesli/termenv](https://github.com/muesli/termenv) ([v0.7.4](https://github.com/muesli/termenv/releases/tag/v0.7.4), 4 days ago) - Advanced ANSI style &amp; color support for your terminal applications
 - [aligator/GoSlice](https://github.com/aligator/GoSlice) ([v0.2.0](https://github.com/aligator/GoSlice/releases/tag/v0.2.0), 6 days ago) - This is an experimental slicer for 3d printing written in Go.
-- [charmbracelet/charm](https://github.com/charmbracelet/charm) ([v0.8.3](https://github.com/charmbracelet/charm/releases/tag/v0.8.3), 1 week ago) - The Charm Tool and Library 🌟
 
 #### 📜 My recent blog posts
 
