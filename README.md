@@ -12,11 +12,11 @@ of other projects. Curious what I've been hacking on recently?
 
 #### 👷 Check out what I'm currently working on
 
-- [charmbracelet/charm](https://github.com/charmbracelet/charm) - The Charm Tool and Library 🌟 (today)
-- [charmbracelet/glow](https://github.com/charmbracelet/glow) - Render markdown on the CLI, with pizzazz! 💅🏻 (today)
-- [charmbracelet/homebrew-tap](https://github.com/charmbracelet/homebrew-tap) - Our homebrew tap 🍺 (today)
-- [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) - A powerful little TUI framework 🏗 (1 day ago)
-- [muesli/configaro](https://github.com/muesli/configaro) - The Marriage of (Con)Figaro - A small but flexible config system that&#39;s XDG-compliant (1 day ago)
+- [charmbracelet/charm](https://github.com/charmbracelet/charm) - The Charm Tool and Library 🌟 (1 day ago)
+- [charmbracelet/glow](https://github.com/charmbracelet/glow) - Render markdown on the CLI, with pizzazz! 💅🏻 (1 day ago)
+- [charmbracelet/homebrew-tap](https://github.com/charmbracelet/homebrew-tap) - Our homebrew tap 🍺 (1 day ago)
+- [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) - A powerful little TUI framework 🏗 (2 days ago)
+- [muesli/configaro](https://github.com/muesli/configaro) - The Marriage of (Con)Figaro - A small but flexible config system that&#39;s XDG-compliant (2 days ago)
 
 #### 🌱 My latest projects
 
@@ -28,11 +28,11 @@ of other projects. Curious what I've been hacking on recently?
 
 #### 🔭 Latest releases I've contributed to
 
-- [charmbracelet/charm](https://github.com/charmbracelet/charm) ([v0.8.4](https://github.com/charmbracelet/charm/releases/tag/v0.8.4), today) - The Charm Tool and Library 🌟
-- [charmbracelet/glow](https://github.com/charmbracelet/glow) ([v1.0.2](https://github.com/charmbracelet/glow/releases/tag/v1.0.2), today) - Render markdown on the CLI, with pizzazz! 💅🏻
-- [muesli/duf](https://github.com/muesli/duf) ([v0.4.0](https://github.com/muesli/duf/releases/tag/v0.4.0), 4 days ago) - Disk Usage/Free Utility
-- [muesli/termenv](https://github.com/muesli/termenv) ([v0.7.4](https://github.com/muesli/termenv/releases/tag/v0.7.4), 4 days ago) - Advanced ANSI style &amp; color support for your terminal applications
-- [aligator/GoSlice](https://github.com/aligator/GoSlice) ([v0.2.0](https://github.com/aligator/GoSlice/releases/tag/v0.2.0), 6 days ago) - This is an experimental slicer for 3d printing written in Go.
+- [charmbracelet/charm](https://github.com/charmbracelet/charm) ([v0.8.4](https://github.com/charmbracelet/charm/releases/tag/v0.8.4), 1 day ago) - The Charm Tool and Library 🌟
+- [charmbracelet/glow](https://github.com/charmbracelet/glow) ([v1.0.2](https://github.com/charmbracelet/glow/releases/tag/v1.0.2), 1 day ago) - Render markdown on the CLI, with pizzazz! 💅🏻
+- [muesli/duf](https://github.com/muesli/duf) ([v0.4.0](https://github.com/muesli/duf/releases/tag/v0.4.0), 5 days ago) - Disk Usage/Free Utility
+- [muesli/termenv](https://github.com/muesli/termenv) ([v0.7.4](https://github.com/muesli/termenv/releases/tag/v0.7.4), 5 days ago) - Advanced ANSI style &amp; color support for your terminal applications
+- [aligator/GoSlice](https://github.com/aligator/GoSlice) ([v0.2.0](https://github.com/aligator/GoSlice/releases/tag/v0.2.0), 1 week ago) - This is an experimental slicer for 3d printing written in Go.
 
 #### 📜 My recent blog posts
 
@@ -44,7 +44,7 @@ of other projects. Curious what I've been hacking on recently?
 
 #### ❤️ These awesome people sponsor me (thank you!)
 
-- [berkus](https://github.com/berkus) (1 week ago)
+- [berkus](https://github.com/berkus) (2 weeks ago)
 - [lfuelling](https://github.com/lfuelling) (6 months ago)
 - [rubiojr](https://github.com/rubiojr) (1 year ago)
 - [midzer](https://github.com/midzer) (1 year ago)
