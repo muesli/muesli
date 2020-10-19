@@ -15,7 +15,7 @@ of other projects. Curious what I've been hacking on recently?
 - [charmbracelet/bubbles](https://github.com/charmbracelet/bubbles) - TUI components for Bubble Tea 🧁 (today)
 - [charmbracelet/glow](https://github.com/charmbracelet/glow) - Render markdown on the CLI, with pizzazz! 💅🏻 (today)
 - [muesli/beehive](https://github.com/muesli/beehive) - A flexible event/agent &amp; automation system with lots of bees 🐝 (today)
-- [muesli/reflow](https://github.com/muesli/reflow) - Reflow lets you word-wrap strings or entire blocks of text. It follows the io.Writer interface and supports ANSI escape sequences. (today)
+- [muesli/reflow](https://github.com/muesli/reflow) - A collection of (ANSI-sequence aware) text reflow operations &amp; algorithms (today)
 - [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) - A powerful little TUI framework 🏗 (3 days ago)
 
 #### 🌱 My latest projects
@@ -28,7 +28,7 @@ of other projects. Curious what I've been hacking on recently?
 
 #### 🔭 Latest releases I've contributed to
 
-- [muesli/reflow](https://github.com/muesli/reflow) ([v0.2.0](https://github.com/muesli/reflow/releases/tag/v0.2.0), today) - Reflow lets you word-wrap strings or entire blocks of text. It follows the io.Writer interface and supports ANSI escape sequences.
+- [muesli/reflow](https://github.com/muesli/reflow) ([v0.2.0](https://github.com/muesli/reflow/releases/tag/v0.2.0), today) - A collection of (ANSI-sequence aware) text reflow operations &amp; algorithms
 - [charmbracelet/charm](https://github.com/charmbracelet/charm) ([v0.8.4](https://github.com/charmbracelet/charm/releases/tag/v0.8.4), 5 days ago) - The Charm Tool and Library 🌟
 - [charmbracelet/glow](https://github.com/charmbracelet/glow) ([v1.0.2](https://github.com/charmbracelet/glow/releases/tag/v1.0.2), 5 days ago) - Render markdown on the CLI, with pizzazz! 💅🏻
 - [muesli/duf](https://github.com/muesli/duf) ([v0.4.0](https://github.com/muesli/duf/releases/tag/v0.4.0), 1 week ago) - Disk Usage/Free Utility
