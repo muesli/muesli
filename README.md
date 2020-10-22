@@ -13,10 +13,10 @@ of other projects. Curious what I've been hacking on recently?
 #### 👷 Check out what I'm currently working on
 
 - [charmbracelet/bubbles](https://github.com/charmbracelet/bubbles) - TUI components for Bubble Tea 🍡 (today)
-- [codenotary/immudb](https://github.com/codenotary/immudb) - immudb is a lightweight, high-speed immutable database for systems and applications (1 day ago)
-- [charmbracelet/glamour](https://github.com/charmbracelet/glamour) - Stylesheet-based markdown rendering for your CLI apps 💇🏻‍♀️ (1 day ago)
-- [charmbracelet/glow](https://github.com/charmbracelet/glow) - Render markdown on the CLI, with pizzazz! 💅🏻 (2 days ago)
-- [muesli/beehive](https://github.com/muesli/beehive) - A flexible event/agent &amp; automation system with lots of bees 🐝 (2 days ago)
+- [codenotary/immudb](https://github.com/codenotary/immudb) - immudb is a lightweight, high-speed immutable database for systems and applications (2 days ago)
+- [charmbracelet/glamour](https://github.com/charmbracelet/glamour) - Stylesheet-based markdown rendering for your CLI apps 💇🏻‍♀️ (2 days ago)
+- [charmbracelet/glow](https://github.com/charmbracelet/glow) - Render markdown on the CLI, with pizzazz! 💅🏻 (3 days ago)
+- [muesli/beehive](https://github.com/muesli/beehive) - A flexible event/agent &amp; automation system with lots of bees 🐝 (3 days ago)
 
 #### 🌱 My latest projects
 
@@ -28,7 +28,7 @@ of other projects. Curious what I've been hacking on recently?
 
 #### 🔭 Latest releases I've contributed to
 
-- [muesli/reflow](https://github.com/muesli/reflow) ([v0.2.0](https://github.com/muesli/reflow/releases/tag/v0.2.0), 2 days ago) - A collection of (ANSI-sequence aware) text reflow operations &amp; algorithms
+- [muesli/reflow](https://github.com/muesli/reflow) ([v0.2.0](https://github.com/muesli/reflow/releases/tag/v0.2.0), 3 days ago) - A collection of (ANSI-sequence aware) text reflow operations &amp; algorithms
 - [charmbracelet/charm](https://github.com/charmbracelet/charm) ([v0.8.4](https://github.com/charmbracelet/charm/releases/tag/v0.8.4), 1 week ago) - The Charm Tool and Library 🌟
 - [charmbracelet/glow](https://github.com/charmbracelet/glow) ([v1.0.2](https://github.com/charmbracelet/glow/releases/tag/v1.0.2), 1 week ago) - Render markdown on the CLI, with pizzazz! 💅🏻
 - [muesli/duf](https://github.com/muesli/duf) ([v0.4.0](https://github.com/muesli/duf/releases/tag/v0.4.0), 1 week ago) - Disk Usage/Free Utility
@@ -44,7 +44,7 @@ of other projects. Curious what I've been hacking on recently?
 
 #### ❤️ These awesome people sponsor me (thank you!)
 
-- [berkus](https://github.com/berkus) (2 weeks ago)
+- [berkus](https://github.com/berkus) (3 weeks ago)
 - [lfuelling](https://github.com/lfuelling) (6 months ago)
 - [rubiojr](https://github.com/rubiojr) (1 year ago)
 - [midzer](https://github.com/midzer) (1 year ago)
