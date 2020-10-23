@@ -12,11 +12,11 @@ of other projects. Curious what I've been hacking on recently?
 
 #### 👷 Check out what I'm currently working on
 
-- [charmbracelet/bubbles](https://github.com/charmbracelet/bubbles) - TUI components for Bubble Tea 🍡 (today)
-- [codenotary/immudb](https://github.com/codenotary/immudb) - immudb is a lightweight, high-speed immutable database for systems and applications (2 days ago)
-- [charmbracelet/glamour](https://github.com/charmbracelet/glamour) - Stylesheet-based markdown rendering for your CLI apps 💇🏻‍♀️ (2 days ago)
-- [charmbracelet/glow](https://github.com/charmbracelet/glow) - Render markdown on the CLI, with pizzazz! 💅🏻 (3 days ago)
-- [muesli/beehive](https://github.com/muesli/beehive) - A flexible event/agent &amp; automation system with lots of bees 🐝 (3 days ago)
+- [charmbracelet/bubbles](https://github.com/charmbracelet/bubbles) - TUI components for Bubble Tea 🍡 (1 day ago)
+- [codenotary/immudb](https://github.com/codenotary/immudb) - immudb is a lightweight, high-speed immutable database for systems and applications (3 days ago)
+- [charmbracelet/glamour](https://github.com/charmbracelet/glamour) - Stylesheet-based markdown rendering for your CLI apps 💇🏻‍♀️ (3 days ago)
+- [charmbracelet/glow](https://github.com/charmbracelet/glow) - Render markdown on the CLI, with pizzazz! 💅🏻 (4 days ago)
+- [muesli/beehive](https://github.com/muesli/beehive) - A flexible event/agent &amp; automation system with lots of bees 🐝 (4 days ago)
 
 #### 🌱 My latest projects
 
@@ -28,9 +28,9 @@ of other projects. Curious what I've been hacking on recently?
 
 #### 🔭 Latest releases I've contributed to
 
-- [charmbracelet/bubbles](https://github.com/charmbracelet/bubbles) ([v0.7.1](https://github.com/charmbracelet/bubbles/releases/tag/v0.7.1), today) - TUI components for Bubble Tea 🍡
-- [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) ([v0.12.1](https://github.com/charmbracelet/bubbletea/releases/tag/v0.12.1), today) - A powerful little TUI framework 🏗
-- [muesli/reflow](https://github.com/muesli/reflow) ([v0.2.0](https://github.com/muesli/reflow/releases/tag/v0.2.0), 3 days ago) - A collection of (ANSI-sequence aware) text reflow operations &amp; algorithms
+- [charmbracelet/bubbles](https://github.com/charmbracelet/bubbles) ([v0.7.1](https://github.com/charmbracelet/bubbles/releases/tag/v0.7.1), 1 day ago) - TUI components for Bubble Tea 🍡
+- [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) ([v0.12.1](https://github.com/charmbracelet/bubbletea/releases/tag/v0.12.1), 1 day ago) - A powerful little TUI framework 🏗
+- [muesli/reflow](https://github.com/muesli/reflow) ([v0.2.0](https://github.com/muesli/reflow/releases/tag/v0.2.0), 4 days ago) - A collection of (ANSI-sequence aware) text reflow operations &amp; algorithms
 - [charmbracelet/charm](https://github.com/charmbracelet/charm) ([v0.8.4](https://github.com/charmbracelet/charm/releases/tag/v0.8.4), 1 week ago) - The Charm Tool and Library 🌟
 - [charmbracelet/glow](https://github.com/charmbracelet/glow) ([v1.0.2](https://github.com/charmbracelet/glow/releases/tag/v1.0.2), 1 week ago) - Render markdown on the CLI, with pizzazz! 💅🏻
 
