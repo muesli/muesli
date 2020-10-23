@@ -13,9 +13,9 @@ of other projects. Curious what I've been hacking on recently?
 #### 👷 Check out what I'm currently working on
 
 - [charmbracelet/bubbles](https://github.com/charmbracelet/bubbles) - TUI components for Bubble Tea 🍡 (1 day ago)
+- [muesli/ircflu](https://github.com/muesli/ircflu) - ircflu is an IRC bot written in Go (1 day ago)
 - [codenotary/immudb](https://github.com/codenotary/immudb) - immudb is a lightweight, high-speed immutable database for systems and applications (3 days ago)
 - [charmbracelet/glamour](https://github.com/charmbracelet/glamour) - Stylesheet-based markdown rendering for your CLI apps 💇🏻‍♀️ (3 days ago)
-- [charmbracelet/glow](https://github.com/charmbracelet/glow) - Render markdown on the CLI, with pizzazz! 💅🏻 (4 days ago)
 - [muesli/beehive](https://github.com/muesli/beehive) - A flexible event/agent &amp; automation system with lots of bees 🐝 (4 days ago)
 
 #### 🌱 My latest projects
