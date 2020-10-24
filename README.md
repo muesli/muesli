@@ -44,11 +44,11 @@ of other projects. Curious what I've been hacking on recently?
 
 #### ❤️ These awesome people sponsor me (thank you!)
 
+- [sthagen](https://github.com/sthagen) (today)
 - [berkus](https://github.com/berkus) (3 weeks ago)
 - [lfuelling](https://github.com/lfuelling) (6 months ago)
 - [rubiojr](https://github.com/rubiojr) (1 year ago)
 - [midzer](https://github.com/midzer) (1 year ago)
-- [penguwin](https://github.com/penguwin) (1 year ago)
 
 #### 💬 Feedback
 
