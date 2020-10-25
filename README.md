@@ -12,7 +12,7 @@ of other projects. Curious what I've been hacking on recently?
 
 #### 👷 Check out what I'm currently working on
 
-- [trashhalo/imgcat](https://github.com/trashhalo/imgcat) - Tool to output images in the terminal (today)
+- [trashhalo/imgcat](https://github.com/trashhalo/imgcat) - a tool to output images as RGB ANSI graphics on the terminal (today)
 - [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) - A powerful little TUI framework 🏗 (1 day ago)
 - [charmbracelet/bubbles](https://github.com/charmbracelet/bubbles) - TUI components for Bubble Tea 🍡 (1 day ago)
 - [charmbracelet/glow](https://github.com/charmbracelet/glow) - Render markdown on the CLI, with pizzazz! 💅🏻 (2 days ago)
@@ -28,7 +28,7 @@ of other projects. Curious what I've been hacking on recently?
 
 #### 🔭 Latest releases I've contributed to
 
-- [trashhalo/imgcat](https://github.com/trashhalo/imgcat) ([v1.0.2](https://github.com/trashhalo/imgcat/releases/tag/v1.0.2), today) - Tool to output images in the terminal
+- [trashhalo/imgcat](https://github.com/trashhalo/imgcat) ([v1.0.2](https://github.com/trashhalo/imgcat/releases/tag/v1.0.2), today) - a tool to output images as RGB ANSI graphics on the terminal
 - [charmbracelet/bubbles](https://github.com/charmbracelet/bubbles) ([v0.7.1](https://github.com/charmbracelet/bubbles/releases/tag/v0.7.1), 3 days ago) - TUI components for Bubble Tea 🍡
 - [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) ([v0.12.1](https://github.com/charmbracelet/bubbletea/releases/tag/v0.12.1), 3 days ago) - A powerful little TUI framework 🏗
 - [muesli/reflow](https://github.com/muesli/reflow) ([v0.2.0](https://github.com/muesli/reflow/releases/tag/v0.2.0), 6 days ago) - A collection of (ANSI-sequence aware) text reflow operations &amp; algorithms
