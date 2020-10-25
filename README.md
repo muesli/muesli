@@ -13,8 +13,8 @@ of other projects. Curious what I've been hacking on recently?
 #### 👷 Check out what I'm currently working on
 
 - [trashhalo/imgcat](https://github.com/trashhalo/imgcat) - a tool to output images as RGB ANSI graphics on the terminal (today)
+- [charmbracelet/bubbles](https://github.com/charmbracelet/bubbles) - TUI components for Bubble Tea 🍡 (today)
 - [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) - A powerful little TUI framework 🏗 (1 day ago)
-- [charmbracelet/bubbles](https://github.com/charmbracelet/bubbles) - TUI components for Bubble Tea 🍡 (1 day ago)
 - [charmbracelet/glow](https://github.com/charmbracelet/glow) - Render markdown on the CLI, with pizzazz! 💅🏻 (2 days ago)
 - [muesli/sasquatch](https://github.com/muesli/sasquatch) - A simple data encryption library (2 days ago)
 
