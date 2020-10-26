@@ -28,7 +28,7 @@ of other projects. Curious what I've been hacking on recently?
 
 #### 🔭 Latest releases I've contributed to
 
-- [trashhalo/imgcat](https://github.com/trashhalo/imgcat) ([v1.0.2](https://github.com/trashhalo/imgcat/releases/tag/v1.0.2), 1 day ago) - a tool to output images as RGB ANSI graphics on the terminal
+- [trashhalo/imgcat](https://github.com/trashhalo/imgcat) ([v1.1.0](https://github.com/trashhalo/imgcat/releases/tag/v1.1.0), today) - a tool to output images as RGB ANSI graphics on the terminal
 - [charmbracelet/bubbles](https://github.com/charmbracelet/bubbles) ([v0.7.1](https://github.com/charmbracelet/bubbles/releases/tag/v0.7.1), 4 days ago) - TUI components for Bubble Tea 🍡
 - [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) ([v0.12.1](https://github.com/charmbracelet/bubbletea/releases/tag/v0.12.1), 4 days ago) - A powerful little TUI framework 🏗
 - [muesli/reflow](https://github.com/muesli/reflow) ([v0.2.0](https://github.com/muesli/reflow/releases/tag/v0.2.0), 1 week ago) - A collection of (ANSI-sequence aware) text reflow operations &amp; algorithms
@@ -44,11 +44,11 @@ of other projects. Curious what I've been hacking on recently?
 
 #### ❤️ These awesome people sponsor me (thank you!)
 
+- [benleb](https://github.com/benleb) (today)
 - [hugomd](https://github.com/hugomd) (today)
 - [sthagen](https://github.com/sthagen) (2 days ago)
 - [berkus](https://github.com/berkus) (3 weeks ago)
 - [lfuelling](https://github.com/lfuelling) (6 months ago)
-- [rubiojr](https://github.com/rubiojr) (1 year ago)
 
 #### 💬 Feedback
 
