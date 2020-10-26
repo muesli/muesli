@@ -14,17 +14,17 @@ of other projects. Curious what I've been hacking on recently?
 
 - [muesli/jigo](https://github.com/muesli/jigo) - A set of #golang jigs (today)
 - [muesli/beehive](https://github.com/muesli/beehive) - A flexible event/agent &amp; automation system with lots of bees 🐝 (today)
-- [trashhalo/imgcat](https://github.com/trashhalo/imgcat) - a tool to output images as RGB ANSI graphics on the terminal (1 day ago)
+- [muesli/gitflux](https://github.com/muesli/gitflux) - Track your GitHub projects in InfluxDB and create beautiful graphs with Grafana (today)
 - [charmbracelet/bubbles](https://github.com/charmbracelet/bubbles) - TUI components for Bubble Tea 🍡 (1 day ago)
-- [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) - A powerful little TUI framework 🏗 (2 days ago)
+- [trashhalo/imgcat](https://github.com/trashhalo/imgcat) - a tool to output images as RGB ANSI graphics on the terminal (1 day ago)
 
 #### 🌱 My latest projects
 
+- [muesli/gitflux](https://github.com/muesli/gitflux) - Track your GitHub projects in InfluxDB and create beautiful graphs with Grafana
 - [muesli/configaro](https://github.com/muesli/configaro) - The Marriage of (Con)Figaro - A small but flexible config system that&#39;s XDG-compliant
 - [muesli/duf](https://github.com/muesli/duf) - Disk Usage/Free Utility
 - [muesli/jigo](https://github.com/muesli/jigo) - A set of #golang jigs
 - [muesli/sasquatch](https://github.com/muesli/sasquatch) - A simple data encryption library
-- [muesli/marky](https://github.com/muesli/marky) - Generate markdown programmatically
 
 #### 🔭 Latest releases I've contributed to
 
