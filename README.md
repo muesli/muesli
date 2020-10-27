@@ -28,11 +28,11 @@ of other projects. Curious what I've been hacking on recently?
 
 #### 🔭 Latest releases I've contributed to
 
-- [trashhalo/imgcat](https://github.com/trashhalo/imgcat) ([v1.1.0](https://github.com/trashhalo/imgcat/releases/tag/v1.1.0), 1 day ago) - a tool to output images as RGB ANSI graphics on the terminal
+- [cli/cli](https://github.com/cli/cli) ([v1.2.0](https://github.com/cli/cli/releases/tag/v1.2.0), today) - GitHub’s official command line tool
+- [trashhalo/imgcat](https://github.com/trashhalo/imgcat) ([v1.1.1](https://github.com/trashhalo/imgcat/releases/tag/v1.1.1), today) - a tool to output images as RGB ANSI graphics on the terminal
 - [charmbracelet/bubbles](https://github.com/charmbracelet/bubbles) ([v0.7.1](https://github.com/charmbracelet/bubbles/releases/tag/v0.7.1), 5 days ago) - TUI components for Bubble Tea 🍡
 - [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) ([v0.12.1](https://github.com/charmbracelet/bubbletea/releases/tag/v0.12.1), 5 days ago) - A powerful little TUI framework 🏗
 - [muesli/reflow](https://github.com/muesli/reflow) ([v0.2.0](https://github.com/muesli/reflow/releases/tag/v0.2.0), 1 week ago) - A collection of (ANSI-sequence aware) text reflow operations &amp; algorithms
-- [charmbracelet/charm](https://github.com/charmbracelet/charm) ([v0.8.4](https://github.com/charmbracelet/charm/releases/tag/v0.8.4), 1 week ago) - The Charm Tool and Library 🌟
 
 #### 📜 My recent blog posts
 
