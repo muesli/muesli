@@ -12,11 +12,11 @@ of other projects. Curious what I've been hacking on recently?
 
 #### 👷 Check out what I'm currently working on
 
+- [muesli/gamut](https://github.com/muesli/gamut) - Go package to generate and manage color palettes &amp; schemes (today)
 - [charmbracelet/glow](https://github.com/charmbracelet/glow) - Render markdown on the CLI, with pizzazz! 💅🏻 (today)
+- [charmbracelet/homebrew-tap](https://github.com/charmbracelet/homebrew-tap) - Our homebrew tap 🍺 (today)
 - [charmbracelet/bubbles](https://github.com/charmbracelet/bubbles) - TUI components for Bubble Tea 🍡 (today)
-- [muesli/beehive](https://github.com/muesli/beehive) - A flexible event/agent &amp; automation system with lots of bees 🐝 (1 day ago)
 - [muesli/jigo](https://github.com/muesli/jigo) - A set of #golang jigs (1 day ago)
-- [muesli/gitflux](https://github.com/muesli/gitflux) - Track your GitHub projects in InfluxDB and create beautiful graphs with Grafana (1 day ago)
 
 #### 🌱 My latest projects
 
@@ -28,11 +28,11 @@ of other projects. Curious what I've been hacking on recently?
 
 #### 🔭 Latest releases I've contributed to
 
+- [muesli/gamut](https://github.com/muesli/gamut) ([v0.1.0](https://github.com/muesli/gamut/releases/tag/v0.1.0), today) - Go package to generate and manage color palettes &amp; schemes
+- [charmbracelet/glow](https://github.com/charmbracelet/glow) ([v1.1.0](https://github.com/charmbracelet/glow/releases/tag/v1.1.0), today) - Render markdown on the CLI, with pizzazz! 💅🏻
 - [cli/cli](https://github.com/cli/cli) ([v1.2.0](https://github.com/cli/cli/releases/tag/v1.2.0), today) - GitHub’s official command line tool
 - [trashhalo/imgcat](https://github.com/trashhalo/imgcat) ([v1.1.1](https://github.com/trashhalo/imgcat/releases/tag/v1.1.1), today) - a tool to output images as RGB ANSI graphics on the terminal
 - [charmbracelet/bubbles](https://github.com/charmbracelet/bubbles) ([v0.7.1](https://github.com/charmbracelet/bubbles/releases/tag/v0.7.1), 5 days ago) - TUI components for Bubble Tea 🍡
-- [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) ([v0.12.1](https://github.com/charmbracelet/bubbletea/releases/tag/v0.12.1), 5 days ago) - A powerful little TUI framework 🏗
-- [muesli/reflow](https://github.com/muesli/reflow) ([v0.2.0](https://github.com/muesli/reflow/releases/tag/v0.2.0), 1 week ago) - A collection of (ANSI-sequence aware) text reflow operations &amp; algorithms
 
 #### 📜 My recent blog posts
 
