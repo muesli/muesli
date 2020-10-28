@@ -12,11 +12,11 @@ of other projects. Curious what I've been hacking on recently?
 
 #### 👷 Check out what I'm currently working on
 
-- [muesli/kmeans](https://github.com/muesli/kmeans) - k-means clustering algorithm implementation written in Go (today)
-- [charmbracelet/glow](https://github.com/charmbracelet/glow) - Render markdown on the CLI, with pizzazz! 💅🏻 (today)
-- [charmbracelet/homebrew-tap](https://github.com/charmbracelet/homebrew-tap) - Our homebrew tap 🍺 (today)
-- [charmbracelet/bubbles](https://github.com/charmbracelet/bubbles) - TUI components for Bubble Tea 🍡 (today)
-- [muesli/gamut](https://github.com/muesli/gamut) - Go package to generate and manage color palettes &amp; schemes (today)
+- [muesli/kmeans](https://github.com/muesli/kmeans) - k-means clustering algorithm implementation written in Go (1 day ago)
+- [charmbracelet/glow](https://github.com/charmbracelet/glow) - Render markdown on the CLI, with pizzazz! 💅🏻 (1 day ago)
+- [charmbracelet/homebrew-tap](https://github.com/charmbracelet/homebrew-tap) - Our homebrew tap 🍺 (1 day ago)
+- [charmbracelet/bubbles](https://github.com/charmbracelet/bubbles) - TUI components for Bubble Tea 🍡 (1 day ago)
+- [muesli/gamut](https://github.com/muesli/gamut) - Go package to generate and manage color palettes &amp; schemes (1 day ago)
 
 #### 🌱 My latest projects
 
@@ -28,11 +28,11 @@ of other projects. Curious what I've been hacking on recently?
 
 #### 🔭 Latest releases I've contributed to
 
-- [muesli/kmeans](https://github.com/muesli/kmeans) ([v0.2.0](https://github.com/muesli/kmeans/releases/tag/v0.2.0), today) - k-means clustering algorithm implementation written in Go
-- [muesli/gamut](https://github.com/muesli/gamut) ([v0.1.0](https://github.com/muesli/gamut/releases/tag/v0.1.0), today) - Go package to generate and manage color palettes &amp; schemes
-- [charmbracelet/glow](https://github.com/charmbracelet/glow) ([v1.1.0](https://github.com/charmbracelet/glow/releases/tag/v1.1.0), today) - Render markdown on the CLI, with pizzazz! 💅🏻
-- [cli/cli](https://github.com/cli/cli) ([v1.2.0](https://github.com/cli/cli/releases/tag/v1.2.0), today) - GitHub’s official command line tool
-- [trashhalo/imgcat](https://github.com/trashhalo/imgcat) ([v1.1.1](https://github.com/trashhalo/imgcat/releases/tag/v1.1.1), today) - a tool to output images as RGB ANSI graphics on the terminal
+- [muesli/kmeans](https://github.com/muesli/kmeans) ([v0.2.0](https://github.com/muesli/kmeans/releases/tag/v0.2.0), 1 day ago) - k-means clustering algorithm implementation written in Go
+- [muesli/gamut](https://github.com/muesli/gamut) ([v0.1.0](https://github.com/muesli/gamut/releases/tag/v0.1.0), 1 day ago) - Go package to generate and manage color palettes &amp; schemes
+- [charmbracelet/glow](https://github.com/charmbracelet/glow) ([v1.1.0](https://github.com/charmbracelet/glow/releases/tag/v1.1.0), 1 day ago) - Render markdown on the CLI, with pizzazz! 💅🏻
+- [cli/cli](https://github.com/cli/cli) ([v1.2.0](https://github.com/cli/cli/releases/tag/v1.2.0), 1 day ago) - GitHub’s official command line tool
+- [trashhalo/imgcat](https://github.com/trashhalo/imgcat) ([v1.1.1](https://github.com/trashhalo/imgcat/releases/tag/v1.1.1), 1 day ago) - a tool to output images as RGB ANSI graphics on the terminal
 
 #### 📜 My recent blog posts
 
@@ -44,11 +44,11 @@ of other projects. Curious what I've been hacking on recently?
 
 #### ❤️ These awesome people sponsor me (thank you!)
 
-- [benleb](https://github.com/benleb) (1 day ago)
-- [hugomd](https://github.com/hugomd) (1 day ago)
-- [sthagen](https://github.com/sthagen) (3 days ago)
+- [benleb](https://github.com/benleb) (2 days ago)
+- [hugomd](https://github.com/hugomd) (2 days ago)
+- [sthagen](https://github.com/sthagen) (4 days ago)
 - [berkus](https://github.com/berkus) (3 weeks ago)
-- [lfuelling](https://github.com/lfuelling) (6 months ago)
+- [lfuelling](https://github.com/lfuelling) (7 months ago)
 
 #### 💬 Feedback
 
