@@ -28,11 +28,11 @@ of other projects. Curious what I've been hacking on recently?
 
 #### 🔭 Latest releases I've contributed to
 
+- [charmbracelet/bubbles](https://github.com/charmbracelet/bubbles) ([v0.7.2](https://github.com/charmbracelet/bubbles/releases/tag/v0.7.2), today) - TUI components for Bubble Tea 🍡
 - [muesli/kmeans](https://github.com/muesli/kmeans) ([v0.2.0](https://github.com/muesli/kmeans/releases/tag/v0.2.0), 1 day ago) - k-means clustering algorithm implementation written in Go
 - [muesli/gamut](https://github.com/muesli/gamut) ([v0.1.0](https://github.com/muesli/gamut/releases/tag/v0.1.0), 1 day ago) - Go package to generate and manage color palettes &amp; schemes
 - [charmbracelet/glow](https://github.com/charmbracelet/glow) ([v1.1.0](https://github.com/charmbracelet/glow/releases/tag/v1.1.0), 1 day ago) - Render markdown on the CLI, with pizzazz! 💅🏻
 - [cli/cli](https://github.com/cli/cli) ([v1.2.0](https://github.com/cli/cli/releases/tag/v1.2.0), 1 day ago) - GitHub’s official command line tool
-- [trashhalo/imgcat](https://github.com/trashhalo/imgcat) ([v1.1.1](https://github.com/trashhalo/imgcat/releases/tag/v1.1.1), 1 day ago) - a tool to output images as RGB ANSI graphics on the terminal
 
 #### 📜 My recent blog posts
 
