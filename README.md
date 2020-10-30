@@ -28,11 +28,11 @@ of other projects. Curious what I've been hacking on recently?
 
 #### 🔭 Latest releases I've contributed to
 
+- [42wim/matterircd](https://github.com/42wim/matterircd) ([v0.20.2](https://github.com/42wim/matterircd/releases/tag/v0.20.2), today) - Connect to your mattermost or slack using your IRC-client of choice.
 - [charmbracelet/bubbles](https://github.com/charmbracelet/bubbles) ([v0.7.2](https://github.com/charmbracelet/bubbles/releases/tag/v0.7.2), 2 days ago) - TUI components for Bubble Tea 🍡
 - [muesli/kmeans](https://github.com/muesli/kmeans) ([v0.2.0](https://github.com/muesli/kmeans/releases/tag/v0.2.0), 3 days ago) - k-means clustering algorithm implementation written in Go
 - [muesli/gamut](https://github.com/muesli/gamut) ([v0.1.0](https://github.com/muesli/gamut/releases/tag/v0.1.0), 3 days ago) - Go package to generate and manage color palettes &amp; schemes
 - [charmbracelet/glow](https://github.com/charmbracelet/glow) ([v1.1.0](https://github.com/charmbracelet/glow/releases/tag/v1.1.0), 3 days ago) - Render markdown on the CLI, with pizzazz! 💅🏻
-- [cli/cli](https://github.com/cli/cli) ([v1.2.0](https://github.com/cli/cli/releases/tag/v1.2.0), 3 days ago) - GitHub’s official command line tool
 
 #### 📜 My recent blog posts
 
