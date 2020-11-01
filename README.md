@@ -12,7 +12,7 @@ of other projects. Curious what I've been hacking on recently?
 
 #### 👷 Check out what I'm currently working on
 
-- [muesli/duf](https://github.com/muesli/duf) - Disk Usage/Free Utility (today)
+- [muesli/duf](https://github.com/muesli/duf) - Disk Usage/Free Utility - a better &#39;df&#39; alternative (today)
 - [muesli/markscribe](https://github.com/muesli/markscribe) - Your personal markdown scribe with template-engine and Git(Hub) &amp; RSS powers 📜 (1 day ago)
 - [charmbracelet/charm](https://github.com/charmbracelet/charm) - The Charm Tool and Library 🌟 (2 days ago)
 - [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) - A powerful little TUI framework 🏗 (2 days ago)
@@ -22,7 +22,7 @@ of other projects. Curious what I've been hacking on recently?
 
 - [muesli/gitflux](https://github.com/muesli/gitflux) - Track your GitHub projects in InfluxDB and create beautiful graphs with Grafana
 - [muesli/configaro](https://github.com/muesli/configaro) - The Marriage of (Con)Figaro - A small but flexible config system that&#39;s XDG-compliant
-- [muesli/duf](https://github.com/muesli/duf) - Disk Usage/Free Utility
+- [muesli/duf](https://github.com/muesli/duf) - Disk Usage/Free Utility - a better &#39;df&#39; alternative
 - [muesli/jigo](https://github.com/muesli/jigo) - A set of #golang jigs
 - [muesli/sasquatch](https://github.com/muesli/sasquatch) - A simple data encryption library
 
