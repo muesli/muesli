@@ -13,8 +13,8 @@ of other projects. Curious what I've been hacking on recently?
 #### 👷 Check out what I'm currently working on
 
 - [muesli/duf](https://github.com/muesli/duf) - Disk Usage/Free Utility - a better &#39;df&#39; alternative (today)
+- [muesli/homebrew-tap](https://github.com/muesli/homebrew-tap) - muesli&#39;s Homebrew tap (today)
 - [muesli/markscribe](https://github.com/muesli/markscribe) - Your personal markdown scribe with template-engine and Git(Hub) &amp; RSS powers 📜 (1 day ago)
-- [charmbracelet/charm](https://github.com/charmbracelet/charm) - The Charm Tool and Library 🌟 (2 days ago)
 - [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) - A powerful little TUI framework 🏗 (2 days ago)
 - [muesli/termenv](https://github.com/muesli/termenv) - Advanced ANSI style &amp; color support for your terminal applications (2 days ago)
 
@@ -28,11 +28,11 @@ of other projects. Curious what I've been hacking on recently?
 
 #### 🔭 Latest releases I've contributed to
 
+- [muesli/duf](https://github.com/muesli/duf) ([v0.5.0](https://github.com/muesli/duf/releases/tag/v0.5.0), today) - Disk Usage/Free Utility - a better &#39;df&#39; alternative
 - [42wim/matterircd](https://github.com/42wim/matterircd) ([v0.20.2](https://github.com/42wim/matterircd/releases/tag/v0.20.2), 2 days ago) - Connect to your mattermost or slack using your IRC-client of choice.
 - [charmbracelet/bubbles](https://github.com/charmbracelet/bubbles) ([v0.7.2](https://github.com/charmbracelet/bubbles/releases/tag/v0.7.2), 4 days ago) - TUI components for Bubble Tea 🍡
 - [muesli/kmeans](https://github.com/muesli/kmeans) ([v0.2.0](https://github.com/muesli/kmeans/releases/tag/v0.2.0), 5 days ago) - k-means clustering algorithm implementation written in Go
 - [muesli/gamut](https://github.com/muesli/gamut) ([v0.1.0](https://github.com/muesli/gamut/releases/tag/v0.1.0), 5 days ago) - Go package to generate and manage color palettes &amp; schemes
-- [charmbracelet/glow](https://github.com/charmbracelet/glow) ([v1.1.0](https://github.com/charmbracelet/glow/releases/tag/v1.1.0), 5 days ago) - Render markdown on the CLI, with pizzazz! 💅🏻
 
 #### 📜 My recent blog posts
 
