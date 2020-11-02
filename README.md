@@ -12,11 +12,11 @@ of other projects. Curious what I've been hacking on recently?
 
 #### 👷 Check out what I'm currently working on
 
-- [muesli/gamut](https://github.com/muesli/gamut) - Go package to generate and manage color palettes &amp; schemes (today)
-- [muesli/duf](https://github.com/muesli/duf) - Disk Usage/Free Utility - a better &#39;df&#39; alternative (today)
-- [muesli/homebrew-tap](https://github.com/muesli/homebrew-tap) - muesli&#39;s Homebrew tap (today)
-- [muesli/markscribe](https://github.com/muesli/markscribe) - Your personal markdown scribe with template-engine and Git(Hub) &amp; RSS powers 📜 (1 day ago)
-- [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) - A powerful little TUI framework 🏗 (2 days ago)
+- [muesli/gamut](https://github.com/muesli/gamut) - Go package to generate and manage color palettes &amp; schemes (1 day ago)
+- [muesli/duf](https://github.com/muesli/duf) - Disk Usage/Free Utility - a better &#39;df&#39; alternative (1 day ago)
+- [muesli/homebrew-tap](https://github.com/muesli/homebrew-tap) - muesli&#39;s Homebrew tap (1 day ago)
+- [muesli/markscribe](https://github.com/muesli/markscribe) - Your personal markdown scribe with template-engine and Git(Hub) &amp; RSS powers 📜 (2 days ago)
+- [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) - A powerful little TUI framework 🏗 (3 days ago)
 
 #### 🌱 My latest projects
 
@@ -28,11 +28,11 @@ of other projects. Curious what I've been hacking on recently?
 
 #### 🔭 Latest releases I've contributed to
 
-- [muesli/gamut](https://github.com/muesli/gamut) ([v0.1.1](https://github.com/muesli/gamut/releases/tag/v0.1.1), today) - Go package to generate and manage color palettes &amp; schemes
-- [muesli/duf](https://github.com/muesli/duf) ([v0.5.0](https://github.com/muesli/duf/releases/tag/v0.5.0), today) - Disk Usage/Free Utility - a better &#39;df&#39; alternative
-- [42wim/matterircd](https://github.com/42wim/matterircd) ([v0.20.2](https://github.com/42wim/matterircd/releases/tag/v0.20.2), 2 days ago) - Connect to your mattermost or slack using your IRC-client of choice.
-- [muesli/kmeans](https://github.com/muesli/kmeans) ([v0.2.0](https://github.com/muesli/kmeans/releases/tag/v0.2.0), 5 days ago) - k-means clustering algorithm implementation written in Go
-- [charmbracelet/glow](https://github.com/charmbracelet/glow) ([v1.1.0](https://github.com/charmbracelet/glow/releases/tag/v1.1.0), 5 days ago) - Render markdown on the CLI, with pizzazz! 💅🏻
+- [muesli/gamut](https://github.com/muesli/gamut) ([v0.1.1](https://github.com/muesli/gamut/releases/tag/v0.1.1), 1 day ago) - Go package to generate and manage color palettes &amp; schemes
+- [muesli/duf](https://github.com/muesli/duf) ([v0.5.0](https://github.com/muesli/duf/releases/tag/v0.5.0), 1 day ago) - Disk Usage/Free Utility - a better &#39;df&#39; alternative
+- [42wim/matterircd](https://github.com/42wim/matterircd) ([v0.20.2](https://github.com/42wim/matterircd/releases/tag/v0.20.2), 3 days ago) - Connect to your mattermost or slack using your IRC-client of choice.
+- [muesli/kmeans](https://github.com/muesli/kmeans) ([v0.2.0](https://github.com/muesli/kmeans/releases/tag/v0.2.0), 6 days ago) - k-means clustering algorithm implementation written in Go
+- [charmbracelet/glow](https://github.com/charmbracelet/glow) ([v1.1.0](https://github.com/charmbracelet/glow/releases/tag/v1.1.0), 6 days ago) - Render markdown on the CLI, with pizzazz! 💅🏻
 
 #### 📜 My recent blog posts
 
@@ -44,8 +44,8 @@ of other projects. Curious what I've been hacking on recently?
 
 #### ❤️ These awesome people sponsor me (thank you!)
 
-- [benleb](https://github.com/benleb) (6 days ago)
-- [hugomd](https://github.com/hugomd) (6 days ago)
+- [benleb](https://github.com/benleb) (1 week ago)
+- [hugomd](https://github.com/hugomd) (1 week ago)
 - [sthagen](https://github.com/sthagen) (1 week ago)
 - [berkus](https://github.com/berkus) (1 month ago)
 - [lfuelling](https://github.com/lfuelling) (7 months ago)
