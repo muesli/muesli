@@ -28,11 +28,11 @@ of other projects. Curious what I've been hacking on recently?
 
 #### 🔭 Latest releases I've contributed to
 
+- [charmbracelet/bubbles](https://github.com/charmbracelet/bubbles) ([v0.7.3](https://github.com/charmbracelet/bubbles/releases/tag/v0.7.3), today) - TUI components for Bubble Tea 🍡
+- [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) ([v0.12.2](https://github.com/charmbracelet/bubbletea/releases/tag/v0.12.2), today) - A powerful little TUI framework 🏗
 - [muesli/gamut](https://github.com/muesli/gamut) ([v0.1.1](https://github.com/muesli/gamut/releases/tag/v0.1.1), 1 day ago) - Go package to generate and manage color palettes &amp; schemes
 - [muesli/duf](https://github.com/muesli/duf) ([v0.5.0](https://github.com/muesli/duf/releases/tag/v0.5.0), 1 day ago) - Disk Usage/Free Utility - a better &#39;df&#39; alternative
 - [42wim/matterircd](https://github.com/42wim/matterircd) ([v0.20.2](https://github.com/42wim/matterircd/releases/tag/v0.20.2), 3 days ago) - Connect to your mattermost or slack using your IRC-client of choice.
-- [muesli/kmeans](https://github.com/muesli/kmeans) ([v0.2.0](https://github.com/muesli/kmeans/releases/tag/v0.2.0), 6 days ago) - k-means clustering algorithm implementation written in Go
-- [charmbracelet/glow](https://github.com/charmbracelet/glow) ([v1.1.0](https://github.com/charmbracelet/glow/releases/tag/v1.1.0), 6 days ago) - Render markdown on the CLI, with pizzazz! 💅🏻
 
 #### 📜 My recent blog posts
 
