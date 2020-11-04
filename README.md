@@ -12,11 +12,11 @@ of other projects. Curious what I've been hacking on recently?
 
 #### 👷 Check out what I'm currently working on
 
-- [muesli/markscribe](https://github.com/muesli/markscribe) - Your personal markdown scribe with template-engine and Git(Hub) &amp; RSS powers 📜 (today)
-- [muesli/homebrew-tap](https://github.com/muesli/homebrew-tap) - muesli&#39;s Homebrew tap (today)
-- [muesli/duf](https://github.com/muesli/duf) - Disk Usage/Free Utility - a better &#39;df&#39; alternative (1 day ago)
-- [muesli/gamut](https://github.com/muesli/gamut) - Go package to generate and manage color palettes &amp; schemes (2 days ago)
-- [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) - A powerful little TUI framework 🏗 (4 days ago)
+- [muesli/markscribe](https://github.com/muesli/markscribe) - Your personal markdown scribe with template-engine and Git(Hub) &amp; RSS powers 📜 (1 day ago)
+- [muesli/homebrew-tap](https://github.com/muesli/homebrew-tap) - muesli&#39;s Homebrew tap (1 day ago)
+- [muesli/duf](https://github.com/muesli/duf) - Disk Usage/Free Utility - a better &#39;df&#39; alternative (2 days ago)
+- [muesli/gamut](https://github.com/muesli/gamut) - Go package to generate and manage color palettes &amp; schemes (3 days ago)
+- [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) - A powerful little TUI framework 🏗 (5 days ago)
 
 #### 🌱 My latest projects
 
@@ -28,11 +28,11 @@ of other projects. Curious what I've been hacking on recently?
 
 #### 🔭 Latest releases I've contributed to
 
-- [muesli/markscribe](https://github.com/muesli/markscribe) ([v0.3.0](https://github.com/muesli/markscribe/releases/tag/v0.3.0), today) - Your personal markdown scribe with template-engine and Git(Hub) &amp; RSS powers 📜
-- [charmbracelet/bubbles](https://github.com/charmbracelet/bubbles) ([v0.7.3](https://github.com/charmbracelet/bubbles/releases/tag/v0.7.3), 1 day ago) - TUI components for Bubble Tea 🍡
-- [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) ([v0.12.2](https://github.com/charmbracelet/bubbletea/releases/tag/v0.12.2), 1 day ago) - A powerful little TUI framework 🏗
-- [muesli/gamut](https://github.com/muesli/gamut) ([v0.1.1](https://github.com/muesli/gamut/releases/tag/v0.1.1), 2 days ago) - Go package to generate and manage color palettes &amp; schemes
-- [muesli/duf](https://github.com/muesli/duf) ([v0.5.0](https://github.com/muesli/duf/releases/tag/v0.5.0), 2 days ago) - Disk Usage/Free Utility - a better &#39;df&#39; alternative
+- [muesli/markscribe](https://github.com/muesli/markscribe) ([v0.3.0](https://github.com/muesli/markscribe/releases/tag/v0.3.0), 1 day ago) - Your personal markdown scribe with template-engine and Git(Hub) &amp; RSS powers 📜
+- [charmbracelet/bubbles](https://github.com/charmbracelet/bubbles) ([v0.7.3](https://github.com/charmbracelet/bubbles/releases/tag/v0.7.3), 2 days ago) - TUI components for Bubble Tea 🍡
+- [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) ([v0.12.2](https://github.com/charmbracelet/bubbletea/releases/tag/v0.12.2), 2 days ago) - A powerful little TUI framework 🏗
+- [muesli/gamut](https://github.com/muesli/gamut) ([v0.1.1](https://github.com/muesli/gamut/releases/tag/v0.1.1), 3 days ago) - Go package to generate and manage color palettes &amp; schemes
+- [muesli/duf](https://github.com/muesli/duf) ([v0.5.0](https://github.com/muesli/duf/releases/tag/v0.5.0), 3 days ago) - Disk Usage/Free Utility - a better &#39;df&#39; alternative
 
 #### 📜 My recent blog posts
 
