@@ -12,11 +12,11 @@ of other projects. Curious what I've been hacking on recently?
 
 #### 👷 Check out what I'm currently working on
 
-- [muesli/homebrew-tap](https://github.com/muesli/homebrew-tap) - muesli&#39;s Homebrew tap (1 day ago)
-- [muesli/mastotool](https://github.com/muesli/mastotool) - A collection of command-line tools to work with your Mastodon account (1 day ago)
-- [craftamap/bb](https://github.com/craftamap/bb) - inoffical Bitbucket.org command line tool (3 days ago)
-- [muesli/markscribe](https://github.com/muesli/markscribe) - Your personal markdown scribe with template-engine and Git(Hub) &amp; RSS powers 📜 (5 days ago)
-- [muesli/duf](https://github.com/muesli/duf) - Disk Usage/Free Utility - a better &#39;df&#39; alternative (6 days ago)
+- [muesli/homebrew-tap](https://github.com/muesli/homebrew-tap) - muesli&#39;s Homebrew tap (2 days ago)
+- [muesli/mastotool](https://github.com/muesli/mastotool) - A collection of command-line tools to work with your Mastodon account (2 days ago)
+- [craftamap/bb](https://github.com/craftamap/bb) - inoffical Bitbucket.org command line tool (4 days ago)
+- [muesli/markscribe](https://github.com/muesli/markscribe) - Your personal markdown scribe with template-engine and Git(Hub) &amp; RSS powers 📜 (6 days ago)
+- [muesli/duf](https://github.com/muesli/duf) - Disk Usage/Free Utility - a better &#39;df&#39; alternative (1 week ago)
 
 #### 🌱 My latest projects
 
@@ -28,11 +28,11 @@ of other projects. Curious what I've been hacking on recently?
 
 #### 🔭 Latest releases I've contributed to
 
-- [aelsabbahy/goss](https://github.com/aelsabbahy/goss) ([v0.3.14](https://github.com/aelsabbahy/goss/releases/tag/v0.3.14), today) - Quick and Easy server testing/validation
-- [muesli/mastotool](https://github.com/muesli/mastotool) ([v0.2.4](https://github.com/muesli/mastotool/releases/tag/v0.2.4), 1 day ago) - A collection of command-line tools to work with your Mastodon account
-- [craftamap/bb](https://github.com/craftamap/bb) ([v0.1.1](https://github.com/craftamap/bb/releases/tag/v0.1.1), 3 days ago) - inoffical Bitbucket.org command line tool
-- [muesli/markscribe](https://github.com/muesli/markscribe) ([v0.3.0](https://github.com/muesli/markscribe/releases/tag/v0.3.0), 5 days ago) - Your personal markdown scribe with template-engine and Git(Hub) &amp; RSS powers 📜
-- [charmbracelet/bubbles](https://github.com/charmbracelet/bubbles) ([v0.7.3](https://github.com/charmbracelet/bubbles/releases/tag/v0.7.3), 6 days ago) - TUI components for Bubble Tea 🍡
+- [aelsabbahy/goss](https://github.com/aelsabbahy/goss) ([v0.3.14](https://github.com/aelsabbahy/goss/releases/tag/v0.3.14), 1 day ago) - Quick and Easy server testing/validation
+- [muesli/mastotool](https://github.com/muesli/mastotool) ([v0.2.4](https://github.com/muesli/mastotool/releases/tag/v0.2.4), 2 days ago) - A collection of command-line tools to work with your Mastodon account
+- [craftamap/bb](https://github.com/craftamap/bb) ([v0.1.1](https://github.com/craftamap/bb/releases/tag/v0.1.1), 4 days ago) - inoffical Bitbucket.org command line tool
+- [muesli/markscribe](https://github.com/muesli/markscribe) ([v0.3.0](https://github.com/muesli/markscribe/releases/tag/v0.3.0), 6 days ago) - Your personal markdown scribe with template-engine and Git(Hub) &amp; RSS powers 📜
+- [charmbracelet/bubbles](https://github.com/charmbracelet/bubbles) ([v0.7.3](https://github.com/charmbracelet/bubbles/releases/tag/v0.7.3), 1 week ago) - TUI components for Bubble Tea 🍡
 
 #### 📜 My recent blog posts
 
@@ -44,8 +44,8 @@ of other projects. Curious what I've been hacking on recently?
 
 #### ❤️ These awesome people sponsor me (thank you!)
 
-- [benleb](https://github.com/benleb) (1 week ago)
-- [hugomd](https://github.com/hugomd) (1 week ago)
+- [benleb](https://github.com/benleb) (2 weeks ago)
+- [hugomd](https://github.com/hugomd) (2 weeks ago)
 - [sthagen](https://github.com/sthagen) (2 weeks ago)
 - [berkus](https://github.com/berkus) (1 month ago)
 - [lfuelling](https://github.com/lfuelling) (7 months ago)
