@@ -31,8 +31,8 @@ of other projects. Curious what I've been hacking on recently?
 - [muesli/deckmaster](https://github.com/muesli/deckmaster) ([v0.1.0](https://github.com/muesli/deckmaster/releases/tag/v0.1.0), today) - An application to control your Elgato Stream Deck on Linux
 - [muesli/streamdeck](https://github.com/muesli/streamdeck) ([v0.1.0](https://github.com/muesli/streamdeck/releases/tag/v0.1.0), today) - An application and Go library to control your Elgato Stream Deck on Linux
 - [muesli/gamut](https://github.com/muesli/gamut) ([v0.1.2](https://github.com/muesli/gamut/releases/tag/v0.1.2), 1 day ago) - Go package to generate and manage color palettes &amp; schemes 🎨
-- [charmbracelet/bubbles](https://github.com/charmbracelet/bubbles) ([v0.7.4](https://github.com/charmbracelet/bubbles/releases/tag/v0.7.4), 1 day ago) - TUI components for Bubble Tea 🍡
 - [aelsabbahy/goss](https://github.com/aelsabbahy/goss) ([v0.3.14](https://github.com/aelsabbahy/goss/releases/tag/v0.3.14), 2 days ago) - Quick and Easy server testing/validation
+- [muesli/mastotool](https://github.com/muesli/mastotool) ([v0.2.4](https://github.com/muesli/mastotool/releases/tag/v0.2.4), 3 days ago) - A collection of command-line tools to work with your Mastodon account
 
 #### 📜 My recent blog posts
 
