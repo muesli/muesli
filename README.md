@@ -12,19 +12,19 @@ of other projects. Curious what I've been hacking on recently?
 
 #### 👷 Check out what I'm currently working on
 
+- [muesli/saloon](https://github.com/muesli/saloon) - Saloon, an Arduino/ESP-based Information Monitor (today)
 - [muesli/gamut](https://github.com/muesli/gamut) - Go package to generate and manage color palettes &amp; schemes 🎨 (1 day ago)
 - [muesli/homebrew-tap](https://github.com/muesli/homebrew-tap) - muesli&#39;s Homebrew tap (3 days ago)
 - [muesli/mastotool](https://github.com/muesli/mastotool) - A collection of command-line tools to work with your Mastodon account (3 days ago)
 - [craftamap/bb](https://github.com/craftamap/bb) - inoffical Bitbucket.org command line tool (5 days ago)
-- [muesli/markscribe](https://github.com/muesli/markscribe) - Your personal markdown scribe with template-engine and Git(Hub) &amp; RSS powers 📜 (1 week ago)
 
 #### 🌱 My latest projects
 
+- [muesli/saloon](https://github.com/muesli/saloon) - Saloon, an Arduino/ESP-based Information Monitor
 - [muesli/gitflux](https://github.com/muesli/gitflux) - Track your GitHub projects in InfluxDB and create beautiful graphs with Grafana
 - [muesli/configaro](https://github.com/muesli/configaro) - The Marriage of (Con)Figaro - A small but flexible config system that&#39;s XDG-compliant
 - [muesli/duf](https://github.com/muesli/duf) - Disk Usage/Free Utility - a better &#39;df&#39; alternative
 - [muesli/jigo](https://github.com/muesli/jigo) - A set of #golang jigs
-- [muesli/sasquatch](https://github.com/muesli/sasquatch) - A simple data encryption library
 
 #### 🔭 Latest releases I've contributed to
 
