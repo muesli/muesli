@@ -12,11 +12,11 @@ of other projects. Curious what I've been hacking on recently?
 
 #### 👷 Check out what I'm currently working on
 
-- [muesli/gamut](https://github.com/muesli/gamut) - Go package to generate and manage color palettes &amp; schemes (today)
-- [muesli/homebrew-tap](https://github.com/muesli/homebrew-tap) - muesli&#39;s Homebrew tap (2 days ago)
-- [muesli/mastotool](https://github.com/muesli/mastotool) - A collection of command-line tools to work with your Mastodon account (2 days ago)
-- [craftamap/bb](https://github.com/craftamap/bb) - inoffical Bitbucket.org command line tool (4 days ago)
-- [muesli/markscribe](https://github.com/muesli/markscribe) - Your personal markdown scribe with template-engine and Git(Hub) &amp; RSS powers 📜 (6 days ago)
+- [muesli/gamut](https://github.com/muesli/gamut) - Go package to generate and manage color palettes &amp; schemes (1 day ago)
+- [muesli/homebrew-tap](https://github.com/muesli/homebrew-tap) - muesli&#39;s Homebrew tap (3 days ago)
+- [muesli/mastotool](https://github.com/muesli/mastotool) - A collection of command-line tools to work with your Mastodon account (3 days ago)
+- [craftamap/bb](https://github.com/craftamap/bb) - inoffical Bitbucket.org command line tool (5 days ago)
+- [muesli/markscribe](https://github.com/muesli/markscribe) - Your personal markdown scribe with template-engine and Git(Hub) &amp; RSS powers 📜 (1 week ago)
 
 #### 🌱 My latest projects
 
@@ -28,11 +28,11 @@ of other projects. Curious what I've been hacking on recently?
 
 #### 🔭 Latest releases I've contributed to
 
-- [muesli/gamut](https://github.com/muesli/gamut) ([v0.1.2](https://github.com/muesli/gamut/releases/tag/v0.1.2), today) - Go package to generate and manage color palettes &amp; schemes
-- [charmbracelet/bubbles](https://github.com/charmbracelet/bubbles) ([v0.7.4](https://github.com/charmbracelet/bubbles/releases/tag/v0.7.4), today) - TUI components for Bubble Tea 🍡
-- [aelsabbahy/goss](https://github.com/aelsabbahy/goss) ([v0.3.14](https://github.com/aelsabbahy/goss/releases/tag/v0.3.14), 1 day ago) - Quick and Easy server testing/validation
-- [muesli/mastotool](https://github.com/muesli/mastotool) ([v0.2.4](https://github.com/muesli/mastotool/releases/tag/v0.2.4), 2 days ago) - A collection of command-line tools to work with your Mastodon account
-- [craftamap/bb](https://github.com/craftamap/bb) ([v0.1.1](https://github.com/craftamap/bb/releases/tag/v0.1.1), 4 days ago) - inoffical Bitbucket.org command line tool
+- [muesli/gamut](https://github.com/muesli/gamut) ([v0.1.2](https://github.com/muesli/gamut/releases/tag/v0.1.2), 1 day ago) - Go package to generate and manage color palettes &amp; schemes
+- [charmbracelet/bubbles](https://github.com/charmbracelet/bubbles) ([v0.7.4](https://github.com/charmbracelet/bubbles/releases/tag/v0.7.4), 1 day ago) - TUI components for Bubble Tea 🍡
+- [aelsabbahy/goss](https://github.com/aelsabbahy/goss) ([v0.3.14](https://github.com/aelsabbahy/goss/releases/tag/v0.3.14), 2 days ago) - Quick and Easy server testing/validation
+- [muesli/mastotool](https://github.com/muesli/mastotool) ([v0.2.4](https://github.com/muesli/mastotool/releases/tag/v0.2.4), 3 days ago) - A collection of command-line tools to work with your Mastodon account
+- [craftamap/bb](https://github.com/craftamap/bb) ([v0.1.1](https://github.com/craftamap/bb/releases/tag/v0.1.1), 5 days ago) - inoffical Bitbucket.org command line tool
 
 #### 📜 My recent blog posts
 
