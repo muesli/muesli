@@ -12,11 +12,11 @@ of other projects. Curious what I've been hacking on recently?
 
 #### 👷 Check out what I'm currently working on
 
+- [muesli/beehive](https://github.com/muesli/beehive) - A flexible event/agent &amp; automation system with lots of bees 🐝 (today)
 - [muesli/saloon](https://github.com/muesli/saloon) - Saloon, an Arduino/ESP-based Information Monitor (1 day ago)
 - [muesli/magicwand](https://github.com/muesli/magicwand) - MagicWand makes your input devices context sensitive (1 day ago)
 - [muesli/deckmaster](https://github.com/muesli/deckmaster) - An application to control your Elgato Stream Deck on Linux (1 day ago)
 - [muesli/homebrew-tap](https://github.com/muesli/homebrew-tap) - muesli&#39;s Homebrew tap (1 day ago)
-- [muesli/streamdeck](https://github.com/muesli/streamdeck) - An application and Go library to control your Elgato Stream Deck on Linux (1 day ago)
 
 #### 🌱 My latest projects
 
