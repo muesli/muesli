@@ -12,10 +12,10 @@ of other projects. Curious what I've been hacking on recently?
 
 #### 👷 Check out what I'm currently working on
 
+- [owncast/owncast](https://github.com/owncast/owncast) - Take control over your live stream video by running it yourself.  Streaming &#43; chat out of the box. (today)
 - [muesli/homebrew-tap](https://github.com/muesli/homebrew-tap) - muesli&#39;s Homebrew tap (today)
 - [muesli/beehive](https://github.com/muesli/beehive) - A flexible event/agent &amp; automation system with lots of bees 🐝 (1 day ago)
 - [muesli/streamdeck](https://github.com/muesli/streamdeck) - An application and Go library to control your Elgato Stream Deck on Linux (2 days ago)
-- [muesli/saloon](https://github.com/muesli/saloon) - Saloon, an Arduino/ESP-based Information Monitor (2 days ago)
 - [muesli/magicwand](https://github.com/muesli/magicwand) - MagicWand makes your input devices context sensitive (2 days ago)
 
 #### 🌱 My latest projects
