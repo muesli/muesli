@@ -12,11 +12,11 @@ of other projects. Curious what I've been hacking on recently?
 
 #### 👷 Check out what I'm currently working on
 
-- [owncast/owncast](https://github.com/owncast/owncast) - Take control over your live stream video by running it yourself.  Streaming &#43; chat out of the box. (today)
-- [muesli/homebrew-tap](https://github.com/muesli/homebrew-tap) - muesli&#39;s Homebrew tap (1 day ago)
-- [muesli/beehive](https://github.com/muesli/beehive) - A flexible event/agent &amp; automation system with lots of bees 🐝 (2 days ago)
-- [muesli/magicwand](https://github.com/muesli/magicwand) - MagicWand makes your input devices context sensitive (3 days ago)
-- [muesli/deckmaster](https://github.com/muesli/deckmaster) - An application to control your Elgato Stream Deck on Linux (3 days ago)
+- [owncast/owncast](https://github.com/owncast/owncast) - Take control over your live stream video by running it yourself.  Streaming &#43; chat out of the box. (1 day ago)
+- [muesli/homebrew-tap](https://github.com/muesli/homebrew-tap) - muesli&#39;s Homebrew tap (2 days ago)
+- [muesli/beehive](https://github.com/muesli/beehive) - A flexible event/agent &amp; automation system with lots of bees 🐝 (3 days ago)
+- [muesli/magicwand](https://github.com/muesli/magicwand) - MagicWand makes your input devices context sensitive (4 days ago)
+- [muesli/deckmaster](https://github.com/muesli/deckmaster) - An application to control your Elgato Stream Deck on Linux (4 days ago)
 
 #### 🌱 My latest projects
 
@@ -28,11 +28,11 @@ of other projects. Curious what I've been hacking on recently?
 
 #### 🔭 Latest releases I've contributed to
 
-- [charmbracelet/bubbles](https://github.com/charmbracelet/bubbles) ([v0.7.5](https://github.com/charmbracelet/bubbles/releases/tag/v0.7.5), 1 day ago) - TUI components for Bubble Tea 🍡
-- [trashhalo/imgcat](https://github.com/trashhalo/imgcat) ([v1.2.0](https://github.com/trashhalo/imgcat/releases/tag/v1.2.0), 1 day ago) - a tool to output images as RGB ANSI graphics on the terminal
-- [cli/cli](https://github.com/cli/cli) ([v1.2.1](https://github.com/cli/cli/releases/tag/v1.2.1), 2 days ago) - GitHub’s official command line tool
-- [muesli/deckmaster](https://github.com/muesli/deckmaster) ([v0.1.0](https://github.com/muesli/deckmaster/releases/tag/v0.1.0), 3 days ago) - An application to control your Elgato Stream Deck on Linux
-- [muesli/streamdeck](https://github.com/muesli/streamdeck) ([v0.1.0](https://github.com/muesli/streamdeck/releases/tag/v0.1.0), 3 days ago) - An application and Go library to control your Elgato Stream Deck on Linux
+- [charmbracelet/bubbles](https://github.com/charmbracelet/bubbles) ([v0.7.5](https://github.com/charmbracelet/bubbles/releases/tag/v0.7.5), 2 days ago) - TUI components for Bubble Tea 🍡
+- [trashhalo/imgcat](https://github.com/trashhalo/imgcat) ([v1.2.0](https://github.com/trashhalo/imgcat/releases/tag/v1.2.0), 2 days ago) - a tool to output images as RGB ANSI graphics on the terminal
+- [cli/cli](https://github.com/cli/cli) ([v1.2.1](https://github.com/cli/cli/releases/tag/v1.2.1), 3 days ago) - GitHub’s official command line tool
+- [muesli/deckmaster](https://github.com/muesli/deckmaster) ([v0.1.0](https://github.com/muesli/deckmaster/releases/tag/v0.1.0), 4 days ago) - An application to control your Elgato Stream Deck on Linux
+- [muesli/streamdeck](https://github.com/muesli/streamdeck) ([v0.1.0](https://github.com/muesli/streamdeck/releases/tag/v0.1.0), 4 days ago) - An application and Go library to control your Elgato Stream Deck on Linux
 
 #### 📜 My recent blog posts
 
@@ -46,7 +46,7 @@ of other projects. Curious what I've been hacking on recently?
 
 - [benleb](https://github.com/benleb) (2 weeks ago)
 - [hugomd](https://github.com/hugomd) (2 weeks ago)
-- [sthagen](https://github.com/sthagen) (2 weeks ago)
+- [sthagen](https://github.com/sthagen) (3 weeks ago)
 - [berkus](https://github.com/berkus) (1 month ago)
 - [lfuelling](https://github.com/lfuelling) (7 months ago)
 
