@@ -12,27 +12,27 @@ of other projects. Curious what I've been hacking on recently?
 
 #### 👷 Check out what I'm currently working on
 
+- [muesli/prism](https://github.com/muesli/prism) - An RTMP stream recaster / splitter (today)
+- [muesli/homebrew-tap](https://github.com/muesli/homebrew-tap) - muesli&#39;s Homebrew tap (today)
 - [owncast/owncast](https://github.com/owncast/owncast) - Take control over your live stream video by running it yourself.  Streaming &#43; chat out of the box. (1 day ago)
-- [muesli/homebrew-tap](https://github.com/muesli/homebrew-tap) - muesli&#39;s Homebrew tap (4 days ago)
 - [muesli/beehive](https://github.com/muesli/beehive) - A flexible event/agent &amp; automation system with lots of bees 🐝 (5 days ago)
-- [muesli/deckmaster](https://github.com/muesli/deckmaster) - An application to control your Elgato Stream Deck on Linux (6 days ago)
 - [muesli/magicwand](https://github.com/muesli/magicwand) - MagicWand makes your input devices context sensitive (6 days ago)
 
 #### 🌱 My latest projects
 
+- [muesli/prism](https://github.com/muesli/prism) - An RTMP stream recaster / splitter
 - [muesli/saloon](https://github.com/muesli/saloon) - Saloon, an Arduino/ESP-based Information Monitor
 - [muesli/gitflux](https://github.com/muesli/gitflux) - Track your GitHub projects in InfluxDB and create beautiful graphs with Grafana
 - [muesli/configaro](https://github.com/muesli/configaro) - The Marriage of (Con)Figaro - A small but flexible config system that&#39;s XDG-compliant
 - [muesli/duf](https://github.com/muesli/duf) - Disk Usage/Free Utility - a better &#39;df&#39; alternative
-- [muesli/jigo](https://github.com/muesli/jigo) - A set of #golang jigs
 
 #### 🔭 Latest releases I've contributed to
 
+- [muesli/prism](https://github.com/muesli/prism) ([v0.1.0](https://github.com/muesli/prism/releases/tag/v0.1.0), today) - An RTMP stream recaster / splitter
 - [charmbracelet/bubbles](https://github.com/charmbracelet/bubbles) ([v0.7.5](https://github.com/charmbracelet/bubbles/releases/tag/v0.7.5), 4 days ago) - TUI components for Bubble Tea 🍡
 - [trashhalo/imgcat](https://github.com/trashhalo/imgcat) ([v1.2.0](https://github.com/trashhalo/imgcat/releases/tag/v1.2.0), 4 days ago) - a tool to output images as RGB ANSI graphics on the terminal
 - [cli/cli](https://github.com/cli/cli) ([v1.2.1](https://github.com/cli/cli/releases/tag/v1.2.1), 5 days ago) - GitHub’s official command line tool
 - [muesli/deckmaster](https://github.com/muesli/deckmaster) ([v0.1.0](https://github.com/muesli/deckmaster/releases/tag/v0.1.0), 6 days ago) - An application to control your Elgato Stream Deck on Linux
-- [muesli/streamdeck](https://github.com/muesli/streamdeck) ([v0.1.0](https://github.com/muesli/streamdeck/releases/tag/v0.1.0), 6 days ago) - An application and Go library to control your Elgato Stream Deck on Linux
 
 #### 📜 My recent blog posts
 
