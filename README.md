@@ -12,11 +12,11 @@ of other projects. Curious what I've been hacking on recently?
 
 #### 👷 Check out what I'm currently working on
 
+- [hakavlad/nohang](https://github.com/hakavlad/nohang) - A sophisticated low memory handler for Linux (today)
 - [Homebrew/homebrew-core](https://github.com/Homebrew/homebrew-core) - 🍻 Default formulae for the missing package manager for macOS (1 day ago)
 - [charmbracelet/homebrew-tap](https://github.com/charmbracelet/homebrew-tap) - Our homebrew tap 🍺 (2 days ago)
 - [owncast/owncast](https://github.com/owncast/owncast) - Take control over your live stream video by running it yourself.  Streaming &#43; chat out of the box. (4 days ago)
 - [muesli/prism](https://github.com/muesli/prism) - An RTMP stream recaster / splitter (5 days ago)
-- [muesli/homebrew-tap](https://github.com/muesli/homebrew-tap) - muesli&#39;s Homebrew tap (1 week ago)
 
 #### 🌱 My latest projects
 
