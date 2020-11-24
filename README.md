@@ -12,11 +12,11 @@ of other projects. Curious what I've been hacking on recently?
 
 #### 👷 Check out what I'm currently working on
 
-- [hakavlad/nohang](https://github.com/hakavlad/nohang) - A sophisticated low memory handler for Linux (today)
-- [Homebrew/homebrew-core](https://github.com/Homebrew/homebrew-core) - 🍻 Default formulae for the missing package manager for macOS (1 day ago)
-- [charmbracelet/homebrew-tap](https://github.com/charmbracelet/homebrew-tap) - Our homebrew tap 🍺 (2 days ago)
-- [owncast/owncast](https://github.com/owncast/owncast) - Take control over your live stream video by running it yourself.  Streaming &#43; chat out of the box. (4 days ago)
-- [muesli/prism](https://github.com/muesli/prism) - An RTMP stream recaster / splitter (5 days ago)
+- [hakavlad/nohang](https://github.com/hakavlad/nohang) - A sophisticated low memory handler for Linux (1 day ago)
+- [Homebrew/homebrew-core](https://github.com/Homebrew/homebrew-core) - 🍻 Default formulae for the missing package manager for macOS (2 days ago)
+- [charmbracelet/homebrew-tap](https://github.com/charmbracelet/homebrew-tap) - Our homebrew tap 🍺 (3 days ago)
+- [owncast/owncast](https://github.com/owncast/owncast) - Take control over your live stream video by running it yourself.  Streaming &#43; chat out of the box. (5 days ago)
+- [muesli/prism](https://github.com/muesli/prism) - An RTMP stream recaster / splitter (6 days ago)
 
 #### 🌱 My latest projects
 
@@ -28,7 +28,7 @@ of other projects. Curious what I've been hacking on recently?
 
 #### 🔭 Latest releases I've contributed to
 
-- [charmbracelet/glow](https://github.com/charmbracelet/glow) ([v1.2.0](https://github.com/charmbracelet/glow/releases/tag/v1.2.0), 2 days ago) - Render markdown on the CLI, with pizzazz! 💅🏻
+- [charmbracelet/glow](https://github.com/charmbracelet/glow) ([v1.2.0](https://github.com/charmbracelet/glow/releases/tag/v1.2.0), 3 days ago) - Render markdown on the CLI, with pizzazz! 💅🏻
 - [muesli/prism](https://github.com/muesli/prism) ([v0.1.0](https://github.com/muesli/prism/releases/tag/v0.1.0), 1 week ago) - An RTMP stream recaster / splitter
 - [charmbracelet/bubbles](https://github.com/charmbracelet/bubbles) ([v0.7.5](https://github.com/charmbracelet/bubbles/releases/tag/v0.7.5), 1 week ago) - TUI components for Bubble Tea 🍡
 - [trashhalo/imgcat](https://github.com/trashhalo/imgcat) ([v1.2.0](https://github.com/trashhalo/imgcat/releases/tag/v1.2.0), 1 week ago) - a tool to output images as RGB ANSI graphics on the terminal
