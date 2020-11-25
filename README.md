@@ -12,11 +12,11 @@ of other projects. Curious what I've been hacking on recently?
 
 #### 👷 Check out what I'm currently working on
 
-- [hakavlad/nohang](https://github.com/hakavlad/nohang) - A sophisticated low memory handler for Linux (1 day ago)
-- [Homebrew/homebrew-core](https://github.com/Homebrew/homebrew-core) - 🍻 Default formulae for the missing package manager for macOS (2 days ago)
-- [charmbracelet/homebrew-tap](https://github.com/charmbracelet/homebrew-tap) - Our homebrew tap 🍺 (3 days ago)
-- [owncast/owncast](https://github.com/owncast/owncast) - Take control over your live stream video by running it yourself.  Streaming &#43; chat out of the box. (5 days ago)
-- [muesli/prism](https://github.com/muesli/prism) - An RTMP stream recaster / splitter (6 days ago)
+- [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) - Deliver Go binaries as fast and easily as possible (today)
+- [hakavlad/nohang](https://github.com/hakavlad/nohang) - A sophisticated low memory handler for Linux (2 days ago)
+- [Homebrew/homebrew-core](https://github.com/Homebrew/homebrew-core) - 🍻 Default formulae for the missing package manager for macOS (3 days ago)
+- [charmbracelet/homebrew-tap](https://github.com/charmbracelet/homebrew-tap) - Our homebrew tap 🍺 (4 days ago)
+- [owncast/owncast](https://github.com/owncast/owncast) - Take control over your live stream video by running it yourself.  Streaming &#43; chat out of the box. (6 days ago)
 
 #### 🌱 My latest projects
 
@@ -28,11 +28,11 @@ of other projects. Curious what I've been hacking on recently?
 
 #### 🔭 Latest releases I've contributed to
 
-- [cli/cli](https://github.com/cli/cli) ([v1.3.0](https://github.com/cli/cli/releases/tag/v1.3.0), today) - GitHub’s official command line tool
-- [charmbracelet/glow](https://github.com/charmbracelet/glow) ([v1.2.0](https://github.com/charmbracelet/glow/releases/tag/v1.2.0), 3 days ago) - Render markdown on the CLI, with pizzazz! 💅🏻
+- [aelsabbahy/goss](https://github.com/aelsabbahy/goss) ([v0.3.15](https://github.com/aelsabbahy/goss/releases/tag/v0.3.15), today) - Quick and Easy server testing/validation
+- [cli/cli](https://github.com/cli/cli) ([v1.3.0](https://github.com/cli/cli/releases/tag/v1.3.0), 1 day ago) - GitHub’s official command line tool
+- [charmbracelet/glow](https://github.com/charmbracelet/glow) ([v1.2.0](https://github.com/charmbracelet/glow/releases/tag/v1.2.0), 4 days ago) - Render markdown on the CLI, with pizzazz! 💅🏻
+- [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) ([v0.147.2](https://github.com/goreleaser/goreleaser/releases/tag/v0.147.2), 1 week ago) - Deliver Go binaries as fast and easily as possible
 - [muesli/prism](https://github.com/muesli/prism) ([v0.1.0](https://github.com/muesli/prism/releases/tag/v0.1.0), 1 week ago) - An RTMP stream recaster / splitter
-- [charmbracelet/bubbles](https://github.com/charmbracelet/bubbles) ([v0.7.5](https://github.com/charmbracelet/bubbles/releases/tag/v0.7.5), 1 week ago) - TUI components for Bubble Tea 🍡
-- [trashhalo/imgcat](https://github.com/trashhalo/imgcat) ([v1.2.0](https://github.com/trashhalo/imgcat/releases/tag/v1.2.0), 1 week ago) - a tool to output images as RGB ANSI graphics on the terminal
 
 #### 📜 My recent blog posts
 
@@ -44,8 +44,8 @@ of other projects. Curious what I've been hacking on recently?
 
 #### ❤️ These awesome people sponsor me (thank you!)
 
-- [benleb](https://github.com/benleb) (4 weeks ago)
-- [hugomd](https://github.com/hugomd) (4 weeks ago)
+- [benleb](https://github.com/benleb) (1 month ago)
+- [hugomd](https://github.com/hugomd) (1 month ago)
 - [sthagen](https://github.com/sthagen) (1 month ago)
 - [berkus](https://github.com/berkus) (1 month ago)
 - [lfuelling](https://github.com/lfuelling) (7 months ago)
