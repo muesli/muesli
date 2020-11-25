@@ -12,11 +12,11 @@ of other projects. Curious what I've been hacking on recently?
 
 #### 👷 Check out what I'm currently working on
 
+- [charmbracelet/glow](https://github.com/charmbracelet/glow) - Render markdown on the CLI, with pizzazz! 💅🏻 (today)
+- [charmbracelet/homebrew-tap](https://github.com/charmbracelet/homebrew-tap) - Our homebrew tap 🍺 (today)
 - [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) - Deliver Go binaries as fast and easily as possible (today)
 - [hakavlad/nohang](https://github.com/hakavlad/nohang) - A sophisticated low memory handler for Linux (2 days ago)
 - [Homebrew/homebrew-core](https://github.com/Homebrew/homebrew-core) - 🍻 Default formulae for the missing package manager for macOS (3 days ago)
-- [charmbracelet/homebrew-tap](https://github.com/charmbracelet/homebrew-tap) - Our homebrew tap 🍺 (4 days ago)
-- [owncast/owncast](https://github.com/owncast/owncast) - Take control over your live stream video by running it yourself.  Streaming &#43; chat out of the box. (6 days ago)
 
 #### 🌱 My latest projects
 
@@ -28,9 +28,9 @@ of other projects. Curious what I've been hacking on recently?
 
 #### 🔭 Latest releases I've contributed to
 
+- [charmbracelet/glow](https://github.com/charmbracelet/glow) ([v1.2.1](https://github.com/charmbracelet/glow/releases/tag/v1.2.1), today) - Render markdown on the CLI, with pizzazz! 💅🏻
 - [aelsabbahy/goss](https://github.com/aelsabbahy/goss) ([v0.3.15](https://github.com/aelsabbahy/goss/releases/tag/v0.3.15), today) - Quick and Easy server testing/validation
 - [cli/cli](https://github.com/cli/cli) ([v1.3.0](https://github.com/cli/cli/releases/tag/v1.3.0), 1 day ago) - GitHub’s official command line tool
-- [charmbracelet/glow](https://github.com/charmbracelet/glow) ([v1.2.0](https://github.com/charmbracelet/glow/releases/tag/v1.2.0), 4 days ago) - Render markdown on the CLI, with pizzazz! 💅🏻
 - [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) ([v0.147.2](https://github.com/goreleaser/goreleaser/releases/tag/v0.147.2), 1 week ago) - Deliver Go binaries as fast and easily as possible
 - [muesli/prism](https://github.com/muesli/prism) ([v0.1.0](https://github.com/muesli/prism/releases/tag/v0.1.0), 1 week ago) - An RTMP stream recaster / splitter
 
