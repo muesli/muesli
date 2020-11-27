@@ -12,11 +12,11 @@ of other projects. Curious what I've been hacking on recently?
 
 #### 👷 Check out what I'm currently working on
 
-- [charmbracelet/glow](https://github.com/charmbracelet/glow) - Render markdown on the CLI, with pizzazz! 💅🏻 (1 day ago)
-- [charmbracelet/homebrew-tap](https://github.com/charmbracelet/homebrew-tap) - Our homebrew tap 🍺 (1 day ago)
-- [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) - Deliver Go binaries as fast and easily as possible (1 day ago)
-- [hakavlad/nohang](https://github.com/hakavlad/nohang) - A sophisticated low memory handler for Linux (3 days ago)
-- [Homebrew/homebrew-core](https://github.com/Homebrew/homebrew-core) - 🍻 Default formulae for the missing package manager for macOS (4 days ago)
+- [charmbracelet/glow](https://github.com/charmbracelet/glow) - Render markdown on the CLI, with pizzazz! 💅🏻 (2 days ago)
+- [charmbracelet/homebrew-tap](https://github.com/charmbracelet/homebrew-tap) - Our homebrew tap 🍺 (2 days ago)
+- [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) - Deliver Go binaries as fast and easily as possible (2 days ago)
+- [hakavlad/nohang](https://github.com/hakavlad/nohang) - A sophisticated low memory handler for Linux (4 days ago)
+- [Homebrew/homebrew-core](https://github.com/Homebrew/homebrew-core) - 🍻 Default formulae for the missing package manager for macOS (5 days ago)
 
 #### 🌱 My latest projects
 
@@ -28,9 +28,9 @@ of other projects. Curious what I've been hacking on recently?
 
 #### 🔭 Latest releases I've contributed to
 
-- [charmbracelet/charm](https://github.com/charmbracelet/charm) ([v0.8.5](https://github.com/charmbracelet/charm/releases/tag/v0.8.5), today) - The Charm Tool and Library 🌟
-- [charmbracelet/glow](https://github.com/charmbracelet/glow) ([v1.2.1](https://github.com/charmbracelet/glow/releases/tag/v1.2.1), 1 day ago) - Render markdown on the CLI, with pizzazz! 💅🏻
-- [cli/cli](https://github.com/cli/cli) ([v1.3.0](https://github.com/cli/cli/releases/tag/v1.3.0), 2 days ago) - GitHub’s official command line tool
+- [charmbracelet/charm](https://github.com/charmbracelet/charm) ([v0.8.5](https://github.com/charmbracelet/charm/releases/tag/v0.8.5), 1 day ago) - The Charm Tool and Library 🌟
+- [charmbracelet/glow](https://github.com/charmbracelet/glow) ([v1.2.1](https://github.com/charmbracelet/glow/releases/tag/v1.2.1), 2 days ago) - Render markdown on the CLI, with pizzazz! 💅🏻
+- [cli/cli](https://github.com/cli/cli) ([v1.3.0](https://github.com/cli/cli/releases/tag/v1.3.0), 3 days ago) - GitHub’s official command line tool
 - [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) ([v0.147.2](https://github.com/goreleaser/goreleaser/releases/tag/v0.147.2), 1 week ago) - Deliver Go binaries as fast and easily as possible
 - [muesli/prism](https://github.com/muesli/prism) ([v0.1.0](https://github.com/muesli/prism/releases/tag/v0.1.0), 1 week ago) - An RTMP stream recaster / splitter
 
@@ -48,7 +48,7 @@ of other projects. Curious what I've been hacking on recently?
 - [hugomd](https://github.com/hugomd) (1 month ago)
 - [sthagen](https://github.com/sthagen) (1 month ago)
 - [berkus](https://github.com/berkus) (1 month ago)
-- [lfuelling](https://github.com/lfuelling) (7 months ago)
+- [lfuelling](https://github.com/lfuelling) (8 months ago)
 
 #### 💬 Feedback
 
