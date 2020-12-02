@@ -12,11 +12,11 @@ of other projects. Curious what I've been hacking on recently?
 
 #### 👷 Check out what I'm currently working on
 
-- [muesli/termenv](https://github.com/muesli/termenv) - Advanced ANSI style &amp; color support for your terminal applications (1 day ago)
-- [muesli/gamut](https://github.com/muesli/gamut) - Go package to generate and manage color palettes &amp; schemes 🎨 (4 days ago)
-- [charmbracelet/glow](https://github.com/charmbracelet/glow) - Render markdown on the CLI, with pizzazz! 💅🏻 (6 days ago)
-- [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) - Deliver Go binaries as fast and easily as possible (6 days ago)
-- [charmbracelet/homebrew-tap](https://github.com/charmbracelet/homebrew-tap) - Our homebrew tap 🍺 (6 days ago)
+- [muesli/termenv](https://github.com/muesli/termenv) - Advanced ANSI style &amp; color support for your terminal applications (2 days ago)
+- [muesli/gamut](https://github.com/muesli/gamut) - Go package to generate and manage color palettes &amp; schemes 🎨 (5 days ago)
+- [charmbracelet/glow](https://github.com/charmbracelet/glow) - Render markdown on the CLI, with pizzazz! 💅🏻 (1 week ago)
+- [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) - Deliver Go binaries as fast and easily as possible (1 week ago)
+- [charmbracelet/homebrew-tap](https://github.com/charmbracelet/homebrew-tap) - Our homebrew tap 🍺 (1 week ago)
 
 #### 🌱 My latest projects
 
@@ -28,10 +28,10 @@ of other projects. Curious what I've been hacking on recently?
 
 #### 🔭 Latest releases I've contributed to
 
-- [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) ([v0.149.0](https://github.com/goreleaser/goreleaser/releases/tag/v0.149.0), today) - Deliver Go binaries as fast and easily as possible
-- [42wim/matterircd](https://github.com/42wim/matterircd) ([v0.21.0](https://github.com/42wim/matterircd/releases/tag/v0.21.0), 3 days ago) - Connect to your mattermost or slack using your IRC-client of choice.
-- [charmbracelet/charm](https://github.com/charmbracelet/charm) ([v0.8.5](https://github.com/charmbracelet/charm/releases/tag/v0.8.5), 5 days ago) - The Charm Tool and Library 🌟
-- [charmbracelet/glow](https://github.com/charmbracelet/glow) ([v1.2.1](https://github.com/charmbracelet/glow/releases/tag/v1.2.1), 6 days ago) - Render markdown on the CLI, with pizzazz! 💅🏻
+- [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) ([v0.149.0](https://github.com/goreleaser/goreleaser/releases/tag/v0.149.0), 1 day ago) - Deliver Go binaries as fast and easily as possible
+- [42wim/matterircd](https://github.com/42wim/matterircd) ([v0.21.0](https://github.com/42wim/matterircd/releases/tag/v0.21.0), 4 days ago) - Connect to your mattermost or slack using your IRC-client of choice.
+- [charmbracelet/charm](https://github.com/charmbracelet/charm) ([v0.8.5](https://github.com/charmbracelet/charm/releases/tag/v0.8.5), 6 days ago) - The Charm Tool and Library 🌟
+- [charmbracelet/glow](https://github.com/charmbracelet/glow) ([v1.2.1](https://github.com/charmbracelet/glow/releases/tag/v1.2.1), 1 week ago) - Render markdown on the CLI, with pizzazz! 💅🏻
 - [cli/cli](https://github.com/cli/cli) ([v1.3.0](https://github.com/cli/cli/releases/tag/v1.3.0), 1 week ago) - GitHub’s official command line tool
 
 #### 📜 My recent blog posts
