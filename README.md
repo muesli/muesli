@@ -12,9 +12,9 @@ of other projects. Curious what I've been hacking on recently?
 
 #### 👷 Check out what I'm currently working on
 
-- [muesli/kmeans](https://github.com/muesli/kmeans) - k-means clustering algorithm implementation written in Go (today)
 - [muesli/beehive](https://github.com/muesli/beehive) - A flexible event/agent &amp; automation system with lots of bees 🐝 (today)
 - [muesli/gamut](https://github.com/muesli/gamut) - Go package to generate and manage color palettes &amp; schemes 🎨 (today)
+- [muesli/kmeans](https://github.com/muesli/kmeans) - k-means clustering algorithm implementation written in Go (today)
 - [muesli/prism](https://github.com/muesli/prism) - An RTMP stream recaster / splitter (3 days ago)
 - [muesli/termenv](https://github.com/muesli/termenv) - Advanced ANSI style &amp; color support for your terminal applications (1 week ago)
 
