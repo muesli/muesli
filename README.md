@@ -13,10 +13,10 @@ of other projects. Curious what I've been hacking on recently?
 #### 👷 Check out what I'm currently working on
 
 - [muesli/kmeans](https://github.com/muesli/kmeans) - k-means clustering algorithm implementation written in Go (today)
+- [muesli/beehive](https://github.com/muesli/beehive) - A flexible event/agent &amp; automation system with lots of bees 🐝 (today)
 - [muesli/gamut](https://github.com/muesli/gamut) - Go package to generate and manage color palettes &amp; schemes 🎨 (today)
 - [muesli/prism](https://github.com/muesli/prism) - An RTMP stream recaster / splitter (3 days ago)
 - [muesli/termenv](https://github.com/muesli/termenv) - Advanced ANSI style &amp; color support for your terminal applications (1 week ago)
-- [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) - Deliver Go binaries as fast and easily as possible (1 week ago)
 
 #### 🌱 My latest projects
 
@@ -28,11 +28,11 @@ of other projects. Curious what I've been hacking on recently?
 
 #### 🔭 Latest releases I've contributed to
 
+- [muesli/gamut](https://github.com/muesli/gamut) ([v0.2.0](https://github.com/muesli/gamut/releases/tag/v0.2.0), today) - Go package to generate and manage color palettes &amp; schemes 🎨
 - [muesli/kmeans](https://github.com/muesli/kmeans) ([v0.2.1](https://github.com/muesli/kmeans/releases/tag/v0.2.1), today) - k-means clustering algorithm implementation written in Go
 - [cli/cli](https://github.com/cli/cli) ([v1.3.1](https://github.com/cli/cli/releases/tag/v1.3.1), 4 days ago) - GitHub’s official command line tool
 - [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) ([v0.149.0](https://github.com/goreleaser/goreleaser/releases/tag/v0.149.0), 6 days ago) - Deliver Go binaries as fast and easily as possible
 - [42wim/matterircd](https://github.com/42wim/matterircd) ([v0.21.0](https://github.com/42wim/matterircd/releases/tag/v0.21.0), 1 week ago) - Connect to your mattermost or slack using your IRC-client of choice.
-- [charmbracelet/charm](https://github.com/charmbracelet/charm) ([v0.8.5](https://github.com/charmbracelet/charm/releases/tag/v0.8.5), 1 week ago) - The Charm Tool and Library 🌟
 
 #### 📜 My recent blog posts
 
