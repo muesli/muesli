@@ -28,11 +28,11 @@ of other projects. Curious what I've been hacking on recently?
 
 #### 🔭 Latest releases I've contributed to
 
+- [owncast/owncast](https://github.com/owncast/owncast) ([v0.0.3](https://github.com/owncast/owncast/releases/tag/v0.0.3), today) - Take control over your live stream video by running it yourself.  Streaming &#43; chat out of the box.
+- [Masterminds/sprig](https://github.com/Masterminds/sprig) ([v3.2.0](https://github.com/Masterminds/sprig/releases/tag/v3.2.0), today) - Useful template functions for Go templates.
 - [muesli/gamut](https://github.com/muesli/gamut) ([v0.2.0](https://github.com/muesli/gamut/releases/tag/v0.2.0), 1 week ago) - Go package to generate and manage color palettes &amp; schemes 🎨
 - [muesli/kmeans](https://github.com/muesli/kmeans) ([v0.2.1](https://github.com/muesli/kmeans/releases/tag/v0.2.1), 1 week ago) - k-means clustering algorithm implementation written in Go
 - [cli/cli](https://github.com/cli/cli) ([v1.3.1](https://github.com/cli/cli/releases/tag/v1.3.1), 1 week ago) - GitHub’s official command line tool
-- [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) ([v0.149.0](https://github.com/goreleaser/goreleaser/releases/tag/v0.149.0), 1 week ago) - Deliver Go binaries as fast and easily as possible
-- [42wim/matterircd](https://github.com/42wim/matterircd) ([v0.21.0](https://github.com/42wim/matterircd/releases/tag/v0.21.0), 2 weeks ago) - Connect to your mattermost or slack using your IRC-client of choice.
 
 #### 📜 My recent blog posts
 
