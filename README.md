@@ -12,11 +12,11 @@ of other projects. Curious what I've been hacking on recently?
 
 #### 👷 Check out what I'm currently working on
 
-- [muesli/duf](https://github.com/muesli/duf) - Disk Usage/Free Utility - a better &#39;df&#39; alternative (4 days ago)
-- [muesli/cache2go](https://github.com/muesli/cache2go) - Concurrency-safe Go caching library with expiration capabilities and access counters (5 days ago)
-- [muesli/beehive](https://github.com/muesli/beehive) - A flexible event/agent &amp; automation system with lots of bees 🐝 (6 days ago)
-- [muesli/kmeans](https://github.com/muesli/kmeans) - k-means clustering algorithm implementation written in Go (6 days ago)
-- [muesli/gamut](https://github.com/muesli/gamut) - Go package to generate and manage color palettes &amp; schemes 🎨 (6 days ago)
+- [muesli/duf](https://github.com/muesli/duf) - Disk Usage/Free Utility - a better &#39;df&#39; alternative (5 days ago)
+- [muesli/cache2go](https://github.com/muesli/cache2go) - Concurrency-safe Go caching library with expiration capabilities and access counters (6 days ago)
+- [muesli/beehive](https://github.com/muesli/beehive) - A flexible event/agent &amp; automation system with lots of bees 🐝 (1 week ago)
+- [muesli/kmeans](https://github.com/muesli/kmeans) - k-means clustering algorithm implementation written in Go (1 week ago)
+- [muesli/gamut](https://github.com/muesli/gamut) - Go package to generate and manage color palettes &amp; schemes 🎨 (1 week ago)
 
 #### 🌱 My latest projects
 
@@ -28,8 +28,8 @@ of other projects. Curious what I've been hacking on recently?
 
 #### 🔭 Latest releases I've contributed to
 
-- [muesli/gamut](https://github.com/muesli/gamut) ([v0.2.0](https://github.com/muesli/gamut/releases/tag/v0.2.0), 6 days ago) - Go package to generate and manage color palettes &amp; schemes 🎨
-- [muesli/kmeans](https://github.com/muesli/kmeans) ([v0.2.1](https://github.com/muesli/kmeans/releases/tag/v0.2.1), 6 days ago) - k-means clustering algorithm implementation written in Go
+- [muesli/gamut](https://github.com/muesli/gamut) ([v0.2.0](https://github.com/muesli/gamut/releases/tag/v0.2.0), 1 week ago) - Go package to generate and manage color palettes &amp; schemes 🎨
+- [muesli/kmeans](https://github.com/muesli/kmeans) ([v0.2.1](https://github.com/muesli/kmeans/releases/tag/v0.2.1), 1 week ago) - k-means clustering algorithm implementation written in Go
 - [cli/cli](https://github.com/cli/cli) ([v1.3.1](https://github.com/cli/cli/releases/tag/v1.3.1), 1 week ago) - GitHub’s official command line tool
 - [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) ([v0.149.0](https://github.com/goreleaser/goreleaser/releases/tag/v0.149.0), 1 week ago) - Deliver Go binaries as fast and easily as possible
 - [42wim/matterircd](https://github.com/42wim/matterircd) ([v0.21.0](https://github.com/42wim/matterircd/releases/tag/v0.21.0), 2 weeks ago) - Connect to your mattermost or slack using your IRC-client of choice.
