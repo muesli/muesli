@@ -28,11 +28,11 @@ of other projects. Curious what I've been hacking on recently?
 
 #### 🔭 Latest releases I've contributed to
 
-- [cli/cli](https://github.com/cli/cli) ([v1.4.0-pre2](https://github.com/cli/cli/releases/tag/v1.4.0-pre2), 1 day ago) - GitHub’s official command line tool
 - [owncast/owncast](https://github.com/owncast/owncast) ([v0.0.3](https://github.com/owncast/owncast/releases/tag/v0.0.3), 1 day ago) - Take control over your live stream video by running it yourself.  Streaming &#43; chat out of the box.
 - [Masterminds/sprig](https://github.com/Masterminds/sprig) ([v3.2.0](https://github.com/Masterminds/sprig/releases/tag/v3.2.0), 1 day ago) - Useful template functions for Go templates.
 - [muesli/gamut](https://github.com/muesli/gamut) ([v0.2.0](https://github.com/muesli/gamut/releases/tag/v0.2.0), 1 week ago) - Go package to generate and manage color palettes &amp; schemes 🎨
 - [muesli/kmeans](https://github.com/muesli/kmeans) ([v0.2.1](https://github.com/muesli/kmeans/releases/tag/v0.2.1), 1 week ago) - k-means clustering algorithm implementation written in Go
+- [cli/cli](https://github.com/cli/cli) ([v1.3.1](https://github.com/cli/cli/releases/tag/v1.3.1), 1 week ago) - GitHub’s official command line tool
 
 #### 📜 My recent blog posts
 
