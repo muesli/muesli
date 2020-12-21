@@ -12,11 +12,11 @@ of other projects. Curious what I've been hacking on recently?
 
 #### 👷 Check out what I'm currently working on
 
-- [owncast/owncast](https://github.com/owncast/owncast) - Take control over your live stream video by running it yourself.  Streaming &#43; chat out of the box. (today)
+- [owncast/owncast](https://github.com/owncast/owncast) - Take control over your live stream video by running it yourself.  Streaming &#43; chat out of the box. (1 day ago)
 - [muesli/duf](https://github.com/muesli/duf) - Disk Usage/Free Utility - a better &#39;df&#39; alternative (1 week ago)
 - [muesli/cache2go](https://github.com/muesli/cache2go) - Concurrency-safe Go caching library with expiration capabilities and access counters (1 week ago)
-- [muesli/gamut](https://github.com/muesli/gamut) - Go package to generate and manage color palettes &amp; schemes 🎨 (1 week ago)
-- [muesli/kmeans](https://github.com/muesli/kmeans) - k-means clustering algorithm implementation written in Go (1 week ago)
+- [muesli/gamut](https://github.com/muesli/gamut) - Go package to generate and manage color palettes &amp; schemes 🎨 (2 weeks ago)
+- [muesli/kmeans](https://github.com/muesli/kmeans) - k-means clustering algorithm implementation written in Go (2 weeks ago)
 
 #### 🌱 My latest projects
 
@@ -28,11 +28,11 @@ of other projects. Curious what I've been hacking on recently?
 
 #### 🔭 Latest releases I've contributed to
 
-- [mkrakowitzer/actions-makepdfs](https://github.com/mkrakowitzer/actions-makepdfs) ([v1.3](https://github.com/mkrakowitzer/actions-makepdfs/releases/tag/v1.3), 3 days ago) - A github action to make PDF froms files markdown documentation
-- [craftamap/bb](https://github.com/craftamap/bb) ([v0.2.1](https://github.com/craftamap/bb/releases/tag/v0.2.1), 5 days ago) - inoffical Bitbucket.org command line tool
-- [cli/cli](https://github.com/cli/cli) ([v1.4.0](https://github.com/cli/cli/releases/tag/v1.4.0), 5 days ago) - GitHub’s official command line tool
-- [owncast/owncast](https://github.com/owncast/owncast) ([v0.0.3](https://github.com/owncast/owncast/releases/tag/v0.0.3), 6 days ago) - Take control over your live stream video by running it yourself.  Streaming &#43; chat out of the box.
-- [Masterminds/sprig](https://github.com/Masterminds/sprig) ([v3.2.0](https://github.com/Masterminds/sprig/releases/tag/v3.2.0), 6 days ago) - Useful template functions for Go templates.
+- [mkrakowitzer/actions-makepdfs](https://github.com/mkrakowitzer/actions-makepdfs) ([v1.3](https://github.com/mkrakowitzer/actions-makepdfs/releases/tag/v1.3), 4 days ago) - A github action to make PDF froms files markdown documentation
+- [craftamap/bb](https://github.com/craftamap/bb) ([v0.2.1](https://github.com/craftamap/bb/releases/tag/v0.2.1), 6 days ago) - inoffical Bitbucket.org command line tool
+- [cli/cli](https://github.com/cli/cli) ([v1.4.0](https://github.com/cli/cli/releases/tag/v1.4.0), 6 days ago) - GitHub’s official command line tool
+- [owncast/owncast](https://github.com/owncast/owncast) ([v0.0.3](https://github.com/owncast/owncast/releases/tag/v0.0.3), 1 week ago) - Take control over your live stream video by running it yourself.  Streaming &#43; chat out of the box.
+- [Masterminds/sprig](https://github.com/Masterminds/sprig) ([v3.2.0](https://github.com/Masterminds/sprig/releases/tag/v3.2.0), 1 week ago) - Useful template functions for Go templates.
 
 #### 📜 My recent blog posts
 
