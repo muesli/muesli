@@ -28,11 +28,11 @@ of other projects. Curious what I've been hacking on recently?
 
 #### 🔭 Latest releases I've contributed to
 
+- [codenotary/immudb](https://github.com/codenotary/immudb) ([v0.9.0-RC1](https://github.com/codenotary/immudb/releases/tag/v0.9.0-RC1), today) - immudb is a lightweight, high-speed immutable database for systems and applications
 - [mkrakowitzer/actions-makepdfs](https://github.com/mkrakowitzer/actions-makepdfs) ([v1.3](https://github.com/mkrakowitzer/actions-makepdfs/releases/tag/v1.3), 5 days ago) - A github action to make PDF froms files markdown documentation
 - [craftamap/bb](https://github.com/craftamap/bb) ([v0.2.1](https://github.com/craftamap/bb/releases/tag/v0.2.1), 1 week ago) - inoffical Bitbucket.org command line tool
 - [cli/cli](https://github.com/cli/cli) ([v1.4.0](https://github.com/cli/cli/releases/tag/v1.4.0), 1 week ago) - GitHub’s official command line tool
 - [owncast/owncast](https://github.com/owncast/owncast) ([v0.0.3](https://github.com/owncast/owncast/releases/tag/v0.0.3), 1 week ago) - Take control over your live stream video by running it yourself.  Streaming &#43; chat out of the box.
-- [Masterminds/sprig](https://github.com/Masterminds/sprig) ([v3.2.0](https://github.com/Masterminds/sprig/releases/tag/v3.2.0), 1 week ago) - Useful template functions for Go templates.
 
 #### 📜 My recent blog posts
 
