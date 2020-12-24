@@ -12,8 +12,8 @@ of other projects. Curious what I've been hacking on recently?
 
 #### 👷 Check out what I'm currently working on
 
-- [muesli/homebrew-tap](https://github.com/muesli/homebrew-tap) - muesli&#39;s Homebrew tap (today)
-- [owncast/owncast](https://github.com/owncast/owncast) - Take control over your live stream video by running it yourself.  Streaming &#43; chat out of the box. (3 days ago)
+- [muesli/homebrew-tap](https://github.com/muesli/homebrew-tap) - muesli&#39;s Homebrew tap (1 day ago)
+- [owncast/owncast](https://github.com/owncast/owncast) - Take control over your live stream video by running it yourself.  Streaming &#43; chat out of the box. (4 days ago)
 - [muesli/duf](https://github.com/muesli/duf) - Disk Usage/Free Utility - a better &#39;df&#39; alternative (2 weeks ago)
 - [muesli/cache2go](https://github.com/muesli/cache2go) - Concurrency-safe Go caching library with expiration capabilities and access counters (2 weeks ago)
 - [muesli/kmeans](https://github.com/muesli/kmeans) - k-means clustering algorithm implementation written in Go (2 weeks ago)
@@ -28,9 +28,9 @@ of other projects. Curious what I've been hacking on recently?
 
 #### 🔭 Latest releases I've contributed to
 
-- [muesli/prism](https://github.com/muesli/prism) ([v0.1.1](https://github.com/muesli/prism/releases/tag/v0.1.1), 1 day ago) - An RTMP stream recaster / splitter
-- [codenotary/immudb](https://github.com/codenotary/immudb) ([v0.9.0-RC1](https://github.com/codenotary/immudb/releases/tag/v0.9.0-RC1), 1 day ago) - immudb is a lightweight, high-speed immutable database for systems and applications
-- [mkrakowitzer/actions-makepdfs](https://github.com/mkrakowitzer/actions-makepdfs) ([v1.3](https://github.com/mkrakowitzer/actions-makepdfs/releases/tag/v1.3), 6 days ago) - A github action to make PDF froms files markdown documentation
+- [muesli/prism](https://github.com/muesli/prism) ([v0.1.1](https://github.com/muesli/prism/releases/tag/v0.1.1), 2 days ago) - An RTMP stream recaster / splitter
+- [codenotary/immudb](https://github.com/codenotary/immudb) ([v0.9.0-RC1](https://github.com/codenotary/immudb/releases/tag/v0.9.0-RC1), 2 days ago) - immudb is a lightweight, high-speed immutable database for systems and applications
+- [mkrakowitzer/actions-makepdfs](https://github.com/mkrakowitzer/actions-makepdfs) ([v1.3](https://github.com/mkrakowitzer/actions-makepdfs/releases/tag/v1.3), 1 week ago) - A github action to make PDF froms files markdown documentation
 - [craftamap/bb](https://github.com/craftamap/bb) ([v0.2.1](https://github.com/craftamap/bb/releases/tag/v0.2.1), 1 week ago) - inoffical Bitbucket.org command line tool
 - [cli/cli](https://github.com/cli/cli) ([v1.4.0](https://github.com/cli/cli/releases/tag/v1.4.0), 1 week ago) - GitHub’s official command line tool
 
