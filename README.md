@@ -12,10 +12,10 @@ of other projects. Curious what I've been hacking on recently?
 
 #### 👷 Check out what I'm currently working on
 
-- [owncast/owncast.github.io](https://github.com/owncast/owncast.github.io) - Owncast&#39;s public facing web site.  Documentation and info. (today)
-- [charmbracelet/homebrew-tap](https://github.com/charmbracelet/homebrew-tap) - Our homebrew tap 🍺 (1 day ago)
-- [muesli/homebrew-tap](https://github.com/muesli/homebrew-tap) - muesli&#39;s Homebrew tap (3 days ago)
-- [owncast/owncast](https://github.com/owncast/owncast) - Take control over your live stream video by running it yourself.  Streaming &#43; chat out of the box. (6 days ago)
+- [owncast/owncast.github.io](https://github.com/owncast/owncast.github.io) - Owncast&#39;s public facing web site.  Documentation and info. (1 day ago)
+- [charmbracelet/homebrew-tap](https://github.com/charmbracelet/homebrew-tap) - Our homebrew tap 🍺 (2 days ago)
+- [muesli/homebrew-tap](https://github.com/muesli/homebrew-tap) - muesli&#39;s Homebrew tap (4 days ago)
+- [owncast/owncast](https://github.com/owncast/owncast) - Take control over your live stream video by running it yourself.  Streaming &#43; chat out of the box. (1 week ago)
 - [muesli/duf](https://github.com/muesli/duf) - Disk Usage/Free Utility - a better &#39;df&#39; alternative (2 weeks ago)
 
 #### 🌱 My latest projects
@@ -28,9 +28,9 @@ of other projects. Curious what I've been hacking on recently?
 
 #### 🔭 Latest releases I've contributed to
 
-- [charmbracelet/glow](https://github.com/charmbracelet/glow) ([v1.3.0](https://github.com/charmbracelet/glow/releases/tag/v1.3.0), 1 day ago) - Render markdown on the CLI, with pizzazz! 💅🏻
-- [muesli/prism](https://github.com/muesli/prism) ([v0.1.1](https://github.com/muesli/prism/releases/tag/v0.1.1), 4 days ago) - An RTMP stream recaster / splitter
-- [codenotary/immudb](https://github.com/codenotary/immudb) ([v0.9.0-RC1](https://github.com/codenotary/immudb/releases/tag/v0.9.0-RC1), 4 days ago) - immudb is a lightweight, high-speed immutable database for systems and applications
+- [charmbracelet/glow](https://github.com/charmbracelet/glow) ([v1.3.0](https://github.com/charmbracelet/glow/releases/tag/v1.3.0), 2 days ago) - Render markdown on the CLI, with pizzazz! 💅🏻
+- [muesli/prism](https://github.com/muesli/prism) ([v0.1.1](https://github.com/muesli/prism/releases/tag/v0.1.1), 5 days ago) - An RTMP stream recaster / splitter
+- [codenotary/immudb](https://github.com/codenotary/immudb) ([v0.9.0-RC1](https://github.com/codenotary/immudb/releases/tag/v0.9.0-RC1), 5 days ago) - immudb is a lightweight, high-speed immutable database for systems and applications
 - [mkrakowitzer/actions-makepdfs](https://github.com/mkrakowitzer/actions-makepdfs) ([v1.3](https://github.com/mkrakowitzer/actions-makepdfs/releases/tag/v1.3), 1 week ago) - A github action to make PDF froms files markdown documentation
 - [craftamap/bb](https://github.com/craftamap/bb) ([v0.2.1](https://github.com/craftamap/bb/releases/tag/v0.2.1), 1 week ago) - inoffical Bitbucket.org command line tool
 
@@ -48,7 +48,7 @@ of other projects. Curious what I've been hacking on recently?
 - [hugomd](https://github.com/hugomd) (2 months ago)
 - [sthagen](https://github.com/sthagen) (2 months ago)
 - [berkus](https://github.com/berkus) (2 months ago)
-- [lfuelling](https://github.com/lfuelling) (8 months ago)
+- [lfuelling](https://github.com/lfuelling) (9 months ago)
 
 #### 💬 Feedback
 
