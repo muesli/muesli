@@ -28,11 +28,11 @@ of other projects. Curious what I've been hacking on recently?
 
 #### 🔭 Latest releases I've contributed to
 
+- [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) ([v0.150.0](https://github.com/goreleaser/goreleaser/releases/tag/v0.150.0), today) - Deliver Go binaries as fast and easily as possible
+- [codenotary/immudb](https://github.com/codenotary/immudb) ([v0.9.0-RC2](https://github.com/codenotary/immudb/releases/tag/v0.9.0-RC2), today) - immudb is a lightweight, high-speed immutable database for systems and applications
 - [owncast/owncast](https://github.com/owncast/owncast) ([v0.0.4](https://github.com/owncast/owncast/releases/tag/v0.0.4), today) - Take control over your live stream video by running it yourself.  Streaming &#43; chat out of the box.
 - [42wim/matterircd](https://github.com/42wim/matterircd) ([v0.22.0](https://github.com/42wim/matterircd/releases/tag/v0.22.0), 1 day ago) - Connect to your mattermost or slack using your IRC-client of choice.
 - [charmbracelet/glow](https://github.com/charmbracelet/glow) ([v1.3.0](https://github.com/charmbracelet/glow/releases/tag/v1.3.0), 4 days ago) - Render markdown on the CLI, with pizzazz! 💅🏻
-- [muesli/prism](https://github.com/muesli/prism) ([v0.1.1](https://github.com/muesli/prism/releases/tag/v0.1.1), 1 week ago) - An RTMP stream recaster / splitter
-- [codenotary/immudb](https://github.com/codenotary/immudb) ([v0.9.0-RC1](https://github.com/codenotary/immudb/releases/tag/v0.9.0-RC1), 1 week ago) - immudb is a lightweight, high-speed immutable database for systems and applications
 
 #### 📜 My recent blog posts
 
