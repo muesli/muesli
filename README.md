@@ -28,7 +28,7 @@ of other projects. Curious what I've been hacking on recently?
 
 #### 🔭 Latest releases I've contributed to
 
-- [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) ([v0.151.0](https://github.com/goreleaser/goreleaser/releases/tag/v0.151.0), today) - Deliver Go binaries as fast and easily as possible
+- [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) ([v0.151.1](https://github.com/goreleaser/goreleaser/releases/tag/v0.151.1), today) - Deliver Go binaries as fast and easily as possible
 - [hakavlad/nohang](https://github.com/hakavlad/nohang) ([v0.2.0](https://github.com/hakavlad/nohang/releases/tag/v0.2.0), today) - A sophisticated low memory handler for Linux
 - [codenotary/immudb](https://github.com/codenotary/immudb) ([v0.9.0-RC2](https://github.com/codenotary/immudb/releases/tag/v0.9.0-RC2), 2 days ago) - immudb is a lightweight, high-speed immutable database for systems and applications
 - [owncast/owncast](https://github.com/owncast/owncast) ([v0.0.4](https://github.com/owncast/owncast/releases/tag/v0.0.4), 2 days ago) - Take control over your live stream video by running it yourself.  Streaming &#43; chat out of the box.
