@@ -12,8 +12,8 @@ of other projects. Curious what I've been hacking on recently?
 
 #### 👷 Check out what I'm currently working on
 
-- [owncast/owncast.github.io](https://github.com/owncast/owncast.github.io) - Owncast&#39;s public facing web site.  Documentation and info. (4 days ago)
-- [charmbracelet/homebrew-tap](https://github.com/charmbracelet/homebrew-tap) - Our homebrew tap 🍺 (5 days ago)
+- [owncast/owncast.github.io](https://github.com/owncast/owncast.github.io) - Owncast&#39;s public facing web site.  Documentation and info. (5 days ago)
+- [charmbracelet/homebrew-tap](https://github.com/charmbracelet/homebrew-tap) - Our homebrew tap 🍺 (6 days ago)
 - [muesli/homebrew-tap](https://github.com/muesli/homebrew-tap) - muesli&#39;s Homebrew tap (1 week ago)
 - [owncast/owncast](https://github.com/owncast/owncast) - Take control over your live stream video by running it yourself.  Streaming &#43; chat out of the box. (1 week ago)
 - [muesli/duf](https://github.com/muesli/duf) - Disk Usage/Free Utility - a better &#39;df&#39; alternative (3 weeks ago)
@@ -28,11 +28,11 @@ of other projects. Curious what I've been hacking on recently?
 
 #### 🔭 Latest releases I've contributed to
 
-- [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) ([v0.150.1](https://github.com/goreleaser/goreleaser/releases/tag/v0.150.1), today) - Deliver Go binaries as fast and easily as possible
-- [codenotary/immudb](https://github.com/codenotary/immudb) ([v0.9.0-RC2](https://github.com/codenotary/immudb/releases/tag/v0.9.0-RC2), 1 day ago) - immudb is a lightweight, high-speed immutable database for systems and applications
-- [owncast/owncast](https://github.com/owncast/owncast) ([v0.0.4](https://github.com/owncast/owncast/releases/tag/v0.0.4), 1 day ago) - Take control over your live stream video by running it yourself.  Streaming &#43; chat out of the box.
-- [42wim/matterircd](https://github.com/42wim/matterircd) ([v0.22.0](https://github.com/42wim/matterircd/releases/tag/v0.22.0), 2 days ago) - Connect to your mattermost or slack using your IRC-client of choice.
-- [charmbracelet/glow](https://github.com/charmbracelet/glow) ([v1.3.0](https://github.com/charmbracelet/glow/releases/tag/v1.3.0), 5 days ago) - Render markdown on the CLI, with pizzazz! 💅🏻
+- [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) ([v0.150.1](https://github.com/goreleaser/goreleaser/releases/tag/v0.150.1), 1 day ago) - Deliver Go binaries as fast and easily as possible
+- [codenotary/immudb](https://github.com/codenotary/immudb) ([v0.9.0-RC2](https://github.com/codenotary/immudb/releases/tag/v0.9.0-RC2), 2 days ago) - immudb is a lightweight, high-speed immutable database for systems and applications
+- [owncast/owncast](https://github.com/owncast/owncast) ([v0.0.4](https://github.com/owncast/owncast/releases/tag/v0.0.4), 2 days ago) - Take control over your live stream video by running it yourself.  Streaming &#43; chat out of the box.
+- [42wim/matterircd](https://github.com/42wim/matterircd) ([v0.22.0](https://github.com/42wim/matterircd/releases/tag/v0.22.0), 3 days ago) - Connect to your mattermost or slack using your IRC-client of choice.
+- [charmbracelet/glow](https://github.com/charmbracelet/glow) ([v1.3.0](https://github.com/charmbracelet/glow/releases/tag/v1.3.0), 6 days ago) - Render markdown on the CLI, with pizzazz! 💅🏻
 
 #### 📜 My recent blog posts
 
