@@ -28,10 +28,10 @@ of other projects. Curious what I've been hacking on recently?
 
 #### 🔭 Latest releases I've contributed to
 
+- [codenotary/immudb](https://github.com/codenotary/immudb) ([v0.9.0](https://github.com/codenotary/immudb/releases/tag/v0.9.0), today) - immudb is a lightweight, high-speed immutable database for systems and applications
 - [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) ([v0.153.0](https://github.com/goreleaser/goreleaser/releases/tag/v0.153.0), 1 day ago) - Deliver Go binaries as fast and easily as possible
 - [arp242/uni](https://github.com/arp242/uni) ([v2.0.0](https://github.com/arp242/uni/releases/tag/v2.0.0), 5 days ago) - Query the Unicode database from the commandline, with good support for emojis
 - [hakavlad/nohang](https://github.com/hakavlad/nohang) ([v0.2.0](https://github.com/hakavlad/nohang/releases/tag/v0.2.0), 1 week ago) - A sophisticated low memory handler for Linux
-- [codenotary/immudb](https://github.com/codenotary/immudb) ([v0.9.0-RC2](https://github.com/codenotary/immudb/releases/tag/v0.9.0-RC2), 1 week ago) - immudb is a lightweight, high-speed immutable database for systems and applications
 - [owncast/owncast](https://github.com/owncast/owncast) ([v0.0.4](https://github.com/owncast/owncast/releases/tag/v0.0.4), 1 week ago) - Take control over your live stream video by running it yourself.  Streaming &#43; chat out of the box.
 
 #### 📜 My recent blog posts
