@@ -12,7 +12,7 @@ of other projects. Curious what I've been hacking on recently?
 
 #### 👷 Check out what I'm currently working on
 
-- [owncast/owncast.github.io](https://github.com/owncast/owncast.github.io) - Owncast&#39;s public facing web site.  Documentation and info. (1 week ago)
+- [owncast/owncast.github.io](https://github.com/owncast/owncast.github.io) - Owncast&#39;s public facing web site.  Documentation and info. (2 weeks ago)
 - [charmbracelet/homebrew-tap](https://github.com/charmbracelet/homebrew-tap) - Our homebrew tap 🍺 (2 weeks ago)
 - [muesli/homebrew-tap](https://github.com/muesli/homebrew-tap) - muesli&#39;s Homebrew tap (2 weeks ago)
 - [owncast/owncast](https://github.com/owncast/owncast) - Take control over your live stream video by running it yourself.  Streaming &#43; chat out of the box. (2 weeks ago)
@@ -28,11 +28,11 @@ of other projects. Curious what I've been hacking on recently?
 
 #### 🔭 Latest releases I've contributed to
 
-- [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) ([v0.154.0](https://github.com/goreleaser/goreleaser/releases/tag/v0.154.0), 1 day ago) - Deliver Go binaries as fast and easily as possible
-- [codenotary/immudb](https://github.com/codenotary/immudb) ([v0.9.0](https://github.com/codenotary/immudb/releases/tag/v0.9.0), 1 day ago) - immudb is a lightweight, high-speed immutable database for systems and applications
-- [arp242/uni](https://github.com/arp242/uni) ([v2.0.0](https://github.com/arp242/uni/releases/tag/v2.0.0), 6 days ago) - Query the Unicode database from the commandline, with good support for emojis
+- [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) ([v0.154.0](https://github.com/goreleaser/goreleaser/releases/tag/v0.154.0), 2 days ago) - Deliver Go binaries as fast and easily as possible
+- [codenotary/immudb](https://github.com/codenotary/immudb) ([v0.9.0](https://github.com/codenotary/immudb/releases/tag/v0.9.0), 2 days ago) - immudb is a lightweight, high-speed immutable database for systems and applications
+- [arp242/uni](https://github.com/arp242/uni) ([v2.0.0](https://github.com/arp242/uni/releases/tag/v2.0.0), 1 week ago) - Query the Unicode database from the commandline, with good support for emojis
 - [hakavlad/nohang](https://github.com/hakavlad/nohang) ([v0.2.0](https://github.com/hakavlad/nohang/releases/tag/v0.2.0), 1 week ago) - A sophisticated low memory handler for Linux
-- [owncast/owncast](https://github.com/owncast/owncast) ([v0.0.4](https://github.com/owncast/owncast/releases/tag/v0.0.4), 1 week ago) - Take control over your live stream video by running it yourself.  Streaming &#43; chat out of the box.
+- [42wim/matterircd](https://github.com/42wim/matterircd) ([v0.22.0](https://github.com/42wim/matterircd/releases/tag/v0.22.0), 1 week ago) - Connect to your mattermost or slack using your IRC-client of choice.
 
 #### 📜 My recent blog posts
 
