@@ -12,10 +12,10 @@ of other projects. Curious what I've been hacking on recently?
 
 #### 👷 Check out what I'm currently working on
 
-- [muesli/dotfiles](https://github.com/muesli/dotfiles) - My dotfiles (2 days ago)
+- [muesli/dotfiles](https://github.com/muesli/dotfiles) - My dotfiles (3 days ago)
 - [owncast/owncast.github.io](https://github.com/owncast/owncast.github.io) - Owncast&#39;s public facing web site.  Documentation and info. (2 weeks ago)
 - [charmbracelet/homebrew-tap](https://github.com/charmbracelet/homebrew-tap) - Our homebrew tap 🍺 (2 weeks ago)
-- [muesli/homebrew-tap](https://github.com/muesli/homebrew-tap) - muesli&#39;s Homebrew tap (2 weeks ago)
+- [muesli/homebrew-tap](https://github.com/muesli/homebrew-tap) - muesli&#39;s Homebrew tap (3 weeks ago)
 - [owncast/owncast](https://github.com/owncast/owncast) - Take control over your live stream video by running it yourself.  Streaming &#43; chat out of the box. (3 weeks ago)
 
 #### 🌱 My latest projects
@@ -28,9 +28,9 @@ of other projects. Curious what I've been hacking on recently?
 
 #### 🔭 Latest releases I've contributed to
 
-- [gopasspw/gopass](https://github.com/gopasspw/gopass) ([v1.11.0](https://github.com/gopasspw/gopass/releases/tag/v1.11.0), today) - The slightly more awesome standard unix password manager for teams
-- [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) ([v0.154.0](https://github.com/goreleaser/goreleaser/releases/tag/v0.154.0), 5 days ago) - Deliver Go binaries as fast and easily as possible
-- [codenotary/immudb](https://github.com/codenotary/immudb) ([v0.9.0](https://github.com/codenotary/immudb/releases/tag/v0.9.0), 5 days ago) - immudb is a lightweight, high-speed immutable database for systems and applications
+- [gopasspw/gopass](https://github.com/gopasspw/gopass) ([v1.11.0](https://github.com/gopasspw/gopass/releases/tag/v1.11.0), 1 day ago) - The slightly more awesome standard unix password manager for teams
+- [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) ([v0.154.0](https://github.com/goreleaser/goreleaser/releases/tag/v0.154.0), 6 days ago) - Deliver Go binaries as fast and easily as possible
+- [codenotary/immudb](https://github.com/codenotary/immudb) ([v0.9.0](https://github.com/codenotary/immudb/releases/tag/v0.9.0), 6 days ago) - immudb is a lightweight, high-speed immutable database for systems and applications
 - [arp242/uni](https://github.com/arp242/uni) ([v2.0.0](https://github.com/arp242/uni/releases/tag/v2.0.0), 1 week ago) - Query the Unicode database from the commandline, with good support for emojis
 - [hakavlad/nohang](https://github.com/hakavlad/nohang) ([v0.2.0](https://github.com/hakavlad/nohang/releases/tag/v0.2.0), 1 week ago) - A sophisticated low memory handler for Linux
 
