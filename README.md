@@ -12,9 +12,9 @@ of other projects. Curious what I've been hacking on recently?
 
 #### 👷 Check out what I'm currently working on
 
-- [muesli/dotfiles](https://github.com/muesli/dotfiles) - My dotfiles (4 days ago)
+- [muesli/dotfiles](https://github.com/muesli/dotfiles) - My dotfiles (5 days ago)
 - [owncast/owncast.github.io](https://github.com/owncast/owncast.github.io) - Owncast&#39;s public facing web site.  Documentation and info. (2 weeks ago)
-- [charmbracelet/homebrew-tap](https://github.com/charmbracelet/homebrew-tap) - Our homebrew tap 🍺 (2 weeks ago)
+- [charmbracelet/homebrew-tap](https://github.com/charmbracelet/homebrew-tap) - Our homebrew tap 🍺 (3 weeks ago)
 - [muesli/homebrew-tap](https://github.com/muesli/homebrew-tap) - muesli&#39;s Homebrew tap (3 weeks ago)
 - [owncast/owncast](https://github.com/owncast/owncast) - Take control over your live stream video by running it yourself.  Streaming &#43; chat out of the box. (3 weeks ago)
 
@@ -28,9 +28,9 @@ of other projects. Curious what I've been hacking on recently?
 
 #### 🔭 Latest releases I've contributed to
 
-- [charmbracelet/bubbles](https://github.com/charmbracelet/bubbles) ([v0.7.6](https://github.com/charmbracelet/bubbles/releases/tag/v0.7.6), 1 day ago) - TUI components for Bubble Tea 🍡
-- [owncast/owncast](https://github.com/owncast/owncast) ([v0.0.5](https://github.com/owncast/owncast/releases/tag/v0.0.5), 1 day ago) - Take control over your live stream video by running it yourself.  Streaming &#43; chat out of the box.
-- [gopasspw/gopass](https://github.com/gopasspw/gopass) ([v1.11.0](https://github.com/gopasspw/gopass/releases/tag/v1.11.0), 2 days ago) - The slightly more awesome standard unix password manager for teams
+- [charmbracelet/bubbles](https://github.com/charmbracelet/bubbles) ([v0.7.6](https://github.com/charmbracelet/bubbles/releases/tag/v0.7.6), 2 days ago) - TUI components for Bubble Tea 🍡
+- [owncast/owncast](https://github.com/owncast/owncast) ([v0.0.5](https://github.com/owncast/owncast/releases/tag/v0.0.5), 2 days ago) - Take control over your live stream video by running it yourself.  Streaming &#43; chat out of the box.
+- [gopasspw/gopass](https://github.com/gopasspw/gopass) ([v1.11.0](https://github.com/gopasspw/gopass/releases/tag/v1.11.0), 3 days ago) - The slightly more awesome standard unix password manager for teams
 - [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) ([v0.154.0](https://github.com/goreleaser/goreleaser/releases/tag/v0.154.0), 1 week ago) - Deliver Go binaries as fast and easily as possible
 - [codenotary/immudb](https://github.com/codenotary/immudb) ([v0.9.0](https://github.com/codenotary/immudb/releases/tag/v0.9.0), 1 week ago) - immudb is a lightweight, high-speed immutable database for systems and applications
 
