@@ -12,11 +12,11 @@ of other projects. Curious what I've been hacking on recently?
 
 #### 👷 Check out what I'm currently working on
 
+- [muesli/sasquatch](https://github.com/muesli/sasquatch) - A simple data encryption library (today)
 - [muesli/dotfiles](https://github.com/muesli/dotfiles) - My dotfiles (1 week ago)
 - [owncast/owncast.github.io](https://github.com/owncast/owncast.github.io) - Owncast&#39;s public facing web site.  Documentation and info. (3 weeks ago)
 - [charmbracelet/homebrew-tap](https://github.com/charmbracelet/homebrew-tap) - Our homebrew tap 🍺 (3 weeks ago)
 - [muesli/homebrew-tap](https://github.com/muesli/homebrew-tap) - muesli&#39;s Homebrew tap (3 weeks ago)
-- [owncast/owncast](https://github.com/owncast/owncast) - Take control over your live stream video by running it yourself.  Streaming &#43; chat out of the box. (1 month ago)
 
 #### 🌱 My latest projects
 
@@ -46,9 +46,9 @@ of other projects. Curious what I've been hacking on recently?
 
 - [benleb](https://github.com/benleb) (2 months ago)
 - [hugomd](https://github.com/hugomd) (2 months ago)
-- [sthagen](https://github.com/sthagen) (2 months ago)
 - [berkus](https://github.com/berkus) (3 months ago)
 - [lfuelling](https://github.com/lfuelling) (9 months ago)
+- [rubiojr](https://github.com/rubiojr) (1 year ago)
 
 #### 💬 Feedback
 
