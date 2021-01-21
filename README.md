@@ -28,11 +28,11 @@ of other projects. Curious what I've been hacking on recently?
 
 #### 🔭 Latest releases I've contributed to
 
+- [cli/cli](https://github.com/cli/cli) ([v1.5.0](https://github.com/cli/cli/releases/tag/v1.5.0), today) - GitHub’s official command line tool
 - [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) ([v0.12.4](https://github.com/charmbracelet/bubbletea/releases/tag/v0.12.4), 3 days ago) - A powerful little TUI framework 🏗
 - [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) ([v0.155.0](https://github.com/goreleaser/goreleaser/releases/tag/v0.155.0), 6 days ago) - Deliver Go binaries as fast and easily as possible
 - [charmbracelet/bubbles](https://github.com/charmbracelet/bubbles) ([v0.7.6](https://github.com/charmbracelet/bubbles/releases/tag/v0.7.6), 1 week ago) - TUI components for Bubble Tea 🍡
 - [owncast/owncast](https://github.com/owncast/owncast) ([v0.0.5](https://github.com/owncast/owncast/releases/tag/v0.0.5), 1 week ago) - Take control over your live stream video by running it yourself.  Streaming &#43; chat out of the box.
-- [gopasspw/gopass](https://github.com/gopasspw/gopass) ([v1.11.0](https://github.com/gopasspw/gopass/releases/tag/v1.11.0), 1 week ago) - The slightly more awesome standard unix password manager for teams
 
 #### 📜 My recent blog posts
 
