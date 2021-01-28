@@ -12,11 +12,11 @@ of other projects. Curious what I've been hacking on recently?
 
 #### 👷 Check out what I'm currently working on
 
+- [muesli/readme-scribe](https://github.com/muesli/readme-scribe) - A GitHub Action that automatically generates &amp; updates markdown content (like your README.md) (today)
 - [muesli/sasquatch](https://github.com/muesli/sasquatch) - A simple data encryption library (1 week ago)
 - [muesli/dotfiles](https://github.com/muesli/dotfiles) - My dotfiles (2 weeks ago)
 - [owncast/owncast.github.io](https://github.com/owncast/owncast.github.io) - Owncast&#39;s public facing web site.  Documentation and info. (1 month ago)
 - [charmbracelet/homebrew-tap](https://github.com/charmbracelet/homebrew-tap) - Our homebrew tap 🍺 (1 month ago)
-- [muesli/homebrew-tap](https://github.com/muesli/homebrew-tap) - muesli&#39;s Homebrew tap (1 month ago)
 
 #### 🌱 My latest projects
 
