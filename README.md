@@ -12,8 +12,8 @@ of other projects. Curious what I've been hacking on recently?
 
 #### 👷 Check out what I'm currently working on
 
-- [muesli/readme-scribe](https://github.com/muesli/readme-scribe) - A GitHub Action that automatically generates &amp; updates markdown content (like your README.md) (today)
 - [katzenpost/catchat](https://github.com/katzenpost/catchat) - Traffic analysis resistant messaging with Qt based user interface (today)
+- [muesli/readme-scribe](https://github.com/muesli/readme-scribe) - A GitHub Action that automatically generates &amp; updates markdown content (like your README.md) (1 day ago)
 - [muesli/sasquatch](https://github.com/muesli/sasquatch) - A simple data encryption library (1 week ago)
 - [muesli/dotfiles](https://github.com/muesli/dotfiles) - My dotfiles (2 weeks ago)
 - [owncast/owncast.github.io](https://github.com/owncast/owncast.github.io) - Owncast&#39;s public facing web site.  Documentation and info. (1 month ago)
@@ -28,9 +28,9 @@ of other projects. Curious what I've been hacking on recently?
 
 #### 🔭 Latest releases I've contributed to
 
-- [cli/cli](https://github.com/cli/cli) ([v1.6.0-pre.3](https://github.com/cli/cli/releases/tag/v1.6.0-pre.3), 1 day ago) - GitHub’s official command line tool
+- [cli/cli](https://github.com/cli/cli) ([v1.6.0-pre.3](https://github.com/cli/cli/releases/tag/v1.6.0-pre.3), 2 days ago) - GitHub’s official command line tool
 - [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) ([v0.12.4](https://github.com/charmbracelet/bubbletea/releases/tag/v0.12.4), 1 week ago) - A powerful little TUI framework 🏗
-- [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) ([v0.155.0](https://github.com/goreleaser/goreleaser/releases/tag/v0.155.0), 1 week ago) - Deliver Go binaries as fast and easily as possible
+- [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) ([v0.155.0](https://github.com/goreleaser/goreleaser/releases/tag/v0.155.0), 2 weeks ago) - Deliver Go binaries as fast and easily as possible
 - [charmbracelet/bubbles](https://github.com/charmbracelet/bubbles) ([v0.7.6](https://github.com/charmbracelet/bubbles/releases/tag/v0.7.6), 2 weeks ago) - TUI components for Bubble Tea 🍡
 - [owncast/owncast](https://github.com/owncast/owncast) ([v0.0.5](https://github.com/owncast/owncast/releases/tag/v0.0.5), 2 weeks ago) - Take control over your live stream video by running it yourself.  Streaming &#43; chat out of the box.
 
@@ -46,7 +46,7 @@ of other projects. Curious what I've been hacking on recently?
 
 - [benleb](https://github.com/benleb) (3 months ago)
 - [hugomd](https://github.com/hugomd) (3 months ago)
-- [berkus](https://github.com/berkus) (3 months ago)
+- [berkus](https://github.com/berkus) (4 months ago)
 - [lfuelling](https://github.com/lfuelling) (10 months ago)
 - [rubiojr](https://github.com/rubiojr) (1 year ago)
 
