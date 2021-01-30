@@ -12,10 +12,10 @@ of other projects. Curious what I've been hacking on recently?
 
 #### 👷 Check out what I'm currently working on
 
+- [muesli/dotfiles](https://github.com/muesli/dotfiles) - My dotfiles (today)
 - [katzenpost/catchat](https://github.com/katzenpost/catchat) - Traffic analysis resistant messaging with Qt based user interface (1 day ago)
 - [muesli/readme-scribe](https://github.com/muesli/readme-scribe) - A GitHub Action that automatically generates &amp; updates markdown content (like your README.md) (2 days ago)
 - [muesli/sasquatch](https://github.com/muesli/sasquatch) - A simple data encryption library (1 week ago)
-- [muesli/dotfiles](https://github.com/muesli/dotfiles) - My dotfiles (2 weeks ago)
 - [owncast/owncast.github.io](https://github.com/owncast/owncast.github.io) - Owncast&#39;s public facing web site.  Documentation and info. (1 month ago)
 
 #### 🌱 My latest projects
