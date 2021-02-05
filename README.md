@@ -12,10 +12,10 @@ of other projects. Curious what I've been hacking on recently?
 
 #### 👷 Check out what I'm currently working on
 
-- [charmbracelet/glow](https://github.com/charmbracelet/glow) - Render markdown on the CLI, with pizzazz! 💅🏻 (today)
-- [muesli/dotfiles](https://github.com/muesli/dotfiles) - My dotfiles (5 days ago)
-- [muesli/telephant](https://github.com/muesli/telephant) - A lightweight but modern Mastodon client for the desktop (5 days ago)
-- [katzenpost/catchat](https://github.com/katzenpost/catchat) - Traffic analysis resistant messaging with Qt based user interface (6 days ago)
+- [charmbracelet/glow](https://github.com/charmbracelet/glow) - Render markdown on the CLI, with pizzazz! 💅🏻 (1 day ago)
+- [muesli/dotfiles](https://github.com/muesli/dotfiles) - My dotfiles (6 days ago)
+- [muesli/telephant](https://github.com/muesli/telephant) - A lightweight but modern Mastodon client for the desktop (6 days ago)
+- [katzenpost/catchat](https://github.com/katzenpost/catchat) - Traffic analysis resistant messaging with Qt based user interface (1 week ago)
 - [muesli/readme-scribe](https://github.com/muesli/readme-scribe) - A GitHub Action that automatically generates &amp; updates markdown content (like your README.md) (1 week ago)
 
 #### 🌱 My latest projects
@@ -30,7 +30,7 @@ of other projects. Curious what I've been hacking on recently?
 
 - [cli/cli](https://github.com/cli/cli) ([v1.6.0-pre.3](https://github.com/cli/cli/releases/tag/v1.6.0-pre.3), 1 week ago) - GitHub’s official command line tool
 - [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) ([v0.12.4](https://github.com/charmbracelet/bubbletea/releases/tag/v0.12.4), 2 weeks ago) - A powerful little TUI framework 🏗
-- [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) ([v0.155.0](https://github.com/goreleaser/goreleaser/releases/tag/v0.155.0), 2 weeks ago) - Deliver Go binaries as fast and easily as possible
+- [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) ([v0.155.0](https://github.com/goreleaser/goreleaser/releases/tag/v0.155.0), 3 weeks ago) - Deliver Go binaries as fast and easily as possible
 - [charmbracelet/bubbles](https://github.com/charmbracelet/bubbles) ([v0.7.6](https://github.com/charmbracelet/bubbles/releases/tag/v0.7.6), 3 weeks ago) - TUI components for Bubble Tea 🍡
 - [owncast/owncast](https://github.com/owncast/owncast) ([v0.0.5](https://github.com/owncast/owncast/releases/tag/v0.0.5), 3 weeks ago) - Take control over your live stream video by running it yourself.  Streaming &#43; chat out of the box.
 
