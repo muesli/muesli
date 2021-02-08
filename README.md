@@ -28,11 +28,11 @@ of other projects. Curious what I've been hacking on recently?
 
 #### 🔭 Latest releases I've contributed to
 
+- [gopasspw/gopass](https://github.com/gopasspw/gopass) ([v1.12.0-rc2](https://github.com/gopasspw/gopass/releases/tag/v1.12.0-rc2), today) - The slightly more awesome standard unix password manager for teams
 - [muesli/duf](https://github.com/muesli/duf) ([v0.6.0](https://github.com/muesli/duf/releases/tag/v0.6.0), 3 days ago) - Disk Usage/Free Utility - a better &#39;df&#39; alternative
 - [cli/cli](https://github.com/cli/cli) ([v1.6.0-pre.3](https://github.com/cli/cli/releases/tag/v1.6.0-pre.3), 1 week ago) - GitHub’s official command line tool
 - [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) ([v0.12.4](https://github.com/charmbracelet/bubbletea/releases/tag/v0.12.4), 3 weeks ago) - A powerful little TUI framework 🏗
 - [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) ([v0.155.0](https://github.com/goreleaser/goreleaser/releases/tag/v0.155.0), 3 weeks ago) - Deliver Go binaries as fast and easily as possible
-- [charmbracelet/bubbles](https://github.com/charmbracelet/bubbles) ([v0.7.6](https://github.com/charmbracelet/bubbles/releases/tag/v0.7.6), 3 weeks ago) - TUI components for Bubble Tea 🍡
 
 #### 📜 My recent blog posts
 
