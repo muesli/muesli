@@ -12,11 +12,11 @@ of other projects. Curious what I've been hacking on recently?
 
 #### 👷 Check out what I'm currently working on
 
-- [muesli/deckmaster](https://github.com/muesli/deckmaster) - An application to control your Elgato Stream Deck on Linux (3 days ago)
-- [muesli/duf](https://github.com/muesli/duf) - Disk Usage/Free Utility - a better &#39;df&#39; alternative (3 days ago)
-- [muesli/dotfiles](https://github.com/muesli/dotfiles) - My dotfiles (3 days ago)
-- [muesli/homebrew-tap](https://github.com/muesli/homebrew-tap) - muesli&#39;s Homebrew tap (3 days ago)
-- [charmbracelet/glow](https://github.com/charmbracelet/glow) - Render markdown on the CLI, with pizzazz! 💅🏻 (4 days ago)
+- [muesli/deckmaster](https://github.com/muesli/deckmaster) - An application to control your Elgato Stream Deck on Linux (4 days ago)
+- [muesli/duf](https://github.com/muesli/duf) - Disk Usage/Free Utility - a better &#39;df&#39; alternative (4 days ago)
+- [muesli/dotfiles](https://github.com/muesli/dotfiles) - My dotfiles (4 days ago)
+- [muesli/homebrew-tap](https://github.com/muesli/homebrew-tap) - muesli&#39;s Homebrew tap (4 days ago)
+- [charmbracelet/glow](https://github.com/charmbracelet/glow) - Render markdown on the CLI, with pizzazz! 💅🏻 (5 days ago)
 
 #### 🌱 My latest projects
 
@@ -28,10 +28,10 @@ of other projects. Curious what I've been hacking on recently?
 
 #### 🔭 Latest releases I've contributed to
 
-- [codenotary/immudb](https://github.com/codenotary/immudb) ([v0.9.1](https://github.com/codenotary/immudb/releases/tag/v0.9.1), today) - immudb - world’s fastest immutable database
-- [aligator/GoSlice](https://github.com/aligator/GoSlice) ([v0.3.0](https://github.com/aligator/GoSlice/releases/tag/v0.3.0), today) - This is an experimental slicer for 3d printing written in Go.
-- [gopasspw/gopass](https://github.com/gopasspw/gopass) ([v1.12.0-rc2](https://github.com/gopasspw/gopass/releases/tag/v1.12.0-rc2), today) - The slightly more awesome standard unix password manager for teams
-- [muesli/duf](https://github.com/muesli/duf) ([v0.6.0](https://github.com/muesli/duf/releases/tag/v0.6.0), 3 days ago) - Disk Usage/Free Utility - a better &#39;df&#39; alternative
+- [codenotary/immudb](https://github.com/codenotary/immudb) ([v0.9.1](https://github.com/codenotary/immudb/releases/tag/v0.9.1), 1 day ago) - immudb - world’s fastest immutable database
+- [aligator/GoSlice](https://github.com/aligator/GoSlice) ([v0.3.0](https://github.com/aligator/GoSlice/releases/tag/v0.3.0), 1 day ago) - This is an experimental slicer for 3d printing written in Go.
+- [gopasspw/gopass](https://github.com/gopasspw/gopass) ([v1.12.0-rc2](https://github.com/gopasspw/gopass/releases/tag/v1.12.0-rc2), 1 day ago) - The slightly more awesome standard unix password manager for teams
+- [muesli/duf](https://github.com/muesli/duf) ([v0.6.0](https://github.com/muesli/duf/releases/tag/v0.6.0), 4 days ago) - Disk Usage/Free Utility - a better &#39;df&#39; alternative
 - [cli/cli](https://github.com/cli/cli) ([v1.6.0-pre.3](https://github.com/cli/cli/releases/tag/v1.6.0-pre.3), 1 week ago) - GitHub’s official command line tool
 
 #### 📜 My recent blog posts
