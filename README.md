@@ -12,11 +12,11 @@ of other projects. Curious what I've been hacking on recently?
 
 #### 👷 Check out what I'm currently working on
 
-- [muesli/deckmaster](https://github.com/muesli/deckmaster) - An application to control your Elgato Stream Deck on Linux (4 days ago)
-- [muesli/duf](https://github.com/muesli/duf) - Disk Usage/Free Utility - a better &#39;df&#39; alternative (4 days ago)
-- [muesli/dotfiles](https://github.com/muesli/dotfiles) - My dotfiles (4 days ago)
-- [muesli/homebrew-tap](https://github.com/muesli/homebrew-tap) - muesli&#39;s Homebrew tap (4 days ago)
-- [charmbracelet/glow](https://github.com/charmbracelet/glow) - Render markdown on the CLI, with pizzazz! 💅🏻 (5 days ago)
+- [muesli/deckmaster](https://github.com/muesli/deckmaster) - An application to control your Elgato Stream Deck on Linux (5 days ago)
+- [muesli/duf](https://github.com/muesli/duf) - Disk Usage/Free Utility - a better &#39;df&#39; alternative (5 days ago)
+- [muesli/dotfiles](https://github.com/muesli/dotfiles) - My dotfiles (5 days ago)
+- [muesli/homebrew-tap](https://github.com/muesli/homebrew-tap) - muesli&#39;s Homebrew tap (5 days ago)
+- [charmbracelet/glow](https://github.com/charmbracelet/glow) - Render markdown on the CLI, with pizzazz! 💅🏻 (6 days ago)
 
 #### 🌱 My latest projects
 
@@ -28,11 +28,11 @@ of other projects. Curious what I've been hacking on recently?
 
 #### 🔭 Latest releases I've contributed to
 
-- [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) ([v0.155.1](https://github.com/goreleaser/goreleaser/releases/tag/v0.155.1), today) - Deliver Go binaries as fast and easily as possible
-- [codenotary/immudb](https://github.com/codenotary/immudb) ([v0.9.1](https://github.com/codenotary/immudb/releases/tag/v0.9.1), 1 day ago) - immudb - world’s fastest immutable database
-- [aligator/GoSlice](https://github.com/aligator/GoSlice) ([v0.3.0](https://github.com/aligator/GoSlice/releases/tag/v0.3.0), 1 day ago) - This is an experimental slicer for 3d printing written in Go.
-- [gopasspw/gopass](https://github.com/gopasspw/gopass) ([v1.12.0-rc2](https://github.com/gopasspw/gopass/releases/tag/v1.12.0-rc2), 1 day ago) - The slightly more awesome standard unix password manager for teams
-- [muesli/duf](https://github.com/muesli/duf) ([v0.6.0](https://github.com/muesli/duf/releases/tag/v0.6.0), 4 days ago) - Disk Usage/Free Utility - a better &#39;df&#39; alternative
+- [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) ([v0.155.1](https://github.com/goreleaser/goreleaser/releases/tag/v0.155.1), 1 day ago) - Deliver Go binaries as fast and easily as possible
+- [codenotary/immudb](https://github.com/codenotary/immudb) ([v0.9.1](https://github.com/codenotary/immudb/releases/tag/v0.9.1), 2 days ago) - immudb - world’s fastest immutable database
+- [aligator/GoSlice](https://github.com/aligator/GoSlice) ([v0.3.0](https://github.com/aligator/GoSlice/releases/tag/v0.3.0), 2 days ago) - This is an experimental slicer for 3d printing written in Go.
+- [gopasspw/gopass](https://github.com/gopasspw/gopass) ([v1.12.0-rc2](https://github.com/gopasspw/gopass/releases/tag/v1.12.0-rc2), 2 days ago) - The slightly more awesome standard unix password manager for teams
+- [muesli/duf](https://github.com/muesli/duf) ([v0.6.0](https://github.com/muesli/duf/releases/tag/v0.6.0), 5 days ago) - Disk Usage/Free Utility - a better &#39;df&#39; alternative
 
 #### 📜 My recent blog posts
 
