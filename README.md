@@ -28,11 +28,11 @@ of other projects. Curious what I've been hacking on recently?
 
 #### 🔭 Latest releases I've contributed to
 
+- [42wim/matterircd](https://github.com/42wim/matterircd) ([v0.23.0](https://github.com/42wim/matterircd/releases/tag/v0.23.0), today) - Connect to your mattermost or slack using your IRC-client of choice.
 - [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) ([v0.155.2](https://github.com/goreleaser/goreleaser/releases/tag/v0.155.2), 2 days ago) - Deliver Go binaries as fast and easily as possible
 - [gopasspw/gopass](https://github.com/gopasspw/gopass) ([v1.12.0](https://github.com/gopasspw/gopass/releases/tag/v1.12.0), 2 days ago) - The slightly more awesome standard unix password manager for teams
 - [charmbracelet/charm](https://github.com/charmbracelet/charm) ([v0.8.6](https://github.com/charmbracelet/charm/releases/tag/v0.8.6), 3 days ago) - The Charm Tool and Library 🌟
 - [codenotary/immudb](https://github.com/codenotary/immudb) ([v0.9.1](https://github.com/codenotary/immudb/releases/tag/v0.9.1), 5 days ago) - immudb - world’s fastest immutable database
-- [aligator/GoSlice](https://github.com/aligator/GoSlice) ([v0.3.0](https://github.com/aligator/GoSlice/releases/tag/v0.3.0), 5 days ago) - This is an experimental slicer for 3d printing written in Go.
 
 #### 📜 My recent blog posts
 
