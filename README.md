@@ -28,7 +28,7 @@ of other projects. Curious what I've been hacking on recently?
 
 #### 🔭 Latest releases I've contributed to
 
-- [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) ([v0.156.1](https://github.com/goreleaser/goreleaser/releases/tag/v0.156.1), 1 day ago) - Deliver Go binaries as fast and easily as possible
+- [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) ([v0.156.2](https://github.com/goreleaser/goreleaser/releases/tag/v0.156.2), today) - Deliver Go binaries as fast and easily as possible
 - [aligator/GoSlice](https://github.com/aligator/GoSlice) ([v0.3.1](https://github.com/aligator/GoSlice/releases/tag/v0.3.1), 3 days ago) - This is an experimental slicer for 3d printing written in Go.
 - [42wim/matterircd](https://github.com/42wim/matterircd) ([v0.23.0](https://github.com/42wim/matterircd/releases/tag/v0.23.0), 4 days ago) - Connect to your mattermost or slack using your IRC-client of choice.
 - [gopasspw/gopass](https://github.com/gopasspw/gopass) ([v1.12.0](https://github.com/gopasspw/gopass/releases/tag/v1.12.0), 6 days ago) - The slightly more awesome standard unix password manager for teams
