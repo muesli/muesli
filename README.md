@@ -12,10 +12,10 @@ of other projects. Curious what I've been hacking on recently?
 
 #### 👷 Check out what I'm currently working on
 
-- [muesli/deckmaster](https://github.com/muesli/deckmaster) - An application to control your Elgato Stream Deck on Linux (1 week ago)
-- [muesli/duf](https://github.com/muesli/duf) - Disk Usage/Free Utility - a better &#39;df&#39; alternative (1 week ago)
-- [muesli/dotfiles](https://github.com/muesli/dotfiles) - My dotfiles (1 week ago)
-- [muesli/homebrew-tap](https://github.com/muesli/homebrew-tap) - muesli&#39;s Homebrew tap (1 week ago)
+- [muesli/deckmaster](https://github.com/muesli/deckmaster) - An application to control your Elgato Stream Deck on Linux (2 weeks ago)
+- [muesli/duf](https://github.com/muesli/duf) - Disk Usage/Free Utility - a better &#39;df&#39; alternative (2 weeks ago)
+- [muesli/dotfiles](https://github.com/muesli/dotfiles) - My dotfiles (2 weeks ago)
+- [muesli/homebrew-tap](https://github.com/muesli/homebrew-tap) - muesli&#39;s Homebrew tap (2 weeks ago)
 - [charmbracelet/glow](https://github.com/charmbracelet/glow) - Render markdown on the CLI, with pizzazz! 💅🏻 (2 weeks ago)
 
 #### 🌱 My latest projects
@@ -28,11 +28,11 @@ of other projects. Curious what I've been hacking on recently?
 
 #### 🔭 Latest releases I've contributed to
 
-- [cli/cli](https://github.com/cli/cli) ([v1.6.1](https://github.com/cli/cli/releases/tag/v1.6.1), today) - GitHub’s official command line tool
-- [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) ([v0.157.0](https://github.com/goreleaser/goreleaser/releases/tag/v0.157.0), today) - Deliver Go binaries as fast and easily as possible
-- [gopasspw/gopass](https://github.com/gopasspw/gopass) ([v1.12.1](https://github.com/gopasspw/gopass/releases/tag/v1.12.1), 1 day ago) - The slightly more awesome standard unix password manager for teams
-- [aligator/GoSlice](https://github.com/aligator/GoSlice) ([v0.3.1](https://github.com/aligator/GoSlice/releases/tag/v0.3.1), 4 days ago) - This is an experimental slicer for 3d printing written in Go.
-- [42wim/matterircd](https://github.com/42wim/matterircd) ([v0.23.0](https://github.com/42wim/matterircd/releases/tag/v0.23.0), 5 days ago) - Connect to your mattermost or slack using your IRC-client of choice.
+- [cli/cli](https://github.com/cli/cli) ([v1.6.1](https://github.com/cli/cli/releases/tag/v1.6.1), 1 day ago) - GitHub’s official command line tool
+- [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) ([v0.157.0](https://github.com/goreleaser/goreleaser/releases/tag/v0.157.0), 1 day ago) - Deliver Go binaries as fast and easily as possible
+- [gopasspw/gopass](https://github.com/gopasspw/gopass) ([v1.12.1](https://github.com/gopasspw/gopass/releases/tag/v1.12.1), 2 days ago) - The slightly more awesome standard unix password manager for teams
+- [aligator/GoSlice](https://github.com/aligator/GoSlice) ([v0.3.1](https://github.com/aligator/GoSlice/releases/tag/v0.3.1), 5 days ago) - This is an experimental slicer for 3d printing written in Go.
+- [42wim/matterircd](https://github.com/42wim/matterircd) ([v0.23.0](https://github.com/42wim/matterircd/releases/tag/v0.23.0), 6 days ago) - Connect to your mattermost or slack using your IRC-client of choice.
 
 #### 📜 My recent blog posts
 
