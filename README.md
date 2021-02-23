@@ -28,7 +28,7 @@ of other projects. Curious what I've been hacking on recently?
 
 #### 🔭 Latest releases I've contributed to
 
-- [cli/cli](https://github.com/cli/cli) ([v1.6.1](https://github.com/cli/cli/releases/tag/v1.6.1), 5 days ago) - GitHub’s official command line tool
+- [cli/cli](https://github.com/cli/cli) ([v1.6.2](https://github.com/cli/cli/releases/tag/v1.6.2), today) - GitHub’s official command line tool
 - [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) ([v0.157.0](https://github.com/goreleaser/goreleaser/releases/tag/v0.157.0), 5 days ago) - Deliver Go binaries as fast and easily as possible
 - [gopasspw/gopass](https://github.com/gopasspw/gopass) ([v1.12.1](https://github.com/gopasspw/gopass/releases/tag/v1.12.1), 6 days ago) - The slightly more awesome standard unix password manager for teams
 - [aligator/GoSlice](https://github.com/aligator/GoSlice) ([v0.3.1](https://github.com/aligator/GoSlice/releases/tag/v0.3.1), 1 week ago) - This is an experimental slicer for 3d printing written in Go.
