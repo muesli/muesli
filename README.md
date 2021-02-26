@@ -12,11 +12,11 @@ of other projects. Curious what I've been hacking on recently?
 
 #### 👷 Check out what I'm currently working on
 
-- [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) - A powerful little TUI framework 🏗 (today)
-- [muesli/deckmaster](https://github.com/muesli/deckmaster) - An application to control your Elgato Stream Deck on Linux (2 weeks ago)
-- [muesli/duf](https://github.com/muesli/duf) - Disk Usage/Free Utility - a better &#39;df&#39; alternative (2 weeks ago)
-- [muesli/homebrew-tap](https://github.com/muesli/homebrew-tap) - muesli&#39;s Homebrew tap (2 weeks ago)
-- [muesli/dotfiles](https://github.com/muesli/dotfiles) - My dotfiles (2 weeks ago)
+- [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) - A powerful little TUI framework 🏗 (1 day ago)
+- [muesli/deckmaster](https://github.com/muesli/deckmaster) - An application to control your Elgato Stream Deck on Linux (3 weeks ago)
+- [muesli/duf](https://github.com/muesli/duf) - Disk Usage/Free Utility - a better &#39;df&#39; alternative (3 weeks ago)
+- [muesli/homebrew-tap](https://github.com/muesli/homebrew-tap) - muesli&#39;s Homebrew tap (3 weeks ago)
+- [muesli/dotfiles](https://github.com/muesli/dotfiles) - My dotfiles (3 weeks ago)
 
 #### 🌱 My latest projects
 
@@ -28,7 +28,7 @@ of other projects. Curious what I've been hacking on recently?
 
 #### 🔭 Latest releases I've contributed to
 
-- [cli/cli](https://github.com/cli/cli) ([v1.6.2](https://github.com/cli/cli/releases/tag/v1.6.2), 2 days ago) - GitHub’s official command line tool
+- [cli/cli](https://github.com/cli/cli) ([v1.6.2](https://github.com/cli/cli/releases/tag/v1.6.2), 3 days ago) - GitHub’s official command line tool
 - [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) ([v0.157.0](https://github.com/goreleaser/goreleaser/releases/tag/v0.157.0), 1 week ago) - Deliver Go binaries as fast and easily as possible
 - [gopasspw/gopass](https://github.com/gopasspw/gopass) ([v1.12.1](https://github.com/gopasspw/gopass/releases/tag/v1.12.1), 1 week ago) - The slightly more awesome standard unix password manager for teams
 - [aligator/GoSlice](https://github.com/aligator/GoSlice) ([v0.3.1](https://github.com/aligator/GoSlice/releases/tag/v0.3.1), 1 week ago) - This is an experimental slicer for 3d printing written in Go.
