@@ -28,11 +28,11 @@ of other projects. Curious what I've been hacking on recently?
 
 #### 🔭 Latest releases I've contributed to
 
+- [craftamap/bb](https://github.com/craftamap/bb) ([v0.3.0](https://github.com/craftamap/bb/releases/tag/v0.3.0), today) - inoffical Bitbucket.org command line tool
 - [cli/cli](https://github.com/cli/cli) ([v1.6.2](https://github.com/cli/cli/releases/tag/v1.6.2), 3 days ago) - GitHub’s official command line tool
 - [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) ([v0.157.0](https://github.com/goreleaser/goreleaser/releases/tag/v0.157.0), 1 week ago) - Deliver Go binaries as fast and easily as possible
 - [gopasspw/gopass](https://github.com/gopasspw/gopass) ([v1.12.1](https://github.com/gopasspw/gopass/releases/tag/v1.12.1), 1 week ago) - The slightly more awesome standard unix password manager for teams
 - [aligator/GoSlice](https://github.com/aligator/GoSlice) ([v0.3.1](https://github.com/aligator/GoSlice/releases/tag/v0.3.1), 1 week ago) - This is an experimental slicer for 3d printing written in Go.
-- [42wim/matterircd](https://github.com/42wim/matterircd) ([v0.23.0](https://github.com/42wim/matterircd/releases/tag/v0.23.0), 1 week ago) - Connect to your mattermost or slack using your IRC-client of choice.
 
 #### 📜 My recent blog posts
 
