@@ -12,7 +12,7 @@ of other projects. Curious what I've been hacking on recently?
 
 #### 👷 Check out what I'm currently working on
 
-- [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) - A powerful little TUI framework 🏗 (2 days ago)
+- [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) - A powerful little TUI framework 🏗 (3 days ago)
 - [muesli/deckmaster](https://github.com/muesli/deckmaster) - An application to control your Elgato Stream Deck on Linux (3 weeks ago)
 - [muesli/duf](https://github.com/muesli/duf) - Disk Usage/Free Utility - a better &#39;df&#39; alternative (3 weeks ago)
 - [muesli/homebrew-tap](https://github.com/muesli/homebrew-tap) - muesli&#39;s Homebrew tap (3 weeks ago)
@@ -28,9 +28,9 @@ of other projects. Curious what I've been hacking on recently?
 
 #### 🔭 Latest releases I've contributed to
 
-- [42wim/matterircd](https://github.com/42wim/matterircd) ([v0.23.1](https://github.com/42wim/matterircd/releases/tag/v0.23.1), today) - Connect to your mattermost or slack using your IRC-client of choice.
-- [craftamap/bb](https://github.com/craftamap/bb) ([v0.3.0](https://github.com/craftamap/bb/releases/tag/v0.3.0), 1 day ago) - inoffical Bitbucket.org command line tool
-- [cli/cli](https://github.com/cli/cli) ([v1.6.2](https://github.com/cli/cli/releases/tag/v1.6.2), 4 days ago) - GitHub’s official command line tool
+- [42wim/matterircd](https://github.com/42wim/matterircd) ([v0.23.1](https://github.com/42wim/matterircd/releases/tag/v0.23.1), 1 day ago) - Connect to your mattermost or slack using your IRC-client of choice.
+- [craftamap/bb](https://github.com/craftamap/bb) ([v0.3.0](https://github.com/craftamap/bb/releases/tag/v0.3.0), 2 days ago) - inoffical Bitbucket.org command line tool
+- [cli/cli](https://github.com/cli/cli) ([v1.6.2](https://github.com/cli/cli/releases/tag/v1.6.2), 5 days ago) - GitHub’s official command line tool
 - [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) ([v0.157.0](https://github.com/goreleaser/goreleaser/releases/tag/v0.157.0), 1 week ago) - Deliver Go binaries as fast and easily as possible
 - [gopasspw/gopass](https://github.com/gopasspw/gopass) ([v1.12.1](https://github.com/gopasspw/gopass/releases/tag/v1.12.1), 1 week ago) - The slightly more awesome standard unix password manager for teams
 
@@ -44,10 +44,10 @@ of other projects. Curious what I've been hacking on recently?
 
 #### ❤️ These awesome people sponsor me (thank you!)
 
-- [sadikkuzu](https://github.com/sadikkuzu) (today)
+- [sadikkuzu](https://github.com/sadikkuzu) (1 day ago)
 - [benleb](https://github.com/benleb) (4 months ago)
 - [hugomd](https://github.com/hugomd) (4 months ago)
-- [berkus](https://github.com/berkus) (4 months ago)
+- [berkus](https://github.com/berkus) (5 months ago)
 - [lfuelling](https://github.com/lfuelling) (11 months ago)
 
 #### 💬 Feedback
