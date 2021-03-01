@@ -28,11 +28,11 @@ of other projects. Curious what I've been hacking on recently?
 
 #### 🔭 Latest releases I've contributed to
 
+- [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) ([v0.12.5](https://github.com/charmbracelet/bubbletea/releases/tag/v0.12.5), today) - A powerful little TUI framework 🏗
 - [muesli/gitcha](https://github.com/muesli/gitcha) ([v0.2.0](https://github.com/muesli/gitcha/releases/tag/v0.2.0), today) - Go helpers to work with git repositories
 - [42wim/matterircd](https://github.com/42wim/matterircd) ([v0.23.1](https://github.com/42wim/matterircd/releases/tag/v0.23.1), 2 days ago) - Connect to your mattermost or slack using your IRC-client of choice.
 - [craftamap/bb](https://github.com/craftamap/bb) ([v0.3.0](https://github.com/craftamap/bb/releases/tag/v0.3.0), 3 days ago) - inoffical Bitbucket.org command line tool
 - [cli/cli](https://github.com/cli/cli) ([v1.6.2](https://github.com/cli/cli/releases/tag/v1.6.2), 6 days ago) - GitHub’s official command line tool
-- [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) ([v0.157.0](https://github.com/goreleaser/goreleaser/releases/tag/v0.157.0), 1 week ago) - Deliver Go binaries as fast and easily as possible
 
 #### 📜 My recent blog posts
 
