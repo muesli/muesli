@@ -12,11 +12,11 @@ of other projects. Curious what I've been hacking on recently?
 
 #### 👷 Check out what I'm currently working on
 
-- [muesli/gitcha](https://github.com/muesli/gitcha) - Go helpers to work with git repositories (3 days ago)
-- [charmbracelet/glow](https://github.com/charmbracelet/glow) - Render markdown on the CLI, with pizzazz! 💅🏻 (3 days ago)
+- [muesli/gitcha](https://github.com/muesli/gitcha) - Go helpers to work with git repositories (4 days ago)
+- [charmbracelet/glow](https://github.com/charmbracelet/glow) - Render markdown on the CLI, with pizzazz! 💅🏻 (4 days ago)
 - [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) - A powerful little TUI framework 🏗 (1 week ago)
-- [muesli/homebrew-tap](https://github.com/muesli/homebrew-tap) - muesli&#39;s Homebrew tap (3 weeks ago)
-- [muesli/duf](https://github.com/muesli/duf) - Disk Usage/Free Utility - a better &#39;df&#39; alternative (3 weeks ago)
+- [muesli/homebrew-tap](https://github.com/muesli/homebrew-tap) - muesli&#39;s Homebrew tap (4 weeks ago)
+- [muesli/duf](https://github.com/muesli/duf) - Disk Usage/Free Utility - a better &#39;df&#39; alternative (4 weeks ago)
 
 #### 🌱 My latest projects
 
@@ -28,11 +28,11 @@ of other projects. Curious what I've been hacking on recently?
 
 #### 🔭 Latest releases I've contributed to
 
-- [cli/cli](https://github.com/cli/cli) ([v1.7.0](https://github.com/cli/cli/releases/tag/v1.7.0), today) - GitHub’s official command line tool
-- [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) ([v0.158.0](https://github.com/goreleaser/goreleaser/releases/tag/v0.158.0), 3 days ago) - Deliver Go binaries as fast and easily as possible
-- [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) ([v0.12.5](https://github.com/charmbracelet/bubbletea/releases/tag/v0.12.5), 3 days ago) - A powerful little TUI framework 🏗
-- [muesli/gitcha](https://github.com/muesli/gitcha) ([v0.2.0](https://github.com/muesli/gitcha/releases/tag/v0.2.0), 3 days ago) - Go helpers to work with git repositories
-- [42wim/matterircd](https://github.com/42wim/matterircd) ([v0.23.1](https://github.com/42wim/matterircd/releases/tag/v0.23.1), 5 days ago) - Connect to your mattermost or slack using your IRC-client of choice.
+- [cli/cli](https://github.com/cli/cli) ([v1.7.0](https://github.com/cli/cli/releases/tag/v1.7.0), 1 day ago) - GitHub’s official command line tool
+- [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) ([v0.158.0](https://github.com/goreleaser/goreleaser/releases/tag/v0.158.0), 4 days ago) - Deliver Go binaries as fast and easily as possible
+- [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) ([v0.12.5](https://github.com/charmbracelet/bubbletea/releases/tag/v0.12.5), 4 days ago) - A powerful little TUI framework 🏗
+- [muesli/gitcha](https://github.com/muesli/gitcha) ([v0.2.0](https://github.com/muesli/gitcha/releases/tag/v0.2.0), 4 days ago) - Go helpers to work with git repositories
+- [42wim/matterircd](https://github.com/42wim/matterircd) ([v0.23.1](https://github.com/42wim/matterircd/releases/tag/v0.23.1), 6 days ago) - Connect to your mattermost or slack using your IRC-client of choice.
 
 #### 📜 My recent blog posts
 
@@ -44,7 +44,7 @@ of other projects. Curious what I've been hacking on recently?
 
 #### ❤️ These awesome people sponsor me (thank you!)
 
-- [sadikkuzu](https://github.com/sadikkuzu) (5 days ago)
+- [sadikkuzu](https://github.com/sadikkuzu) (6 days ago)
 - [benleb](https://github.com/benleb) (4 months ago)
 - [hugomd](https://github.com/hugomd) (4 months ago)
 - [berkus](https://github.com/berkus) (5 months ago)
