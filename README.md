@@ -28,11 +28,11 @@ of other projects. Curious what I've been hacking on recently?
 
 #### 🔭 Latest releases I've contributed to
 
+- [owncast/owncast](https://github.com/owncast/owncast) ([v0.0.6](https://github.com/owncast/owncast/releases/tag/v0.0.6), today) - Take control over your live stream video by running it yourself.  Streaming &#43; chat out of the box.
 - [dghubble/gologin](https://github.com/dghubble/gologin) ([v2.3.0](https://github.com/dghubble/gologin/releases/tag/v2.3.0), 1 day ago) - Go login handlers for authentication providers (OAuth1, OAuth2)
 - [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) ([v0.159.0](https://github.com/goreleaser/goreleaser/releases/tag/v0.159.0), 3 days ago) - Deliver Go binaries as fast and easily as possible
 - [cli/cli](https://github.com/cli/cli) ([v1.7.0](https://github.com/cli/cli/releases/tag/v1.7.0), 4 days ago) - GitHub’s official command line tool
 - [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) ([v0.12.5](https://github.com/charmbracelet/bubbletea/releases/tag/v0.12.5), 1 week ago) - A powerful little TUI framework 🏗
-- [muesli/gitcha](https://github.com/muesli/gitcha) ([v0.2.0](https://github.com/muesli/gitcha/releases/tag/v0.2.0), 1 week ago) - Go helpers to work with git repositories
 
 #### 📜 My recent blog posts
 
