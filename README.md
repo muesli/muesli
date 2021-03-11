@@ -12,11 +12,11 @@ of other projects. Curious what I've been hacking on recently?
 
 #### 👷 Check out what I'm currently working on
 
-- [charmbracelet/glamour](https://github.com/charmbracelet/glamour) - Stylesheet-based markdown rendering for your CLI apps 💇🏻‍♀️ (today)
 - [muesli/termenv](https://github.com/muesli/termenv) - Advanced ANSI style &amp; color support for your terminal applications (today)
+- [muesli/docker-backup](https://github.com/muesli/docker-backup) - A tool to create &amp; restore complete, self-contained backups of Docker containers (today)
 - [charmbracelet/glow](https://github.com/charmbracelet/glow) - Render markdown on the CLI, with pizzazz! 💅🏻 (today)
+- [charmbracelet/glamour](https://github.com/charmbracelet/glamour) - Stylesheet-based markdown rendering for your CLI apps 💇🏻‍♀️ (today)
 - [muesli/gotable](https://github.com/muesli/gotable) - Go helper to print a table of data to stdout (4 days ago)
-- [charmbracelet/homebrew-tap](https://github.com/charmbracelet/homebrew-tap) - Our homebrew tap 🍺 (6 days ago)
 
 #### 🌱 My latest projects
 
@@ -28,11 +28,11 @@ of other projects. Curious what I've been hacking on recently?
 
 #### 🔭 Latest releases I've contributed to
 
+- [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) ([v0.13.0](https://github.com/charmbracelet/bubbletea/releases/tag/v0.13.0), today) - A powerful little TUI framework 🏗
 - [muesli/termenv](https://github.com/muesli/termenv) ([v0.8.0](https://github.com/muesli/termenv/releases/tag/v0.8.0), today) - Advanced ANSI style &amp; color support for your terminal applications
 - [owncast/owncast](https://github.com/owncast/owncast) ([v0.0.6](https://github.com/owncast/owncast/releases/tag/v0.0.6), 3 days ago) - Take control over your live stream video by running it yourself.  Streaming &#43; chat out of the box.
 - [dghubble/gologin](https://github.com/dghubble/gologin) ([v2.3.0](https://github.com/dghubble/gologin/releases/tag/v2.3.0), 4 days ago) - Go login handlers for authentication providers (OAuth1, OAuth2)
 - [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) ([v0.159.0](https://github.com/goreleaser/goreleaser/releases/tag/v0.159.0), 6 days ago) - Deliver Go binaries as fast and easily as possible
-- [cli/cli](https://github.com/cli/cli) ([v1.7.0](https://github.com/cli/cli/releases/tag/v1.7.0), 1 week ago) - GitHub’s official command line tool
 
 #### 📜 My recent blog posts
 
