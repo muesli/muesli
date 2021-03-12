@@ -12,11 +12,11 @@ of other projects. Curious what I've been hacking on recently?
 
 #### 👷 Check out what I'm currently working on
 
-- [muesli/termenv](https://github.com/muesli/termenv) - Advanced ANSI style &amp; color support for your terminal applications (today)
-- [charmbracelet/glamour](https://github.com/charmbracelet/glamour) - Stylesheet-based markdown rendering for your CLI apps 💇🏻‍♀️ (today)
-- [muesli/docker-backup](https://github.com/muesli/docker-backup) - A tool to create &amp; restore complete, self-contained backups of Docker containers (today)
-- [charmbracelet/glow](https://github.com/charmbracelet/glow) - Render markdown on the CLI, with pizzazz! 💅🏻 (today)
-- [muesli/gotable](https://github.com/muesli/gotable) - Go helper to print a table of data to stdout (4 days ago)
+- [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) - A powerful little TUI framework 🏗 (today)
+- [charmbracelet/bubbles](https://github.com/charmbracelet/bubbles) - TUI components for Bubble Tea 🍡 (today)
+- [muesli/termenv](https://github.com/muesli/termenv) - Advanced ANSI style &amp; color support for your terminal applications (1 day ago)
+- [charmbracelet/glow](https://github.com/charmbracelet/glow) - Render markdown on the CLI, with pizzazz! 💅🏻 (1 day ago)
+- [charmbracelet/glamour](https://github.com/charmbracelet/glamour) - Stylesheet-based markdown rendering for your CLI apps 💇🏻‍♀️ (1 day ago)
 
 #### 🌱 My latest projects
 
@@ -28,11 +28,11 @@ of other projects. Curious what I've been hacking on recently?
 
 #### 🔭 Latest releases I've contributed to
 
-- [muesli/docker-backup](https://github.com/muesli/docker-backup) ([v0.2.3](https://github.com/muesli/docker-backup/releases/tag/v0.2.3), today) - A tool to create &amp; restore complete, self-contained backups of Docker containers
-- [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) ([v0.13.0](https://github.com/charmbracelet/bubbletea/releases/tag/v0.13.0), today) - A powerful little TUI framework 🏗
-- [muesli/termenv](https://github.com/muesli/termenv) ([v0.8.0](https://github.com/muesli/termenv/releases/tag/v0.8.0), today) - Advanced ANSI style &amp; color support for your terminal applications
-- [owncast/owncast](https://github.com/owncast/owncast) ([v0.0.6](https://github.com/owncast/owncast/releases/tag/v0.0.6), 3 days ago) - Take control over your live stream video by running it yourself.  Streaming &#43; chat out of the box.
-- [dghubble/gologin](https://github.com/dghubble/gologin) ([v2.3.0](https://github.com/dghubble/gologin/releases/tag/v2.3.0), 4 days ago) - Go login handlers for authentication providers (OAuth1, OAuth2)
+- [muesli/docker-backup](https://github.com/muesli/docker-backup) ([v0.2.3](https://github.com/muesli/docker-backup/releases/tag/v0.2.3), 1 day ago) - A tool to create &amp; restore complete, self-contained backups of Docker containers
+- [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) ([v0.13.0](https://github.com/charmbracelet/bubbletea/releases/tag/v0.13.0), 1 day ago) - A powerful little TUI framework 🏗
+- [muesli/termenv](https://github.com/muesli/termenv) ([v0.8.0](https://github.com/muesli/termenv/releases/tag/v0.8.0), 1 day ago) - Advanced ANSI style &amp; color support for your terminal applications
+- [owncast/owncast](https://github.com/owncast/owncast) ([v0.0.6](https://github.com/owncast/owncast/releases/tag/v0.0.6), 4 days ago) - Take control over your live stream video by running it yourself.  Streaming &#43; chat out of the box.
+- [dghubble/gologin](https://github.com/dghubble/gologin) ([v2.3.0](https://github.com/dghubble/gologin/releases/tag/v2.3.0), 5 days ago) - Go login handlers for authentication providers (OAuth1, OAuth2)
 
 #### 📜 My recent blog posts
 
