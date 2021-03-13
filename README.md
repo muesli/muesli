@@ -12,11 +12,11 @@ of other projects. Curious what I've been hacking on recently?
 
 #### 👷 Check out what I'm currently working on
 
-- [muesli/jigo](https://github.com/muesli/jigo) - A set of #golang jigs (today)
-- [muesli/duf](https://github.com/muesli/duf) - Disk Usage/Free Utility - a better &#39;df&#39; alternative (today)
-- [charmbracelet/glow](https://github.com/charmbracelet/glow) - Render markdown on the CLI, with pizzazz! 💅🏻 (today)
-- [charmbracelet/bubbles](https://github.com/charmbracelet/bubbles) - TUI components for Bubble Tea 🍡 (today)
-- [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) - A powerful little TUI framework 🏗 (today)
+- [muesli/jigo](https://github.com/muesli/jigo) - A set of #golang jigs (1 day ago)
+- [muesli/duf](https://github.com/muesli/duf) - Disk Usage/Free Utility - a better &#39;df&#39; alternative (1 day ago)
+- [charmbracelet/glow](https://github.com/charmbracelet/glow) - Render markdown on the CLI, with pizzazz! 💅🏻 (1 day ago)
+- [charmbracelet/bubbles](https://github.com/charmbracelet/bubbles) - TUI components for Bubble Tea 🍡 (1 day ago)
+- [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) - A powerful little TUI framework 🏗 (1 day ago)
 
 #### 🌱 My latest projects
 
@@ -28,11 +28,11 @@ of other projects. Curious what I've been hacking on recently?
 
 #### 🔭 Latest releases I've contributed to
 
-- [muesli/docker-backup](https://github.com/muesli/docker-backup) ([v0.2.3](https://github.com/muesli/docker-backup/releases/tag/v0.2.3), 1 day ago) - A tool to create &amp; restore complete, self-contained backups of Docker containers
-- [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) ([v0.13.0](https://github.com/charmbracelet/bubbletea/releases/tag/v0.13.0), 1 day ago) - A powerful little TUI framework 🏗
-- [muesli/termenv](https://github.com/muesli/termenv) ([v0.8.0](https://github.com/muesli/termenv/releases/tag/v0.8.0), 1 day ago) - Advanced ANSI style &amp; color support for your terminal applications
-- [owncast/owncast](https://github.com/owncast/owncast) ([v0.0.6](https://github.com/owncast/owncast/releases/tag/v0.0.6), 4 days ago) - Take control over your live stream video by running it yourself.  Streaming &#43; chat out of the box.
-- [dghubble/gologin](https://github.com/dghubble/gologin) ([v2.3.0](https://github.com/dghubble/gologin/releases/tag/v2.3.0), 5 days ago) - Go login handlers for authentication providers (OAuth1, OAuth2)
+- [muesli/docker-backup](https://github.com/muesli/docker-backup) ([v0.2.3](https://github.com/muesli/docker-backup/releases/tag/v0.2.3), 2 days ago) - A tool to create &amp; restore complete, self-contained backups of Docker containers
+- [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) ([v0.13.0](https://github.com/charmbracelet/bubbletea/releases/tag/v0.13.0), 2 days ago) - A powerful little TUI framework 🏗
+- [muesli/termenv](https://github.com/muesli/termenv) ([v0.8.0](https://github.com/muesli/termenv/releases/tag/v0.8.0), 2 days ago) - Advanced ANSI style &amp; color support for your terminal applications
+- [owncast/owncast](https://github.com/owncast/owncast) ([v0.0.6](https://github.com/owncast/owncast/releases/tag/v0.0.6), 5 days ago) - Take control over your live stream video by running it yourself.  Streaming &#43; chat out of the box.
+- [dghubble/gologin](https://github.com/dghubble/gologin) ([v2.3.0](https://github.com/dghubble/gologin/releases/tag/v2.3.0), 6 days ago) - Go login handlers for authentication providers (OAuth1, OAuth2)
 
 #### 📜 My recent blog posts
 
@@ -44,7 +44,7 @@ of other projects. Curious what I've been hacking on recently?
 
 #### ❤️ These awesome people sponsor me (thank you!)
 
-- [sadikkuzu](https://github.com/sadikkuzu) (1 week ago)
+- [sadikkuzu](https://github.com/sadikkuzu) (2 weeks ago)
 - [benleb](https://github.com/benleb) (4 months ago)
 - [hugomd](https://github.com/hugomd) (4 months ago)
 - [berkus](https://github.com/berkus) (5 months ago)
