@@ -12,11 +12,11 @@ of other projects. Curious what I've been hacking on recently?
 
 #### 👷 Check out what I'm currently working on
 
-- [charmbracelet/homebrew-tap](https://github.com/charmbracelet/homebrew-tap) - Our homebrew tap 🍺 (today)
-- [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) - A powerful little TUI framework 🏗 (1 day ago)
-- [charmbracelet/glow](https://github.com/charmbracelet/glow) - Render markdown on the CLI, with pizzazz! 💅🏻 (1 day ago)
-- [muesli/duf](https://github.com/muesli/duf) - Disk Usage/Free Utility - a better &#39;df&#39; alternative (2 days ago)
-- [charmbracelet/bubbles](https://github.com/charmbracelet/bubbles) - TUI components for Bubble Tea 🍡 (2 days ago)
+- [charmbracelet/homebrew-tap](https://github.com/charmbracelet/homebrew-tap) - Our homebrew tap 🍺 (1 day ago)
+- [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) - A powerful little TUI framework 🏗 (2 days ago)
+- [charmbracelet/glow](https://github.com/charmbracelet/glow) - Render markdown on the CLI, with pizzazz! 💅🏻 (2 days ago)
+- [muesli/duf](https://github.com/muesli/duf) - Disk Usage/Free Utility - a better &#39;df&#39; alternative (3 days ago)
+- [charmbracelet/bubbles](https://github.com/charmbracelet/bubbles) - TUI components for Bubble Tea 🍡 (3 days ago)
 
 #### 🌱 My latest projects
 
@@ -28,11 +28,11 @@ of other projects. Curious what I've been hacking on recently?
 
 #### 🔭 Latest releases I've contributed to
 
-- [charmbracelet/glow](https://github.com/charmbracelet/glow) ([v1.4.0](https://github.com/charmbracelet/glow/releases/tag/v1.4.0), today) - Render markdown on the CLI, with pizzazz! 💅🏻
-- [gopasspw/gopass](https://github.com/gopasspw/gopass) ([v1.12.2](https://github.com/gopasspw/gopass/releases/tag/v1.12.2), 1 day ago) - The slightly more awesome standard unix password manager for teams
-- [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) ([v0.13.1](https://github.com/charmbracelet/bubbletea/releases/tag/v0.13.1), 1 day ago) - A powerful little TUI framework 🏗
-- [muesli/docker-backup](https://github.com/muesli/docker-backup) ([v0.2.3](https://github.com/muesli/docker-backup/releases/tag/v0.2.3), 3 days ago) - A tool to create &amp; restore complete, self-contained backups of Docker containers
-- [muesli/termenv](https://github.com/muesli/termenv) ([v0.8.0](https://github.com/muesli/termenv/releases/tag/v0.8.0), 3 days ago) - Advanced ANSI style &amp; color support for your terminal applications
+- [charmbracelet/glow](https://github.com/charmbracelet/glow) ([v1.4.0](https://github.com/charmbracelet/glow/releases/tag/v1.4.0), 1 day ago) - Render markdown on the CLI, with pizzazz! 💅🏻
+- [gopasspw/gopass](https://github.com/gopasspw/gopass) ([v1.12.2](https://github.com/gopasspw/gopass/releases/tag/v1.12.2), 2 days ago) - The slightly more awesome standard unix password manager for teams
+- [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) ([v0.13.1](https://github.com/charmbracelet/bubbletea/releases/tag/v0.13.1), 2 days ago) - A powerful little TUI framework 🏗
+- [muesli/docker-backup](https://github.com/muesli/docker-backup) ([v0.2.3](https://github.com/muesli/docker-backup/releases/tag/v0.2.3), 4 days ago) - A tool to create &amp; restore complete, self-contained backups of Docker containers
+- [muesli/termenv](https://github.com/muesli/termenv) ([v0.8.0](https://github.com/muesli/termenv/releases/tag/v0.8.0), 4 days ago) - Advanced ANSI style &amp; color support for your terminal applications
 
 #### 📜 My recent blog posts
 
