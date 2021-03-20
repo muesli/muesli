@@ -28,11 +28,11 @@ of other projects. Curious what I've been hacking on recently?
 
 #### 🔭 Latest releases I've contributed to
 
+- [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) ([v0.160.0](https://github.com/goreleaser/goreleaser/releases/tag/v0.160.0), today) - Deliver Go binaries as fast and easily as possible
 - [gopasspw/gopass](https://github.com/gopasspw/gopass) ([v1.12.3](https://github.com/gopasspw/gopass/releases/tag/v1.12.3), today) - The slightly more awesome standard unix password manager for teams
 - [charmbracelet/glow](https://github.com/charmbracelet/glow) ([v1.4.0](https://github.com/charmbracelet/glow/releases/tag/v1.4.0), 6 days ago) - Render markdown on the CLI, with pizzazz! 💅🏻
 - [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) ([v0.13.1](https://github.com/charmbracelet/bubbletea/releases/tag/v0.13.1), 1 week ago) - A powerful little TUI framework 🏗
 - [muesli/docker-backup](https://github.com/muesli/docker-backup) ([v0.2.3](https://github.com/muesli/docker-backup/releases/tag/v0.2.3), 1 week ago) - A tool to create &amp; restore complete, self-contained backups of Docker containers
-- [muesli/termenv](https://github.com/muesli/termenv) ([v0.8.0](https://github.com/muesli/termenv/releases/tag/v0.8.0), 1 week ago) - Advanced ANSI style &amp; color support for your terminal applications
 
 #### 📜 My recent blog posts
 
