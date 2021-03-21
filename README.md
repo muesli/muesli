@@ -12,10 +12,10 @@ of other projects. Curious what I've been hacking on recently?
 
 #### 👷 Check out what I'm currently working on
 
-- [muesli/termenv](https://github.com/muesli/termenv) - Advanced ANSI style &amp; color support for your terminal applications (today)
-- [muesli/docker-backup](https://github.com/muesli/docker-backup) - A tool to create &amp; restore complete, self-contained backups of Docker containers (2 days ago)
-- [JF002/InfiniTime](https://github.com/JF002/InfiniTime) - Firmware for Pinetime smartwatch written in C/C&#43;&#43; and based on FreeRTOS (4 days ago)
-- [charmbracelet/homebrew-tap](https://github.com/charmbracelet/homebrew-tap) - Our homebrew tap 🍺 (6 days ago)
+- [muesli/termenv](https://github.com/muesli/termenv) - Advanced ANSI style &amp; color support for your terminal applications (1 day ago)
+- [muesli/docker-backup](https://github.com/muesli/docker-backup) - A tool to create &amp; restore complete, self-contained backups of Docker containers (3 days ago)
+- [JF002/InfiniTime](https://github.com/JF002/InfiniTime) - Firmware for Pinetime smartwatch written in C/C&#43;&#43; and based on FreeRTOS (5 days ago)
+- [charmbracelet/homebrew-tap](https://github.com/charmbracelet/homebrew-tap) - Our homebrew tap 🍺 (1 week ago)
 - [charmbracelet/glow](https://github.com/charmbracelet/glow) - Render markdown on the CLI, with pizzazz! 💅🏻 (1 week ago)
 
 #### 🌱 My latest projects
@@ -28,9 +28,9 @@ of other projects. Curious what I've been hacking on recently?
 
 #### 🔭 Latest releases I've contributed to
 
-- [gopasspw/gopass](https://github.com/gopasspw/gopass) ([v1.12.4](https://github.com/gopasspw/gopass/releases/tag/v1.12.4), today) - The slightly more awesome standard unix password manager for teams
-- [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) ([v0.160.0](https://github.com/goreleaser/goreleaser/releases/tag/v0.160.0), today) - Deliver Go binaries as fast and easily as possible
-- [charmbracelet/glow](https://github.com/charmbracelet/glow) ([v1.4.0](https://github.com/charmbracelet/glow/releases/tag/v1.4.0), 6 days ago) - Render markdown on the CLI, with pizzazz! 💅🏻
+- [gopasspw/gopass](https://github.com/gopasspw/gopass) ([v1.12.4](https://github.com/gopasspw/gopass/releases/tag/v1.12.4), 1 day ago) - The slightly more awesome standard unix password manager for teams
+- [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) ([v0.160.0](https://github.com/goreleaser/goreleaser/releases/tag/v0.160.0), 1 day ago) - Deliver Go binaries as fast and easily as possible
+- [charmbracelet/glow](https://github.com/charmbracelet/glow) ([v1.4.0](https://github.com/charmbracelet/glow/releases/tag/v1.4.0), 1 week ago) - Render markdown on the CLI, with pizzazz! 💅🏻
 - [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) ([v0.13.1](https://github.com/charmbracelet/bubbletea/releases/tag/v0.13.1), 1 week ago) - A powerful little TUI framework 🏗
 - [muesli/docker-backup](https://github.com/muesli/docker-backup) ([v0.2.3](https://github.com/muesli/docker-backup/releases/tag/v0.2.3), 1 week ago) - A tool to create &amp; restore complete, self-contained backups of Docker containers
 
