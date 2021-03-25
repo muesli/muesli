@@ -28,8 +28,8 @@ of other projects. Curious what I've been hacking on recently?
 
 #### 🔭 Latest releases I've contributed to
 
+- [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) ([v0.161.1](https://github.com/goreleaser/goreleaser/releases/tag/v0.161.1), today) - Deliver Go binaries as fast and easily as possible
 - [muesli/deckmaster](https://github.com/muesli/deckmaster) ([v0.2.0](https://github.com/muesli/deckmaster/releases/tag/v0.2.0), today) - An application to control your Elgato Stream Deck on Linux
-- [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) ([v0.161.0](https://github.com/goreleaser/goreleaser/releases/tag/v0.161.0), 1 day ago) - Deliver Go binaries as fast and easily as possible
 - [42wim/matterircd](https://github.com/42wim/matterircd) ([v0.24.0](https://github.com/42wim/matterircd/releases/tag/v0.24.0), 4 days ago) - Connect to your mattermost or slack using your IRC-client of choice.
 - [gopasspw/gopass](https://github.com/gopasspw/gopass) ([v1.12.4](https://github.com/gopasspw/gopass/releases/tag/v1.12.4), 5 days ago) - The slightly more awesome standard unix password manager for teams
 - [charmbracelet/glow](https://github.com/charmbracelet/glow) ([v1.4.0](https://github.com/charmbracelet/glow/releases/tag/v1.4.0), 1 week ago) - Render markdown on the CLI, with pizzazz! 💅🏻
