@@ -13,10 +13,10 @@ of other projects. Curious what I've been hacking on recently?
 #### 👷 Check out what I'm currently working on
 
 - [muesli/duf](https://github.com/muesli/duf) - Disk Usage/Free Utility - a better &#39;df&#39; alternative (today)
+- [muesli/jigo](https://github.com/muesli/jigo) - A set of #golang jigs (today)
 - [muesli/deckmaster](https://github.com/muesli/deckmaster) - An application to control your Elgato Stream Deck on Linux (2 days ago)
 - [muesli/termenv](https://github.com/muesli/termenv) - Advanced ANSI style &amp; color support for your terminal applications (1 week ago)
 - [muesli/docker-backup](https://github.com/muesli/docker-backup) - A tool to create &amp; restore complete, self-contained backups of Docker containers (1 week ago)
-- [JF002/InfiniTime](https://github.com/JF002/InfiniTime) - Firmware for Pinetime smartwatch written in C/C&#43;&#43; and based on FreeRTOS (1 week ago)
 
 #### 🌱 My latest projects
 
