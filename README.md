@@ -12,9 +12,9 @@ of other projects. Curious what I've been hacking on recently?
 
 #### 👷 Check out what I'm currently working on
 
-- [muesli/duf](https://github.com/muesli/duf) - Disk Usage/Free Utility - a better &#39;df&#39; alternative (today)
-- [muesli/deckmaster](https://github.com/muesli/deckmaster) - An application to control your Elgato Stream Deck on Linux (1 day ago)
-- [muesli/termenv](https://github.com/muesli/termenv) - Advanced ANSI style &amp; color support for your terminal applications (6 days ago)
+- [muesli/duf](https://github.com/muesli/duf) - Disk Usage/Free Utility - a better &#39;df&#39; alternative (1 day ago)
+- [muesli/deckmaster](https://github.com/muesli/deckmaster) - An application to control your Elgato Stream Deck on Linux (2 days ago)
+- [muesli/termenv](https://github.com/muesli/termenv) - Advanced ANSI style &amp; color support for your terminal applications (1 week ago)
 - [muesli/docker-backup](https://github.com/muesli/docker-backup) - A tool to create &amp; restore complete, self-contained backups of Docker containers (1 week ago)
 - [JF002/InfiniTime](https://github.com/JF002/InfiniTime) - Firmware for Pinetime smartwatch written in C/C&#43;&#43; and based on FreeRTOS (1 week ago)
 
@@ -28,11 +28,11 @@ of other projects. Curious what I've been hacking on recently?
 
 #### 🔭 Latest releases I've contributed to
 
-- [aligator/GoSlice](https://github.com/aligator/GoSlice) ([v0.3.2-rc1](https://github.com/aligator/GoSlice/releases/tag/v0.3.2-rc1), 1 day ago) - This is an experimental slicer for 3d printing written in Go.
-- [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) ([v0.161.1](https://github.com/goreleaser/goreleaser/releases/tag/v0.161.1), 1 day ago) - Deliver Go binaries as fast and easily as possible
-- [muesli/deckmaster](https://github.com/muesli/deckmaster) ([v0.2.0](https://github.com/muesli/deckmaster/releases/tag/v0.2.0), 1 day ago) - An application to control your Elgato Stream Deck on Linux
-- [42wim/matterircd](https://github.com/42wim/matterircd) ([v0.24.0](https://github.com/42wim/matterircd/releases/tag/v0.24.0), 5 days ago) - Connect to your mattermost or slack using your IRC-client of choice.
-- [gopasspw/gopass](https://github.com/gopasspw/gopass) ([v1.12.4](https://github.com/gopasspw/gopass/releases/tag/v1.12.4), 6 days ago) - The slightly more awesome standard unix password manager for teams
+- [aligator/GoSlice](https://github.com/aligator/GoSlice) ([v0.3.2-rc1](https://github.com/aligator/GoSlice/releases/tag/v0.3.2-rc1), 2 days ago) - This is an experimental slicer for 3d printing written in Go.
+- [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) ([v0.161.1](https://github.com/goreleaser/goreleaser/releases/tag/v0.161.1), 2 days ago) - Deliver Go binaries as fast and easily as possible
+- [muesli/deckmaster](https://github.com/muesli/deckmaster) ([v0.2.0](https://github.com/muesli/deckmaster/releases/tag/v0.2.0), 2 days ago) - An application to control your Elgato Stream Deck on Linux
+- [42wim/matterircd](https://github.com/42wim/matterircd) ([v0.24.0](https://github.com/42wim/matterircd/releases/tag/v0.24.0), 6 days ago) - Connect to your mattermost or slack using your IRC-client of choice.
+- [gopasspw/gopass](https://github.com/gopasspw/gopass) ([v1.12.4](https://github.com/gopasspw/gopass/releases/tag/v1.12.4), 1 week ago) - The slightly more awesome standard unix password manager for teams
 
 #### 📜 My recent blog posts
 
@@ -44,11 +44,11 @@ of other projects. Curious what I've been hacking on recently?
 
 #### ❤️ These awesome people sponsor me (thank you!)
 
-- [sadikkuzu](https://github.com/sadikkuzu) (3 weeks ago)
+- [sadikkuzu](https://github.com/sadikkuzu) (4 weeks ago)
 - [benleb](https://github.com/benleb) (5 months ago)
 - [hugomd](https://github.com/hugomd) (5 months ago)
 - [berkus](https://github.com/berkus) (5 months ago)
-- [lfuelling](https://github.com/lfuelling) (11 months ago)
+- [lfuelling](https://github.com/lfuelling) (1 year ago)
 
 #### 💬 Feedback
 
