@@ -28,10 +28,10 @@ of other projects. Curious what I've been hacking on recently?
 
 #### 🔭 Latest releases I've contributed to
 
+- [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) ([v0.162.0](https://github.com/goreleaser/goreleaser/releases/tag/v0.162.0), today) - Deliver Go binaries as fast and easily as possible
 - [arp242/uni](https://github.com/arp242/uni) ([v2.1.0](https://github.com/arp242/uni/releases/tag/v2.1.0), 1 day ago) - Query the Unicode database from the commandline, with good support for emojis
 - [aligator/GoSlice](https://github.com/aligator/GoSlice) ([v0.3.2](https://github.com/aligator/GoSlice/releases/tag/v0.3.2), 2 days ago) - This is an experimental slicer for 3d printing written in Go.
 - [gopasspw/gopass](https://github.com/gopasspw/gopass) ([v1.12.5](https://github.com/gopasspw/gopass/releases/tag/v1.12.5), 4 days ago) - The slightly more awesome standard unix password manager for teams
-- [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) ([v0.161.1](https://github.com/goreleaser/goreleaser/releases/tag/v0.161.1), 6 days ago) - Deliver Go binaries as fast and easily as possible
 - [muesli/deckmaster](https://github.com/muesli/deckmaster) ([v0.2.0](https://github.com/muesli/deckmaster/releases/tag/v0.2.0), 6 days ago) - An application to control your Elgato Stream Deck on Linux
 
 #### 📜 My recent blog posts
