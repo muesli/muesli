@@ -12,10 +12,10 @@ of other projects. Curious what I've been hacking on recently?
 
 #### 👷 Check out what I'm currently working on
 
-- [muesli/duf](https://github.com/muesli/duf) - Disk Usage/Free Utility - a better &#39;df&#39; alternative (3 days ago)
-- [charmbracelet/glow](https://github.com/charmbracelet/glow) - Render markdown on the CLI, with pizzazz! 💅🏻 (3 days ago)
-- [muesli/jigo](https://github.com/muesli/jigo) - A set of #golang jigs (4 days ago)
-- [muesli/deckmaster](https://github.com/muesli/deckmaster) - An application to control your Elgato Stream Deck on Linux (6 days ago)
+- [muesli/duf](https://github.com/muesli/duf) - Disk Usage/Free Utility - a better &#39;df&#39; alternative (4 days ago)
+- [charmbracelet/glow](https://github.com/charmbracelet/glow) - Render markdown on the CLI, with pizzazz! 💅🏻 (4 days ago)
+- [muesli/jigo](https://github.com/muesli/jigo) - A set of #golang jigs (5 days ago)
+- [muesli/deckmaster](https://github.com/muesli/deckmaster) - An application to control your Elgato Stream Deck on Linux (1 week ago)
 - [muesli/termenv](https://github.com/muesli/termenv) - Advanced ANSI style &amp; color support for your terminal applications (1 week ago)
 
 #### 🌱 My latest projects
@@ -28,11 +28,11 @@ of other projects. Curious what I've been hacking on recently?
 
 #### 🔭 Latest releases I've contributed to
 
-- [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) ([v0.162.0](https://github.com/goreleaser/goreleaser/releases/tag/v0.162.0), today) - Deliver Go binaries as fast and easily as possible
-- [arp242/uni](https://github.com/arp242/uni) ([v2.1.0](https://github.com/arp242/uni/releases/tag/v2.1.0), 1 day ago) - Query the Unicode database from the commandline, with good support for emojis
-- [aligator/GoSlice](https://github.com/aligator/GoSlice) ([v0.3.2](https://github.com/aligator/GoSlice/releases/tag/v0.3.2), 2 days ago) - This is an experimental slicer for 3d printing written in Go.
-- [gopasspw/gopass](https://github.com/gopasspw/gopass) ([v1.12.5](https://github.com/gopasspw/gopass/releases/tag/v1.12.5), 4 days ago) - The slightly more awesome standard unix password manager for teams
-- [muesli/deckmaster](https://github.com/muesli/deckmaster) ([v0.2.0](https://github.com/muesli/deckmaster/releases/tag/v0.2.0), 6 days ago) - An application to control your Elgato Stream Deck on Linux
+- [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) ([v0.162.0](https://github.com/goreleaser/goreleaser/releases/tag/v0.162.0), 1 day ago) - Deliver Go binaries as fast and easily as possible
+- [arp242/uni](https://github.com/arp242/uni) ([v2.1.0](https://github.com/arp242/uni/releases/tag/v2.1.0), 2 days ago) - Query the Unicode database from the commandline, with good support for emojis
+- [aligator/GoSlice](https://github.com/aligator/GoSlice) ([v0.3.2](https://github.com/aligator/GoSlice/releases/tag/v0.3.2), 3 days ago) - This is an experimental slicer for 3d printing written in Go.
+- [gopasspw/gopass](https://github.com/gopasspw/gopass) ([v1.12.5](https://github.com/gopasspw/gopass/releases/tag/v1.12.5), 5 days ago) - The slightly more awesome standard unix password manager for teams
+- [muesli/deckmaster](https://github.com/muesli/deckmaster) ([v0.2.0](https://github.com/muesli/deckmaster/releases/tag/v0.2.0), 1 week ago) - An application to control your Elgato Stream Deck on Linux
 
 #### 📜 My recent blog posts
 
