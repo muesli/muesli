@@ -13,8 +13,8 @@ of other projects. Curious what I've been hacking on recently?
 #### 👷 Check out what I'm currently working on
 
 - [muesli/duf](https://github.com/muesli/duf) - Disk Usage/Free Utility - a better &#39;df&#39; alternative (today)
-- [muesli/termenv](https://github.com/muesli/termenv) - Advanced ANSI style &amp; color support for your terminal applications (today)
 - [muesli/homebrew-tap](https://github.com/muesli/homebrew-tap) - muesli&#39;s Homebrew tap (today)
+- [muesli/termenv](https://github.com/muesli/termenv) - Advanced ANSI style &amp; color support for your terminal applications (today)
 - [charmbracelet/glow](https://github.com/charmbracelet/glow) - Render markdown on the CLI, with pizzazz! 💅🏻 (5 days ago)
 - [muesli/jigo](https://github.com/muesli/jigo) - A set of #golang jigs (6 days ago)
 
@@ -28,9 +28,9 @@ of other projects. Curious what I've been hacking on recently?
 
 #### 🔭 Latest releases I've contributed to
 
+- [muesli/duf](https://github.com/muesli/duf) ([v0.6.2](https://github.com/muesli/duf/releases/tag/v0.6.2), today) - Disk Usage/Free Utility - a better &#39;df&#39; alternative
 - [muesli/termenv](https://github.com/muesli/termenv) ([v0.8.1](https://github.com/muesli/termenv/releases/tag/v0.8.1), today) - Advanced ANSI style &amp; color support for your terminal applications
 - [aligator/GoSlice](https://github.com/aligator/GoSlice) ([v0.3.4](https://github.com/aligator/GoSlice/releases/tag/v0.3.4), today) - This is an experimental slicer for 3d printing written in Go.
-- [muesli/duf](https://github.com/muesli/duf) ([v0.6.1](https://github.com/muesli/duf/releases/tag/v0.6.1), 1 day ago) - Disk Usage/Free Utility - a better &#39;df&#39; alternative
 - [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) ([v0.162.0](https://github.com/goreleaser/goreleaser/releases/tag/v0.162.0), 2 days ago) - Deliver Go binaries as fast and easily as possible
 - [arp242/uni](https://github.com/arp242/uni) ([v2.1.0](https://github.com/arp242/uni/releases/tag/v2.1.0), 3 days ago) - Query the Unicode database from the commandline, with good support for emojis
 
