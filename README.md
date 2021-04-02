@@ -28,10 +28,10 @@ of other projects. Curious what I've been hacking on recently?
 
 #### 🔭 Latest releases I've contributed to
 
+- [aligator/GoSlice](https://github.com/aligator/GoSlice) ([v0.3.3](https://github.com/aligator/GoSlice/releases/tag/v0.3.3), today) - This is an experimental slicer for 3d printing written in Go.
 - [muesli/duf](https://github.com/muesli/duf) ([v0.6.1](https://github.com/muesli/duf/releases/tag/v0.6.1), 1 day ago) - Disk Usage/Free Utility - a better &#39;df&#39; alternative
 - [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) ([v0.162.0](https://github.com/goreleaser/goreleaser/releases/tag/v0.162.0), 2 days ago) - Deliver Go binaries as fast and easily as possible
 - [arp242/uni](https://github.com/arp242/uni) ([v2.1.0](https://github.com/arp242/uni/releases/tag/v2.1.0), 3 days ago) - Query the Unicode database from the commandline, with good support for emojis
-- [aligator/GoSlice](https://github.com/aligator/GoSlice) ([v0.3.2](https://github.com/aligator/GoSlice/releases/tag/v0.3.2), 4 days ago) - This is an experimental slicer for 3d printing written in Go.
 - [gopasspw/gopass](https://github.com/gopasspw/gopass) ([v1.12.5](https://github.com/gopasspw/gopass/releases/tag/v1.12.5), 6 days ago) - The slightly more awesome standard unix password manager for teams
 
 #### 📜 My recent blog posts
