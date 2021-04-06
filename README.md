@@ -28,8 +28,8 @@ of other projects. Curious what I've been hacking on recently?
 
 #### 🔭 Latest releases I've contributed to
 
+- [charmbracelet/lipgloss](https://github.com/charmbracelet/lipgloss) ([v0.1.1](https://github.com/charmbracelet/lipgloss/releases/tag/v0.1.1), today) - Style definitions for nice terminal layouts 👄
 - [gopasspw/gopass](https://github.com/gopasspw/gopass) ([v1.12.6-rc0](https://github.com/gopasspw/gopass/releases/tag/v1.12.6-rc0), 1 day ago) - The slightly more awesome standard unix password manager for teams
-- [charmbracelet/lipgloss](https://github.com/charmbracelet/lipgloss) ([v0.1.0](https://github.com/charmbracelet/lipgloss/releases/tag/v0.1.0), 3 days ago) - Style definitions for nice terminal layouts 👄
 - [aligator/GoSlice](https://github.com/aligator/GoSlice) ([v0.3.6](https://github.com/aligator/GoSlice/releases/tag/v0.3.6), 3 days ago) - This is an experimental slicer for 3d printing written in Go.
 - [muesli/duf](https://github.com/muesli/duf) ([v0.6.2](https://github.com/muesli/duf/releases/tag/v0.6.2), 4 days ago) - Disk Usage/Free Utility - a better &#39;df&#39; alternative
 - [muesli/termenv](https://github.com/muesli/termenv) ([v0.8.1](https://github.com/muesli/termenv/releases/tag/v0.8.1), 4 days ago) - Advanced ANSI style &amp; color support for your terminal applications
