@@ -12,11 +12,11 @@ of other projects. Curious what I've been hacking on recently?
 
 #### 👷 Check out what I'm currently working on
 
+- [charmbracelet/glow](https://github.com/charmbracelet/glow) - Render markdown on the CLI, with pizzazz! 💅🏻 (today)
+- [charmbracelet/homebrew-tap](https://github.com/charmbracelet/homebrew-tap) - Our homebrew tap 🍺 (today)
 - [muesli/gitflux](https://github.com/muesli/gitflux) - Track your GitHub projects in InfluxDB and create beautiful graphs with Grafana (1 day ago)
+- [charmbracelet/lipgloss](https://github.com/charmbracelet/lipgloss) - Style definitions for nice terminal layouts 👄 (5 days ago)
 - [muesli/duf](https://github.com/muesli/duf) - Disk Usage/Free Utility - a better &#39;df&#39; alternative (5 days ago)
-- [charmbracelet/glamour](https://github.com/charmbracelet/glamour) - Stylesheet-based markdown rendering for your CLI apps 💇🏻‍♀️ (5 days ago)
-- [charmbracelet/glow](https://github.com/charmbracelet/glow) - Render markdown on the CLI, with pizzazz! 💅🏻 (5 days ago)
-- [muesli/homebrew-tap](https://github.com/muesli/homebrew-tap) - muesli&#39;s Homebrew tap (5 days ago)
 
 #### 🌱 My latest projects
 
@@ -28,11 +28,11 @@ of other projects. Curious what I've been hacking on recently?
 
 #### 🔭 Latest releases I've contributed to
 
+- [charmbracelet/glow](https://github.com/charmbracelet/glow) ([v1.4.1](https://github.com/charmbracelet/glow/releases/tag/v1.4.1), today) - Render markdown on the CLI, with pizzazz! 💅🏻
+- [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) ([v0.13.2](https://github.com/charmbracelet/bubbletea/releases/tag/v0.13.2), today) - A powerful little TUI framework 🏗
+- [codenotary/immudb](https://github.com/codenotary/immudb) ([v0.9.2](https://github.com/codenotary/immudb/releases/tag/v0.9.2), today) - immudb - world’s fastest immutable database
 - [charmbracelet/lipgloss](https://github.com/charmbracelet/lipgloss) ([v0.1.2](https://github.com/charmbracelet/lipgloss/releases/tag/v0.1.2), 1 day ago) - Style definitions for nice terminal layouts 👄
 - [gopasspw/gopass](https://github.com/gopasspw/gopass) ([v1.12.6-rc0](https://github.com/gopasspw/gopass/releases/tag/v1.12.6-rc0), 3 days ago) - The slightly more awesome standard unix password manager for teams
-- [aligator/GoSlice](https://github.com/aligator/GoSlice) ([v0.3.6](https://github.com/aligator/GoSlice/releases/tag/v0.3.6), 5 days ago) - This is an experimental slicer for 3d printing written in Go.
-- [muesli/duf](https://github.com/muesli/duf) ([v0.6.2](https://github.com/muesli/duf/releases/tag/v0.6.2), 6 days ago) - Disk Usage/Free Utility - a better &#39;df&#39; alternative
-- [muesli/termenv](https://github.com/muesli/termenv) ([v0.8.1](https://github.com/muesli/termenv/releases/tag/v0.8.1), 6 days ago) - Advanced ANSI style &amp; color support for your terminal applications
 
 #### 📜 My recent blog posts
 
