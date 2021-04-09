@@ -28,11 +28,11 @@ of other projects. Curious what I've been hacking on recently?
 
 #### 🔭 Latest releases I've contributed to
 
+- [charmbracelet/glamour](https://github.com/charmbracelet/glamour) ([v0.3.0](https://github.com/charmbracelet/glamour/releases/tag/v0.3.0), today) - Stylesheet-based markdown rendering for your CLI apps 💇🏻‍♀️
 - [charmbracelet/glow](https://github.com/charmbracelet/glow) ([v1.4.1](https://github.com/charmbracelet/glow/releases/tag/v1.4.1), 1 day ago) - Render markdown on the CLI, with pizzazz! 💅🏻
 - [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) ([v0.13.2](https://github.com/charmbracelet/bubbletea/releases/tag/v0.13.2), 1 day ago) - A powerful little TUI framework 🏗
 - [codenotary/immudb](https://github.com/codenotary/immudb) ([v0.9.2](https://github.com/codenotary/immudb/releases/tag/v0.9.2), 1 day ago) - immudb - world’s fastest immutable database
 - [charmbracelet/lipgloss](https://github.com/charmbracelet/lipgloss) ([v0.1.2](https://github.com/charmbracelet/lipgloss/releases/tag/v0.1.2), 2 days ago) - Style definitions for nice terminal layouts 👄
-- [gopasspw/gopass](https://github.com/gopasspw/gopass) ([v1.12.6-rc0](https://github.com/gopasspw/gopass/releases/tag/v1.12.6-rc0), 4 days ago) - The slightly more awesome standard unix password manager for teams
 
 #### 📜 My recent blog posts
 
