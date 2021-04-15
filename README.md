@@ -28,11 +28,11 @@ of other projects. Curious what I've been hacking on recently?
 
 #### 🔭 Latest releases I've contributed to
 
+- [craftamap/bb](https://github.com/craftamap/bb) ([v0.3.1](https://github.com/craftamap/bb/releases/tag/v0.3.1), today) - inoffical Bitbucket.org command line tool
 - [charmbracelet/bubbles](https://github.com/charmbracelet/bubbles) ([v0.7.7](https://github.com/charmbracelet/bubbles/releases/tag/v0.7.7), 2 days ago) - TUI components for Bubble Tea 🍡
 - [charmbracelet/glamour](https://github.com/charmbracelet/glamour) ([v0.3.0](https://github.com/charmbracelet/glamour/releases/tag/v0.3.0), 6 days ago) - Stylesheet-based markdown rendering for your CLI apps 💇🏻‍♀️
 - [charmbracelet/glow](https://github.com/charmbracelet/glow) ([v1.4.1](https://github.com/charmbracelet/glow/releases/tag/v1.4.1), 1 week ago) - Render markdown on the CLI, with pizzazz! 💅🏻
 - [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) ([v0.13.2](https://github.com/charmbracelet/bubbletea/releases/tag/v0.13.2), 1 week ago) - A powerful little TUI framework 🏗
-- [codenotary/immudb](https://github.com/codenotary/immudb) ([v0.9.2](https://github.com/codenotary/immudb/releases/tag/v0.9.2), 1 week ago) - immudb - world’s fastest immutable database
 
 #### 📜 My recent blog posts
 
