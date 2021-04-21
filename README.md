@@ -28,7 +28,7 @@ of other projects. Curious what I've been hacking on recently?
 
 #### 🔭 Latest releases I've contributed to
 
-- [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) ([v0.163.0](https://github.com/goreleaser/goreleaser/releases/tag/v0.163.0), today) - Deliver Go binaries as fast and easily as possible
+- [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) ([v0.163.1](https://github.com/goreleaser/goreleaser/releases/tag/v0.163.1), today) - Deliver Go binaries as fast and easily as possible
 - [charmbracelet/lipgloss](https://github.com/charmbracelet/lipgloss) ([v0.2.0](https://github.com/charmbracelet/lipgloss/releases/tag/v0.2.0), today) - Style definitions for nice terminal layouts 👄
 - [charmbracelet/bubbles](https://github.com/charmbracelet/bubbles) ([v0.7.8](https://github.com/charmbracelet/bubbles/releases/tag/v0.7.8), 2 days ago) - TUI components for Bubble Tea 🍡
 - [craftamap/bb](https://github.com/craftamap/bb) ([v0.3.1](https://github.com/craftamap/bb/releases/tag/v0.3.1), 6 days ago) - inoffical Bitbucket.org command line tool
