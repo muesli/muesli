@@ -28,8 +28,8 @@ of other projects. Curious what I've been hacking on recently?
 
 #### 🔭 Latest releases I've contributed to
 
+- [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) ([v0.164.0](https://github.com/goreleaser/goreleaser/releases/tag/v0.164.0), today) - Deliver Go binaries as fast and easily as possible
 - [JF002/InfiniTime](https://github.com/JF002/InfiniTime) ([1.0.0](https://github.com/JF002/InfiniTime/releases/tag/1.0.0), today) - Firmware for Pinetime smartwatch written in C/C&#43;&#43; and based on FreeRTOS
-- [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) ([v0.163.1](https://github.com/goreleaser/goreleaser/releases/tag/v0.163.1), 1 day ago) - Deliver Go binaries as fast and easily as possible
 - [charmbracelet/lipgloss](https://github.com/charmbracelet/lipgloss) ([v0.2.0](https://github.com/charmbracelet/lipgloss/releases/tag/v0.2.0), 1 day ago) - Style definitions for nice terminal layouts 👄
 - [charmbracelet/bubbles](https://github.com/charmbracelet/bubbles) ([v0.7.8](https://github.com/charmbracelet/bubbles/releases/tag/v0.7.8), 3 days ago) - TUI components for Bubble Tea 🍡
 - [craftamap/bb](https://github.com/craftamap/bb) ([v0.3.1](https://github.com/craftamap/bb/releases/tag/v0.3.1), 1 week ago) - inoffical Bitbucket.org command line tool
