@@ -16,7 +16,7 @@ of other projects. Curious what I've been hacking on recently?
 - [knoxite/knoxite](https://github.com/knoxite/knoxite) - A data storage &amp; backup system (1 week ago)
 - [charmbracelet/glamour](https://github.com/charmbracelet/glamour) - Stylesheet-based markdown rendering for your CLI apps 💇🏻‍♀️ (1 week ago)
 - [muesli/termenv](https://github.com/muesli/termenv) - Advanced ANSI style &amp; color support for your terminal applications (1 week ago)
-- [charmbracelet/glow](https://github.com/charmbracelet/glow) - Render markdown on the CLI, with pizzazz! 💅🏻 (1 week ago)
+- [charmbracelet/glow](https://github.com/charmbracelet/glow) - Render markdown on the CLI, with pizzazz! 💅🏻 (2 weeks ago)
 
 #### 🌱 My latest projects
 
@@ -28,10 +28,10 @@ of other projects. Curious what I've been hacking on recently?
 
 #### 🔭 Latest releases I've contributed to
 
-- [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) ([v0.163.1](https://github.com/goreleaser/goreleaser/releases/tag/v0.163.1), today) - Deliver Go binaries as fast and easily as possible
-- [charmbracelet/lipgloss](https://github.com/charmbracelet/lipgloss) ([v0.2.0](https://github.com/charmbracelet/lipgloss/releases/tag/v0.2.0), today) - Style definitions for nice terminal layouts 👄
-- [charmbracelet/bubbles](https://github.com/charmbracelet/bubbles) ([v0.7.8](https://github.com/charmbracelet/bubbles/releases/tag/v0.7.8), 2 days ago) - TUI components for Bubble Tea 🍡
-- [craftamap/bb](https://github.com/craftamap/bb) ([v0.3.1](https://github.com/craftamap/bb/releases/tag/v0.3.1), 6 days ago) - inoffical Bitbucket.org command line tool
+- [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) ([v0.163.1](https://github.com/goreleaser/goreleaser/releases/tag/v0.163.1), 1 day ago) - Deliver Go binaries as fast and easily as possible
+- [charmbracelet/lipgloss](https://github.com/charmbracelet/lipgloss) ([v0.2.0](https://github.com/charmbracelet/lipgloss/releases/tag/v0.2.0), 1 day ago) - Style definitions for nice terminal layouts 👄
+- [charmbracelet/bubbles](https://github.com/charmbracelet/bubbles) ([v0.7.8](https://github.com/charmbracelet/bubbles/releases/tag/v0.7.8), 3 days ago) - TUI components for Bubble Tea 🍡
+- [craftamap/bb](https://github.com/craftamap/bb) ([v0.3.1](https://github.com/craftamap/bb/releases/tag/v0.3.1), 1 week ago) - inoffical Bitbucket.org command line tool
 - [charmbracelet/glamour](https://github.com/charmbracelet/glamour) ([v0.3.0](https://github.com/charmbracelet/glamour/releases/tag/v0.3.0), 1 week ago) - Stylesheet-based markdown rendering for your CLI apps 💇🏻‍♀️
 
 #### 📜 My recent blog posts
