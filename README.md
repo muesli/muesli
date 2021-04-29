@@ -28,11 +28,11 @@ of other projects. Curious what I've been hacking on recently?
 
 #### 🔭 Latest releases I've contributed to
 
+- [42wim/matterircd](https://github.com/42wim/matterircd) ([v0.24.1](https://github.com/42wim/matterircd/releases/tag/v0.24.1), today) - Connect to your mattermost or slack using your IRC-client of choice.
 - [charmbracelet/lipgloss](https://github.com/charmbracelet/lipgloss) ([v0.2.1](https://github.com/charmbracelet/lipgloss/releases/tag/v0.2.1), today) - Style definitions for nice terminal layouts 👄
 - [charmbracelet/bubbles](https://github.com/charmbracelet/bubbles) ([v0.7.9](https://github.com/charmbracelet/bubbles/releases/tag/v0.7.9), 3 days ago) - TUI components for Bubble Tea 🍡
 - [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) ([v0.164.0](https://github.com/goreleaser/goreleaser/releases/tag/v0.164.0), 1 week ago) - Deliver Go binaries as fast and easily as possible
 - [JF002/InfiniTime](https://github.com/JF002/InfiniTime) ([1.0.0](https://github.com/JF002/InfiniTime/releases/tag/1.0.0), 1 week ago) - Firmware for Pinetime smartwatch written in C/C&#43;&#43; and based on FreeRTOS
-- [craftamap/bb](https://github.com/craftamap/bb) ([v0.3.1](https://github.com/craftamap/bb/releases/tag/v0.3.1), 2 weeks ago) - inoffical Bitbucket.org command line tool
 
 #### 📜 My recent blog posts
 
