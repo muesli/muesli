@@ -12,11 +12,11 @@ of other projects. Curious what I've been hacking on recently?
 
 #### 👷 Check out what I'm currently working on
 
-- [muesli/markscribe](https://github.com/muesli/markscribe) - Your personal markdown scribe with template-engine and Git(Hub) &amp; RSS powers 📜 (1 day ago)
+- [muesli/markscribe](https://github.com/muesli/markscribe) - Your personal markdown scribe with template-engine and Git(Hub) &amp; RSS powers 📜 (2 days ago)
 - [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) - A powerful little TUI framework 🏗 (2 weeks ago)
 - [knoxite/knoxite](https://github.com/knoxite/knoxite) - A data storage &amp; backup system (2 weeks ago)
-- [muesli/termenv](https://github.com/muesli/termenv) - Advanced ANSI style &amp; color support for your terminal applications (2 weeks ago)
-- [charmbracelet/glamour](https://github.com/charmbracelet/glamour) - Stylesheet-based markdown rendering for your CLI apps 💇🏻‍♀️ (2 weeks ago)
+- [muesli/termenv](https://github.com/muesli/termenv) - Advanced ANSI style &amp; color support for your terminal applications (3 weeks ago)
+- [charmbracelet/glamour](https://github.com/charmbracelet/glamour) - Stylesheet-based markdown rendering for your CLI apps 💇🏻‍♀️ (3 weeks ago)
 
 #### 🌱 My latest projects
 
@@ -28,9 +28,9 @@ of other projects. Curious what I've been hacking on recently?
 
 #### 🔭 Latest releases I've contributed to
 
-- [42wim/matterircd](https://github.com/42wim/matterircd) ([v0.24.1](https://github.com/42wim/matterircd/releases/tag/v0.24.1), today) - Connect to your mattermost or slack using your IRC-client of choice.
-- [charmbracelet/lipgloss](https://github.com/charmbracelet/lipgloss) ([v0.2.1](https://github.com/charmbracelet/lipgloss/releases/tag/v0.2.1), today) - Style definitions for nice terminal layouts 👄
-- [charmbracelet/bubbles](https://github.com/charmbracelet/bubbles) ([v0.7.9](https://github.com/charmbracelet/bubbles/releases/tag/v0.7.9), 3 days ago) - TUI components for Bubble Tea 🍡
+- [42wim/matterircd](https://github.com/42wim/matterircd) ([v0.24.1](https://github.com/42wim/matterircd/releases/tag/v0.24.1), 1 day ago) - Connect to your mattermost or slack using your IRC-client of choice.
+- [charmbracelet/lipgloss](https://github.com/charmbracelet/lipgloss) ([v0.2.1](https://github.com/charmbracelet/lipgloss/releases/tag/v0.2.1), 1 day ago) - Style definitions for nice terminal layouts 👄
+- [charmbracelet/bubbles](https://github.com/charmbracelet/bubbles) ([v0.7.9](https://github.com/charmbracelet/bubbles/releases/tag/v0.7.9), 4 days ago) - TUI components for Bubble Tea 🍡
 - [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) ([v0.164.0](https://github.com/goreleaser/goreleaser/releases/tag/v0.164.0), 1 week ago) - Deliver Go binaries as fast and easily as possible
 - [JF002/InfiniTime](https://github.com/JF002/InfiniTime) ([1.0.0](https://github.com/JF002/InfiniTime/releases/tag/1.0.0), 1 week ago) - Firmware for Pinetime smartwatch written in C/C&#43;&#43; and based on FreeRTOS
 
