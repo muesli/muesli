@@ -14,7 +14,7 @@ of other projects. Curious what I've been hacking on recently?
 
 - [muesli/markscribe](https://github.com/muesli/markscribe) - Your personal markdown scribe with template-engine and Git(Hub) &amp; RSS powers 📜 (1 week ago)
 - [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) - A powerful little TUI framework 🏗 (3 weeks ago)
-- [knoxite/knoxite](https://github.com/knoxite/knoxite) - A data storage &amp; backup system (3 weeks ago)
+- [knoxite/knoxite](https://github.com/knoxite/knoxite) - A data storage &amp; backup system (4 weeks ago)
 - [charmbracelet/glamour](https://github.com/charmbracelet/glamour) - Stylesheet-based markdown rendering for your CLI apps 💇🏻‍♀️ (1 month ago)
 - [muesli/termenv](https://github.com/muesli/termenv) - Advanced ANSI style &amp; color support for your terminal applications (1 month ago)
 
@@ -28,10 +28,10 @@ of other projects. Curious what I've been hacking on recently?
 
 #### 🔭 Latest releases I've contributed to
 
-- [aligator/GoSlice](https://github.com/aligator/GoSlice) ([v0.3.9](https://github.com/aligator/GoSlice/releases/tag/v0.3.9), 2 days ago) - This is an experimental slicer for 3d printing written in Go also usable as modular slicing lib.
+- [aligator/GoSlice](https://github.com/aligator/GoSlice) ([v0.3.9](https://github.com/aligator/GoSlice/releases/tag/v0.3.9), 3 days ago) - This is an experimental slicer for 3d printing written in Go also usable as modular slicing lib.
 - [42wim/matterircd](https://github.com/42wim/matterircd) ([v0.24.1](https://github.com/42wim/matterircd/releases/tag/v0.24.1), 1 week ago) - Connect to your mattermost or slack using your IRC-client of choice.
 - [charmbracelet/lipgloss](https://github.com/charmbracelet/lipgloss) ([v0.2.1](https://github.com/charmbracelet/lipgloss/releases/tag/v0.2.1), 1 week ago) - Style definitions for nice terminal layouts 👄
-- [charmbracelet/bubbles](https://github.com/charmbracelet/bubbles) ([v0.7.9](https://github.com/charmbracelet/bubbles/releases/tag/v0.7.9), 1 week ago) - TUI components for Bubble Tea 🍡
+- [charmbracelet/bubbles](https://github.com/charmbracelet/bubbles) ([v0.7.9](https://github.com/charmbracelet/bubbles/releases/tag/v0.7.9), 2 weeks ago) - TUI components for Bubble Tea 🍡
 - [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) ([v0.164.0](https://github.com/goreleaser/goreleaser/releases/tag/v0.164.0), 2 weeks ago) - Deliver Go binaries as fast and easily as possible
 
 #### 📜 My recent blog posts
