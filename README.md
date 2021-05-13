@@ -28,10 +28,10 @@ of other projects. Curious what I've been hacking on recently?
 
 #### 🔭 Latest releases I've contributed to
 
-- [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) ([v0.13.3](https://github.com/charmbracelet/bubbletea/releases/tag/v0.13.3), 2 days ago) - A powerful little TUI framework 🏗
-- [aligator/GoSlice](https://github.com/aligator/GoSlice) ([v0.3.9](https://github.com/aligator/GoSlice/releases/tag/v0.3.9), 5 days ago) - This is an experimental slicer for 3d printing written in Go also usable as modular slicing lib.
-- [42wim/matterircd](https://github.com/42wim/matterircd) ([v0.24.1](https://github.com/42wim/matterircd/releases/tag/v0.24.1), 1 week ago) - Connect to your mattermost or slack using your IRC-client of choice.
-- [charmbracelet/lipgloss](https://github.com/charmbracelet/lipgloss) ([v0.2.1](https://github.com/charmbracelet/lipgloss/releases/tag/v0.2.1), 1 week ago) - Style definitions for nice terminal layouts 👄
+- [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) ([v0.13.3](https://github.com/charmbracelet/bubbletea/releases/tag/v0.13.3), 3 days ago) - A powerful little TUI framework 🏗
+- [aligator/GoSlice](https://github.com/aligator/GoSlice) ([v0.3.9](https://github.com/aligator/GoSlice/releases/tag/v0.3.9), 6 days ago) - This is an experimental slicer for 3d printing written in Go also usable as modular slicing lib.
+- [42wim/matterircd](https://github.com/42wim/matterircd) ([v0.24.1](https://github.com/42wim/matterircd/releases/tag/v0.24.1), 2 weeks ago) - Connect to your mattermost or slack using your IRC-client of choice.
+- [charmbracelet/lipgloss](https://github.com/charmbracelet/lipgloss) ([v0.2.1](https://github.com/charmbracelet/lipgloss/releases/tag/v0.2.1), 2 weeks ago) - Style definitions for nice terminal layouts 👄
 - [charmbracelet/bubbles](https://github.com/charmbracelet/bubbles) ([v0.7.9](https://github.com/charmbracelet/bubbles/releases/tag/v0.7.9), 2 weeks ago) - TUI components for Bubble Tea 🍡
 
 #### 📜 My recent blog posts
@@ -39,7 +39,7 @@ of other projects. Curious what I've been hacking on recently?
 - [Installing Arch Linux with Full Disk Encryption](https://fribbledom.com/posts/encrypted-arch-install/) (2 years ago)
 - [Remotely Installing a Fully-Encrypted Debian Server](https://fribbledom.com/posts/encrypted-remote-debian-install/) (2 years ago)
 - [Gamut, a Go Package to Manage Color Palettes](https://fribbledom.com/posts/gamut-package-to-handle-color-palettes/) (2 years ago)
-- [An Algorithm to Generate Color Palettes](https://fribbledom.com/posts/an-algorithm-to-generate-color-palettes/) (2 years ago)
+- [An Algorithm to Generate Color Palettes](https://fribbledom.com/posts/an-algorithm-to-generate-color-palettes/) (3 years ago)
 - [A &#39;Shiny&#39; New Keyboard](https://fribbledom.com/posts/a-shiny-new-keyboard/) (3 years ago)
 
 #### ❤️ These awesome people sponsor me (thank you!)
