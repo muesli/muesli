@@ -12,11 +12,11 @@ of other projects. Curious what I've been hacking on recently?
 
 #### 👷 Check out what I'm currently working on
 
+- [muesli/reflow](https://github.com/muesli/reflow) - A collection of (ANSI-sequence aware) text reflow operations &amp; algorithms (today)
 - [muesli/markscribe](https://github.com/muesli/markscribe) - Your personal markdown scribe with template-engine and Git(Hub) &amp; RSS powers 📜 (2 weeks ago)
 - [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) - A powerful little TUI framework 🏗 (1 month ago)
 - [knoxite/knoxite](https://github.com/knoxite/knoxite) - A data storage &amp; backup system (1 month ago)
 - [muesli/termenv](https://github.com/muesli/termenv) - Advanced ANSI style &amp; color support for your terminal applications (1 month ago)
-- [charmbracelet/glamour](https://github.com/charmbracelet/glamour) - Stylesheet-based markdown rendering for your CLI apps 💇🏻‍♀️ (1 month ago)
 
 #### 🌱 My latest projects
 
@@ -28,11 +28,11 @@ of other projects. Curious what I've been hacking on recently?
 
 #### 🔭 Latest releases I've contributed to
 
+- [muesli/reflow](https://github.com/muesli/reflow) ([v0.3.0](https://github.com/muesli/reflow/releases/tag/v0.3.0), today) - A collection of (ANSI-sequence aware) text reflow operations &amp; algorithms
 - [owncast/owncast](https://github.com/owncast/owncast) ([v0.0.7](https://github.com/owncast/owncast/releases/tag/v0.0.7), 2 days ago) - Take control over your live stream video by running it yourself.  Streaming &#43; chat out of the box.
 - [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) ([v0.13.4](https://github.com/charmbracelet/bubbletea/releases/tag/v0.13.4), 2 days ago) - A powerful little TUI framework 🏗
 - [aligator/GoSlice](https://github.com/aligator/GoSlice) ([v0.3.9](https://github.com/aligator/GoSlice/releases/tag/v0.3.9), 1 week ago) - This is an experimental slicer for 3d printing written in Go also usable as modular slicing lib.
 - [42wim/matterircd](https://github.com/42wim/matterircd) ([v0.24.1](https://github.com/42wim/matterircd/releases/tag/v0.24.1), 2 weeks ago) - Connect to your mattermost or slack using your IRC-client of choice.
-- [charmbracelet/lipgloss](https://github.com/charmbracelet/lipgloss) ([v0.2.1](https://github.com/charmbracelet/lipgloss/releases/tag/v0.2.1), 2 weeks ago) - Style definitions for nice terminal layouts 👄
 
 #### 📜 My recent blog posts
 
