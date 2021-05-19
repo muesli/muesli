@@ -12,11 +12,11 @@ of other projects. Curious what I've been hacking on recently?
 
 #### 👷 Check out what I'm currently working on
 
-- [charmbracelet/glamour](https://github.com/charmbracelet/glamour) - Stylesheet-based markdown rendering for your CLI apps 💇🏻‍♀️ (today)
-- [muesli/deckmaster](https://github.com/muesli/deckmaster) - An application to control your Elgato Stream Deck on Linux (today)
-- [charmbracelet/glow](https://github.com/charmbracelet/glow) - Render markdown on the CLI, with pizzazz! 💅🏻 (today)
-- [charmbracelet/bubbles](https://github.com/charmbracelet/bubbles) - TUI components for Bubble Tea 🍡 (today)
-- [muesli/termenv](https://github.com/muesli/termenv) - Advanced ANSI style &amp; color support for your terminal applications (today)
+- [charmbracelet/glamour](https://github.com/charmbracelet/glamour) - Stylesheet-based markdown rendering for your CLI apps 💇🏻‍♀️ (1 day ago)
+- [muesli/deckmaster](https://github.com/muesli/deckmaster) - An application to control your Elgato Stream Deck on Linux (1 day ago)
+- [charmbracelet/glow](https://github.com/charmbracelet/glow) - Render markdown on the CLI, with pizzazz! 💅🏻 (1 day ago)
+- [charmbracelet/bubbles](https://github.com/charmbracelet/bubbles) - TUI components for Bubble Tea 🍡 (1 day ago)
+- [muesli/termenv](https://github.com/muesli/termenv) - Advanced ANSI style &amp; color support for your terminal applications (1 day ago)
 
 #### 🌱 My latest projects
 
@@ -28,9 +28,9 @@ of other projects. Curious what I've been hacking on recently?
 
 #### 🔭 Latest releases I've contributed to
 
-- [muesli/reflow](https://github.com/muesli/reflow) ([v0.3.0](https://github.com/muesli/reflow/releases/tag/v0.3.0), 1 day ago) - A collection of (ANSI-sequence aware) text reflow operations &amp; algorithms
-- [owncast/owncast](https://github.com/owncast/owncast) ([v0.0.7](https://github.com/owncast/owncast/releases/tag/v0.0.7), 3 days ago) - Take control over your live stream video by running it yourself.  Streaming &#43; chat out of the box.
-- [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) ([v0.13.4](https://github.com/charmbracelet/bubbletea/releases/tag/v0.13.4), 3 days ago) - A powerful little TUI framework 🏗
+- [muesli/reflow](https://github.com/muesli/reflow) ([v0.3.0](https://github.com/muesli/reflow/releases/tag/v0.3.0), 2 days ago) - A collection of (ANSI-sequence aware) text reflow operations &amp; algorithms
+- [owncast/owncast](https://github.com/owncast/owncast) ([v0.0.7](https://github.com/owncast/owncast/releases/tag/v0.0.7), 4 days ago) - Take control over your live stream video by running it yourself.  Streaming &#43; chat out of the box.
+- [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) ([v0.13.4](https://github.com/charmbracelet/bubbletea/releases/tag/v0.13.4), 4 days ago) - A powerful little TUI framework 🏗
 - [aligator/GoSlice](https://github.com/aligator/GoSlice) ([v0.3.9](https://github.com/aligator/GoSlice/releases/tag/v0.3.9), 1 week ago) - This is an experimental slicer for 3d printing written in Go also usable as modular slicing lib.
 - [42wim/matterircd](https://github.com/42wim/matterircd) ([v0.24.1](https://github.com/42wim/matterircd/releases/tag/v0.24.1), 2 weeks ago) - Connect to your mattermost or slack using your IRC-client of choice.
 
