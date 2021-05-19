@@ -16,7 +16,7 @@ of other projects. Curious what I've been hacking on recently?
 - [knoxite/knoxite](https://github.com/knoxite/knoxite) - A data storage &amp; backup system (today)
 - [muesli/reflow](https://github.com/muesli/reflow) - A collection of (ANSI-sequence aware) text reflow operations &amp; algorithms (today)
 - [muesli/markscribe](https://github.com/muesli/markscribe) - Your personal markdown scribe with template-engine and Git(Hub) &amp; RSS powers 📜 (today)
-- [muesli/sync3c](https://github.com/muesli/sync3c) - A little tool to sync/download media from https://media.ccc.de (today)
+- [muesli/sasquatch](https://github.com/muesli/sasquatch) - A simple data encryption library (today)
 
 #### 🌱 My latest projects
 
