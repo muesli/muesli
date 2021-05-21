@@ -28,11 +28,11 @@ of other projects. Curious what I've been hacking on recently?
 
 #### 🔭 Latest releases I've contributed to
 
+- [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) ([v0.165.0](https://github.com/goreleaser/goreleaser/releases/tag/v0.165.0), today) - Deliver Go binaries as fast and easily as possible
 - [codenotary/immudb](https://github.com/codenotary/immudb) ([v1.0.0](https://github.com/codenotary/immudb/releases/tag/v1.0.0), 1 day ago) - immudb - world’s fastest immutable database
 - [muesli/reflow](https://github.com/muesli/reflow) ([v0.3.0](https://github.com/muesli/reflow/releases/tag/v0.3.0), 4 days ago) - A collection of (ANSI-sequence aware) text reflow operations &amp; algorithms
 - [owncast/owncast](https://github.com/owncast/owncast) ([v0.0.7](https://github.com/owncast/owncast/releases/tag/v0.0.7), 6 days ago) - Take control over your live stream video by running it yourself.  Streaming &#43; chat out of the box.
 - [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) ([v0.13.4](https://github.com/charmbracelet/bubbletea/releases/tag/v0.13.4), 6 days ago) - A powerful little TUI framework 🏗
-- [aligator/GoSlice](https://github.com/aligator/GoSlice) ([v0.3.9](https://github.com/aligator/GoSlice/releases/tag/v0.3.9), 2 weeks ago) - This is an experimental slicer for 3d printing written in Go also usable as modular slicing lib.
 
 #### 📜 My recent blog posts
 
