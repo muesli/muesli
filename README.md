@@ -12,11 +12,11 @@ of other projects. Curious what I've been hacking on recently?
 
 #### 👷 Check out what I'm currently working on
 
-- [muesli/kmeans](https://github.com/muesli/kmeans) - k-means clustering algorithm implementation written in Go (4 days ago)
-- [knoxite/knoxite](https://github.com/knoxite/knoxite) - A data storage &amp; backup system (4 days ago)
-- [muesli/reflow](https://github.com/muesli/reflow) - A collection of (ANSI-sequence aware) text reflow operations &amp; algorithms (4 days ago)
-- [muesli/markscribe](https://github.com/muesli/markscribe) - Your personal markdown scribe with template-engine and Git(Hub) &amp; RSS powers 📜 (4 days ago)
-- [muesli/sasquatch](https://github.com/muesli/sasquatch) - A simple data encryption library (4 days ago)
+- [muesli/kmeans](https://github.com/muesli/kmeans) - k-means clustering algorithm implementation written in Go (5 days ago)
+- [knoxite/knoxite](https://github.com/knoxite/knoxite) - A data storage &amp; backup system (5 days ago)
+- [muesli/reflow](https://github.com/muesli/reflow) - A collection of (ANSI-sequence aware) text reflow operations &amp; algorithms (5 days ago)
+- [muesli/markscribe](https://github.com/muesli/markscribe) - Your personal markdown scribe with template-engine and Git(Hub) &amp; RSS powers 📜 (5 days ago)
+- [muesli/sasquatch](https://github.com/muesli/sasquatch) - A simple data encryption library (5 days ago)
 
 #### 🌱 My latest projects
 
@@ -28,10 +28,10 @@ of other projects. Curious what I've been hacking on recently?
 
 #### 🔭 Latest releases I've contributed to
 
-- [codenotary/immudb](https://github.com/codenotary/immudb) ([v1.0.0](https://github.com/codenotary/immudb/releases/tag/v1.0.0), 2 days ago) - immudb - world’s fastest immutable database
-- [JF002/InfiniTime](https://github.com/JF002/InfiniTime) ([1.1.0](https://github.com/JF002/InfiniTime/releases/tag/1.1.0), 2 days ago) - Firmware for Pinetime smartwatch written in C/C&#43;&#43; and based on FreeRTOS
-- [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) ([v0.165.0](https://github.com/goreleaser/goreleaser/releases/tag/v0.165.0), 2 days ago) - Deliver Go binaries as fast and easily as possible
-- [muesli/reflow](https://github.com/muesli/reflow) ([v0.3.0](https://github.com/muesli/reflow/releases/tag/v0.3.0), 6 days ago) - A collection of (ANSI-sequence aware) text reflow operations &amp; algorithms
+- [codenotary/immudb](https://github.com/codenotary/immudb) ([v1.0.0](https://github.com/codenotary/immudb/releases/tag/v1.0.0), 3 days ago) - immudb - world’s fastest immutable database
+- [JF002/InfiniTime](https://github.com/JF002/InfiniTime) ([1.1.0](https://github.com/JF002/InfiniTime/releases/tag/1.1.0), 3 days ago) - Firmware for Pinetime smartwatch written in C/C&#43;&#43; and based on FreeRTOS
+- [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) ([v0.165.0](https://github.com/goreleaser/goreleaser/releases/tag/v0.165.0), 3 days ago) - Deliver Go binaries as fast and easily as possible
+- [muesli/reflow](https://github.com/muesli/reflow) ([v0.3.0](https://github.com/muesli/reflow/releases/tag/v0.3.0), 1 week ago) - A collection of (ANSI-sequence aware) text reflow operations &amp; algorithms
 - [owncast/owncast](https://github.com/owncast/owncast) ([v0.0.7](https://github.com/owncast/owncast/releases/tag/v0.0.7), 1 week ago) - Take control over your live stream video by running it yourself.  Streaming &#43; chat out of the box.
 
 #### 📜 My recent blog posts
@@ -45,8 +45,8 @@ of other projects. Curious what I've been hacking on recently?
 #### ❤️ These awesome people sponsor me (thank you!)
 
 - [sadikkuzu](https://github.com/sadikkuzu) (2 months ago)
-- [benleb](https://github.com/benleb) (6 months ago)
-- [hugomd](https://github.com/hugomd) (6 months ago)
+- [benleb](https://github.com/benleb) (7 months ago)
+- [hugomd](https://github.com/hugomd) (7 months ago)
 - [berkus](https://github.com/berkus) (7 months ago)
 - [lfuelling](https://github.com/lfuelling) (1 year ago)
 
