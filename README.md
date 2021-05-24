@@ -12,9 +12,9 @@ of other projects. Curious what I've been hacking on recently?
 
 #### 👷 Check out what I'm currently working on
 
-- [muesli/kmeans](https://github.com/muesli/kmeans) - k-means clustering algorithm implementation written in Go (5 days ago)
-- [knoxite/knoxite](https://github.com/knoxite/knoxite) - A data storage &amp; backup system (5 days ago)
-- [muesli/reflow](https://github.com/muesli/reflow) - A collection of (ANSI-sequence aware) text reflow operations &amp; algorithms (5 days ago)
+- [muesli/streamdeck](https://github.com/muesli/streamdeck) - An application and Go library to control your Elgato Stream Deck on Linux (today)
+- [muesli/beehive](https://github.com/muesli/beehive) - A flexible event/agent &amp; automation system with lots of bees 🐝 (5 days ago)
+- [muesli/combinator](https://github.com/muesli/combinator) - Generates a slice of all possible value combinations for any given struct and a set of its potential member values (5 days ago)
 - [muesli/markscribe](https://github.com/muesli/markscribe) - Your personal markdown scribe with template-engine and Git(Hub) &amp; RSS powers 📜 (5 days ago)
 - [muesli/sasquatch](https://github.com/muesli/sasquatch) - A simple data encryption library (5 days ago)
 
