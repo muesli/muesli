@@ -12,11 +12,11 @@ of other projects. Curious what I've been hacking on recently?
 
 #### 👷 Check out what I'm currently working on
 
-- [muesli/streamdeck](https://github.com/muesli/streamdeck) - An application and Go library to control your Elgato Stream Deck on Linux (today)
-- [muesli/beehive](https://github.com/muesli/beehive) - A flexible event/agent &amp; automation system with lots of bees 🐝 (5 days ago)
-- [muesli/combinator](https://github.com/muesli/combinator) - Generates a slice of all possible value combinations for any given struct and a set of its potential member values (5 days ago)
-- [muesli/markscribe](https://github.com/muesli/markscribe) - Your personal markdown scribe with template-engine and Git(Hub) &amp; RSS powers 📜 (5 days ago)
-- [muesli/sasquatch](https://github.com/muesli/sasquatch) - A simple data encryption library (5 days ago)
+- [muesli/streamdeck](https://github.com/muesli/streamdeck) - An application and Go library to control your Elgato Stream Deck on Linux (1 day ago)
+- [muesli/beehive](https://github.com/muesli/beehive) - A flexible event/agent &amp; automation system with lots of bees 🐝 (6 days ago)
+- [muesli/combinator](https://github.com/muesli/combinator) - Generates a slice of all possible value combinations for any given struct and a set of its potential member values (6 days ago)
+- [muesli/markscribe](https://github.com/muesli/markscribe) - Your personal markdown scribe with template-engine and Git(Hub) &amp; RSS powers 📜 (6 days ago)
+- [muesli/sasquatch](https://github.com/muesli/sasquatch) - A simple data encryption library (6 days ago)
 
 #### 🌱 My latest projects
 
@@ -28,9 +28,9 @@ of other projects. Curious what I've been hacking on recently?
 
 #### 🔭 Latest releases I've contributed to
 
-- [codenotary/immudb](https://github.com/codenotary/immudb) ([v1.0.0](https://github.com/codenotary/immudb/releases/tag/v1.0.0), 3 days ago) - immudb - world’s fastest immutable database
-- [JF002/InfiniTime](https://github.com/JF002/InfiniTime) ([1.1.0](https://github.com/JF002/InfiniTime/releases/tag/1.1.0), 3 days ago) - Firmware for Pinetime smartwatch written in C/C&#43;&#43; and based on FreeRTOS
-- [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) ([v0.165.0](https://github.com/goreleaser/goreleaser/releases/tag/v0.165.0), 3 days ago) - Deliver Go binaries as fast and easily as possible
+- [codenotary/immudb](https://github.com/codenotary/immudb) ([v1.0.0](https://github.com/codenotary/immudb/releases/tag/v1.0.0), 4 days ago) - immudb - world’s fastest immutable database
+- [JF002/InfiniTime](https://github.com/JF002/InfiniTime) ([1.1.0](https://github.com/JF002/InfiniTime/releases/tag/1.1.0), 4 days ago) - Firmware for Pinetime smartwatch written in C/C&#43;&#43; and based on FreeRTOS
+- [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) ([v0.165.0](https://github.com/goreleaser/goreleaser/releases/tag/v0.165.0), 4 days ago) - Deliver Go binaries as fast and easily as possible
 - [muesli/reflow](https://github.com/muesli/reflow) ([v0.3.0](https://github.com/muesli/reflow/releases/tag/v0.3.0), 1 week ago) - A collection of (ANSI-sequence aware) text reflow operations &amp; algorithms
 - [owncast/owncast](https://github.com/owncast/owncast) ([v0.0.7](https://github.com/owncast/owncast/releases/tag/v0.0.7), 1 week ago) - Take control over your live stream video by running it yourself.  Streaming &#43; chat out of the box.
 
