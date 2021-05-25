@@ -28,9 +28,9 @@ of other projects. Curious what I've been hacking on recently?
 
 #### 🔭 Latest releases I've contributed to
 
+- [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) ([v0.166.0](https://github.com/goreleaser/goreleaser/releases/tag/v0.166.0), today) - Deliver Go binaries as fast and easily as possible
 - [codenotary/immudb](https://github.com/codenotary/immudb) ([v1.0.0](https://github.com/codenotary/immudb/releases/tag/v1.0.0), 4 days ago) - immudb - world’s fastest immutable database
 - [JF002/InfiniTime](https://github.com/JF002/InfiniTime) ([1.1.0](https://github.com/JF002/InfiniTime/releases/tag/1.1.0), 4 days ago) - Firmware for Pinetime smartwatch written in C/C&#43;&#43; and based on FreeRTOS
-- [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) ([v0.165.0](https://github.com/goreleaser/goreleaser/releases/tag/v0.165.0), 4 days ago) - Deliver Go binaries as fast and easily as possible
 - [muesli/reflow](https://github.com/muesli/reflow) ([v0.3.0](https://github.com/muesli/reflow/releases/tag/v0.3.0), 1 week ago) - A collection of (ANSI-sequence aware) text reflow operations &amp; algorithms
 - [owncast/owncast](https://github.com/owncast/owncast) ([v0.0.7](https://github.com/owncast/owncast/releases/tag/v0.0.7), 1 week ago) - Take control over your live stream video by running it yourself.  Streaming &#43; chat out of the box.
 
