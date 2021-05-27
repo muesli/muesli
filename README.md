@@ -28,11 +28,11 @@ of other projects. Curious what I've been hacking on recently?
 
 #### 🔭 Latest releases I've contributed to
 
+- [muesli/deckmaster](https://github.com/muesli/deckmaster) ([v0.3.0](https://github.com/muesli/deckmaster/releases/tag/v0.3.0), today) - An application to control your Elgato Stream Deck on Linux
 - [muesli/streamdeck](https://github.com/muesli/streamdeck) ([v0.2.0](https://github.com/muesli/streamdeck/releases/tag/v0.2.0), 1 day ago) - An application and Go library to control your Elgato Stream Deck on Linux
 - [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) ([v0.166.1](https://github.com/goreleaser/goreleaser/releases/tag/v0.166.1), 1 day ago) - Deliver Go binaries as fast and easily as possible
 - [codenotary/immudb](https://github.com/codenotary/immudb) ([v1.0.0](https://github.com/codenotary/immudb/releases/tag/v1.0.0), 6 days ago) - immudb - world’s fastest immutable database
 - [JF002/InfiniTime](https://github.com/JF002/InfiniTime) ([1.1.0](https://github.com/JF002/InfiniTime/releases/tag/1.1.0), 6 days ago) - Firmware for Pinetime smartwatch written in C/C&#43;&#43; and based on FreeRTOS
-- [muesli/reflow](https://github.com/muesli/reflow) ([v0.3.0](https://github.com/muesli/reflow/releases/tag/v0.3.0), 1 week ago) - A collection of (ANSI-sequence aware) text reflow operations &amp; algorithms
 
 #### 📜 My recent blog posts
 
