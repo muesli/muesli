@@ -12,9 +12,9 @@ of other projects. Curious what I've been hacking on recently?
 
 #### 👷 Check out what I'm currently working on
 
-- [muesli/deckmaster](https://github.com/muesli/deckmaster) - An application to control your Elgato Stream Deck on Linux (today)
-- [muesli/markscribe](https://github.com/muesli/markscribe) - Your personal markdown scribe with template-engine and Git(Hub) &amp; RSS powers 📜 (1 day ago)
-- [muesli/streamdeck](https://github.com/muesli/streamdeck) - An application and Go library to control your Elgato Stream Deck on Linux (3 days ago)
+- [muesli/deckmaster](https://github.com/muesli/deckmaster) - An application to control your Elgato Stream Deck on Linux (1 day ago)
+- [muesli/markscribe](https://github.com/muesli/markscribe) - Your personal markdown scribe with template-engine and Git(Hub) &amp; RSS powers 📜 (2 days ago)
+- [muesli/streamdeck](https://github.com/muesli/streamdeck) - An application and Go library to control your Elgato Stream Deck on Linux (4 days ago)
 - [muesli/prism](https://github.com/muesli/prism) - An RTMP stream recaster / splitter (1 week ago)
 - [muesli/kmeans](https://github.com/muesli/kmeans) - k-means clustering algorithm implementation written in Go (1 week ago)
 
@@ -28,11 +28,11 @@ of other projects. Curious what I've been hacking on recently?
 
 #### 🔭 Latest releases I've contributed to
 
-- [muesli/deckmaster](https://github.com/muesli/deckmaster) ([v0.3.0](https://github.com/muesli/deckmaster/releases/tag/v0.3.0), today) - An application to control your Elgato Stream Deck on Linux
-- [muesli/streamdeck](https://github.com/muesli/streamdeck) ([v0.2.0](https://github.com/muesli/streamdeck/releases/tag/v0.2.0), 1 day ago) - An application and Go library to control your Elgato Stream Deck on Linux
-- [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) ([v0.166.1](https://github.com/goreleaser/goreleaser/releases/tag/v0.166.1), 1 day ago) - Deliver Go binaries as fast and easily as possible
-- [codenotary/immudb](https://github.com/codenotary/immudb) ([v1.0.0](https://github.com/codenotary/immudb/releases/tag/v1.0.0), 6 days ago) - immudb - world’s fastest immutable database
-- [JF002/InfiniTime](https://github.com/JF002/InfiniTime) ([1.1.0](https://github.com/JF002/InfiniTime/releases/tag/1.1.0), 6 days ago) - Firmware for Pinetime smartwatch written in C/C&#43;&#43; and based on FreeRTOS
+- [muesli/deckmaster](https://github.com/muesli/deckmaster) ([v0.3.0](https://github.com/muesli/deckmaster/releases/tag/v0.3.0), 1 day ago) - An application to control your Elgato Stream Deck on Linux
+- [muesli/streamdeck](https://github.com/muesli/streamdeck) ([v0.2.0](https://github.com/muesli/streamdeck/releases/tag/v0.2.0), 2 days ago) - An application and Go library to control your Elgato Stream Deck on Linux
+- [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) ([v0.166.1](https://github.com/goreleaser/goreleaser/releases/tag/v0.166.1), 2 days ago) - Deliver Go binaries as fast and easily as possible
+- [codenotary/immudb](https://github.com/codenotary/immudb) ([v1.0.0](https://github.com/codenotary/immudb/releases/tag/v1.0.0), 1 week ago) - immudb - world’s fastest immutable database
+- [JF002/InfiniTime](https://github.com/JF002/InfiniTime) ([1.1.0](https://github.com/JF002/InfiniTime/releases/tag/1.1.0), 1 week ago) - Firmware for Pinetime smartwatch written in C/C&#43;&#43; and based on FreeRTOS
 
 #### 📜 My recent blog posts
 
@@ -44,7 +44,7 @@ of other projects. Curious what I've been hacking on recently?
 
 #### ❤️ These awesome people sponsor me (thank you!)
 
-- [sadikkuzu](https://github.com/sadikkuzu) (2 months ago)
+- [sadikkuzu](https://github.com/sadikkuzu) (3 months ago)
 - [benleb](https://github.com/benleb) (7 months ago)
 - [hugomd](https://github.com/hugomd) (7 months ago)
 - [berkus](https://github.com/berkus) (7 months ago)
