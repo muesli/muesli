@@ -16,7 +16,7 @@ of other projects. Curious what I've been hacking on recently?
 - [muesli/markscribe](https://github.com/muesli/markscribe) - Your personal markdown scribe with template-engine and Git(Hub) &amp; RSS powers 📜 (4 days ago)
 - [muesli/streamdeck](https://github.com/muesli/streamdeck) - An application and Go library to control your Elgato Stream Deck on Linux (6 days ago)
 - [muesli/prism](https://github.com/muesli/prism) - An RTMP stream recaster / splitter (1 week ago)
-- [muesli/kmeans](https://github.com/muesli/kmeans) - k-means clustering algorithm implementation written in Go (1 week ago)
+- [knoxite/knoxite](https://github.com/knoxite/knoxite) - A data storage &amp; backup system (1 week ago)
 
 #### 🌱 My latest projects
 
