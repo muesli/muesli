@@ -28,7 +28,7 @@ of other projects. Curious what I've been hacking on recently?
 
 #### 🔭 Latest releases I've contributed to
 
-- [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) ([v0.167.0](https://github.com/goreleaser/goreleaser/releases/tag/v0.167.0), 1 day ago) - Deliver Go binaries as fast and easily as possible
+- [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) ([v0.168.0](https://github.com/goreleaser/goreleaser/releases/tag/v0.168.0), today) - Deliver Go binaries as fast and easily as possible
 - [muesli/markscribe](https://github.com/muesli/markscribe) ([v0.4.0](https://github.com/muesli/markscribe/releases/tag/v0.4.0), 1 day ago) - Your personal markdown scribe with template-engine and Git(Hub) &amp; RSS powers 📜
 - [muesli/deckmaster](https://github.com/muesli/deckmaster) ([v0.3.0](https://github.com/muesli/deckmaster/releases/tag/v0.3.0), 5 days ago) - An application to control your Elgato Stream Deck on Linux
 - [muesli/streamdeck](https://github.com/muesli/streamdeck) ([v0.2.0](https://github.com/muesli/streamdeck/releases/tag/v0.2.0), 6 days ago) - An application and Go library to control your Elgato Stream Deck on Linux
