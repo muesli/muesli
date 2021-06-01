@@ -25,6 +25,11 @@ of other projects. Curious what I've been hacking on recently?
 - [{{.Name}}]({{.URL}}) ([{{.LastRelease.TagName}}]({{.LastRelease.URL}}), {{humanize .LastRelease.PublishedAt}}) - {{.Description}}
 {{- end}}
 
+#### 🔨 Latest Pull Requests I published
+{{range recentPullRequests 5}}
+- [{{.Title}}]({{.URL}}) on [{{.Repo.Name}}]({{.Repo.URL}}) ({{humanize .CreatedAt}})
+{{- end}}
+
 #### 📜 My recent blog posts
 {{range rss "https://fribbledom.com/posts/index.xml" 5}}
 - [{{.Title}}]({{.URL}}) ({{humanize .PublishedAt}})
@@ -45,4 +50,4 @@ and what needs being improved. Got an issue? Open a ticket, I don't bite and wil
 - Twitter: https://twitter.com/mueslix
 - Fediverse: https://mastodon.social/@fribbledom
 - Blog: https://fribbledom.com
-- IRC: muesli on freenode
+- IRC: muesli on Libera
