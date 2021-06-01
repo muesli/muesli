@@ -34,6 +34,14 @@ of other projects. Curious what I've been hacking on recently?
 - [muesli/streamdeck](https://github.com/muesli/streamdeck) ([v0.2.0](https://github.com/muesli/streamdeck/releases/tag/v0.2.0), 6 days ago) - An application and Go library to control your Elgato Stream Deck on Linux
 - [codenotary/immudb](https://github.com/codenotary/immudb) ([v1.0.0](https://github.com/codenotary/immudb/releases/tag/v1.0.0), 1 week ago) - immudb - world’s fastest immutable database
 
+#### 🔨 Latest Pull Requests I published
+
+- [Standardize case for palette color names](https://github.com/muesli/gamut/pull/15) on [muesli/gamut](https://github.com/muesli/gamut) (1 week ago)
+- [Fix goreportcard badge](https://github.com/muesli/termenv/pull/40) on [muesli/termenv](https://github.com/muesli/termenv) (2 weeks ago)
+- [Add feature list to README](https://github.com/muesli/deckmaster/pull/23) on [muesli/deckmaster](https://github.com/muesli/deckmaster) (2 weeks ago)
+- [Update goreleaser config](https://github.com/muesli/markscribe/pull/27) on [muesli/markscribe](https://github.com/muesli/markscribe) (1 month ago)
+- [Add lipgloss to README links, move projects below it](https://github.com/charmbracelet/bubbletea/pull/84) on [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) (1 month ago)
+
 #### 📜 My recent blog posts
 
 - [Installing Arch Linux with Full Disk Encryption](https://fribbledom.com/posts/encrypted-arch-install/) (2 years ago)
@@ -60,4 +68,4 @@ and what needs being improved. Got an issue? Open a ticket, I don't bite and wil
 - Twitter: https://twitter.com/mueslix
 - Fediverse: https://mastodon.social/@fribbledom
 - Blog: https://fribbledom.com
-- IRC: muesli on freenode
+- IRC: muesli on Libera
