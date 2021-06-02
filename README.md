@@ -12,9 +12,9 @@ of other projects. Curious what I've been hacking on recently?
 
 #### 👷 Check out what I'm currently working on
 
+- [muesli/deckmaster](https://github.com/muesli/deckmaster) - An application to control your Elgato Stream Deck on Linux (today)
 - [muesli/markscribe](https://github.com/muesli/markscribe) - Your personal markdown scribe with template-engine and Git(Hub) &amp; RSS powers 📜 (2 days ago)
 - [muesli/homebrew-tap](https://github.com/muesli/homebrew-tap) - muesli&#39;s Homebrew tap (2 days ago)
-- [muesli/deckmaster](https://github.com/muesli/deckmaster) - An application to control your Elgato Stream Deck on Linux (2 days ago)
 - [muesli/streamdeck](https://github.com/muesli/streamdeck) - An application and Go library to control your Elgato Stream Deck on Linux (1 week ago)
 - [muesli/docker-backup](https://github.com/muesli/docker-backup) - A tool to create &amp; restore complete, self-contained backups of Docker containers (2 weeks ago)
 
@@ -28,19 +28,19 @@ of other projects. Curious what I've been hacking on recently?
 
 #### 🔭 Latest releases I've contributed to
 
+- [charmbracelet/bubbles](https://github.com/charmbracelet/bubbles) ([v0.8.0](https://github.com/charmbracelet/bubbles/releases/tag/v0.8.0), today) - TUI components for Bubble Tea 🍡
 - [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) ([v0.168.0](https://github.com/goreleaser/goreleaser/releases/tag/v0.168.0), 1 day ago) - Deliver Go binaries as fast and easily as possible
 - [muesli/markscribe](https://github.com/muesli/markscribe) ([v0.4.0](https://github.com/muesli/markscribe/releases/tag/v0.4.0), 2 days ago) - Your personal markdown scribe with template-engine and Git(Hub) &amp; RSS powers 📜
 - [muesli/deckmaster](https://github.com/muesli/deckmaster) ([v0.3.0](https://github.com/muesli/deckmaster/releases/tag/v0.3.0), 6 days ago) - An application to control your Elgato Stream Deck on Linux
 - [muesli/streamdeck](https://github.com/muesli/streamdeck) ([v0.2.0](https://github.com/muesli/streamdeck/releases/tag/v0.2.0), 1 week ago) - An application and Go library to control your Elgato Stream Deck on Linux
-- [codenotary/immudb](https://github.com/codenotary/immudb) ([v1.0.0](https://github.com/codenotary/immudb/releases/tag/v1.0.0), 1 week ago) - immudb - world’s fastest immutable database
 
 #### 🔨 Latest Pull Requests I published
 
+- [Add widget documentation](https://github.com/muesli/deckmaster/pull/25) on [muesli/deckmaster](https://github.com/muesli/deckmaster) (today)
 - [Standardize case for palette color names](https://github.com/muesli/gamut/pull/15) on [muesli/gamut](https://github.com/muesli/gamut) (2 weeks ago)
 - [Fix goreportcard badge](https://github.com/muesli/termenv/pull/40) on [muesli/termenv](https://github.com/muesli/termenv) (2 weeks ago)
 - [Add feature list to README](https://github.com/muesli/deckmaster/pull/23) on [muesli/deckmaster](https://github.com/muesli/deckmaster) (2 weeks ago)
 - [Update goreleaser config](https://github.com/muesli/markscribe/pull/27) on [muesli/markscribe](https://github.com/muesli/markscribe) (1 month ago)
-- [Add lipgloss to README links, move projects below it](https://github.com/charmbracelet/bubbletea/pull/84) on [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) (1 month ago)
 
 #### 📜 My recent blog posts
 
