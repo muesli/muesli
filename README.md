@@ -12,8 +12,8 @@ of other projects. Curious what I've been hacking on recently?
 
 #### 👷 Check out what I'm currently working on
 
+- [muesli/deckmaster](https://github.com/muesli/deckmaster) - An application to control your Elgato Stream Deck on Linux (today)
 - [muesli/homebrew-tap](https://github.com/muesli/homebrew-tap) - muesli&#39;s Homebrew tap (today)
-- [muesli/deckmaster](https://github.com/muesli/deckmaster) - An application to control your Elgato Stream Deck on Linux (1 day ago)
 - [muesli/markscribe](https://github.com/muesli/markscribe) - Your personal markdown scribe with template-engine and Git(Hub) &amp; RSS powers 📜 (3 days ago)
 - [muesli/streamdeck](https://github.com/muesli/streamdeck) - An application and Go library to control your Elgato Stream Deck on Linux (1 week ago)
 - [muesli/docker-backup](https://github.com/muesli/docker-backup) - A tool to create &amp; restore complete, self-contained backups of Docker containers (2 weeks ago)
@@ -28,11 +28,11 @@ of other projects. Curious what I've been hacking on recently?
 
 #### 🔭 Latest releases I've contributed to
 
+- [muesli/deckmaster](https://github.com/muesli/deckmaster) ([v0.4.0](https://github.com/muesli/deckmaster/releases/tag/v0.4.0), today) - An application to control your Elgato Stream Deck on Linux
 - [muesli/markscribe](https://github.com/muesli/markscribe) ([v0.5.0](https://github.com/muesli/markscribe/releases/tag/v0.5.0), today) - Your personal markdown scribe with template-engine and Git(Hub) &amp; RSS powers 📜
 - [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) ([v0.14.0](https://github.com/charmbracelet/bubbletea/releases/tag/v0.14.0), 1 day ago) - A powerful little TUI framework 🏗
 - [charmbracelet/bubbles](https://github.com/charmbracelet/bubbles) ([v0.8.0](https://github.com/charmbracelet/bubbles/releases/tag/v0.8.0), 1 day ago) - TUI components for Bubble Tea 🍡
 - [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) ([v0.168.0](https://github.com/goreleaser/goreleaser/releases/tag/v0.168.0), 2 days ago) - Deliver Go binaries as fast and easily as possible
-- [muesli/deckmaster](https://github.com/muesli/deckmaster) ([v0.3.0](https://github.com/muesli/deckmaster/releases/tag/v0.3.0), 1 week ago) - An application to control your Elgato Stream Deck on Linux
 
 #### 🔨 Latest Pull Requests I published
 
