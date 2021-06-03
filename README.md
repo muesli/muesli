@@ -36,11 +36,11 @@ of other projects. Curious what I've been hacking on recently?
 
 #### 🔨 Latest Pull Requests I published
 
+- [Make image paths relative to the .deck file they&#39;re referenced from](https://github.com/muesli/deckmaster/pull/28) on [muesli/deckmaster](https://github.com/muesli/deckmaster) (today)
 - [Add known configuration values to README](https://github.com/muesli/deckmaster/pull/26) on [muesli/deckmaster](https://github.com/muesli/deckmaster) (1 day ago)
 - [Add widget documentation](https://github.com/muesli/deckmaster/pull/25) on [muesli/deckmaster](https://github.com/muesli/deckmaster) (1 day ago)
 - [Standardize case for palette color names](https://github.com/muesli/gamut/pull/15) on [muesli/gamut](https://github.com/muesli/gamut) (2 weeks ago)
 - [Fix goreportcard badge](https://github.com/muesli/termenv/pull/40) on [muesli/termenv](https://github.com/muesli/termenv) (2 weeks ago)
-- [Add feature list to README](https://github.com/muesli/deckmaster/pull/23) on [muesli/deckmaster](https://github.com/muesli/deckmaster) (2 weeks ago)
 
 #### 📜 My recent blog posts
 
