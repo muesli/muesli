@@ -28,11 +28,11 @@ of other projects. Curious what I've been hacking on recently?
 
 #### 🔭 Latest releases I've contributed to
 
+- [arp242/uni](https://github.com/arp242/uni) ([v2.2.0](https://github.com/arp242/uni/releases/tag/v2.2.0), today) - Query the Unicode database from the commandline, with good support for emojis
 - [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) ([v0.169.0](https://github.com/goreleaser/goreleaser/releases/tag/v0.169.0), today) - Deliver Go binaries as fast and easily as possible
 - [muesli/deckmaster](https://github.com/muesli/deckmaster) ([v0.4.0](https://github.com/muesli/deckmaster/releases/tag/v0.4.0), 2 days ago) - An application to control your Elgato Stream Deck on Linux
 - [muesli/markscribe](https://github.com/muesli/markscribe) ([v0.5.0](https://github.com/muesli/markscribe/releases/tag/v0.5.0), 2 days ago) - Your personal markdown scribe with template-engine and Git(Hub) &amp; RSS powers 📜
 - [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) ([v0.14.0](https://github.com/charmbracelet/bubbletea/releases/tag/v0.14.0), 3 days ago) - A powerful little TUI framework 🏗
-- [charmbracelet/bubbles](https://github.com/charmbracelet/bubbles) ([v0.8.0](https://github.com/charmbracelet/bubbles/releases/tag/v0.8.0), 3 days ago) - TUI components for Bubble Tea 🍡
 
 #### 🔨 Latest Pull Requests I published
 
