@@ -12,11 +12,11 @@ of other projects. Curious what I've been hacking on recently?
 
 #### 👷 Check out what I'm currently working on
 
+- [muesli/pam-beacon](https://github.com/muesli/pam-beacon) - PAM module for multi-factor authentication with Bluetooth Devices &amp; Beacons (today)
 - [muesli/deckmaster](https://github.com/muesli/deckmaster) - An application to control your Elgato Stream Deck on Linux (1 day ago)
 - [muesli/homebrew-tap](https://github.com/muesli/homebrew-tap) - muesli&#39;s Homebrew tap (2 days ago)
 - [muesli/markscribe](https://github.com/muesli/markscribe) - Your personal markdown scribe with template-engine and Git(Hub) &amp; RSS powers 📜 (5 days ago)
 - [muesli/streamdeck](https://github.com/muesli/streamdeck) - An application and Go library to control your Elgato Stream Deck on Linux (1 week ago)
-- [muesli/docker-backup](https://github.com/muesli/docker-backup) - A tool to create &amp; restore complete, self-contained backups of Docker containers (2 weeks ago)
 
 #### 🌱 My latest projects
 
@@ -36,11 +36,11 @@ of other projects. Curious what I've been hacking on recently?
 
 #### 🔨 Latest Pull Requests I published
 
+- [Install libpam-dev in GitHub workflow](https://github.com/muesli/pam-beacon/pull/8) on [muesli/pam-beacon](https://github.com/muesli/pam-beacon) (today)
+- [Enable Go modules &amp; switch to GitHub Actions](https://github.com/muesli/pam-beacon/pull/7) on [muesli/pam-beacon](https://github.com/muesli/pam-beacon) (today)
 - [Update linter config](https://github.com/charmbracelet/glow/pull/279) on [charmbracelet/glow](https://github.com/charmbracelet/glow) (1 day ago)
 - [Make image paths relative to the .deck file they&#39;re referenced from](https://github.com/muesli/deckmaster/pull/28) on [muesli/deckmaster](https://github.com/muesli/deckmaster) (2 days ago)
 - [Add known configuration values to README](https://github.com/muesli/deckmaster/pull/26) on [muesli/deckmaster](https://github.com/muesli/deckmaster) (3 days ago)
-- [Add widget documentation](https://github.com/muesli/deckmaster/pull/25) on [muesli/deckmaster](https://github.com/muesli/deckmaster) (3 days ago)
-- [Standardize case for palette color names](https://github.com/muesli/gamut/pull/15) on [muesli/gamut](https://github.com/muesli/gamut) (2 weeks ago)
 
 #### 📜 My recent blog posts
 
