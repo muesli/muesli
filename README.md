@@ -12,9 +12,9 @@ of other projects. Curious what I've been hacking on recently?
 
 #### 👷 Check out what I'm currently working on
 
-- [muesli/deckmaster](https://github.com/muesli/deckmaster) - An application to control your Elgato Stream Deck on Linux (today)
-- [muesli/homebrew-tap](https://github.com/muesli/homebrew-tap) - muesli&#39;s Homebrew tap (1 day ago)
-- [muesli/markscribe](https://github.com/muesli/markscribe) - Your personal markdown scribe with template-engine and Git(Hub) &amp; RSS powers 📜 (4 days ago)
+- [muesli/deckmaster](https://github.com/muesli/deckmaster) - An application to control your Elgato Stream Deck on Linux (1 day ago)
+- [muesli/homebrew-tap](https://github.com/muesli/homebrew-tap) - muesli&#39;s Homebrew tap (2 days ago)
+- [muesli/markscribe](https://github.com/muesli/markscribe) - Your personal markdown scribe with template-engine and Git(Hub) &amp; RSS powers 📜 (5 days ago)
 - [muesli/streamdeck](https://github.com/muesli/streamdeck) - An application and Go library to control your Elgato Stream Deck on Linux (1 week ago)
 - [muesli/docker-backup](https://github.com/muesli/docker-backup) - A tool to create &amp; restore complete, self-contained backups of Docker containers (2 weeks ago)
 
@@ -28,18 +28,18 @@ of other projects. Curious what I've been hacking on recently?
 
 #### 🔭 Latest releases I've contributed to
 
-- [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) ([v0.168.2](https://github.com/goreleaser/goreleaser/releases/tag/v0.168.2), today) - Deliver Go binaries as fast and easily as possible
-- [muesli/deckmaster](https://github.com/muesli/deckmaster) ([v0.4.0](https://github.com/muesli/deckmaster/releases/tag/v0.4.0), 1 day ago) - An application to control your Elgato Stream Deck on Linux
-- [muesli/markscribe](https://github.com/muesli/markscribe) ([v0.5.0](https://github.com/muesli/markscribe/releases/tag/v0.5.0), 1 day ago) - Your personal markdown scribe with template-engine and Git(Hub) &amp; RSS powers 📜
-- [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) ([v0.14.0](https://github.com/charmbracelet/bubbletea/releases/tag/v0.14.0), 2 days ago) - A powerful little TUI framework 🏗
-- [charmbracelet/bubbles](https://github.com/charmbracelet/bubbles) ([v0.8.0](https://github.com/charmbracelet/bubbles/releases/tag/v0.8.0), 2 days ago) - TUI components for Bubble Tea 🍡
+- [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) ([v0.168.2](https://github.com/goreleaser/goreleaser/releases/tag/v0.168.2), 1 day ago) - Deliver Go binaries as fast and easily as possible
+- [muesli/deckmaster](https://github.com/muesli/deckmaster) ([v0.4.0](https://github.com/muesli/deckmaster/releases/tag/v0.4.0), 2 days ago) - An application to control your Elgato Stream Deck on Linux
+- [muesli/markscribe](https://github.com/muesli/markscribe) ([v0.5.0](https://github.com/muesli/markscribe/releases/tag/v0.5.0), 2 days ago) - Your personal markdown scribe with template-engine and Git(Hub) &amp; RSS powers 📜
+- [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) ([v0.14.0](https://github.com/charmbracelet/bubbletea/releases/tag/v0.14.0), 3 days ago) - A powerful little TUI framework 🏗
+- [charmbracelet/bubbles](https://github.com/charmbracelet/bubbles) ([v0.8.0](https://github.com/charmbracelet/bubbles/releases/tag/v0.8.0), 3 days ago) - TUI components for Bubble Tea 🍡
 
 #### 🔨 Latest Pull Requests I published
 
-- [Update linter config](https://github.com/charmbracelet/glow/pull/279) on [charmbracelet/glow](https://github.com/charmbracelet/glow) (today)
-- [Make image paths relative to the .deck file they&#39;re referenced from](https://github.com/muesli/deckmaster/pull/28) on [muesli/deckmaster](https://github.com/muesli/deckmaster) (1 day ago)
-- [Add known configuration values to README](https://github.com/muesli/deckmaster/pull/26) on [muesli/deckmaster](https://github.com/muesli/deckmaster) (2 days ago)
-- [Add widget documentation](https://github.com/muesli/deckmaster/pull/25) on [muesli/deckmaster](https://github.com/muesli/deckmaster) (2 days ago)
+- [Update linter config](https://github.com/charmbracelet/glow/pull/279) on [charmbracelet/glow](https://github.com/charmbracelet/glow) (1 day ago)
+- [Make image paths relative to the .deck file they&#39;re referenced from](https://github.com/muesli/deckmaster/pull/28) on [muesli/deckmaster](https://github.com/muesli/deckmaster) (2 days ago)
+- [Add known configuration values to README](https://github.com/muesli/deckmaster/pull/26) on [muesli/deckmaster](https://github.com/muesli/deckmaster) (3 days ago)
+- [Add widget documentation](https://github.com/muesli/deckmaster/pull/25) on [muesli/deckmaster](https://github.com/muesli/deckmaster) (3 days ago)
 - [Standardize case for palette color names](https://github.com/muesli/gamut/pull/15) on [muesli/gamut](https://github.com/muesli/gamut) (2 weeks ago)
 
 #### 📜 My recent blog posts
@@ -52,7 +52,7 @@ of other projects. Curious what I've been hacking on recently?
 
 #### ❤️ These awesome people sponsor me (thank you!)
 
-- [angristan](https://github.com/angristan) (today)
+- [angristan](https://github.com/angristan) (1 day ago)
 - [sadikkuzu](https://github.com/sadikkuzu) (3 months ago)
 - [benleb](https://github.com/benleb) (7 months ago)
 - [hugomd](https://github.com/hugomd) (7 months ago)
