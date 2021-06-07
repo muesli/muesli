@@ -36,11 +36,11 @@ of other projects. Curious what I've been hacking on recently?
 
 #### 🔨 Latest Pull Requests I published
 
+- [Allow for non-string config map values](https://github.com/muesli/deckmaster/pull/32) on [muesli/deckmaster](https://github.com/muesli/deckmaster) (today)
 - [Install libpam-dev in GitHub workflow](https://github.com/muesli/pam-beacon/pull/8) on [muesli/pam-beacon](https://github.com/muesli/pam-beacon) (2 days ago)
 - [Enable Go modules &amp; switch to GitHub Actions](https://github.com/muesli/pam-beacon/pull/7) on [muesli/pam-beacon](https://github.com/muesli/pam-beacon) (2 days ago)
 - [Update linter config](https://github.com/charmbracelet/glow/pull/279) on [charmbracelet/glow](https://github.com/charmbracelet/glow) (3 days ago)
 - [Make image paths relative to the .deck file they&#39;re referenced from](https://github.com/muesli/deckmaster/pull/28) on [muesli/deckmaster](https://github.com/muesli/deckmaster) (4 days ago)
-- [Add known configuration values to README](https://github.com/muesli/deckmaster/pull/26) on [muesli/deckmaster](https://github.com/muesli/deckmaster) (5 days ago)
 
 #### 📜 My recent blog posts
 
