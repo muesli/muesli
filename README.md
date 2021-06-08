@@ -12,9 +12,9 @@ of other projects. Curious what I've been hacking on recently?
 
 #### 👷 Check out what I'm currently working on
 
-- [muesli/deckmaster](https://github.com/muesli/deckmaster) - An application to control your Elgato Stream Deck on Linux (today)
-- [muesli/pam-beacon](https://github.com/muesli/pam-beacon) - PAM module for multi-factor authentication with Bluetooth Devices &amp; Beacons (2 days ago)
-- [muesli/homebrew-tap](https://github.com/muesli/homebrew-tap) - muesli&#39;s Homebrew tap (4 days ago)
+- [muesli/deckmaster](https://github.com/muesli/deckmaster) - An application to control your Elgato Stream Deck on Linux (1 day ago)
+- [muesli/pam-beacon](https://github.com/muesli/pam-beacon) - PAM module for multi-factor authentication with Bluetooth Devices &amp; Beacons (3 days ago)
+- [muesli/homebrew-tap](https://github.com/muesli/homebrew-tap) - muesli&#39;s Homebrew tap (5 days ago)
 - [muesli/markscribe](https://github.com/muesli/markscribe) - Your personal markdown scribe with template-engine and Git(Hub) &amp; RSS powers 📜 (1 week ago)
 - [muesli/streamdeck](https://github.com/muesli/streamdeck) - An application and Go library to control your Elgato Stream Deck on Linux (2 weeks ago)
 
@@ -28,19 +28,19 @@ of other projects. Curious what I've been hacking on recently?
 
 #### 🔭 Latest releases I've contributed to
 
-- [codenotary/immudb](https://github.com/codenotary/immudb) ([v1.0.1](https://github.com/codenotary/immudb/releases/tag/v1.0.1), today) - immudb - world’s fastest immutable database
-- [arp242/uni](https://github.com/arp242/uni) ([v2.2.0](https://github.com/arp242/uni/releases/tag/v2.2.0), 2 days ago) - Query the Unicode database from the commandline, with good support for emojis
-- [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) ([v0.169.0](https://github.com/goreleaser/goreleaser/releases/tag/v0.169.0), 2 days ago) - Deliver Go binaries as fast and easily as possible
-- [muesli/deckmaster](https://github.com/muesli/deckmaster) ([v0.4.0](https://github.com/muesli/deckmaster/releases/tag/v0.4.0), 4 days ago) - An application to control your Elgato Stream Deck on Linux
-- [muesli/markscribe](https://github.com/muesli/markscribe) ([v0.5.0](https://github.com/muesli/markscribe/releases/tag/v0.5.0), 4 days ago) - Your personal markdown scribe with template-engine and Git(Hub) &amp; RSS powers 📜
+- [codenotary/immudb](https://github.com/codenotary/immudb) ([v1.0.1](https://github.com/codenotary/immudb/releases/tag/v1.0.1), 1 day ago) - immudb - world’s fastest immutable database
+- [arp242/uni](https://github.com/arp242/uni) ([v2.2.0](https://github.com/arp242/uni/releases/tag/v2.2.0), 3 days ago) - Query the Unicode database from the commandline, with good support for emojis
+- [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) ([v0.169.0](https://github.com/goreleaser/goreleaser/releases/tag/v0.169.0), 3 days ago) - Deliver Go binaries as fast and easily as possible
+- [muesli/deckmaster](https://github.com/muesli/deckmaster) ([v0.4.0](https://github.com/muesli/deckmaster/releases/tag/v0.4.0), 5 days ago) - An application to control your Elgato Stream Deck on Linux
+- [muesli/markscribe](https://github.com/muesli/markscribe) ([v0.5.0](https://github.com/muesli/markscribe/releases/tag/v0.5.0), 5 days ago) - Your personal markdown scribe with template-engine and Git(Hub) &amp; RSS powers 📜
 
 #### 🔨 Latest Pull Requests I published
 
-- [Allow for non-string config map values](https://github.com/muesli/deckmaster/pull/32) on [muesli/deckmaster](https://github.com/muesli/deckmaster) (today)
-- [Install libpam-dev in GitHub workflow](https://github.com/muesli/pam-beacon/pull/8) on [muesli/pam-beacon](https://github.com/muesli/pam-beacon) (2 days ago)
-- [Enable Go modules &amp; switch to GitHub Actions](https://github.com/muesli/pam-beacon/pull/7) on [muesli/pam-beacon](https://github.com/muesli/pam-beacon) (2 days ago)
-- [Update linter config](https://github.com/charmbracelet/glow/pull/279) on [charmbracelet/glow](https://github.com/charmbracelet/glow) (3 days ago)
-- [Make image paths relative to the .deck file they&#39;re referenced from](https://github.com/muesli/deckmaster/pull/28) on [muesli/deckmaster](https://github.com/muesli/deckmaster) (4 days ago)
+- [Allow for non-string config map values](https://github.com/muesli/deckmaster/pull/32) on [muesli/deckmaster](https://github.com/muesli/deckmaster) (1 day ago)
+- [Install libpam-dev in GitHub workflow](https://github.com/muesli/pam-beacon/pull/8) on [muesli/pam-beacon](https://github.com/muesli/pam-beacon) (3 days ago)
+- [Enable Go modules &amp; switch to GitHub Actions](https://github.com/muesli/pam-beacon/pull/7) on [muesli/pam-beacon](https://github.com/muesli/pam-beacon) (3 days ago)
+- [Update linter config](https://github.com/charmbracelet/glow/pull/279) on [charmbracelet/glow](https://github.com/charmbracelet/glow) (4 days ago)
+- [Make image paths relative to the .deck file they&#39;re referenced from](https://github.com/muesli/deckmaster/pull/28) on [muesli/deckmaster](https://github.com/muesli/deckmaster) (5 days ago)
 
 #### 📜 My recent blog posts
 
@@ -52,8 +52,8 @@ of other projects. Curious what I've been hacking on recently?
 
 #### ❤️ These awesome people sponsor me (thank you!)
 
-- [ocelotsloth](https://github.com/ocelotsloth) (today)
-- [angristan](https://github.com/angristan) (3 days ago)
+- [ocelotsloth](https://github.com/ocelotsloth) (1 day ago)
+- [angristan](https://github.com/angristan) (4 days ago)
 - [sadikkuzu](https://github.com/sadikkuzu) (3 months ago)
 - [benleb](https://github.com/benleb) (7 months ago)
 - [hugomd](https://github.com/hugomd) (7 months ago)
