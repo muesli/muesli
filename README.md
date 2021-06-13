@@ -28,11 +28,11 @@ of other projects. Curious what I've been hacking on recently?
 
 #### 🔭 Latest releases I've contributed to
 
+- [42wim/matterircd](https://github.com/42wim/matterircd) ([v0.24.2](https://github.com/42wim/matterircd/releases/tag/v0.24.2), today) - Connect to your mattermost or slack using your IRC-client of choice.
 - [muesli/deckmaster](https://github.com/muesli/deckmaster) ([v0.5.0](https://github.com/muesli/deckmaster/releases/tag/v0.5.0), 2 days ago) - An application to control your Elgato Stream Deck on Linux
 - [codenotary/immudb](https://github.com/codenotary/immudb) ([v1.0.1](https://github.com/codenotary/immudb/releases/tag/v1.0.1), 6 days ago) - immudb - world’s fastest immutable database
 - [arp242/uni](https://github.com/arp242/uni) ([v2.2.0](https://github.com/arp242/uni/releases/tag/v2.2.0), 1 week ago) - Query the Unicode database from the commandline, with good support for emojis
 - [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) ([v0.169.0](https://github.com/goreleaser/goreleaser/releases/tag/v0.169.0), 1 week ago) - Deliver Go binaries as fast and easily as possible
-- [muesli/markscribe](https://github.com/muesli/markscribe) ([v0.5.0](https://github.com/muesli/markscribe/releases/tag/v0.5.0), 1 week ago) - Your personal markdown scribe with template-engine and Git(Hub) &amp; RSS powers 📜
 
 #### 🔨 Latest Pull Requests I published
 
