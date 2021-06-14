@@ -36,11 +36,11 @@ of other projects. Curious what I've been hacking on recently?
 
 #### 🔨 Latest Pull Requests I published
 
+- [Migrate to goobs](https://github.com/muesli/obs-cli/pull/8) on [muesli/obs-cli](https://github.com/muesli/obs-cli) (today)
+- [Remove log call](https://github.com/andreykaipov/goobs/pull/9) on [andreykaipov/goobs](https://github.com/andreykaipov/goobs) (today)
 - [Allow for non-string config map values](https://github.com/muesli/deckmaster/pull/32) on [muesli/deckmaster](https://github.com/muesli/deckmaster) (1 week ago)
 - [Install libpam-dev in GitHub workflow](https://github.com/muesli/pam-beacon/pull/8) on [muesli/pam-beacon](https://github.com/muesli/pam-beacon) (1 week ago)
 - [Enable Go modules &amp; switch to GitHub Actions](https://github.com/muesli/pam-beacon/pull/7) on [muesli/pam-beacon](https://github.com/muesli/pam-beacon) (1 week ago)
-- [Update linter config](https://github.com/charmbracelet/glow/pull/279) on [charmbracelet/glow](https://github.com/charmbracelet/glow) (1 week ago)
-- [Make image paths relative to the .deck file they&#39;re referenced from](https://github.com/muesli/deckmaster/pull/28) on [muesli/deckmaster](https://github.com/muesli/deckmaster) (1 week ago)
 
 #### 📜 My recent blog posts
 
