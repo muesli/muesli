@@ -12,11 +12,11 @@ of other projects. Curious what I've been hacking on recently?
 
 #### 👷 Check out what I'm currently working on
 
+- [andreykaipov/goobs](https://github.com/andreykaipov/goobs) - Go client for an OBS WebSockets server (today)
 - [muesli/code-server](https://github.com/muesli/code-server) - My code-server Docker image (2 days ago)
 - [muesli/deckmaster](https://github.com/muesli/deckmaster) - An application to control your Elgato Stream Deck on Linux (4 days ago)
 - [muesli/deckmaster-emojis](https://github.com/muesli/deckmaster-emojis) - A deck of emojis for Deckmaster (1 week ago)
 - [muesli/pam-beacon](https://github.com/muesli/pam-beacon) - PAM module for multi-factor authentication with Bluetooth Devices &amp; Beacons (1 week ago)
-- [muesli/homebrew-tap](https://github.com/muesli/homebrew-tap) - muesli&#39;s Homebrew tap (1 week ago)
 
 #### 🌱 My latest projects
 
@@ -29,10 +29,10 @@ of other projects. Curious what I've been hacking on recently?
 #### 🔭 Latest releases I've contributed to
 
 - [arp242/uni](https://github.com/arp242/uni) ([v2.2.1](https://github.com/arp242/uni/releases/tag/v2.2.1), today) - Query the Unicode database from the commandline, with good support for emojis
+- [andreykaipov/goobs](https://github.com/andreykaipov/goobs) ([v0.5.0](https://github.com/andreykaipov/goobs/releases/tag/v0.5.0), 1 day ago) - Go client for an OBS WebSockets server
 - [42wim/matterircd](https://github.com/42wim/matterircd) ([v0.24.2](https://github.com/42wim/matterircd/releases/tag/v0.24.2), 2 days ago) - Connect to your mattermost or slack using your IRC-client of choice.
 - [muesli/deckmaster](https://github.com/muesli/deckmaster) ([v0.5.0](https://github.com/muesli/deckmaster/releases/tag/v0.5.0), 4 days ago) - An application to control your Elgato Stream Deck on Linux
 - [codenotary/immudb](https://github.com/codenotary/immudb) ([v1.0.1](https://github.com/codenotary/immudb/releases/tag/v1.0.1), 1 week ago) - immudb - world’s fastest immutable database
-- [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) ([v0.169.0](https://github.com/goreleaser/goreleaser/releases/tag/v0.169.0), 1 week ago) - Deliver Go binaries as fast and easily as possible
 
 #### 🔨 Latest Pull Requests I published
 
