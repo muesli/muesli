@@ -12,9 +12,9 @@ of other projects. Curious what I've been hacking on recently?
 
 #### 👷 Check out what I'm currently working on
 
-- [andreykaipov/goobs](https://github.com/andreykaipov/goobs) - Go client for an OBS WebSockets server (today)
-- [muesli/code-server](https://github.com/muesli/code-server) - My code-server Docker image (2 days ago)
-- [muesli/deckmaster](https://github.com/muesli/deckmaster) - An application to control your Elgato Stream Deck on Linux (4 days ago)
+- [andreykaipov/goobs](https://github.com/andreykaipov/goobs) - Go client for an OBS WebSockets server (1 day ago)
+- [muesli/code-server](https://github.com/muesli/code-server) - My code-server Docker image (3 days ago)
+- [muesli/deckmaster](https://github.com/muesli/deckmaster) - An application to control your Elgato Stream Deck on Linux (5 days ago)
 - [muesli/deckmaster-emojis](https://github.com/muesli/deckmaster-emojis) - A deck of emojis for Deckmaster (1 week ago)
 - [muesli/pam-beacon](https://github.com/muesli/pam-beacon) - PAM module for multi-factor authentication with Bluetooth Devices &amp; Beacons (1 week ago)
 
@@ -28,16 +28,16 @@ of other projects. Curious what I've been hacking on recently?
 
 #### 🔭 Latest releases I've contributed to
 
-- [arp242/uni](https://github.com/arp242/uni) ([v2.2.1](https://github.com/arp242/uni/releases/tag/v2.2.1), today) - Query the Unicode database from the commandline, with good support for emojis
-- [andreykaipov/goobs](https://github.com/andreykaipov/goobs) ([v0.5.0](https://github.com/andreykaipov/goobs/releases/tag/v0.5.0), 1 day ago) - Go client for an OBS WebSockets server
-- [42wim/matterircd](https://github.com/42wim/matterircd) ([v0.24.2](https://github.com/42wim/matterircd/releases/tag/v0.24.2), 2 days ago) - Connect to your mattermost or slack using your IRC-client of choice.
-- [muesli/deckmaster](https://github.com/muesli/deckmaster) ([v0.5.0](https://github.com/muesli/deckmaster/releases/tag/v0.5.0), 4 days ago) - An application to control your Elgato Stream Deck on Linux
+- [arp242/uni](https://github.com/arp242/uni) ([v2.2.1](https://github.com/arp242/uni/releases/tag/v2.2.1), 1 day ago) - Query the Unicode database from the commandline, with good support for emojis
+- [andreykaipov/goobs](https://github.com/andreykaipov/goobs) ([v0.5.0](https://github.com/andreykaipov/goobs/releases/tag/v0.5.0), 2 days ago) - Go client for an OBS WebSockets server
+- [42wim/matterircd](https://github.com/42wim/matterircd) ([v0.24.2](https://github.com/42wim/matterircd/releases/tag/v0.24.2), 3 days ago) - Connect to your mattermost or slack using your IRC-client of choice.
+- [muesli/deckmaster](https://github.com/muesli/deckmaster) ([v0.5.0](https://github.com/muesli/deckmaster/releases/tag/v0.5.0), 5 days ago) - An application to control your Elgato Stream Deck on Linux
 - [codenotary/immudb](https://github.com/codenotary/immudb) ([v1.0.1](https://github.com/codenotary/immudb/releases/tag/v1.0.1), 1 week ago) - immudb - world’s fastest immutable database
 
 #### 🔨 Latest Pull Requests I published
 
-- [Migrate to goobs](https://github.com/muesli/obs-cli/pull/8) on [muesli/obs-cli](https://github.com/muesli/obs-cli) (1 day ago)
-- [Remove log call](https://github.com/andreykaipov/goobs/pull/9) on [andreykaipov/goobs](https://github.com/andreykaipov/goobs) (1 day ago)
+- [Migrate to goobs](https://github.com/muesli/obs-cli/pull/8) on [muesli/obs-cli](https://github.com/muesli/obs-cli) (2 days ago)
+- [Remove log call](https://github.com/andreykaipov/goobs/pull/9) on [andreykaipov/goobs](https://github.com/andreykaipov/goobs) (2 days ago)
 - [Allow for non-string config map values](https://github.com/muesli/deckmaster/pull/32) on [muesli/deckmaster](https://github.com/muesli/deckmaster) (1 week ago)
 - [Install libpam-dev in GitHub workflow](https://github.com/muesli/pam-beacon/pull/8) on [muesli/pam-beacon](https://github.com/muesli/pam-beacon) (1 week ago)
 - [Enable Go modules &amp; switch to GitHub Actions](https://github.com/muesli/pam-beacon/pull/7) on [muesli/pam-beacon](https://github.com/muesli/pam-beacon) (1 week ago)
