@@ -12,10 +12,10 @@ of other projects. Curious what I've been hacking on recently?
 
 #### 👷 Check out what I'm currently working on
 
-- [charmbracelet/lipgloss](https://github.com/charmbracelet/lipgloss) - Style definitions for nice terminal layouts 👄 (1 day ago)
-- [andreykaipov/goobs](https://github.com/andreykaipov/goobs) - Go client for an OBS WebSockets server (2 days ago)
-- [muesli/code-server](https://github.com/muesli/code-server) - My code-server Docker image (4 days ago)
-- [muesli/deckmaster](https://github.com/muesli/deckmaster) - An application to control your Elgato Stream Deck on Linux (6 days ago)
+- [charmbracelet/lipgloss](https://github.com/charmbracelet/lipgloss) - Style definitions for nice terminal layouts 👄 (2 days ago)
+- [andreykaipov/goobs](https://github.com/andreykaipov/goobs) - Go client for an OBS WebSockets server (3 days ago)
+- [muesli/code-server](https://github.com/muesli/code-server) - My code-server Docker image (5 days ago)
+- [muesli/deckmaster](https://github.com/muesli/deckmaster) - An application to control your Elgato Stream Deck on Linux (1 week ago)
 - [muesli/deckmaster-emojis](https://github.com/muesli/deckmaster-emojis) - A deck of emojis for Deckmaster (1 week ago)
 
 #### 🌱 My latest projects
@@ -28,17 +28,17 @@ of other projects. Curious what I've been hacking on recently?
 
 #### 🔭 Latest releases I've contributed to
 
-- [craftamap/bb](https://github.com/craftamap/bb) ([v0.4.0](https://github.com/craftamap/bb/releases/tag/v0.4.0), today) - inoffical Bitbucket.org command line tool
-- [arp242/uni](https://github.com/arp242/uni) ([v2.2.1](https://github.com/arp242/uni/releases/tag/v2.2.1), 2 days ago) - Query the Unicode database from the commandline, with good support for emojis
-- [andreykaipov/goobs](https://github.com/andreykaipov/goobs) ([v0.5.0](https://github.com/andreykaipov/goobs/releases/tag/v0.5.0), 3 days ago) - Go client for an OBS WebSockets server
-- [42wim/matterircd](https://github.com/42wim/matterircd) ([v0.24.2](https://github.com/42wim/matterircd/releases/tag/v0.24.2), 4 days ago) - Connect to your mattermost or slack using your IRC-client of choice.
-- [muesli/deckmaster](https://github.com/muesli/deckmaster) ([v0.5.0](https://github.com/muesli/deckmaster/releases/tag/v0.5.0), 6 days ago) - An application to control your Elgato Stream Deck on Linux
+- [craftamap/bb](https://github.com/craftamap/bb) ([v0.4.0](https://github.com/craftamap/bb/releases/tag/v0.4.0), 1 day ago) - inoffical Bitbucket.org command line tool
+- [arp242/uni](https://github.com/arp242/uni) ([v2.2.1](https://github.com/arp242/uni/releases/tag/v2.2.1), 3 days ago) - Query the Unicode database from the commandline, with good support for emojis
+- [andreykaipov/goobs](https://github.com/andreykaipov/goobs) ([v0.5.0](https://github.com/andreykaipov/goobs/releases/tag/v0.5.0), 4 days ago) - Go client for an OBS WebSockets server
+- [42wim/matterircd](https://github.com/42wim/matterircd) ([v0.24.2](https://github.com/42wim/matterircd/releases/tag/v0.24.2), 5 days ago) - Connect to your mattermost or slack using your IRC-client of choice.
+- [muesli/deckmaster](https://github.com/muesli/deckmaster) ([v0.5.0](https://github.com/muesli/deckmaster/releases/tag/v0.5.0), 1 week ago) - An application to control your Elgato Stream Deck on Linux
 
 #### 🔨 Latest Pull Requests I published
 
-- [Fix README examples for joins](https://github.com/charmbracelet/lipgloss/pull/35) on [charmbracelet/lipgloss](https://github.com/charmbracelet/lipgloss) (1 day ago)
-- [Migrate to goobs](https://github.com/muesli/obs-cli/pull/8) on [muesli/obs-cli](https://github.com/muesli/obs-cli) (3 days ago)
-- [Remove log call](https://github.com/andreykaipov/goobs/pull/9) on [andreykaipov/goobs](https://github.com/andreykaipov/goobs) (3 days ago)
+- [Fix README examples for joins](https://github.com/charmbracelet/lipgloss/pull/35) on [charmbracelet/lipgloss](https://github.com/charmbracelet/lipgloss) (2 days ago)
+- [Migrate to goobs](https://github.com/muesli/obs-cli/pull/8) on [muesli/obs-cli](https://github.com/muesli/obs-cli) (4 days ago)
+- [Remove log call](https://github.com/andreykaipov/goobs/pull/9) on [andreykaipov/goobs](https://github.com/andreykaipov/goobs) (4 days ago)
 - [Allow for non-string config map values](https://github.com/muesli/deckmaster/pull/32) on [muesli/deckmaster](https://github.com/muesli/deckmaster) (1 week ago)
 - [Install libpam-dev in GitHub workflow](https://github.com/muesli/pam-beacon/pull/8) on [muesli/pam-beacon](https://github.com/muesli/pam-beacon) (1 week ago)
 
@@ -53,7 +53,7 @@ of other projects. Curious what I've been hacking on recently?
 #### ❤️ These awesome people sponsor me (thank you!)
 
 - [ocelotsloth](https://github.com/ocelotsloth) (1 week ago)
-- [angristan](https://github.com/angristan) (1 week ago)
+- [angristan](https://github.com/angristan) (2 weeks ago)
 - [sadikkuzu](https://github.com/sadikkuzu) (3 months ago)
 - [benleb](https://github.com/benleb) (7 months ago)
 - [hugomd](https://github.com/hugomd) (7 months ago)
