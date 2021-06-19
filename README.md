@@ -12,9 +12,9 @@ of other projects. Curious what I've been hacking on recently?
 
 #### 👷 Check out what I'm currently working on
 
+- [muesli/code-server](https://github.com/muesli/code-server) - My code-server Docker image (today)
 - [charmbracelet/lipgloss](https://github.com/charmbracelet/lipgloss) - Style definitions for nice terminal layouts 👄 (3 days ago)
 - [andreykaipov/goobs](https://github.com/andreykaipov/goobs) - Go client for an OBS WebSockets server (4 days ago)
-- [muesli/code-server](https://github.com/muesli/code-server) - My code-server Docker image (6 days ago)
 - [muesli/deckmaster](https://github.com/muesli/deckmaster) - An application to control your Elgato Stream Deck on Linux (1 week ago)
 - [muesli/deckmaster-emojis](https://github.com/muesli/deckmaster-emojis) - A deck of emojis for Deckmaster (1 week ago)
 
@@ -36,11 +36,11 @@ of other projects. Curious what I've been hacking on recently?
 
 #### 🔨 Latest Pull Requests I published
 
+- [Add GitHub Action that builds and pushes new image daily](https://github.com/muesli/code-server/pull/1) on [muesli/code-server](https://github.com/muesli/code-server) (today)
 - [Fix README examples for joins](https://github.com/charmbracelet/lipgloss/pull/35) on [charmbracelet/lipgloss](https://github.com/charmbracelet/lipgloss) (3 days ago)
 - [Migrate to goobs](https://github.com/muesli/obs-cli/pull/8) on [muesli/obs-cli](https://github.com/muesli/obs-cli) (5 days ago)
 - [Remove log call](https://github.com/andreykaipov/goobs/pull/9) on [andreykaipov/goobs](https://github.com/andreykaipov/goobs) (5 days ago)
 - [Allow for non-string config map values](https://github.com/muesli/deckmaster/pull/32) on [muesli/deckmaster](https://github.com/muesli/deckmaster) (1 week ago)
-- [Install libpam-dev in GitHub workflow](https://github.com/muesli/pam-beacon/pull/8) on [muesli/pam-beacon](https://github.com/muesli/pam-beacon) (2 weeks ago)
 
 #### 📜 My recent blog posts
 
