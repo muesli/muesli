@@ -12,11 +12,11 @@ of other projects. Curious what I've been hacking on recently?
 
 #### 👷 Check out what I'm currently working on
 
+- [muesli/deckmaster](https://github.com/muesli/deckmaster) - An application to control your Elgato Stream Deck on Linux (today)
+- [muesli/streamdeck](https://github.com/muesli/streamdeck) - An application and Go library to control your Elgato Stream Deck on Linux (today)
+- [muesli/obs-cli](https://github.com/muesli/obs-cli) - OBS-cli is a command-line remote control for OBS (today)
 - [muesli/modular-case](https://github.com/muesli/modular-case) - Modular Case (2 days ago)
 - [muesli/code-server](https://github.com/muesli/code-server) - My code-server Docker image (2 days ago)
-- [charmbracelet/lipgloss](https://github.com/charmbracelet/lipgloss) - Style definitions for nice terminal layouts 👄 (5 days ago)
-- [andreykaipov/goobs](https://github.com/andreykaipov/goobs) - Go client for an OBS WebSockets server (6 days ago)
-- [muesli/deckmaster](https://github.com/muesli/deckmaster) - An application to control your Elgato Stream Deck on Linux (1 week ago)
 
 #### 🌱 My latest projects
 
@@ -36,11 +36,11 @@ of other projects. Curious what I've been hacking on recently?
 
 #### 🔨 Latest Pull Requests I published
 
+- [Support connection authentication](https://github.com/muesli/obs-cli/pull/10) on [muesli/obs-cli](https://github.com/muesli/obs-cli) (today)
 - [Add GitHub Action that builds and pushes new image daily](https://github.com/muesli/code-server/pull/1) on [muesli/code-server](https://github.com/muesli/code-server) (2 days ago)
 - [Fix README examples for joins](https://github.com/charmbracelet/lipgloss/pull/35) on [charmbracelet/lipgloss](https://github.com/charmbracelet/lipgloss) (5 days ago)
 - [Migrate to goobs](https://github.com/muesli/obs-cli/pull/8) on [muesli/obs-cli](https://github.com/muesli/obs-cli) (1 week ago)
 - [Remove log call](https://github.com/andreykaipov/goobs/pull/9) on [andreykaipov/goobs](https://github.com/andreykaipov/goobs) (1 week ago)
-- [Allow for non-string config map values](https://github.com/muesli/deckmaster/pull/32) on [muesli/deckmaster](https://github.com/muesli/deckmaster) (2 weeks ago)
 
 #### 📜 My recent blog posts
 
