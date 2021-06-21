@@ -12,10 +12,10 @@ of other projects. Curious what I've been hacking on recently?
 
 #### 👷 Check out what I'm currently working on
 
-- [muesli/modular-case](https://github.com/muesli/modular-case) - Modular Case (1 day ago)
-- [muesli/code-server](https://github.com/muesli/code-server) - My code-server Docker image (1 day ago)
-- [charmbracelet/lipgloss](https://github.com/charmbracelet/lipgloss) - Style definitions for nice terminal layouts 👄 (4 days ago)
-- [andreykaipov/goobs](https://github.com/andreykaipov/goobs) - Go client for an OBS WebSockets server (5 days ago)
+- [muesli/modular-case](https://github.com/muesli/modular-case) - Modular Case (2 days ago)
+- [muesli/code-server](https://github.com/muesli/code-server) - My code-server Docker image (2 days ago)
+- [charmbracelet/lipgloss](https://github.com/charmbracelet/lipgloss) - Style definitions for nice terminal layouts 👄 (5 days ago)
+- [andreykaipov/goobs](https://github.com/andreykaipov/goobs) - Go client for an OBS WebSockets server (6 days ago)
 - [muesli/deckmaster](https://github.com/muesli/deckmaster) - An application to control your Elgato Stream Deck on Linux (1 week ago)
 
 #### 🌱 My latest projects
@@ -28,19 +28,19 @@ of other projects. Curious what I've been hacking on recently?
 
 #### 🔭 Latest releases I've contributed to
 
-- [JF002/InfiniTime](https://github.com/JF002/InfiniTime) ([1.2.0](https://github.com/JF002/InfiniTime/releases/tag/1.2.0), today) - Firmware for Pinetime smartwatch written in C/C&#43;&#43; and based on FreeRTOS
-- [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) ([v0.170.0](https://github.com/goreleaser/goreleaser/releases/tag/v0.170.0), 1 day ago) - Deliver Go binaries as fast and easily as possible
-- [charmbracelet/lipgloss](https://github.com/charmbracelet/lipgloss) ([v0.3.0](https://github.com/charmbracelet/lipgloss/releases/tag/v0.3.0), 2 days ago) - Style definitions for nice terminal layouts 👄
-- [craftamap/bb](https://github.com/craftamap/bb) ([v0.4.0](https://github.com/craftamap/bb/releases/tag/v0.4.0), 3 days ago) - inoffical Bitbucket.org command line tool
-- [arp242/uni](https://github.com/arp242/uni) ([v2.2.1](https://github.com/arp242/uni/releases/tag/v2.2.1), 5 days ago) - Query the Unicode database from the commandline, with good support for emojis
+- [JF002/InfiniTime](https://github.com/JF002/InfiniTime) ([1.2.0](https://github.com/JF002/InfiniTime/releases/tag/1.2.0), 1 day ago) - Firmware for Pinetime smartwatch written in C/C&#43;&#43; and based on FreeRTOS
+- [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) ([v0.170.0](https://github.com/goreleaser/goreleaser/releases/tag/v0.170.0), 2 days ago) - Deliver Go binaries as fast and easily as possible
+- [charmbracelet/lipgloss](https://github.com/charmbracelet/lipgloss) ([v0.3.0](https://github.com/charmbracelet/lipgloss/releases/tag/v0.3.0), 3 days ago) - Style definitions for nice terminal layouts 👄
+- [craftamap/bb](https://github.com/craftamap/bb) ([v0.4.0](https://github.com/craftamap/bb/releases/tag/v0.4.0), 4 days ago) - inoffical Bitbucket.org command line tool
+- [arp242/uni](https://github.com/arp242/uni) ([v2.2.1](https://github.com/arp242/uni/releases/tag/v2.2.1), 6 days ago) - Query the Unicode database from the commandline, with good support for emojis
 
 #### 🔨 Latest Pull Requests I published
 
-- [Add GitHub Action that builds and pushes new image daily](https://github.com/muesli/code-server/pull/1) on [muesli/code-server](https://github.com/muesli/code-server) (1 day ago)
-- [Fix README examples for joins](https://github.com/charmbracelet/lipgloss/pull/35) on [charmbracelet/lipgloss](https://github.com/charmbracelet/lipgloss) (4 days ago)
-- [Migrate to goobs](https://github.com/muesli/obs-cli/pull/8) on [muesli/obs-cli](https://github.com/muesli/obs-cli) (6 days ago)
-- [Remove log call](https://github.com/andreykaipov/goobs/pull/9) on [andreykaipov/goobs](https://github.com/andreykaipov/goobs) (6 days ago)
-- [Allow for non-string config map values](https://github.com/muesli/deckmaster/pull/32) on [muesli/deckmaster](https://github.com/muesli/deckmaster) (1 week ago)
+- [Add GitHub Action that builds and pushes new image daily](https://github.com/muesli/code-server/pull/1) on [muesli/code-server](https://github.com/muesli/code-server) (2 days ago)
+- [Fix README examples for joins](https://github.com/charmbracelet/lipgloss/pull/35) on [charmbracelet/lipgloss](https://github.com/charmbracelet/lipgloss) (5 days ago)
+- [Migrate to goobs](https://github.com/muesli/obs-cli/pull/8) on [muesli/obs-cli](https://github.com/muesli/obs-cli) (1 week ago)
+- [Remove log call](https://github.com/andreykaipov/goobs/pull/9) on [andreykaipov/goobs](https://github.com/andreykaipov/goobs) (1 week ago)
+- [Allow for non-string config map values](https://github.com/muesli/deckmaster/pull/32) on [muesli/deckmaster](https://github.com/muesli/deckmaster) (2 weeks ago)
 
 #### 📜 My recent blog posts
 
@@ -52,7 +52,7 @@ of other projects. Curious what I've been hacking on recently?
 
 #### ❤️ These awesome people sponsor me (thank you!)
 
-- [ocelotsloth](https://github.com/ocelotsloth) (1 week ago)
+- [ocelotsloth](https://github.com/ocelotsloth) (2 weeks ago)
 - [angristan](https://github.com/angristan) (2 weeks ago)
 - [sadikkuzu](https://github.com/sadikkuzu) (3 months ago)
 - [benleb](https://github.com/benleb) (7 months ago)
