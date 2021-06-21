@@ -13,8 +13,8 @@ of other projects. Curious what I've been hacking on recently?
 #### 👷 Check out what I'm currently working on
 
 - [muesli/deckmaster](https://github.com/muesli/deckmaster) - An application to control your Elgato Stream Deck on Linux (today)
-- [muesli/streamdeck](https://github.com/muesli/streamdeck) - An application and Go library to control your Elgato Stream Deck on Linux (today)
 - [muesli/obs-cli](https://github.com/muesli/obs-cli) - OBS-cli is a command-line remote control for OBS (today)
+- [muesli/streamdeck](https://github.com/muesli/streamdeck) - An application and Go library to control your Elgato Stream Deck on Linux (today)
 - [muesli/modular-case](https://github.com/muesli/modular-case) - Modular Case (2 days ago)
 - [muesli/code-server](https://github.com/muesli/code-server) - My code-server Docker image (2 days ago)
 
@@ -36,11 +36,11 @@ of other projects. Curious what I've been hacking on recently?
 
 #### 🔨 Latest Pull Requests I published
 
+- [Add countdown subcommand](https://github.com/muesli/obs-cli/pull/14) on [muesli/obs-cli](https://github.com/muesli/obs-cli) (today)
+- [Add Go build/test workflow](https://github.com/andreykaipov/goobs/pull/17) on [andreykaipov/goobs](https://github.com/andreykaipov/goobs) (today)
 - [Clean up CLI interface by grouping commands](https://github.com/muesli/obs-cli/pull/13) on [muesli/obs-cli](https://github.com/muesli/obs-cli) (today)
 - [Update goreleaser config and add workflow](https://github.com/muesli/obs-cli/pull/12) on [muesli/obs-cli](https://github.com/muesli/obs-cli) (today)
 - [Add center-sceneitem command](https://github.com/muesli/obs-cli/pull/11) on [muesli/obs-cli](https://github.com/muesli/obs-cli) (today)
-- [Support connection authentication](https://github.com/muesli/obs-cli/pull/10) on [muesli/obs-cli](https://github.com/muesli/obs-cli) (today)
-- [Add GitHub Action that builds and pushes new image daily](https://github.com/muesli/code-server/pull/1) on [muesli/code-server](https://github.com/muesli/code-server) (2 days ago)
 
 #### 📜 My recent blog posts
 
