@@ -36,11 +36,11 @@ of other projects. Curious what I've been hacking on recently?
 
 #### 🔨 Latest Pull Requests I published
 
+- [Add center-sceneitem command](https://github.com/muesli/obs-cli/pull/11) on [muesli/obs-cli](https://github.com/muesli/obs-cli) (today)
 - [Support connection authentication](https://github.com/muesli/obs-cli/pull/10) on [muesli/obs-cli](https://github.com/muesli/obs-cli) (today)
 - [Add GitHub Action that builds and pushes new image daily](https://github.com/muesli/code-server/pull/1) on [muesli/code-server](https://github.com/muesli/code-server) (2 days ago)
 - [Fix README examples for joins](https://github.com/charmbracelet/lipgloss/pull/35) on [charmbracelet/lipgloss](https://github.com/charmbracelet/lipgloss) (5 days ago)
 - [Migrate to goobs](https://github.com/muesli/obs-cli/pull/8) on [muesli/obs-cli](https://github.com/muesli/obs-cli) (1 week ago)
-- [Remove log call](https://github.com/andreykaipov/goobs/pull/9) on [andreykaipov/goobs](https://github.com/andreykaipov/goobs) (1 week ago)
 
 #### 📜 My recent blog posts
 
