@@ -28,11 +28,11 @@ of other projects. Curious what I've been hacking on recently?
 
 #### 🔭 Latest releases I've contributed to
 
+- [muesli/deckmaster](https://github.com/muesli/deckmaster) ([v0.5.1](https://github.com/muesli/deckmaster/releases/tag/v0.5.1), today) - An application to control your Elgato Stream Deck on Linux
+- [muesli/streamdeck](https://github.com/muesli/streamdeck) ([v0.2.1](https://github.com/muesli/streamdeck/releases/tag/v0.2.1), today) - An application and Go library to control your Elgato Stream Deck on Linux
 - [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) ([v0.14.1](https://github.com/charmbracelet/bubbletea/releases/tag/v0.14.1), today) - A powerful little TUI framework 🏗
 - [muesli/markscribe](https://github.com/muesli/markscribe) ([v0.6.0](https://github.com/muesli/markscribe/releases/tag/v0.6.0), today) - Your personal markdown scribe with template-engine and Git(Hub) &amp; RSS powers 📜
 - [muesli/obs-cli](https://github.com/muesli/obs-cli) ([v0.2.0](https://github.com/muesli/obs-cli/releases/tag/v0.2.0), 1 day ago) - OBS-cli is a command-line remote control for OBS
-- [andreykaipov/goobs](https://github.com/andreykaipov/goobs) ([v0.6.0](https://github.com/andreykaipov/goobs/releases/tag/v0.6.0), 1 day ago) - Go client for an OBS WebSockets server
-- [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) ([v0.171.0](https://github.com/goreleaser/goreleaser/releases/tag/v0.171.0), 1 day ago) - Deliver Go binaries as fast and easily as possible
 
 #### 🔨 Latest Pull Requests I published
 
