@@ -13,10 +13,10 @@ of other projects. Curious what I've been hacking on recently?
 #### 👷 Check out what I'm currently working on
 
 - [muesli/homebrew-tap](https://github.com/muesli/homebrew-tap) - muesli&#39;s Homebrew tap (today)
-- [muesli/deckmaster](https://github.com/muesli/deckmaster) - An application to control your Elgato Stream Deck on Linux (today)
-- [muesli/obs-cli](https://github.com/muesli/obs-cli) - OBS-cli is a command-line remote control for OBS (today)
-- [muesli/streamdeck](https://github.com/muesli/streamdeck) - An application and Go library to control your Elgato Stream Deck on Linux (today)
-- [muesli/code-server](https://github.com/muesli/code-server) - My code-server Docker image (2 days ago)
+- [muesli/deckmaster](https://github.com/muesli/deckmaster) - An application to control your Elgato Stream Deck on Linux (1 day ago)
+- [muesli/obs-cli](https://github.com/muesli/obs-cli) - OBS-cli is a command-line remote control for OBS (1 day ago)
+- [muesli/streamdeck](https://github.com/muesli/streamdeck) - An application and Go library to control your Elgato Stream Deck on Linux (1 day ago)
+- [muesli/code-server](https://github.com/muesli/code-server) - My code-server Docker image (3 days ago)
 
 #### 🌱 My latest projects
 
@@ -28,19 +28,19 @@ of other projects. Curious what I've been hacking on recently?
 
 #### 🔭 Latest releases I've contributed to
 
-- [muesli/obs-cli](https://github.com/muesli/obs-cli) ([v0.2.0](https://github.com/muesli/obs-cli/releases/tag/v0.2.0), today) - OBS-cli is a command-line remote control for OBS
-- [andreykaipov/goobs](https://github.com/andreykaipov/goobs) ([v0.6.0](https://github.com/andreykaipov/goobs/releases/tag/v0.6.0), today) - Go client for an OBS WebSockets server
-- [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) ([v0.171.0](https://github.com/goreleaser/goreleaser/releases/tag/v0.171.0), today) - Deliver Go binaries as fast and easily as possible
-- [JF002/InfiniTime](https://github.com/JF002/InfiniTime) ([1.2.0](https://github.com/JF002/InfiniTime/releases/tag/1.2.0), 1 day ago) - Firmware for Pinetime smartwatch written in C/C&#43;&#43; and based on FreeRTOS
-- [charmbracelet/lipgloss](https://github.com/charmbracelet/lipgloss) ([v0.3.0](https://github.com/charmbracelet/lipgloss/releases/tag/v0.3.0), 3 days ago) - Style definitions for nice terminal layouts 👄
+- [muesli/obs-cli](https://github.com/muesli/obs-cli) ([v0.2.0](https://github.com/muesli/obs-cli/releases/tag/v0.2.0), 1 day ago) - OBS-cli is a command-line remote control for OBS
+- [andreykaipov/goobs](https://github.com/andreykaipov/goobs) ([v0.6.0](https://github.com/andreykaipov/goobs/releases/tag/v0.6.0), 1 day ago) - Go client for an OBS WebSockets server
+- [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) ([v0.171.0](https://github.com/goreleaser/goreleaser/releases/tag/v0.171.0), 1 day ago) - Deliver Go binaries as fast and easily as possible
+- [JF002/InfiniTime](https://github.com/JF002/InfiniTime) ([1.2.0](https://github.com/JF002/InfiniTime/releases/tag/1.2.0), 2 days ago) - Firmware for Pinetime smartwatch written in C/C&#43;&#43; and based on FreeRTOS
+- [charmbracelet/lipgloss](https://github.com/charmbracelet/lipgloss) ([v0.3.0](https://github.com/charmbracelet/lipgloss/releases/tag/v0.3.0), 4 days ago) - Style definitions for nice terminal layouts 👄
 
 #### 🔨 Latest Pull Requests I published
 
-- [Add countdown subcommand](https://github.com/muesli/obs-cli/pull/14) on [muesli/obs-cli](https://github.com/muesli/obs-cli) (today)
-- [Add Go build/test workflow](https://github.com/andreykaipov/goobs/pull/17) on [andreykaipov/goobs](https://github.com/andreykaipov/goobs) (today)
-- [Clean up CLI interface by grouping commands](https://github.com/muesli/obs-cli/pull/13) on [muesli/obs-cli](https://github.com/muesli/obs-cli) (today)
-- [Update goreleaser config and add workflow](https://github.com/muesli/obs-cli/pull/12) on [muesli/obs-cli](https://github.com/muesli/obs-cli) (today)
-- [Add center-sceneitem command](https://github.com/muesli/obs-cli/pull/11) on [muesli/obs-cli](https://github.com/muesli/obs-cli) (today)
+- [Add countdown subcommand](https://github.com/muesli/obs-cli/pull/14) on [muesli/obs-cli](https://github.com/muesli/obs-cli) (1 day ago)
+- [Add Go build/test workflow](https://github.com/andreykaipov/goobs/pull/17) on [andreykaipov/goobs](https://github.com/andreykaipov/goobs) (1 day ago)
+- [Clean up CLI interface by grouping commands](https://github.com/muesli/obs-cli/pull/13) on [muesli/obs-cli](https://github.com/muesli/obs-cli) (1 day ago)
+- [Update goreleaser config and add workflow](https://github.com/muesli/obs-cli/pull/12) on [muesli/obs-cli](https://github.com/muesli/obs-cli) (1 day ago)
+- [Add center-sceneitem command](https://github.com/muesli/obs-cli/pull/11) on [muesli/obs-cli](https://github.com/muesli/obs-cli) (1 day ago)
 
 #### 📜 My recent blog posts
 
