@@ -14,9 +14,9 @@ of other projects. Curious what I've been hacking on recently?
 
 - [muesli/homebrew-tap](https://github.com/muesli/homebrew-tap) - muesli&#39;s Homebrew tap (today)
 - [andreykaipov/goobs](https://github.com/andreykaipov/goobs) - Go client for an OBS WebSockets server (today)
+- [muesli/streamdeck](https://github.com/muesli/streamdeck) - An application and Go library to control your Elgato Stream Deck on Linux (1 day ago)
 - [muesli/deckmaster](https://github.com/muesli/deckmaster) - An application to control your Elgato Stream Deck on Linux (1 day ago)
 - [muesli/obs-cli](https://github.com/muesli/obs-cli) - OBS-cli is a command-line remote control for OBS (1 day ago)
-- [muesli/streamdeck](https://github.com/muesli/streamdeck) - An application and Go library to control your Elgato Stream Deck on Linux (1 day ago)
 
 #### 🌱 My latest projects
 
@@ -28,11 +28,11 @@ of other projects. Curious what I've been hacking on recently?
 
 #### 🔭 Latest releases I've contributed to
 
+- [muesli/markscribe](https://github.com/muesli/markscribe) ([v0.6.0](https://github.com/muesli/markscribe/releases/tag/v0.6.0), today) - Your personal markdown scribe with template-engine and Git(Hub) &amp; RSS powers 📜
 - [muesli/obs-cli](https://github.com/muesli/obs-cli) ([v0.2.0](https://github.com/muesli/obs-cli/releases/tag/v0.2.0), 1 day ago) - OBS-cli is a command-line remote control for OBS
 - [andreykaipov/goobs](https://github.com/andreykaipov/goobs) ([v0.6.0](https://github.com/andreykaipov/goobs/releases/tag/v0.6.0), 1 day ago) - Go client for an OBS WebSockets server
 - [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) ([v0.171.0](https://github.com/goreleaser/goreleaser/releases/tag/v0.171.0), 1 day ago) - Deliver Go binaries as fast and easily as possible
 - [JF002/InfiniTime](https://github.com/JF002/InfiniTime) ([1.2.0](https://github.com/JF002/InfiniTime/releases/tag/1.2.0), 2 days ago) - Firmware for Pinetime smartwatch written in C/C&#43;&#43; and based on FreeRTOS
-- [charmbracelet/lipgloss](https://github.com/charmbracelet/lipgloss) ([v0.3.0](https://github.com/charmbracelet/lipgloss/releases/tag/v0.3.0), 4 days ago) - Style definitions for nice terminal layouts 👄
 
 #### 🔨 Latest Pull Requests I published
 
