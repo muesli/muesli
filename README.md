@@ -28,11 +28,11 @@ of other projects. Curious what I've been hacking on recently?
 
 #### 🔭 Latest releases I've contributed to
 
+- [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) ([v0.14.1](https://github.com/charmbracelet/bubbletea/releases/tag/v0.14.1), today) - A powerful little TUI framework 🏗
 - [muesli/markscribe](https://github.com/muesli/markscribe) ([v0.6.0](https://github.com/muesli/markscribe/releases/tag/v0.6.0), today) - Your personal markdown scribe with template-engine and Git(Hub) &amp; RSS powers 📜
 - [muesli/obs-cli](https://github.com/muesli/obs-cli) ([v0.2.0](https://github.com/muesli/obs-cli/releases/tag/v0.2.0), 1 day ago) - OBS-cli is a command-line remote control for OBS
 - [andreykaipov/goobs](https://github.com/andreykaipov/goobs) ([v0.6.0](https://github.com/andreykaipov/goobs/releases/tag/v0.6.0), 1 day ago) - Go client for an OBS WebSockets server
 - [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) ([v0.171.0](https://github.com/goreleaser/goreleaser/releases/tag/v0.171.0), 1 day ago) - Deliver Go binaries as fast and easily as possible
-- [JF002/InfiniTime](https://github.com/JF002/InfiniTime) ([1.2.0](https://github.com/JF002/InfiniTime/releases/tag/1.2.0), 2 days ago) - Firmware for Pinetime smartwatch written in C/C&#43;&#43; and based on FreeRTOS
 
 #### 🔨 Latest Pull Requests I published
 
