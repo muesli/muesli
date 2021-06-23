@@ -44,11 +44,11 @@ of other projects. Curious what I've been hacking on recently?
 
 #### 📜 My recent blog posts
 
+- [Self-hosting VSCode](https://fribbledom.com/posts/selfhosted-vscode/) (4 days ago)
 - [Installing Arch Linux with Full Disk Encryption](https://fribbledom.com/posts/encrypted-arch-install/) (2 years ago)
 - [Remotely Installing a Fully-Encrypted Debian Server](https://fribbledom.com/posts/encrypted-remote-debian-install/) (2 years ago)
 - [Gamut, a Go Package to Manage Color Palettes](https://fribbledom.com/posts/gamut-package-to-handle-color-palettes/) (3 years ago)
 - [An Algorithm to Generate Color Palettes](https://fribbledom.com/posts/an-algorithm-to-generate-color-palettes/) (3 years ago)
-- [A &#39;Shiny&#39; New Keyboard](https://fribbledom.com/posts/a-shiny-new-keyboard/) (3 years ago)
 
 #### ❤️ These awesome people sponsor me (thank you!)
 
