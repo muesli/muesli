@@ -12,11 +12,11 @@ of other projects. Curious what I've been hacking on recently?
 
 #### 👷 Check out what I'm currently working on
 
-- [muesli/readme-scribe](https://github.com/muesli/readme-scribe) - A GitHub Action that automatically generates &amp; updates markdown content (like your README.md) (today)
-- [andreykaipov/goobs](https://github.com/andreykaipov/goobs) - Go client for an OBS WebSockets server (today)
-- [muesli/markscribe](https://github.com/muesli/markscribe) - Your personal markdown scribe with template-engine and Git(Hub) &amp; RSS powers 📜 (today)
-- [muesli/homebrew-tap](https://github.com/muesli/homebrew-tap) - muesli&#39;s Homebrew tap (today)
-- [muesli/deckmaster](https://github.com/muesli/deckmaster) - An application to control your Elgato Stream Deck on Linux (1 day ago)
+- [muesli/readme-scribe](https://github.com/muesli/readme-scribe) - A GitHub Action that automatically generates &amp; updates markdown content (like your README.md) (1 day ago)
+- [andreykaipov/goobs](https://github.com/andreykaipov/goobs) - Go client for an OBS WebSockets server (1 day ago)
+- [muesli/markscribe](https://github.com/muesli/markscribe) - Your personal markdown scribe with template-engine and Git(Hub) &amp; RSS powers 📜 (1 day ago)
+- [muesli/homebrew-tap](https://github.com/muesli/homebrew-tap) - muesli&#39;s Homebrew tap (1 day ago)
+- [muesli/deckmaster](https://github.com/muesli/deckmaster) - An application to control your Elgato Stream Deck on Linux (2 days ago)
 
 #### 🌱 My latest projects
 
@@ -28,19 +28,19 @@ of other projects. Curious what I've been hacking on recently?
 
 #### 🔭 Latest releases I've contributed to
 
-- [muesli/deckmaster](https://github.com/muesli/deckmaster) ([v0.5.1](https://github.com/muesli/deckmaster/releases/tag/v0.5.1), today) - An application to control your Elgato Stream Deck on Linux
-- [muesli/streamdeck](https://github.com/muesli/streamdeck) ([v0.2.1](https://github.com/muesli/streamdeck/releases/tag/v0.2.1), today) - An application and Go library to control your Elgato Stream Deck on Linux
-- [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) ([v0.14.1](https://github.com/charmbracelet/bubbletea/releases/tag/v0.14.1), today) - A powerful little TUI framework 🏗
-- [muesli/markscribe](https://github.com/muesli/markscribe) ([v0.6.0](https://github.com/muesli/markscribe/releases/tag/v0.6.0), today) - Your personal markdown scribe with template-engine and Git(Hub) &amp; RSS powers 📜
-- [muesli/obs-cli](https://github.com/muesli/obs-cli) ([v0.2.0](https://github.com/muesli/obs-cli/releases/tag/v0.2.0), 1 day ago) - OBS-cli is a command-line remote control for OBS
+- [muesli/deckmaster](https://github.com/muesli/deckmaster) ([v0.5.1](https://github.com/muesli/deckmaster/releases/tag/v0.5.1), 1 day ago) - An application to control your Elgato Stream Deck on Linux
+- [muesli/streamdeck](https://github.com/muesli/streamdeck) ([v0.2.1](https://github.com/muesli/streamdeck/releases/tag/v0.2.1), 1 day ago) - An application and Go library to control your Elgato Stream Deck on Linux
+- [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) ([v0.14.1](https://github.com/charmbracelet/bubbletea/releases/tag/v0.14.1), 1 day ago) - A powerful little TUI framework 🏗
+- [muesli/markscribe](https://github.com/muesli/markscribe) ([v0.6.0](https://github.com/muesli/markscribe/releases/tag/v0.6.0), 1 day ago) - Your personal markdown scribe with template-engine and Git(Hub) &amp; RSS powers 📜
+- [muesli/obs-cli](https://github.com/muesli/obs-cli) ([v0.2.0](https://github.com/muesli/obs-cli/releases/tag/v0.2.0), 2 days ago) - OBS-cli is a command-line remote control for OBS
 
 #### 🔨 Latest Pull Requests I published
 
-- [Add countdown subcommand](https://github.com/muesli/obs-cli/pull/14) on [muesli/obs-cli](https://github.com/muesli/obs-cli) (1 day ago)
-- [Add Go build/test workflow](https://github.com/andreykaipov/goobs/pull/17) on [andreykaipov/goobs](https://github.com/andreykaipov/goobs) (1 day ago)
-- [Clean up CLI interface by grouping commands](https://github.com/muesli/obs-cli/pull/13) on [muesli/obs-cli](https://github.com/muesli/obs-cli) (1 day ago)
-- [Update goreleaser config and add workflow](https://github.com/muesli/obs-cli/pull/12) on [muesli/obs-cli](https://github.com/muesli/obs-cli) (1 day ago)
-- [Add center-sceneitem command](https://github.com/muesli/obs-cli/pull/11) on [muesli/obs-cli](https://github.com/muesli/obs-cli) (1 day ago)
+- [Add countdown subcommand](https://github.com/muesli/obs-cli/pull/14) on [muesli/obs-cli](https://github.com/muesli/obs-cli) (2 days ago)
+- [Add Go build/test workflow](https://github.com/andreykaipov/goobs/pull/17) on [andreykaipov/goobs](https://github.com/andreykaipov/goobs) (2 days ago)
+- [Clean up CLI interface by grouping commands](https://github.com/muesli/obs-cli/pull/13) on [muesli/obs-cli](https://github.com/muesli/obs-cli) (2 days ago)
+- [Update goreleaser config and add workflow](https://github.com/muesli/obs-cli/pull/12) on [muesli/obs-cli](https://github.com/muesli/obs-cli) (2 days ago)
+- [Add center-sceneitem command](https://github.com/muesli/obs-cli/pull/11) on [muesli/obs-cli](https://github.com/muesli/obs-cli) (2 days ago)
 
 #### 📜 My recent blog posts
 
@@ -55,8 +55,8 @@ of other projects. Curious what I've been hacking on recently?
 - [ocelotsloth](https://github.com/ocelotsloth) (2 weeks ago)
 - [angristan](https://github.com/angristan) (2 weeks ago)
 - [sadikkuzu](https://github.com/sadikkuzu) (3 months ago)
-- [benleb](https://github.com/benleb) (7 months ago)
-- [hugomd](https://github.com/hugomd) (7 months ago)
+- [benleb](https://github.com/benleb) (8 months ago)
+- [hugomd](https://github.com/hugomd) (8 months ago)
 
 #### 💬 Feedback
 
