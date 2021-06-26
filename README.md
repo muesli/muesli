@@ -12,11 +12,11 @@ of other projects. Curious what I've been hacking on recently?
 
 #### 👷 Check out what I'm currently working on
 
-- [muesli/termenv](https://github.com/muesli/termenv) - Advanced ANSI style &amp; color support for your terminal applications (1 day ago)
-- [muesli/readme-scribe](https://github.com/muesli/readme-scribe) - A GitHub Action that automatically generates &amp; updates markdown content (like your README.md) (3 days ago)
-- [muesli/homebrew-tap](https://github.com/muesli/homebrew-tap) - muesli&#39;s Homebrew tap (3 days ago)
-- [muesli/markscribe](https://github.com/muesli/markscribe) - Your personal markdown scribe with template-engine and Git(Hub) &amp; RSS powers 📜 (3 days ago)
-- [andreykaipov/goobs](https://github.com/andreykaipov/goobs) - Go client for an OBS WebSockets server (3 days ago)
+- [muesli/modular-case](https://github.com/muesli/modular-case) - Modular Case (today)
+- [muesli/termenv](https://github.com/muesli/termenv) - Advanced ANSI style &amp; color support for your terminal applications (2 days ago)
+- [muesli/readme-scribe](https://github.com/muesli/readme-scribe) - A GitHub Action that automatically generates &amp; updates markdown content (like your README.md) (4 days ago)
+- [muesli/homebrew-tap](https://github.com/muesli/homebrew-tap) - muesli&#39;s Homebrew tap (4 days ago)
+- [muesli/markscribe](https://github.com/muesli/markscribe) - Your personal markdown scribe with template-engine and Git(Hub) &amp; RSS powers 📜 (4 days ago)
 
 #### 🌱 My latest projects
 
@@ -28,23 +28,23 @@ of other projects. Curious what I've been hacking on recently?
 
 #### 🔭 Latest releases I've contributed to
 
-- [muesli/termenv](https://github.com/muesli/termenv) ([v0.9.0](https://github.com/muesli/termenv/releases/tag/v0.9.0), 1 day ago) - Advanced ANSI style &amp; color support for your terminal applications
-- [muesli/deckmaster](https://github.com/muesli/deckmaster) ([v0.5.1](https://github.com/muesli/deckmaster/releases/tag/v0.5.1), 3 days ago) - An application to control your Elgato Stream Deck on Linux
-- [muesli/streamdeck](https://github.com/muesli/streamdeck) ([v0.2.1](https://github.com/muesli/streamdeck/releases/tag/v0.2.1), 3 days ago) - An application and Go library to control your Elgato Stream Deck on Linux
-- [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) ([v0.14.1](https://github.com/charmbracelet/bubbletea/releases/tag/v0.14.1), 3 days ago) - A powerful little TUI framework 🏗
-- [muesli/markscribe](https://github.com/muesli/markscribe) ([v0.6.0](https://github.com/muesli/markscribe/releases/tag/v0.6.0), 3 days ago) - Your personal markdown scribe with template-engine and Git(Hub) &amp; RSS powers 📜
+- [muesli/termenv](https://github.com/muesli/termenv) ([v0.9.0](https://github.com/muesli/termenv/releases/tag/v0.9.0), 2 days ago) - Advanced ANSI style &amp; color support for your terminal applications
+- [muesli/deckmaster](https://github.com/muesli/deckmaster) ([v0.5.1](https://github.com/muesli/deckmaster/releases/tag/v0.5.1), 4 days ago) - An application to control your Elgato Stream Deck on Linux
+- [muesli/streamdeck](https://github.com/muesli/streamdeck) ([v0.2.1](https://github.com/muesli/streamdeck/releases/tag/v0.2.1), 4 days ago) - An application and Go library to control your Elgato Stream Deck on Linux
+- [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) ([v0.14.1](https://github.com/charmbracelet/bubbletea/releases/tag/v0.14.1), 4 days ago) - A powerful little TUI framework 🏗
+- [muesli/markscribe](https://github.com/muesli/markscribe) ([v0.6.0](https://github.com/muesli/markscribe/releases/tag/v0.6.0), 4 days ago) - Your personal markdown scribe with template-engine and Git(Hub) &amp; RSS powers 📜
 
 #### 🔨 Latest Pull Requests I published
 
-- [Add countdown subcommand](https://github.com/muesli/obs-cli/pull/14) on [muesli/obs-cli](https://github.com/muesli/obs-cli) (4 days ago)
-- [Add Go build/test workflow](https://github.com/andreykaipov/goobs/pull/17) on [andreykaipov/goobs](https://github.com/andreykaipov/goobs) (4 days ago)
-- [Clean up CLI interface by grouping commands](https://github.com/muesli/obs-cli/pull/13) on [muesli/obs-cli](https://github.com/muesli/obs-cli) (4 days ago)
-- [Update goreleaser config and add workflow](https://github.com/muesli/obs-cli/pull/12) on [muesli/obs-cli](https://github.com/muesli/obs-cli) (4 days ago)
-- [Add center-sceneitem command](https://github.com/muesli/obs-cli/pull/11) on [muesli/obs-cli](https://github.com/muesli/obs-cli) (4 days ago)
+- [Add countdown subcommand](https://github.com/muesli/obs-cli/pull/14) on [muesli/obs-cli](https://github.com/muesli/obs-cli) (5 days ago)
+- [Add Go build/test workflow](https://github.com/andreykaipov/goobs/pull/17) on [andreykaipov/goobs](https://github.com/andreykaipov/goobs) (5 days ago)
+- [Clean up CLI interface by grouping commands](https://github.com/muesli/obs-cli/pull/13) on [muesli/obs-cli](https://github.com/muesli/obs-cli) (5 days ago)
+- [Update goreleaser config and add workflow](https://github.com/muesli/obs-cli/pull/12) on [muesli/obs-cli](https://github.com/muesli/obs-cli) (5 days ago)
+- [Add center-sceneitem command](https://github.com/muesli/obs-cli/pull/11) on [muesli/obs-cli](https://github.com/muesli/obs-cli) (5 days ago)
 
 #### 📜 My recent blog posts
 
-- [Self-hosting VSCode](https://fribbledom.com/posts/selfhosting-vscode/) (6 days ago)
+- [Self-hosting VSCode](https://fribbledom.com/posts/selfhosting-vscode/) (1 week ago)
 - [Installing Arch Linux with Full Disk Encryption](https://fribbledom.com/posts/encrypted-arch-install/) (2 years ago)
 - [Remotely Installing a Fully-Encrypted Debian Server](https://fribbledom.com/posts/encrypted-remote-debian-install/) (3 years ago)
 - [Gamut, a Go Package to Manage Color Palettes](https://fribbledom.com/posts/gamut-package-to-handle-color-palettes/) (3 years ago)
