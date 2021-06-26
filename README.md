@@ -36,11 +36,11 @@ of other projects. Curious what I've been hacking on recently?
 
 #### 🔨 Latest Pull Requests I published
 
+- [Switch to GitHub workflows](https://github.com/muesli/modular-case/pull/31) on [muesli/modular-case](https://github.com/muesli/modular-case) (today)
 - [Add countdown subcommand](https://github.com/muesli/obs-cli/pull/14) on [muesli/obs-cli](https://github.com/muesli/obs-cli) (5 days ago)
 - [Add Go build/test workflow](https://github.com/andreykaipov/goobs/pull/17) on [andreykaipov/goobs](https://github.com/andreykaipov/goobs) (5 days ago)
 - [Clean up CLI interface by grouping commands](https://github.com/muesli/obs-cli/pull/13) on [muesli/obs-cli](https://github.com/muesli/obs-cli) (5 days ago)
 - [Update goreleaser config and add workflow](https://github.com/muesli/obs-cli/pull/12) on [muesli/obs-cli](https://github.com/muesli/obs-cli) (5 days ago)
-- [Add center-sceneitem command](https://github.com/muesli/obs-cli/pull/11) on [muesli/obs-cli](https://github.com/muesli/obs-cli) (5 days ago)
 
 #### 📜 My recent blog posts
 
