@@ -12,11 +12,11 @@ of other projects. Curious what I've been hacking on recently?
 
 #### 👷 Check out what I'm currently working on
 
-- [muesli/modular-case](https://github.com/muesli/modular-case) - Modular Case (today)
-- [muesli/termenv](https://github.com/muesli/termenv) - Advanced ANSI style &amp; color support for your terminal applications (4 days ago)
-- [muesli/homebrew-tap](https://github.com/muesli/homebrew-tap) - muesli&#39;s Homebrew tap (6 days ago)
-- [muesli/readme-scribe](https://github.com/muesli/readme-scribe) - A GitHub Action that automatically generates &amp; updates markdown content (like your README.md) (6 days ago)
-- [andreykaipov/goobs](https://github.com/andreykaipov/goobs) - Go client for an OBS WebSockets server (6 days ago)
+- [muesli/lighthouse](https://github.com/muesli/lighthouse) - A fully modular, parametric, and customizable case design. Built with OpenSCAD. (today)
+- [muesli/termenv](https://github.com/muesli/termenv) - Advanced ANSI style &amp; color support for your terminal applications (5 days ago)
+- [muesli/homebrew-tap](https://github.com/muesli/homebrew-tap) - muesli&#39;s Homebrew tap (1 week ago)
+- [muesli/readme-scribe](https://github.com/muesli/readme-scribe) - A GitHub Action that automatically generates &amp; updates markdown content (like your README.md) (1 week ago)
+- [andreykaipov/goobs](https://github.com/andreykaipov/goobs) - Go client for an OBS WebSockets server (1 week ago)
 
 #### 🌱 My latest projects
 
@@ -28,19 +28,19 @@ of other projects. Curious what I've been hacking on recently?
 
 #### 🔭 Latest releases I've contributed to
 
-- [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) ([v0.172.1](https://github.com/goreleaser/goreleaser/releases/tag/v0.172.1), 1 day ago) - Deliver Go binaries as fast and easily as possible
-- [muesli/termenv](https://github.com/muesli/termenv) ([v0.9.0](https://github.com/muesli/termenv/releases/tag/v0.9.0), 4 days ago) - Advanced ANSI style &amp; color support for your terminal applications
-- [muesli/deckmaster](https://github.com/muesli/deckmaster) ([v0.5.1](https://github.com/muesli/deckmaster/releases/tag/v0.5.1), 6 days ago) - An application to control your Elgato Stream Deck on Linux
-- [muesli/streamdeck](https://github.com/muesli/streamdeck) ([v0.2.1](https://github.com/muesli/streamdeck/releases/tag/v0.2.1), 6 days ago) - An application and Go library to control your Elgato Stream Deck on Linux
-- [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) ([v0.14.1](https://github.com/charmbracelet/bubbletea/releases/tag/v0.14.1), 6 days ago) - A powerful little TUI framework 🏗
+- [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) ([v0.172.1](https://github.com/goreleaser/goreleaser/releases/tag/v0.172.1), 2 days ago) - Deliver Go binaries as fast and easily as possible
+- [muesli/termenv](https://github.com/muesli/termenv) ([v0.9.0](https://github.com/muesli/termenv/releases/tag/v0.9.0), 5 days ago) - Advanced ANSI style &amp; color support for your terminal applications
+- [muesli/deckmaster](https://github.com/muesli/deckmaster) ([v0.5.1](https://github.com/muesli/deckmaster/releases/tag/v0.5.1), 1 week ago) - An application to control your Elgato Stream Deck on Linux
+- [muesli/streamdeck](https://github.com/muesli/streamdeck) ([v0.2.1](https://github.com/muesli/streamdeck/releases/tag/v0.2.1), 1 week ago) - An application and Go library to control your Elgato Stream Deck on Linux
+- [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) ([v0.14.1](https://github.com/charmbracelet/bubbletea/releases/tag/v0.14.1), 1 week ago) - A powerful little TUI framework 🏗
 
 #### 🔨 Latest Pull Requests I published
 
-- [Switch to GitHub workflows](https://github.com/muesli/modular-case/pull/31) on [muesli/modular-case](https://github.com/muesli/modular-case) (2 days ago)
+- [Add Flat cap](https://github.com/muesli/lighthouse/pull/32) on [muesli/lighthouse](https://github.com/muesli/lighthouse) (1 day ago)
+- [Switch to GitHub workflows](https://github.com/muesli/lighthouse/pull/31) on [muesli/lighthouse](https://github.com/muesli/lighthouse) (3 days ago)
 - [Add countdown subcommand](https://github.com/muesli/obs-cli/pull/14) on [muesli/obs-cli](https://github.com/muesli/obs-cli) (1 week ago)
 - [Add Go build/test workflow](https://github.com/andreykaipov/goobs/pull/17) on [andreykaipov/goobs](https://github.com/andreykaipov/goobs) (1 week ago)
 - [Clean up CLI interface by grouping commands](https://github.com/muesli/obs-cli/pull/13) on [muesli/obs-cli](https://github.com/muesli/obs-cli) (1 week ago)
-- [Update goreleaser config and add workflow](https://github.com/muesli/obs-cli/pull/12) on [muesli/obs-cli](https://github.com/muesli/obs-cli) (1 week ago)
 
 #### 📜 My recent blog posts
 
