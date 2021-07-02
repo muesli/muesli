@@ -12,7 +12,7 @@ of other projects. Curious what I've been hacking on recently?
 
 #### 👷 Check out what I'm currently working on
 
-- [muesli/lighthouse](https://github.com/muesli/lighthouse) - A fully modular, parametric, and customizable case design. Built with OpenSCAD. (1 day ago)
+- [muesli/lighthouse](https://github.com/muesli/lighthouse) - A fully modular, parametric, and customizable case design. Built with OpenSCAD. (2 days ago)
 - [muesli/termenv](https://github.com/muesli/termenv) - Advanced ANSI style &amp; color support for your terminal applications (1 week ago)
 - [muesli/homebrew-tap](https://github.com/muesli/homebrew-tap) - muesli&#39;s Homebrew tap (1 week ago)
 - [muesli/readme-scribe](https://github.com/muesli/readme-scribe) - A GitHub Action that automatically generates &amp; updates markdown content (like your README.md) (1 week ago)
@@ -28,7 +28,7 @@ of other projects. Curious what I've been hacking on recently?
 
 #### 🔭 Latest releases I've contributed to
 
-- [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) ([v0.172.1](https://github.com/goreleaser/goreleaser/releases/tag/v0.172.1), 4 days ago) - Deliver Go binaries as fast and easily as possible
+- [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) ([v0.172.1](https://github.com/goreleaser/goreleaser/releases/tag/v0.172.1), 5 days ago) - Deliver Go binaries as fast and easily as possible
 - [muesli/termenv](https://github.com/muesli/termenv) ([v0.9.0](https://github.com/muesli/termenv/releases/tag/v0.9.0), 1 week ago) - Advanced ANSI style &amp; color support for your terminal applications
 - [muesli/deckmaster](https://github.com/muesli/deckmaster) ([v0.5.1](https://github.com/muesli/deckmaster/releases/tag/v0.5.1), 1 week ago) - An application to control your Elgato Stream Deck on Linux
 - [muesli/streamdeck](https://github.com/muesli/streamdeck) ([v0.2.1](https://github.com/muesli/streamdeck/releases/tag/v0.2.1), 1 week ago) - An application and Go library to control your Elgato Stream Deck on Linux
@@ -36,8 +36,8 @@ of other projects. Curious what I've been hacking on recently?
 
 #### 🔨 Latest Pull Requests I published
 
-- [Add Flat cap](https://github.com/muesli/lighthouse/pull/32) on [muesli/lighthouse](https://github.com/muesli/lighthouse) (3 days ago)
-- [Switch to GitHub workflows](https://github.com/muesli/lighthouse/pull/31) on [muesli/lighthouse](https://github.com/muesli/lighthouse) (5 days ago)
+- [Add Flat cap](https://github.com/muesli/lighthouse/pull/32) on [muesli/lighthouse](https://github.com/muesli/lighthouse) (4 days ago)
+- [Switch to GitHub workflows](https://github.com/muesli/lighthouse/pull/31) on [muesli/lighthouse](https://github.com/muesli/lighthouse) (6 days ago)
 - [Add countdown subcommand](https://github.com/muesli/obs-cli/pull/14) on [muesli/obs-cli](https://github.com/muesli/obs-cli) (1 week ago)
 - [Add Go build/test workflow](https://github.com/andreykaipov/goobs/pull/17) on [andreykaipov/goobs](https://github.com/andreykaipov/goobs) (1 week ago)
 - [Clean up CLI interface by grouping commands](https://github.com/muesli/obs-cli/pull/13) on [muesli/obs-cli](https://github.com/muesli/obs-cli) (1 week ago)
@@ -53,7 +53,7 @@ of other projects. Curious what I've been hacking on recently?
 #### ❤️ These awesome people sponsor me (thank you!)
 
 - [ocelotsloth](https://github.com/ocelotsloth) (3 weeks ago)
-- [angristan](https://github.com/angristan) (3 weeks ago)
+- [angristan](https://github.com/angristan) (4 weeks ago)
 - [sadikkuzu](https://github.com/sadikkuzu) (4 months ago)
 - [benleb](https://github.com/benleb) (8 months ago)
 - [hugomd](https://github.com/hugomd) (8 months ago)
