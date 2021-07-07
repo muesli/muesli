@@ -13,10 +13,10 @@ of other projects. Curious what I've been hacking on recently?
 #### 👷 Check out what I'm currently working on
 
 - [muesli/reflow](https://github.com/muesli/reflow) - A collection of (ANSI-sequence aware) text reflow operations &amp; algorithms (today)
+- [jcs/no_color](https://github.com/jcs/no_color) - Website data for no-color.org (today)
 - [muesli/duf](https://github.com/muesli/duf) - Disk Usage/Free Utility - a better &#39;df&#39; alternative (3 days ago)
 - [muesli/lighthouse](https://github.com/muesli/lighthouse) - A fully modular, parametric, and customizable case design. Built with OpenSCAD. (1 week ago)
 - [muesli/termenv](https://github.com/muesli/termenv) - Advanced ANSI style &amp; color support for your terminal applications (1 week ago)
-- [muesli/homebrew-tap](https://github.com/muesli/homebrew-tap) - muesli&#39;s Homebrew tap (2 weeks ago)
 
 #### 🌱 My latest projects
 
