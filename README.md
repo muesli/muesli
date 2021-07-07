@@ -36,11 +36,11 @@ of other projects. Curious what I've been hacking on recently?
 
 #### 🔨 Latest Pull Requests I published
 
+- [Add termenv](https://github.com/jcs/no_color/pull/124) on [jcs/no_color](https://github.com/jcs/no_color) (today)
 - [Split up GitHub workflows](https://github.com/muesli/reflow/pull/41) on [muesli/reflow](https://github.com/muesli/reflow) (today)
 - [Add Flat cap](https://github.com/muesli/lighthouse/pull/32) on [muesli/lighthouse](https://github.com/muesli/lighthouse) (1 week ago)
 - [Switch to GitHub workflows](https://github.com/muesli/lighthouse/pull/31) on [muesli/lighthouse](https://github.com/muesli/lighthouse) (1 week ago)
 - [Add countdown subcommand](https://github.com/muesli/obs-cli/pull/14) on [muesli/obs-cli](https://github.com/muesli/obs-cli) (2 weeks ago)
-- [Add Go build/test workflow](https://github.com/andreykaipov/goobs/pull/17) on [andreykaipov/goobs](https://github.com/andreykaipov/goobs) (2 weeks ago)
 
 #### 📜 My recent blog posts
 
