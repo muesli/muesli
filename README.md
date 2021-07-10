@@ -12,9 +12,9 @@ of other projects. Curious what I've been hacking on recently?
 
 #### 👷 Check out what I'm currently working on
 
-- [muesli/reflow](https://github.com/muesli/reflow) - A collection of (ANSI-sequence aware) text reflow operations &amp; algorithms (2 days ago)
-- [jcs/no_color](https://github.com/jcs/no_color) - Website data for no-color.org (2 days ago)
-- [muesli/duf](https://github.com/muesli/duf) - Disk Usage/Free Utility - a better &#39;df&#39; alternative (5 days ago)
+- [muesli/reflow](https://github.com/muesli/reflow) - A collection of (ANSI-sequence aware) text reflow operations &amp; algorithms (3 days ago)
+- [jcs/no_color](https://github.com/jcs/no_color) - Website data for no-color.org (3 days ago)
+- [muesli/duf](https://github.com/muesli/duf) - Disk Usage/Free Utility - a better &#39;df&#39; alternative (6 days ago)
 - [muesli/lighthouse](https://github.com/muesli/lighthouse) - A fully modular, parametric, and customizable case design. Built with OpenSCAD. (1 week ago)
 - [muesli/termenv](https://github.com/muesli/termenv) - Advanced ANSI style &amp; color support for your terminal applications (2 weeks ago)
 
@@ -28,7 +28,7 @@ of other projects. Curious what I've been hacking on recently?
 
 #### 🔭 Latest releases I've contributed to
 
-- [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) ([v0.173.2](https://github.com/goreleaser/goreleaser/releases/tag/v0.173.2), 3 days ago) - Deliver Go binaries as fast and easily as possible
+- [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) ([v0.173.2](https://github.com/goreleaser/goreleaser/releases/tag/v0.173.2), 4 days ago) - Deliver Go binaries as fast and easily as possible
 - [muesli/termenv](https://github.com/muesli/termenv) ([v0.9.0](https://github.com/muesli/termenv/releases/tag/v0.9.0), 2 weeks ago) - Advanced ANSI style &amp; color support for your terminal applications
 - [muesli/deckmaster](https://github.com/muesli/deckmaster) ([v0.5.1](https://github.com/muesli/deckmaster/releases/tag/v0.5.1), 2 weeks ago) - An application to control your Elgato Stream Deck on Linux
 - [muesli/streamdeck](https://github.com/muesli/streamdeck) ([v0.2.1](https://github.com/muesli/streamdeck/releases/tag/v0.2.1), 2 weeks ago) - An application and Go library to control your Elgato Stream Deck on Linux
@@ -36,15 +36,15 @@ of other projects. Curious what I've been hacking on recently?
 
 #### 🔨 Latest Pull Requests I published
 
-- [Add termenv](https://github.com/jcs/no_color/pull/124) on [jcs/no_color](https://github.com/jcs/no_color) (2 days ago)
-- [Split up GitHub workflows](https://github.com/muesli/reflow/pull/41) on [muesli/reflow](https://github.com/muesli/reflow) (2 days ago)
+- [Add termenv](https://github.com/jcs/no_color/pull/124) on [jcs/no_color](https://github.com/jcs/no_color) (3 days ago)
+- [Split up GitHub workflows](https://github.com/muesli/reflow/pull/41) on [muesli/reflow](https://github.com/muesli/reflow) (3 days ago)
 - [Add Flat cap](https://github.com/muesli/lighthouse/pull/32) on [muesli/lighthouse](https://github.com/muesli/lighthouse) (1 week ago)
-- [Switch to GitHub workflows](https://github.com/muesli/lighthouse/pull/31) on [muesli/lighthouse](https://github.com/muesli/lighthouse) (1 week ago)
+- [Switch to GitHub workflows](https://github.com/muesli/lighthouse/pull/31) on [muesli/lighthouse](https://github.com/muesli/lighthouse) (2 weeks ago)
 - [Add countdown subcommand](https://github.com/muesli/obs-cli/pull/14) on [muesli/obs-cli](https://github.com/muesli/obs-cli) (2 weeks ago)
 
 #### 📜 My recent blog posts
 
-- [Self-hosting VSCode](https://fribbledom.com/posts/selfhosting-vscode/) (2 weeks ago)
+- [Self-hosting VSCode](https://fribbledom.com/posts/selfhosting-vscode/) (3 weeks ago)
 - [Installing Arch Linux with Full Disk Encryption](https://fribbledom.com/posts/encrypted-arch-install/) (2 years ago)
 - [Remotely Installing a Fully-Encrypted Debian Server](https://fribbledom.com/posts/encrypted-remote-debian-install/) (3 years ago)
 - [Gamut, a Go Package to Manage Color Palettes](https://fribbledom.com/posts/gamut-package-to-handle-color-palettes/) (3 years ago)
