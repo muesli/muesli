@@ -14,9 +14,9 @@ of other projects. Curious what I've been hacking on recently?
 
 - [charmbracelet/lipgloss](https://github.com/charmbracelet/lipgloss) - Style definitions for nice terminal layouts 👄 (1 day ago)
 - [charmbracelet/charm](https://github.com/charmbracelet/charm) - The Charm Tool and Library 🌟 (1 day ago)
-- [jcs/no_color](https://github.com/jcs/no_color) - Website data for no-color.org (6 days ago)
+- [KDE/dolphin](https://github.com/KDE/dolphin) - File manager by KDE (3 days ago)
 - [muesli/reflow](https://github.com/muesli/reflow) - A collection of (ANSI-sequence aware) text reflow operations &amp; algorithms (6 days ago)
-- [muesli/duf](https://github.com/muesli/duf) - Disk Usage/Free Utility - a better &#39;df&#39; alternative (1 week ago)
+- [jcs/no_color](https://github.com/jcs/no_color) - Website data for no-color.org (6 days ago)
 
 #### 🌱 My latest projects
 
