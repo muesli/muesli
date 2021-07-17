@@ -12,10 +12,10 @@ of other projects. Curious what I've been hacking on recently?
 
 #### 👷 Check out what I'm currently working on
 
-- [muesli/obs-cli](https://github.com/muesli/obs-cli) - OBS-cli is a command-line remote control for OBS (1 day ago)
-- [charmbracelet/lipgloss](https://github.com/charmbracelet/lipgloss) - Style definitions for nice terminal layouts 👄 (4 days ago)
-- [charmbracelet/charm](https://github.com/charmbracelet/charm) - The Charm Tool and Library 🌟 (4 days ago)
-- [KDE/dolphin](https://github.com/KDE/dolphin) - File manager by KDE (6 days ago)
+- [muesli/obs-cli](https://github.com/muesli/obs-cli) - OBS-cli is a command-line remote control for OBS (2 days ago)
+- [charmbracelet/lipgloss](https://github.com/charmbracelet/lipgloss) - Style definitions for nice terminal layouts 👄 (5 days ago)
+- [charmbracelet/charm](https://github.com/charmbracelet/charm) - The Charm Tool and Library 🌟 (5 days ago)
+- [KDE/dolphin](https://github.com/KDE/dolphin) - File manager by KDE (1 week ago)
 - [muesli/reflow](https://github.com/muesli/reflow) - A collection of (ANSI-sequence aware) text reflow operations &amp; algorithms (1 week ago)
 
 #### 🌱 My latest projects
@@ -36,15 +36,15 @@ of other projects. Curious what I've been hacking on recently?
 
 #### 🔨 Latest Pull Requests I published
 
-- [Update linter config](https://github.com/charmbracelet/lipgloss/pull/39) on [charmbracelet/lipgloss](https://github.com/charmbracelet/lipgloss) (4 days ago)
-- [Split up workflows and add goreleaser action](https://github.com/charmbracelet/charm/pull/24) on [charmbracelet/charm](https://github.com/charmbracelet/charm) (4 days ago)
-- [Update linter config](https://github.com/charmbracelet/bubbles/pull/57) on [charmbracelet/bubbles](https://github.com/charmbracelet/bubbles) (4 days ago)
-- [Update linter config](https://github.com/charmbracelet/bubbletea/pull/115) on [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) (4 days ago)
+- [Update linter config](https://github.com/charmbracelet/lipgloss/pull/39) on [charmbracelet/lipgloss](https://github.com/charmbracelet/lipgloss) (5 days ago)
+- [Split up workflows and add goreleaser action](https://github.com/charmbracelet/charm/pull/24) on [charmbracelet/charm](https://github.com/charmbracelet/charm) (5 days ago)
+- [Update linter config](https://github.com/charmbracelet/bubbles/pull/57) on [charmbracelet/bubbles](https://github.com/charmbracelet/bubbles) (5 days ago)
+- [Update linter config](https://github.com/charmbracelet/bubbletea/pull/115) on [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) (5 days ago)
 - [Add termenv](https://github.com/jcs/no_color/pull/124) on [jcs/no_color](https://github.com/jcs/no_color) (1 week ago)
 
 #### 📜 My recent blog posts
 
-- [Self-hosting VSCode](https://fribbledom.com/posts/selfhosting-vscode/) (3 weeks ago)
+- [Self-hosting VSCode](https://fribbledom.com/posts/selfhosting-vscode/) (4 weeks ago)
 - [Installing Arch Linux with Full Disk Encryption](https://fribbledom.com/posts/encrypted-arch-install/) (2 years ago)
 - [Remotely Installing a Fully-Encrypted Debian Server](https://fribbledom.com/posts/encrypted-remote-debian-install/) (3 years ago)
 - [Gamut, a Go Package to Manage Color Palettes](https://fribbledom.com/posts/gamut-package-to-handle-color-palettes/) (3 years ago)
