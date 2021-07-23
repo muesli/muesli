@@ -55,8 +55,8 @@ of other projects. Curious what I've been hacking on recently?
 - [ocelotsloth](https://github.com/ocelotsloth) (1 month ago)
 - [angristan](https://github.com/angristan) (1 month ago)
 - [sadikkuzu](https://github.com/sadikkuzu) (4 months ago)
-- [benleb](https://github.com/benleb) (8 months ago)
-- [hugomd](https://github.com/hugomd) (8 months ago)
+- [benleb](https://github.com/benleb) (9 months ago)
+- [hugomd](https://github.com/hugomd) (9 months ago)
 
 #### 💬 Feedback
 
