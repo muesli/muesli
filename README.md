@@ -28,7 +28,7 @@ of other projects. Curious what I've been hacking on recently?
 
 #### 🔭 Latest releases I've contributed to
 
-- [JF002/InfiniTime](https://github.com/JF002/InfiniTime) ([1.3.0](https://github.com/JF002/InfiniTime/releases/tag/1.3.0), 1 day ago) - Firmware for Pinetime smartwatch written in C/C&#43;&#43; and based on FreeRTOS
+- [JF002/InfiniTime](https://github.com/JF002/InfiniTime) ([1.3.0](https://github.com/JF002/InfiniTime/releases/tag/1.3.0), 2 days ago) - Firmware for Pinetime smartwatch written in C/C&#43;&#43; and based on FreeRTOS
 - [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) ([v0.173.2](https://github.com/goreleaser/goreleaser/releases/tag/v0.173.2), 2 weeks ago) - Deliver Go binaries as fast and easily as possible
 - [muesli/termenv](https://github.com/muesli/termenv) ([v0.9.0](https://github.com/muesli/termenv/releases/tag/v0.9.0), 1 month ago) - Advanced ANSI style &amp; color support for your terminal applications
 - [muesli/deckmaster](https://github.com/muesli/deckmaster) ([v0.5.1](https://github.com/muesli/deckmaster/releases/tag/v0.5.1), 1 month ago) - An application to control your Elgato Stream Deck on Linux
@@ -36,11 +36,11 @@ of other projects. Curious what I've been hacking on recently?
 
 #### 🔨 Latest Pull Requests I published
 
+- [Don&#39;t specify the linter version, as it&#39;s not required any longer](https://github.com/owncast/owncast/pull/1262) on [owncast/owncast](https://github.com/owncast/owncast) (today)
+- [Improve performance of retrieving chat history by avoiding double-sort](https://github.com/owncast/owncast/pull/1261) on [owncast/owncast](https://github.com/owncast/owncast) (today)
 - [Update linter config](https://github.com/charmbracelet/lipgloss/pull/39) on [charmbracelet/lipgloss](https://github.com/charmbracelet/lipgloss) (1 week ago)
 - [Split up workflows and add goreleaser action](https://github.com/charmbracelet/charm/pull/24) on [charmbracelet/charm](https://github.com/charmbracelet/charm) (1 week ago)
 - [Update linter config](https://github.com/charmbracelet/bubbles/pull/57) on [charmbracelet/bubbles](https://github.com/charmbracelet/bubbles) (1 week ago)
-- [Update linter config](https://github.com/charmbracelet/bubbletea/pull/115) on [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) (1 week ago)
-- [Add termenv](https://github.com/jcs/no_color/pull/124) on [jcs/no_color](https://github.com/jcs/no_color) (2 weeks ago)
 
 #### 📜 My recent blog posts
 
