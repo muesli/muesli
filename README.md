@@ -12,7 +12,7 @@ of other projects. Curious what I've been hacking on recently?
 
 #### 👷 Check out what I'm currently working on
 
-- [owncast/owncast](https://github.com/owncast/owncast) - Take control over your live stream video by running it yourself.  Streaming &#43; chat out of the box. (2 days ago)
+- [owncast/owncast](https://github.com/owncast/owncast) - Take control over your live stream video by running it yourself.  Streaming &#43; chat out of the box. (3 days ago)
 - [muesli/obs-cli](https://github.com/muesli/obs-cli) - OBS-cli is a command-line remote control for OBS (1 week ago)
 - [charmbracelet/lipgloss](https://github.com/charmbracelet/lipgloss) - Style definitions for nice terminal layouts 👄 (2 weeks ago)
 - [charmbracelet/charm](https://github.com/charmbracelet/charm) - The Charm Tool and Library 🌟 (2 weeks ago)
@@ -28,16 +28,16 @@ of other projects. Curious what I've been hacking on recently?
 
 #### 🔭 Latest releases I've contributed to
 
-- [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) ([v0.174.1](https://github.com/goreleaser/goreleaser/releases/tag/v0.174.1), 1 day ago) - Deliver Go binaries as fast and easily as possible
-- [JF002/InfiniTime](https://github.com/JF002/InfiniTime) ([1.3.0](https://github.com/JF002/InfiniTime/releases/tag/1.3.0), 4 days ago) - Firmware for Pinetime smartwatch written in C/C&#43;&#43; and based on FreeRTOS
+- [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) ([v0.174.1](https://github.com/goreleaser/goreleaser/releases/tag/v0.174.1), 2 days ago) - Deliver Go binaries as fast and easily as possible
+- [JF002/InfiniTime](https://github.com/JF002/InfiniTime) ([1.3.0](https://github.com/JF002/InfiniTime/releases/tag/1.3.0), 5 days ago) - Firmware for Pinetime smartwatch written in C/C&#43;&#43; and based on FreeRTOS
 - [muesli/termenv](https://github.com/muesli/termenv) ([v0.9.0](https://github.com/muesli/termenv/releases/tag/v0.9.0), 1 month ago) - Advanced ANSI style &amp; color support for your terminal applications
 - [muesli/deckmaster](https://github.com/muesli/deckmaster) ([v0.5.1](https://github.com/muesli/deckmaster/releases/tag/v0.5.1), 1 month ago) - An application to control your Elgato Stream Deck on Linux
 - [muesli/streamdeck](https://github.com/muesli/streamdeck) ([v0.2.1](https://github.com/muesli/streamdeck/releases/tag/v0.2.1), 1 month ago) - An application and Go library to control your Elgato Stream Deck on Linux
 
 #### 🔨 Latest Pull Requests I published
 
-- [Don&#39;t specify the linter version, as it&#39;s not required any longer](https://github.com/owncast/owncast/pull/1262) on [owncast/owncast](https://github.com/owncast/owncast) (2 days ago)
-- [Improve performance of retrieving chat history by avoiding double-sort](https://github.com/owncast/owncast/pull/1261) on [owncast/owncast](https://github.com/owncast/owncast) (2 days ago)
+- [Don&#39;t specify the linter version, as it&#39;s not required any longer](https://github.com/owncast/owncast/pull/1262) on [owncast/owncast](https://github.com/owncast/owncast) (3 days ago)
+- [Improve performance of retrieving chat history by avoiding double-sort](https://github.com/owncast/owncast/pull/1261) on [owncast/owncast](https://github.com/owncast/owncast) (3 days ago)
 - [Update linter config](https://github.com/charmbracelet/lipgloss/pull/39) on [charmbracelet/lipgloss](https://github.com/charmbracelet/lipgloss) (2 weeks ago)
 - [Split up workflows and add goreleaser action](https://github.com/charmbracelet/charm/pull/24) on [charmbracelet/charm](https://github.com/charmbracelet/charm) (2 weeks ago)
 - [Update linter config](https://github.com/charmbracelet/bubbles/pull/57) on [charmbracelet/bubbles](https://github.com/charmbracelet/bubbles) (2 weeks ago)
