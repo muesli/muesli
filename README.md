@@ -36,11 +36,11 @@ of other projects. Curious what I've been hacking on recently?
 
 #### 🔨 Latest Pull Requests I published
 
+- [Add recording status command](https://github.com/muesli/obs-cli/pull/16) on [muesli/obs-cli](https://github.com/muesli/obs-cli) (today)
 - [Don&#39;t specify the linter version, as it&#39;s not required any longer](https://github.com/owncast/owncast/pull/1262) on [owncast/owncast](https://github.com/owncast/owncast) (4 days ago)
 - [Improve performance of retrieving chat history by avoiding double-sort](https://github.com/owncast/owncast/pull/1261) on [owncast/owncast](https://github.com/owncast/owncast) (4 days ago)
 - [Update linter config](https://github.com/charmbracelet/lipgloss/pull/39) on [charmbracelet/lipgloss](https://github.com/charmbracelet/lipgloss) (2 weeks ago)
 - [Split up workflows and add goreleaser action](https://github.com/charmbracelet/charm/pull/24) on [charmbracelet/charm](https://github.com/charmbracelet/charm) (2 weeks ago)
-- [Update linter config](https://github.com/charmbracelet/bubbles/pull/57) on [charmbracelet/bubbles](https://github.com/charmbracelet/bubbles) (2 weeks ago)
 
 #### 📜 My recent blog posts
 
