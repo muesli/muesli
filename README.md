@@ -12,8 +12,8 @@ of other projects. Curious what I've been hacking on recently?
 
 #### 👷 Check out what I'm currently working on
 
+- [muesli/obs-cli](https://github.com/muesli/obs-cli) - OBS-cli is a command-line remote control for OBS (1 day ago)
 - [owncast/owncast](https://github.com/owncast/owncast) - Take control over your live stream video by running it yourself.  Streaming &#43; chat out of the box. (5 days ago)
-- [muesli/obs-cli](https://github.com/muesli/obs-cli) - OBS-cli is a command-line remote control for OBS (2 weeks ago)
 - [charmbracelet/lipgloss](https://github.com/charmbracelet/lipgloss) - Style definitions for nice terminal layouts 👄 (2 weeks ago)
 - [charmbracelet/charm](https://github.com/charmbracelet/charm) - The Charm Tool and Library 🌟 (2 weeks ago)
 - [KDE/dolphin](https://github.com/KDE/dolphin) - File manager by KDE (2 weeks ago)
