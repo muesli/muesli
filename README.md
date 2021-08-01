@@ -12,8 +12,8 @@ of other projects. Curious what I've been hacking on recently?
 
 #### 👷 Check out what I'm currently working on
 
-- [muesli/obs-cli](https://github.com/muesli/obs-cli) - OBS-cli is a command-line remote control for OBS (1 day ago)
-- [owncast/owncast](https://github.com/owncast/owncast) - Take control over your live stream video by running it yourself.  Streaming &#43; chat out of the box. (6 days ago)
+- [muesli/obs-cli](https://github.com/muesli/obs-cli) - OBS-cli is a command-line remote control for OBS (2 days ago)
+- [owncast/owncast](https://github.com/owncast/owncast) - Take control over your live stream video by running it yourself.  Streaming &#43; chat out of the box. (1 week ago)
 - [charmbracelet/lipgloss](https://github.com/charmbracelet/lipgloss) - Style definitions for nice terminal layouts 👄 (2 weeks ago)
 - [charmbracelet/charm](https://github.com/charmbracelet/charm) - The Charm Tool and Library 🌟 (2 weeks ago)
 - [KDE/dolphin](https://github.com/KDE/dolphin) - File manager by KDE (3 weeks ago)
@@ -28,7 +28,7 @@ of other projects. Curious what I've been hacking on recently?
 
 #### 🔭 Latest releases I've contributed to
 
-- [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) ([v0.174.1](https://github.com/goreleaser/goreleaser/releases/tag/v0.174.1), 5 days ago) - Deliver Go binaries as fast and easily as possible
+- [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) ([v0.174.1](https://github.com/goreleaser/goreleaser/releases/tag/v0.174.1), 6 days ago) - Deliver Go binaries as fast and easily as possible
 - [JF002/InfiniTime](https://github.com/JF002/InfiniTime) ([1.3.0](https://github.com/JF002/InfiniTime/releases/tag/1.3.0), 1 week ago) - Firmware for Pinetime smartwatch written in C/C&#43;&#43; and based on FreeRTOS
 - [muesli/termenv](https://github.com/muesli/termenv) ([v0.9.0](https://github.com/muesli/termenv/releases/tag/v0.9.0), 1 month ago) - Advanced ANSI style &amp; color support for your terminal applications
 - [muesli/deckmaster](https://github.com/muesli/deckmaster) ([v0.5.1](https://github.com/muesli/deckmaster/releases/tag/v0.5.1), 1 month ago) - An application to control your Elgato Stream Deck on Linux
@@ -36,10 +36,10 @@ of other projects. Curious what I've been hacking on recently?
 
 #### 🔨 Latest Pull Requests I published
 
-- [Add streaming status command](https://github.com/muesli/obs-cli/pull/17) on [muesli/obs-cli](https://github.com/muesli/obs-cli) (1 day ago)
-- [Add recording status command](https://github.com/muesli/obs-cli/pull/16) on [muesli/obs-cli](https://github.com/muesli/obs-cli) (2 days ago)
-- [Don&#39;t specify the linter version, as it&#39;s not required any longer](https://github.com/owncast/owncast/pull/1262) on [owncast/owncast](https://github.com/owncast/owncast) (6 days ago)
-- [Improve performance of retrieving chat history by avoiding double-sort](https://github.com/owncast/owncast/pull/1261) on [owncast/owncast](https://github.com/owncast/owncast) (6 days ago)
+- [Add streaming status command](https://github.com/muesli/obs-cli/pull/17) on [muesli/obs-cli](https://github.com/muesli/obs-cli) (2 days ago)
+- [Add recording status command](https://github.com/muesli/obs-cli/pull/16) on [muesli/obs-cli](https://github.com/muesli/obs-cli) (3 days ago)
+- [Don&#39;t specify the linter version, as it&#39;s not required any longer](https://github.com/owncast/owncast/pull/1262) on [owncast/owncast](https://github.com/owncast/owncast) (1 week ago)
+- [Improve performance of retrieving chat history by avoiding double-sort](https://github.com/owncast/owncast/pull/1261) on [owncast/owncast](https://github.com/owncast/owncast) (1 week ago)
 - [Update linter config](https://github.com/charmbracelet/lipgloss/pull/39) on [charmbracelet/lipgloss](https://github.com/charmbracelet/lipgloss) (2 weeks ago)
 
 #### 📜 My recent blog posts
