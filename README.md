@@ -14,8 +14,8 @@ of other projects. Curious what I've been hacking on recently?
 
 - [muesli/obs-cli](https://github.com/muesli/obs-cli) - OBS-cli is a command-line remote control for OBS (1 week ago)
 - [owncast/owncast](https://github.com/owncast/owncast) - Take control over your live stream video by running it yourself.  Streaming &#43; chat out of the box. (2 weeks ago)
-- [charmbracelet/lipgloss](https://github.com/charmbracelet/lipgloss) - Style definitions for nice terminal layouts 👄 (4 weeks ago)
-- [charmbracelet/charm](https://github.com/charmbracelet/charm) - The Charm Tool and Library 🌟 (4 weeks ago)
+- [charmbracelet/lipgloss](https://github.com/charmbracelet/lipgloss) - Style definitions for nice terminal layouts 👄 (1 month ago)
+- [charmbracelet/charm](https://github.com/charmbracelet/charm) - The Charm Tool and Library 🌟 (1 month ago)
 - [KDE/dolphin](https://github.com/KDE/dolphin) - File manager by KDE (1 month ago)
 
 #### 🌱 My latest projects
@@ -28,7 +28,7 @@ of other projects. Curious what I've been hacking on recently?
 
 #### 🔭 Latest releases I've contributed to
 
-- [craftamap/bb](https://github.com/craftamap/bb) ([v0.4.1](https://github.com/craftamap/bb/releases/tag/v0.4.1), 3 days ago) - inoffical Bitbucket.org command line tool
+- [craftamap/bb](https://github.com/craftamap/bb) ([v0.4.1](https://github.com/craftamap/bb/releases/tag/v0.4.1), 4 days ago) - inoffical Bitbucket.org command line tool
 - [codenotary/immudb](https://github.com/codenotary/immudb) ([v1.0.5](https://github.com/codenotary/immudb/releases/tag/v1.0.5), 1 week ago) - immudb - world’s fastest immutable database
 - [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) ([v0.174.2](https://github.com/goreleaser/goreleaser/releases/tag/v0.174.2), 1 week ago) - Deliver Go binaries as fast and easily as possible
 - [JF002/InfiniTime](https://github.com/JF002/InfiniTime) ([1.3.0](https://github.com/JF002/InfiniTime/releases/tag/1.3.0), 2 weeks ago) - Firmware for Pinetime smartwatch written in C/C&#43;&#43; and based on FreeRTOS
@@ -40,7 +40,7 @@ of other projects. Curious what I've been hacking on recently?
 - [Add recording status command](https://github.com/muesli/obs-cli/pull/16) on [muesli/obs-cli](https://github.com/muesli/obs-cli) (1 week ago)
 - [Don&#39;t specify the linter version, as it&#39;s not required any longer](https://github.com/owncast/owncast/pull/1262) on [owncast/owncast](https://github.com/owncast/owncast) (2 weeks ago)
 - [Improve performance of retrieving chat history by avoiding double-sort](https://github.com/owncast/owncast/pull/1261) on [owncast/owncast](https://github.com/owncast/owncast) (2 weeks ago)
-- [Update linter config](https://github.com/charmbracelet/lipgloss/pull/39) on [charmbracelet/lipgloss](https://github.com/charmbracelet/lipgloss) (4 weeks ago)
+- [Update linter config](https://github.com/charmbracelet/lipgloss/pull/39) on [charmbracelet/lipgloss](https://github.com/charmbracelet/lipgloss) (1 month ago)
 
 #### 📜 My recent blog posts
 
