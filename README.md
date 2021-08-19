@@ -28,7 +28,7 @@ of other projects. Curious what I've been hacking on recently?
 
 #### 🔭 Latest releases I've contributed to
 
-- [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) ([v0.175.0](https://github.com/goreleaser/goreleaser/releases/tag/v0.175.0), today) - Deliver Go binaries as fast and easily as possible
+- [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) ([v0.175.0](https://github.com/goreleaser/goreleaser/releases/tag/v0.175.0), 1 day ago) - Deliver Go binaries as fast and easily as possible
 - [owncast/owncast](https://github.com/owncast/owncast) ([v0.0.8](https://github.com/owncast/owncast/releases/tag/v0.0.8), 1 week ago) - Take control over your live stream video by running it yourself.  Streaming &#43; chat out of the box.
 - [craftamap/bb](https://github.com/craftamap/bb) ([v0.4.1](https://github.com/craftamap/bb/releases/tag/v0.4.1), 1 week ago) - inoffical Bitbucket.org command line tool
 - [codenotary/immudb](https://github.com/codenotary/immudb) ([v1.0.5](https://github.com/codenotary/immudb/releases/tag/v1.0.5), 2 weeks ago) - immudb - world’s fastest immutable database
@@ -37,7 +37,7 @@ of other projects. Curious what I've been hacking on recently?
 #### 🔨 Latest Pull Requests I published
 
 - [Add streaming status command](https://github.com/muesli/obs-cli/pull/17) on [muesli/obs-cli](https://github.com/muesli/obs-cli) (2 weeks ago)
-- [Add recording status command](https://github.com/muesli/obs-cli/pull/16) on [muesli/obs-cli](https://github.com/muesli/obs-cli) (2 weeks ago)
+- [Add recording status command](https://github.com/muesli/obs-cli/pull/16) on [muesli/obs-cli](https://github.com/muesli/obs-cli) (3 weeks ago)
 - [Don&#39;t specify the linter version, as it&#39;s not required any longer](https://github.com/owncast/owncast/pull/1262) on [owncast/owncast](https://github.com/owncast/owncast) (3 weeks ago)
 - [Improve performance of retrieving chat history by avoiding double-sort](https://github.com/owncast/owncast/pull/1261) on [owncast/owncast](https://github.com/owncast/owncast) (3 weeks ago)
 - [Update linter config](https://github.com/charmbracelet/lipgloss/pull/39) on [charmbracelet/lipgloss](https://github.com/charmbracelet/lipgloss) (1 month ago)
