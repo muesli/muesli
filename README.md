@@ -12,7 +12,7 @@ of other projects. Curious what I've been hacking on recently?
 
 #### 👷 Check out what I'm currently working on
 
-- [golang/glog](https://github.com/golang/glog) - Leveled execution logs for Go (today)
+- [golang/glog](https://github.com/golang/glog) - Leveled execution logs for Go (1 day ago)
 - [muesli/obs-cli](https://github.com/muesli/obs-cli) - OBS-cli is a command-line remote control for OBS (3 weeks ago)
 - [owncast/owncast](https://github.com/owncast/owncast) - Take control over your live stream video by running it yourself.  Streaming &#43; chat out of the box. (3 weeks ago)
 - [KDE/dolphin](https://github.com/KDE/dolphin) - File manager by KDE (1 month ago)
@@ -28,10 +28,10 @@ of other projects. Curious what I've been hacking on recently?
 
 #### 🔭 Latest releases I've contributed to
 
-- [golang/glog](https://github.com/golang/glog) ([v1.0.0](https://github.com/golang/glog/releases/tag/v1.0.0), today) - Leveled execution logs for Go
-- [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) ([v0.175.0](https://github.com/goreleaser/goreleaser/releases/tag/v0.175.0), 2 days ago) - Deliver Go binaries as fast and easily as possible
+- [golang/glog](https://github.com/golang/glog) ([v1.0.0](https://github.com/golang/glog/releases/tag/v1.0.0), 1 day ago) - Leveled execution logs for Go
+- [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) ([v0.175.0](https://github.com/goreleaser/goreleaser/releases/tag/v0.175.0), 3 days ago) - Deliver Go binaries as fast and easily as possible
 - [owncast/owncast](https://github.com/owncast/owncast) ([v0.0.8](https://github.com/owncast/owncast/releases/tag/v0.0.8), 1 week ago) - Take control over your live stream video by running it yourself.  Streaming &#43; chat out of the box.
-- [craftamap/bb](https://github.com/craftamap/bb) ([v0.4.1](https://github.com/craftamap/bb/releases/tag/v0.4.1), 1 week ago) - inoffical Bitbucket.org command line tool
+- [craftamap/bb](https://github.com/craftamap/bb) ([v0.4.1](https://github.com/craftamap/bb/releases/tag/v0.4.1), 2 weeks ago) - inoffical Bitbucket.org command line tool
 - [codenotary/immudb](https://github.com/codenotary/immudb) ([v1.0.5](https://github.com/codenotary/immudb/releases/tag/v1.0.5), 2 weeks ago) - immudb - world’s fastest immutable database
 
 #### 🔨 Latest Pull Requests I published
