@@ -36,11 +36,11 @@ of other projects. Curious what I've been hacking on recently?
 
 #### 🔨 Latest Pull Requests I published
 
+- [Add simple helper package for making user-definable keymappings and help bubble](https://github.com/charmbracelet/bubbles/pull/60) on [charmbracelet/bubbles](https://github.com/charmbracelet/bubbles) (today)
 - [Add streaming status command](https://github.com/muesli/obs-cli/pull/17) on [muesli/obs-cli](https://github.com/muesli/obs-cli) (3 weeks ago)
 - [Add recording status command](https://github.com/muesli/obs-cli/pull/16) on [muesli/obs-cli](https://github.com/muesli/obs-cli) (3 weeks ago)
 - [Don&#39;t specify the linter version, as it&#39;s not required any longer](https://github.com/owncast/owncast/pull/1262) on [owncast/owncast](https://github.com/owncast/owncast) (4 weeks ago)
 - [Improve performance of retrieving chat history by avoiding double-sort](https://github.com/owncast/owncast/pull/1261) on [owncast/owncast](https://github.com/owncast/owncast) (4 weeks ago)
-- [Update linter config](https://github.com/charmbracelet/lipgloss/pull/39) on [charmbracelet/lipgloss](https://github.com/charmbracelet/lipgloss) (1 month ago)
 
 #### 📜 My recent blog posts
 
