@@ -12,11 +12,11 @@ of other projects. Curious what I've been hacking on recently?
 
 #### 👷 Check out what I'm currently working on
 
+- [charmbracelet/bubbles](https://github.com/charmbracelet/bubbles) - TUI components for Bubble Tea 🍡 (today)
 - [golang/glog](https://github.com/golang/glog) - Leveled execution logs for Go (3 days ago)
 - [muesli/obs-cli](https://github.com/muesli/obs-cli) - OBS-cli is a command-line remote control for OBS (3 weeks ago)
 - [owncast/owncast](https://github.com/owncast/owncast) - Take control over your live stream video by running it yourself.  Streaming &#43; chat out of the box. (4 weeks ago)
 - [KDE/dolphin](https://github.com/KDE/dolphin) - File manager by KDE (1 month ago)
-- [charmbracelet/lipgloss](https://github.com/charmbracelet/lipgloss) - Style definitions for nice terminal layouts 👄 (1 month ago)
 
 #### 🌱 My latest projects
 
@@ -36,11 +36,11 @@ of other projects. Curious what I've been hacking on recently?
 
 #### 🔨 Latest Pull Requests I published
 
+- [Add list examples](https://github.com/charmbracelet/bubbletea/pull/124) on [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) (today)
+- [Add help bubble example](https://github.com/charmbracelet/bubbletea/pull/123) on [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) (today)
+- [Bump bubbletea, lipgloss, reflow, termenv deps](https://github.com/charmbracelet/bubbles/pull/62) on [charmbracelet/bubbles](https://github.com/charmbracelet/bubbles) (today)
 - [Add list bubble](https://github.com/charmbracelet/bubbles/pull/61) on [charmbracelet/bubbles](https://github.com/charmbracelet/bubbles) (today)
 - [Add simple helper package for making user-definable keymappings and help bubble](https://github.com/charmbracelet/bubbles/pull/60) on [charmbracelet/bubbles](https://github.com/charmbracelet/bubbles) (today)
-- [Add streaming status command](https://github.com/muesli/obs-cli/pull/17) on [muesli/obs-cli](https://github.com/muesli/obs-cli) (3 weeks ago)
-- [Add recording status command](https://github.com/muesli/obs-cli/pull/16) on [muesli/obs-cli](https://github.com/muesli/obs-cli) (3 weeks ago)
-- [Don&#39;t specify the linter version, as it&#39;s not required any longer](https://github.com/owncast/owncast/pull/1262) on [owncast/owncast](https://github.com/owncast/owncast) (4 weeks ago)
 
 #### 📜 My recent blog posts
 
