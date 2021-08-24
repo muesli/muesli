@@ -12,11 +12,11 @@ of other projects. Curious what I've been hacking on recently?
 
 #### 👷 Check out what I'm currently working on
 
-- [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) - A powerful little TUI framework 🏗 (today)
-- [charmbracelet/bubbles](https://github.com/charmbracelet/bubbles) - TUI components for Bubble Tea 🍡 (today)
-- [golang/glog](https://github.com/golang/glog) - Leveled execution logs for Go (3 days ago)
+- [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) - A powerful little TUI framework 🏗 (1 day ago)
+- [charmbracelet/bubbles](https://github.com/charmbracelet/bubbles) - TUI components for Bubble Tea 🍡 (1 day ago)
+- [golang/glog](https://github.com/golang/glog) - Leveled execution logs for Go (4 days ago)
 - [muesli/obs-cli](https://github.com/muesli/obs-cli) - OBS-cli is a command-line remote control for OBS (3 weeks ago)
-- [owncast/owncast](https://github.com/owncast/owncast) - Take control over your live stream video by running it yourself.  Streaming &#43; chat out of the box. (4 weeks ago)
+- [owncast/owncast](https://github.com/owncast/owncast) - Take control over your live stream video by running it yourself.  Streaming &#43; chat out of the box. (1 month ago)
 
 #### 🌱 My latest projects
 
@@ -28,19 +28,19 @@ of other projects. Curious what I've been hacking on recently?
 
 #### 🔭 Latest releases I've contributed to
 
-- [golang/glog](https://github.com/golang/glog) ([v1.0.0](https://github.com/golang/glog/releases/tag/v1.0.0), 3 days ago) - Leveled execution logs for Go
-- [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) ([v0.175.0](https://github.com/goreleaser/goreleaser/releases/tag/v0.175.0), 5 days ago) - Deliver Go binaries as fast and easily as possible
+- [golang/glog](https://github.com/golang/glog) ([v1.0.0](https://github.com/golang/glog/releases/tag/v1.0.0), 4 days ago) - Leveled execution logs for Go
+- [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) ([v0.175.0](https://github.com/goreleaser/goreleaser/releases/tag/v0.175.0), 6 days ago) - Deliver Go binaries as fast and easily as possible
 - [owncast/owncast](https://github.com/owncast/owncast) ([v0.0.8](https://github.com/owncast/owncast/releases/tag/v0.0.8), 1 week ago) - Take control over your live stream video by running it yourself.  Streaming &#43; chat out of the box.
 - [craftamap/bb](https://github.com/craftamap/bb) ([v0.4.1](https://github.com/craftamap/bb/releases/tag/v0.4.1), 2 weeks ago) - inoffical Bitbucket.org command line tool
 - [codenotary/immudb](https://github.com/codenotary/immudb) ([v1.0.5](https://github.com/codenotary/immudb/releases/tag/v1.0.5), 3 weeks ago) - immudb - world’s fastest immutable database
 
 #### 🔨 Latest Pull Requests I published
 
-- [Add list examples](https://github.com/charmbracelet/bubbletea/pull/124) on [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) (today)
-- [Add help bubble example](https://github.com/charmbracelet/bubbletea/pull/123) on [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) (today)
-- [Bump bubbletea, lipgloss, reflow, termenv deps](https://github.com/charmbracelet/bubbles/pull/62) on [charmbracelet/bubbles](https://github.com/charmbracelet/bubbles) (today)
-- [Add list bubble](https://github.com/charmbracelet/bubbles/pull/61) on [charmbracelet/bubbles](https://github.com/charmbracelet/bubbles) (today)
-- [Add simple helper package for making user-definable keymappings and help bubble](https://github.com/charmbracelet/bubbles/pull/60) on [charmbracelet/bubbles](https://github.com/charmbracelet/bubbles) (today)
+- [Add list examples](https://github.com/charmbracelet/bubbletea/pull/124) on [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) (1 day ago)
+- [Add help bubble example](https://github.com/charmbracelet/bubbletea/pull/123) on [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) (1 day ago)
+- [Bump bubbletea, lipgloss, reflow, termenv deps](https://github.com/charmbracelet/bubbles/pull/62) on [charmbracelet/bubbles](https://github.com/charmbracelet/bubbles) (1 day ago)
+- [Add list bubble](https://github.com/charmbracelet/bubbles/pull/61) on [charmbracelet/bubbles](https://github.com/charmbracelet/bubbles) (1 day ago)
+- [Add simple helper package for making user-definable keymappings and help bubble](https://github.com/charmbracelet/bubbles/pull/60) on [charmbracelet/bubbles](https://github.com/charmbracelet/bubbles) (1 day ago)
 
 #### 📜 My recent blog posts
 
