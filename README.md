@@ -28,8 +28,8 @@ of other projects. Curious what I've been hacking on recently?
 
 #### 🔭 Latest releases I've contributed to
 
+- [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) ([v0.176.0](https://github.com/goreleaser/goreleaser/releases/tag/v0.176.0), today) - Deliver Go binaries as fast and easily as possible
 - [golang/glog](https://github.com/golang/glog) ([v1.0.0](https://github.com/golang/glog/releases/tag/v1.0.0), 5 days ago) - Leveled execution logs for Go
-- [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) ([v0.175.0](https://github.com/goreleaser/goreleaser/releases/tag/v0.175.0), 1 week ago) - Deliver Go binaries as fast and easily as possible
 - [owncast/owncast](https://github.com/owncast/owncast) ([v0.0.8](https://github.com/owncast/owncast/releases/tag/v0.0.8), 2 weeks ago) - Take control over your live stream video by running it yourself.  Streaming &#43; chat out of the box.
 - [craftamap/bb](https://github.com/craftamap/bb) ([v0.4.1](https://github.com/craftamap/bb/releases/tag/v0.4.1), 2 weeks ago) - inoffical Bitbucket.org command line tool
 - [codenotary/immudb](https://github.com/codenotary/immudb) ([v1.0.5](https://github.com/codenotary/immudb/releases/tag/v1.0.5), 3 weeks ago) - immudb - world’s fastest immutable database
