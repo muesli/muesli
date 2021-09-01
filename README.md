@@ -28,11 +28,11 @@ of other projects. Curious what I've been hacking on recently?
 
 #### 🔭 Latest releases I've contributed to
 
-- [craftamap/bb](https://github.com/craftamap/bb) ([v0.5.0](https://github.com/craftamap/bb/releases/tag/v0.5.0), today) - inoffical Bitbucket.org command line tool
-- [andreykaipov/goobs](https://github.com/andreykaipov/goobs) ([v0.7.1](https://github.com/andreykaipov/goobs/releases/tag/v0.7.1), 2 days ago) - Go client for an OBS WebSockets server
-- [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) ([v0.176.0](https://github.com/goreleaser/goreleaser/releases/tag/v0.176.0), 6 days ago) - Deliver Go binaries as fast and easily as possible
+- [craftamap/bb](https://github.com/craftamap/bb) ([v0.5.0](https://github.com/craftamap/bb/releases/tag/v0.5.0), 1 day ago) - inoffical Bitbucket.org command line tool
+- [andreykaipov/goobs](https://github.com/andreykaipov/goobs) ([v0.7.1](https://github.com/andreykaipov/goobs/releases/tag/v0.7.1), 3 days ago) - Go client for an OBS WebSockets server
+- [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) ([v0.176.0](https://github.com/goreleaser/goreleaser/releases/tag/v0.176.0), 1 week ago) - Deliver Go binaries as fast and easily as possible
 - [golang/glog](https://github.com/golang/glog) ([v1.0.0](https://github.com/golang/glog/releases/tag/v1.0.0), 1 week ago) - Leveled execution logs for Go
-- [owncast/owncast](https://github.com/owncast/owncast) ([v0.0.8](https://github.com/owncast/owncast/releases/tag/v0.0.8), 2 weeks ago) - Take control over your live stream video by running it yourself.  Streaming &#43; chat out of the box.
+- [owncast/owncast](https://github.com/owncast/owncast) ([v0.0.8](https://github.com/owncast/owncast/releases/tag/v0.0.8), 3 weeks ago) - Take control over your live stream video by running it yourself.  Streaming &#43; chat out of the box.
 
 #### 🔨 Latest Pull Requests I published
 
