@@ -13,14 +13,14 @@ of other projects. Curious what I've been hacking on recently?
 #### 👷 Check out what I'm currently working on
 
 - [muesli/homebrew-tap](https://github.com/muesli/homebrew-tap) - muesli&#39;s Homebrew tap (today)
-- [muesli/gulp](https://github.com/muesli/gulp) - gulp? A smart little CLI helper for git projects (today)
+- [muesli/gitty](https://github.com/muesli/gitty) - A smart little CLI helper for git projects (today)
 - [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) - A powerful little TUI framework 🏗 (1 week ago)
 - [charmbracelet/bubbles](https://github.com/charmbracelet/bubbles) - TUI components for Bubble Tea 🍡 (1 week ago)
 - [golang/glog](https://github.com/golang/glog) - Leveled execution logs for Go (1 week ago)
 
 #### 🌱 My latest projects
 
-- [muesli/gulp](https://github.com/muesli/gulp) - gulp? A smart little CLI helper for git projects
+- [muesli/gitty](https://github.com/muesli/gitty) - A smart little CLI helper for git projects
 - [muesli/code-server](https://github.com/muesli/code-server) - My code-server Docker image
 - [muesli/deckmaster-emojis](https://github.com/muesli/deckmaster-emojis) - A deck of emojis for Deckmaster
 - [muesli/prism](https://github.com/muesli/prism) - An RTMP stream recaster / splitter
@@ -28,7 +28,7 @@ of other projects. Curious what I've been hacking on recently?
 
 #### 🔭 Latest releases I've contributed to
 
-- [muesli/gulp](https://github.com/muesli/gulp) ([v0.1.0](https://github.com/muesli/gulp/releases/tag/v0.1.0), today) - gulp? A smart little CLI helper for git projects
+- [muesli/gitty](https://github.com/muesli/gitty) ([v0.1.0](https://github.com/muesli/gitty/releases/tag/v0.1.0), today) - A smart little CLI helper for git projects
 - [craftamap/bb](https://github.com/craftamap/bb) ([v0.5.0](https://github.com/craftamap/bb/releases/tag/v0.5.0), 2 days ago) - inoffical Bitbucket.org command line tool
 - [andreykaipov/goobs](https://github.com/andreykaipov/goobs) ([v0.7.1](https://github.com/andreykaipov/goobs/releases/tag/v0.7.1), 4 days ago) - Go client for an OBS WebSockets server
 - [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) ([v0.176.0](https://github.com/goreleaser/goreleaser/releases/tag/v0.176.0), 1 week ago) - Deliver Go binaries as fast and easily as possible
