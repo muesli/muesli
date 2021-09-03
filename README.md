@@ -36,11 +36,11 @@ of other projects. Curious what I've been hacking on recently?
 
 #### 🔨 Latest Pull Requests I published
 
+- [Document required token permissions in README](https://github.com/muesli/gitty/pull/5) on [muesli/gitty](https://github.com/muesli/gitty) (today)
 - [Show extra metadata for commits since last release](https://github.com/muesli/gitty/pull/4) on [muesli/gitty](https://github.com/muesli/gitty) (today)
 - [Show active branches](https://github.com/muesli/gitty/pull/3) on [muesli/gitty](https://github.com/muesli/gitty) (today)
 - [Add list examples](https://github.com/charmbracelet/bubbletea/pull/124) on [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) (1 week ago)
 - [Add help bubble example](https://github.com/charmbracelet/bubbletea/pull/123) on [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) (1 week ago)
-- [Bump bubbletea, lipgloss, reflow, termenv deps](https://github.com/charmbracelet/bubbles/pull/62) on [charmbracelet/bubbles](https://github.com/charmbracelet/bubbles) (1 week ago)
 
 #### 📜 My recent blog posts
 
