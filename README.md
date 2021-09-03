@@ -12,8 +12,8 @@ of other projects. Curious what I've been hacking on recently?
 
 #### 👷 Check out what I'm currently working on
 
+- [muesli/homebrew-tap](https://github.com/muesli/homebrew-tap) - muesli&#39;s Homebrew tap (today)
 - [muesli/gitty](https://github.com/muesli/gitty) - Contextual information about your git projects, right on the command-line (today)
-- [muesli/homebrew-tap](https://github.com/muesli/homebrew-tap) - muesli&#39;s Homebrew tap (1 day ago)
 - [charmbracelet/bubbles](https://github.com/charmbracelet/bubbles) - TUI components for Bubble Tea 🍡 (1 week ago)
 - [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) - A powerful little TUI framework 🏗 (1 week ago)
 - [golang/glog](https://github.com/golang/glog) - Leveled execution logs for Go (2 weeks ago)
@@ -28,19 +28,19 @@ of other projects. Curious what I've been hacking on recently?
 
 #### 🔭 Latest releases I've contributed to
 
+- [muesli/gitty](https://github.com/muesli/gitty) ([v0.2.0](https://github.com/muesli/gitty/releases/tag/v0.2.0), today) - Contextual information about your git projects, right on the command-line
+- [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) ([v0.177.0](https://github.com/goreleaser/goreleaser/releases/tag/v0.177.0), today) - Deliver Go binaries as fast and easily as possible
 - [JF002/InfiniTime](https://github.com/JF002/InfiniTime) ([1.4.0](https://github.com/JF002/InfiniTime/releases/tag/1.4.0), 1 day ago) - Firmware for Pinetime smartwatch written in C/C&#43;&#43; and based on FreeRTOS
-- [muesli/gitty](https://github.com/muesli/gitty) ([v0.1.1](https://github.com/muesli/gitty/releases/tag/v0.1.1), 1 day ago) - Contextual information about your git projects, right on the command-line
 - [craftamap/bb](https://github.com/craftamap/bb) ([v0.5.0](https://github.com/craftamap/bb/releases/tag/v0.5.0), 3 days ago) - inoffical Bitbucket.org command line tool
 - [andreykaipov/goobs](https://github.com/andreykaipov/goobs) ([v0.7.1](https://github.com/andreykaipov/goobs/releases/tag/v0.7.1), 5 days ago) - Go client for an OBS WebSockets server
-- [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) ([v0.176.0](https://github.com/goreleaser/goreleaser/releases/tag/v0.176.0), 1 week ago) - Deliver Go binaries as fast and easily as possible
 
 #### 🔨 Latest Pull Requests I published
 
+- [Show extra metadata for commits since last release](https://github.com/muesli/gitty/pull/4) on [muesli/gitty](https://github.com/muesli/gitty) (today)
 - [Show active branches](https://github.com/muesli/gitty/pull/3) on [muesli/gitty](https://github.com/muesli/gitty) (today)
 - [Add list examples](https://github.com/charmbracelet/bubbletea/pull/124) on [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) (1 week ago)
 - [Add help bubble example](https://github.com/charmbracelet/bubbletea/pull/123) on [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) (1 week ago)
 - [Bump bubbletea, lipgloss, reflow, termenv deps](https://github.com/charmbracelet/bubbles/pull/62) on [charmbracelet/bubbles](https://github.com/charmbracelet/bubbles) (1 week ago)
-- [Add list bubble](https://github.com/charmbracelet/bubbles/pull/61) on [charmbracelet/bubbles](https://github.com/charmbracelet/bubbles) (1 week ago)
 
 #### 📜 My recent blog posts
 
