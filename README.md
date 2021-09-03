@@ -28,11 +28,11 @@ of other projects. Curious what I've been hacking on recently?
 
 #### 🔭 Latest releases I've contributed to
 
+- [charmbracelet/lipgloss](https://github.com/charmbracelet/lipgloss) ([v0.4.0](https://github.com/charmbracelet/lipgloss/releases/tag/v0.4.0), today) - Style definitions for nice terminal layouts 👄
 - [muesli/gitty](https://github.com/muesli/gitty) ([v0.2.0](https://github.com/muesli/gitty/releases/tag/v0.2.0), today) - Contextual information about your git projects, right on the command-line
 - [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) ([v0.177.0](https://github.com/goreleaser/goreleaser/releases/tag/v0.177.0), today) - Deliver Go binaries as fast and easily as possible
 - [JF002/InfiniTime](https://github.com/JF002/InfiniTime) ([1.4.0](https://github.com/JF002/InfiniTime/releases/tag/1.4.0), 1 day ago) - Firmware for Pinetime smartwatch written in C/C&#43;&#43; and based on FreeRTOS
 - [craftamap/bb](https://github.com/craftamap/bb) ([v0.5.0](https://github.com/craftamap/bb/releases/tag/v0.5.0), 3 days ago) - inoffical Bitbucket.org command line tool
-- [andreykaipov/goobs](https://github.com/andreykaipov/goobs) ([v0.7.1](https://github.com/andreykaipov/goobs/releases/tag/v0.7.1), 5 days ago) - Go client for an OBS WebSockets server
 
 #### 🔨 Latest Pull Requests I published
 
