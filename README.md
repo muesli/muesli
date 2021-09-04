@@ -12,8 +12,8 @@ of other projects. Curious what I've been hacking on recently?
 
 #### 👷 Check out what I'm currently working on
 
-- [muesli/homebrew-tap](https://github.com/muesli/homebrew-tap) - muesli&#39;s Homebrew tap (today)
 - [muesli/gitty](https://github.com/muesli/gitty) - Contextual information about your git projects, right on the command-line (today)
+- [muesli/homebrew-tap](https://github.com/muesli/homebrew-tap) - muesli&#39;s Homebrew tap (today)
 - [charmbracelet/bubbles](https://github.com/charmbracelet/bubbles) - TUI components for Bubble Tea 🍡 (1 week ago)
 - [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) - A powerful little TUI framework 🏗 (1 week ago)
 - [golang/glog](https://github.com/golang/glog) - Leveled execution logs for Go (2 weeks ago)
