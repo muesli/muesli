@@ -12,8 +12,8 @@ of other projects. Curious what I've been hacking on recently?
 
 #### 👷 Check out what I'm currently working on
 
-- [muesli/homebrew-tap](https://github.com/muesli/homebrew-tap) - muesli&#39;s Homebrew tap (today)
-- [muesli/gitty](https://github.com/muesli/gitty) - Contextual information about your git projects, right on the command-line (today)
+- [muesli/homebrew-tap](https://github.com/muesli/homebrew-tap) - muesli&#39;s Homebrew tap (1 day ago)
+- [muesli/gitty](https://github.com/muesli/gitty) - Contextual information about your git projects, right on the command-line (1 day ago)
 - [charmbracelet/bubbles](https://github.com/charmbracelet/bubbles) - TUI components for Bubble Tea 🍡 (1 week ago)
 - [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) - A powerful little TUI framework 🏗 (1 week ago)
 - [golang/glog](https://github.com/golang/glog) - Leveled execution logs for Go (2 weeks ago)
@@ -28,17 +28,17 @@ of other projects. Curious what I've been hacking on recently?
 
 #### 🔭 Latest releases I've contributed to
 
-- [charmbracelet/lipgloss](https://github.com/charmbracelet/lipgloss) ([v0.4.0](https://github.com/charmbracelet/lipgloss/releases/tag/v0.4.0), today) - Style definitions for nice terminal layouts 👄
-- [muesli/gitty](https://github.com/muesli/gitty) ([v0.2.0](https://github.com/muesli/gitty/releases/tag/v0.2.0), today) - Contextual information about your git projects, right on the command-line
-- [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) ([v0.177.0](https://github.com/goreleaser/goreleaser/releases/tag/v0.177.0), today) - Deliver Go binaries as fast and easily as possible
-- [JF002/InfiniTime](https://github.com/JF002/InfiniTime) ([1.4.0](https://github.com/JF002/InfiniTime/releases/tag/1.4.0), 1 day ago) - Firmware for Pinetime smartwatch written in C/C&#43;&#43; and based on FreeRTOS
-- [craftamap/bb](https://github.com/craftamap/bb) ([v0.5.0](https://github.com/craftamap/bb/releases/tag/v0.5.0), 3 days ago) - inoffical Bitbucket.org command line tool
+- [charmbracelet/lipgloss](https://github.com/charmbracelet/lipgloss) ([v0.4.0](https://github.com/charmbracelet/lipgloss/releases/tag/v0.4.0), 1 day ago) - Style definitions for nice terminal layouts 👄
+- [muesli/gitty](https://github.com/muesli/gitty) ([v0.2.0](https://github.com/muesli/gitty/releases/tag/v0.2.0), 1 day ago) - Contextual information about your git projects, right on the command-line
+- [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) ([v0.177.0](https://github.com/goreleaser/goreleaser/releases/tag/v0.177.0), 1 day ago) - Deliver Go binaries as fast and easily as possible
+- [JF002/InfiniTime](https://github.com/JF002/InfiniTime) ([1.4.0](https://github.com/JF002/InfiniTime/releases/tag/1.4.0), 2 days ago) - Firmware for Pinetime smartwatch written in C/C&#43;&#43; and based on FreeRTOS
+- [craftamap/bb](https://github.com/craftamap/bb) ([v0.5.0](https://github.com/craftamap/bb/releases/tag/v0.5.0), 4 days ago) - inoffical Bitbucket.org command line tool
 
 #### 🔨 Latest Pull Requests I published
 
-- [Document required token permissions in README](https://github.com/muesli/gitty/pull/5) on [muesli/gitty](https://github.com/muesli/gitty) (today)
-- [Show extra metadata for commits since last release](https://github.com/muesli/gitty/pull/4) on [muesli/gitty](https://github.com/muesli/gitty) (today)
-- [Show active branches](https://github.com/muesli/gitty/pull/3) on [muesli/gitty](https://github.com/muesli/gitty) (today)
+- [Document required token permissions in README](https://github.com/muesli/gitty/pull/5) on [muesli/gitty](https://github.com/muesli/gitty) (1 day ago)
+- [Show extra metadata for commits since last release](https://github.com/muesli/gitty/pull/4) on [muesli/gitty](https://github.com/muesli/gitty) (1 day ago)
+- [Show active branches](https://github.com/muesli/gitty/pull/3) on [muesli/gitty](https://github.com/muesli/gitty) (1 day ago)
 - [Add list examples](https://github.com/charmbracelet/bubbletea/pull/124) on [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) (1 week ago)
 - [Add help bubble example](https://github.com/charmbracelet/bubbletea/pull/123) on [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) (1 week ago)
 
