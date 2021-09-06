@@ -36,11 +36,11 @@ of other projects. Curious what I've been hacking on recently?
 
 #### 🔨 Latest Pull Requests I published
 
+- [Dry up label printing](https://github.com/muesli/gitty/pull/10) on [muesli/gitty](https://github.com/muesli/gitty) (today)
 - [Add version flag](https://github.com/muesli/gitty/pull/9) on [muesli/gitty](https://github.com/muesli/gitty) (1 day ago)
 - [Document required token permissions in README](https://github.com/muesli/gitty/pull/5) on [muesli/gitty](https://github.com/muesli/gitty) (3 days ago)
 - [Show extra metadata for commits since last release](https://github.com/muesli/gitty/pull/4) on [muesli/gitty](https://github.com/muesli/gitty) (3 days ago)
 - [Show active branches](https://github.com/muesli/gitty/pull/3) on [muesli/gitty](https://github.com/muesli/gitty) (3 days ago)
-- [Add list examples](https://github.com/charmbracelet/bubbletea/pull/124) on [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) (2 weeks ago)
 
 #### 📜 My recent blog posts
 
