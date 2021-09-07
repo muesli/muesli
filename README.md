@@ -12,9 +12,9 @@ of other projects. Curious what I've been hacking on recently?
 
 #### 👷 Check out what I'm currently working on
 
-- [muesli/homebrew-tap](https://github.com/muesli/homebrew-tap) - muesli&#39;s Homebrew tap (today)
-- [muesli/gitty](https://github.com/muesli/gitty) - Contextual information about your git projects, right on the command-line (today)
-- [charmbracelet/glamour](https://github.com/charmbracelet/glamour) - Stylesheet-based markdown rendering for your CLI apps 💇🏻‍♀️ (today)
+- [muesli/homebrew-tap](https://github.com/muesli/homebrew-tap) - muesli&#39;s Homebrew tap (1 day ago)
+- [muesli/gitty](https://github.com/muesli/gitty) - Contextual information about your git projects, right on the command-line (1 day ago)
+- [charmbracelet/glamour](https://github.com/charmbracelet/glamour) - Stylesheet-based markdown rendering for your CLI apps 💇🏻‍♀️ (1 day ago)
 - [charmbracelet/bubbles](https://github.com/charmbracelet/bubbles) - TUI components for Bubble Tea 🍡 (2 weeks ago)
 - [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) - A powerful little TUI framework 🏗 (2 weeks ago)
 
@@ -28,19 +28,19 @@ of other projects. Curious what I've been hacking on recently?
 
 #### 🔭 Latest releases I've contributed to
 
-- [muesli/gitty](https://github.com/muesli/gitty) ([v0.3.0](https://github.com/muesli/gitty/releases/tag/v0.3.0), today) - Contextual information about your git projects, right on the command-line
-- [charmbracelet/lipgloss](https://github.com/charmbracelet/lipgloss) ([v0.4.0](https://github.com/charmbracelet/lipgloss/releases/tag/v0.4.0), 3 days ago) - Style definitions for nice terminal layouts 👄
-- [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) ([v0.177.0](https://github.com/goreleaser/goreleaser/releases/tag/v0.177.0), 3 days ago) - Deliver Go binaries as fast and easily as possible
-- [JF002/InfiniTime](https://github.com/JF002/InfiniTime) ([1.4.0](https://github.com/JF002/InfiniTime/releases/tag/1.4.0), 4 days ago) - Firmware for Pinetime smartwatch written in C/C&#43;&#43; and based on FreeRTOS
-- [craftamap/bb](https://github.com/craftamap/bb) ([v0.5.0](https://github.com/craftamap/bb/releases/tag/v0.5.0), 6 days ago) - inoffical Bitbucket.org command line tool
+- [muesli/gitty](https://github.com/muesli/gitty) ([v0.3.0](https://github.com/muesli/gitty/releases/tag/v0.3.0), 1 day ago) - Contextual information about your git projects, right on the command-line
+- [charmbracelet/lipgloss](https://github.com/charmbracelet/lipgloss) ([v0.4.0](https://github.com/charmbracelet/lipgloss/releases/tag/v0.4.0), 4 days ago) - Style definitions for nice terminal layouts 👄
+- [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) ([v0.177.0](https://github.com/goreleaser/goreleaser/releases/tag/v0.177.0), 4 days ago) - Deliver Go binaries as fast and easily as possible
+- [JF002/InfiniTime](https://github.com/JF002/InfiniTime) ([1.4.0](https://github.com/JF002/InfiniTime/releases/tag/1.4.0), 5 days ago) - Firmware for Pinetime smartwatch written in C/C&#43;&#43; and based on FreeRTOS
+- [craftamap/bb](https://github.com/craftamap/bb) ([v0.5.0](https://github.com/craftamap/bb/releases/tag/v0.5.0), 1 week ago) - inoffical Bitbucket.org command line tool
 
 #### 🔨 Latest Pull Requests I published
 
-- [Truncate strings with an ellipsis](https://github.com/muesli/gitty/pull/11) on [muesli/gitty](https://github.com/muesli/gitty) (today)
-- [Bump termenv, chroma, bluemonday, goldmark deps](https://github.com/charmbracelet/glamour/pull/120) on [charmbracelet/glamour](https://github.com/charmbracelet/glamour) (today)
-- [Dry up label printing](https://github.com/muesli/gitty/pull/10) on [muesli/gitty](https://github.com/muesli/gitty) (today)
-- [Add version flag](https://github.com/muesli/gitty/pull/9) on [muesli/gitty](https://github.com/muesli/gitty) (1 day ago)
-- [Document required token permissions in README](https://github.com/muesli/gitty/pull/5) on [muesli/gitty](https://github.com/muesli/gitty) (3 days ago)
+- [Truncate strings with an ellipsis](https://github.com/muesli/gitty/pull/11) on [muesli/gitty](https://github.com/muesli/gitty) (1 day ago)
+- [Bump termenv, chroma, bluemonday, goldmark deps](https://github.com/charmbracelet/glamour/pull/120) on [charmbracelet/glamour](https://github.com/charmbracelet/glamour) (1 day ago)
+- [Dry up label printing](https://github.com/muesli/gitty/pull/10) on [muesli/gitty](https://github.com/muesli/gitty) (1 day ago)
+- [Add version flag](https://github.com/muesli/gitty/pull/9) on [muesli/gitty](https://github.com/muesli/gitty) (2 days ago)
+- [Document required token permissions in README](https://github.com/muesli/gitty/pull/5) on [muesli/gitty](https://github.com/muesli/gitty) (4 days ago)
 
 #### 📜 My recent blog posts
 
