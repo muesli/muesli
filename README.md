@@ -28,11 +28,11 @@ of other projects. Curious what I've been hacking on recently?
 
 #### 🔭 Latest releases I've contributed to
 
+- [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) ([v0.178.0](https://github.com/goreleaser/goreleaser/releases/tag/v0.178.0), today) - Deliver Go binaries as fast and easily as possible
 - [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) ([v0.15.0](https://github.com/charmbracelet/bubbletea/releases/tag/v0.15.0), 1 day ago) - A powerful little TUI framework 🏗
 - [charmbracelet/bubbles](https://github.com/charmbracelet/bubbles) ([v0.9.0](https://github.com/charmbracelet/bubbles/releases/tag/v0.9.0), 1 day ago) - TUI components for Bubble Tea 🍡
 - [muesli/gitty](https://github.com/muesli/gitty) ([v0.3.0](https://github.com/muesli/gitty/releases/tag/v0.3.0), 3 days ago) - Contextual information about your git projects, right on the command-line
 - [charmbracelet/lipgloss](https://github.com/charmbracelet/lipgloss) ([v0.4.0](https://github.com/charmbracelet/lipgloss/releases/tag/v0.4.0), 6 days ago) - Style definitions for nice terminal layouts 👄
-- [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) ([v0.177.0](https://github.com/goreleaser/goreleaser/releases/tag/v0.177.0), 6 days ago) - Deliver Go binaries as fast and easily as possible
 
 #### 🔨 Latest Pull Requests I published
 
