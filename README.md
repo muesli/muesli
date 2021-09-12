@@ -12,10 +12,10 @@ of other projects. Curious what I've been hacking on recently?
 
 #### 👷 Check out what I'm currently working on
 
-- [muesli/gamut](https://github.com/muesli/gamut) - Go package to generate and manage color palettes &amp; schemes 🎨 (4 days ago)
-- [muesli/gitty](https://github.com/muesli/gitty) - Contextual information about your git projects, right on the command-line (5 days ago)
-- [muesli/homebrew-tap](https://github.com/muesli/homebrew-tap) - muesli&#39;s Homebrew tap (5 days ago)
-- [charmbracelet/glamour](https://github.com/charmbracelet/glamour) - Stylesheet-based markdown rendering for your CLI apps 💇🏻‍♀️ (5 days ago)
+- [muesli/gamut](https://github.com/muesli/gamut) - Go package to generate and manage color palettes &amp; schemes 🎨 (5 days ago)
+- [muesli/gitty](https://github.com/muesli/gitty) - Contextual information about your git projects, right on the command-line (6 days ago)
+- [muesli/homebrew-tap](https://github.com/muesli/homebrew-tap) - muesli&#39;s Homebrew tap (6 days ago)
+- [charmbracelet/glamour](https://github.com/charmbracelet/glamour) - Stylesheet-based markdown rendering for your CLI apps 💇🏻‍♀️ (6 days ago)
 - [charmbracelet/bubbles](https://github.com/charmbracelet/bubbles) - TUI components for Bubble Tea 🍡 (2 weeks ago)
 
 #### 🌱 My latest projects
@@ -28,19 +28,19 @@ of other projects. Curious what I've been hacking on recently?
 
 #### 🔭 Latest releases I've contributed to
 
-- [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) ([v0.178.0](https://github.com/goreleaser/goreleaser/releases/tag/v0.178.0), 2 days ago) - Deliver Go binaries as fast and easily as possible
-- [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) ([v0.15.0](https://github.com/charmbracelet/bubbletea/releases/tag/v0.15.0), 3 days ago) - A powerful little TUI framework 🏗
-- [charmbracelet/bubbles](https://github.com/charmbracelet/bubbles) ([v0.9.0](https://github.com/charmbracelet/bubbles/releases/tag/v0.9.0), 3 days ago) - TUI components for Bubble Tea 🍡
-- [muesli/gitty](https://github.com/muesli/gitty) ([v0.3.0](https://github.com/muesli/gitty/releases/tag/v0.3.0), 5 days ago) - Contextual information about your git projects, right on the command-line
+- [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) ([v0.178.0](https://github.com/goreleaser/goreleaser/releases/tag/v0.178.0), 3 days ago) - Deliver Go binaries as fast and easily as possible
+- [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) ([v0.15.0](https://github.com/charmbracelet/bubbletea/releases/tag/v0.15.0), 4 days ago) - A powerful little TUI framework 🏗
+- [charmbracelet/bubbles](https://github.com/charmbracelet/bubbles) ([v0.9.0](https://github.com/charmbracelet/bubbles/releases/tag/v0.9.0), 4 days ago) - TUI components for Bubble Tea 🍡
+- [muesli/gitty](https://github.com/muesli/gitty) ([v0.3.0](https://github.com/muesli/gitty/releases/tag/v0.3.0), 6 days ago) - Contextual information about your git projects, right on the command-line
 - [charmbracelet/lipgloss](https://github.com/charmbracelet/lipgloss) ([v0.4.0](https://github.com/charmbracelet/lipgloss/releases/tag/v0.4.0), 1 week ago) - Style definitions for nice terminal layouts 👄
 
 #### 🔨 Latest Pull Requests I published
 
-- [Add ToHex(color.Color) for convenience](https://github.com/muesli/gamut/pull/16) on [muesli/gamut](https://github.com/muesli/gamut) (4 days ago)
-- [Truncate strings with an ellipsis](https://github.com/muesli/gitty/pull/11) on [muesli/gitty](https://github.com/muesli/gitty) (5 days ago)
-- [Bump termenv, chroma, bluemonday, goldmark deps](https://github.com/charmbracelet/glamour/pull/120) on [charmbracelet/glamour](https://github.com/charmbracelet/glamour) (5 days ago)
-- [Dry up label printing](https://github.com/muesli/gitty/pull/10) on [muesli/gitty](https://github.com/muesli/gitty) (5 days ago)
-- [Add version flag](https://github.com/muesli/gitty/pull/9) on [muesli/gitty](https://github.com/muesli/gitty) (6 days ago)
+- [Add ToHex(color.Color) for convenience](https://github.com/muesli/gamut/pull/16) on [muesli/gamut](https://github.com/muesli/gamut) (5 days ago)
+- [Truncate strings with an ellipsis](https://github.com/muesli/gitty/pull/11) on [muesli/gitty](https://github.com/muesli/gitty) (6 days ago)
+- [Bump termenv, chroma, bluemonday, goldmark deps](https://github.com/charmbracelet/glamour/pull/120) on [charmbracelet/glamour](https://github.com/charmbracelet/glamour) (6 days ago)
+- [Dry up label printing](https://github.com/muesli/gitty/pull/10) on [muesli/gitty](https://github.com/muesli/gitty) (6 days ago)
+- [Add version flag](https://github.com/muesli/gitty/pull/9) on [muesli/gitty](https://github.com/muesli/gitty) (1 week ago)
 
 #### 📜 My recent blog posts
 
@@ -52,7 +52,7 @@ of other projects. Curious what I've been hacking on recently?
 
 #### ❤️ These awesome people sponsor me (thank you!)
 
-- [crazy-max](https://github.com/crazy-max) (2 days ago)
+- [crazy-max](https://github.com/crazy-max) (3 days ago)
 - [ocelotsloth](https://github.com/ocelotsloth) (3 months ago)
 - [angristan](https://github.com/angristan) (3 months ago)
 - [sadikkuzu](https://github.com/sadikkuzu) (6 months ago)
