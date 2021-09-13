@@ -52,11 +52,11 @@ of other projects. Curious what I've been hacking on recently?
 
 #### ❤️ These awesome people sponsor me (thank you!)
 
+- [LuckierDodge](https://github.com/LuckierDodge) (today)
 - [crazy-max](https://github.com/crazy-max) (4 days ago)
 - [ocelotsloth](https://github.com/ocelotsloth) (3 months ago)
 - [angristan](https://github.com/angristan) (3 months ago)
 - [sadikkuzu](https://github.com/sadikkuzu) (6 months ago)
-- [benleb](https://github.com/benleb) (10 months ago)
 
 #### 💬 Feedback
 
