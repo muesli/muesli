@@ -28,11 +28,11 @@ of other projects. Curious what I've been hacking on recently?
 
 #### 🔭 Latest releases I've contributed to
 
+- [muesli/kmeans](https://github.com/muesli/kmeans) ([v0.3.0](https://github.com/muesli/kmeans/releases/tag/v0.3.0), today) - k-means clustering algorithm implementation written in Go
 - [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) ([v0.179.0](https://github.com/goreleaser/goreleaser/releases/tag/v0.179.0), today) - Deliver Go binaries as fast and easily as possible
 - [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) ([v0.15.0](https://github.com/charmbracelet/bubbletea/releases/tag/v0.15.0), 5 days ago) - A powerful little TUI framework 🏗
 - [charmbracelet/bubbles](https://github.com/charmbracelet/bubbles) ([v0.9.0](https://github.com/charmbracelet/bubbles/releases/tag/v0.9.0), 5 days ago) - TUI components for Bubble Tea 🍡
 - [muesli/gitty](https://github.com/muesli/gitty) ([v0.3.0](https://github.com/muesli/gitty/releases/tag/v0.3.0), 1 week ago) - Contextual information about your git projects, right on the command-line
-- [charmbracelet/lipgloss](https://github.com/charmbracelet/lipgloss) ([v0.4.0](https://github.com/charmbracelet/lipgloss/releases/tag/v0.4.0), 1 week ago) - Style definitions for nice terminal layouts 👄
 
 #### 🔨 Latest Pull Requests I published
 
