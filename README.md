@@ -12,8 +12,8 @@ of other projects. Curious what I've been hacking on recently?
 
 #### 👷 Check out what I'm currently working on
 
-- [muesli/kmeans](https://github.com/muesli/kmeans) - k-means clustering algorithm implementation written in Go (today)
-- [muesli/gamut](https://github.com/muesli/gamut) - Go package to generate and manage color palettes &amp; schemes 🎨 (6 days ago)
+- [muesli/kmeans](https://github.com/muesli/kmeans) - k-means clustering algorithm implementation written in Go (1 day ago)
+- [muesli/gamut](https://github.com/muesli/gamut) - Go package to generate and manage color palettes &amp; schemes 🎨 (1 week ago)
 - [muesli/homebrew-tap](https://github.com/muesli/homebrew-tap) - muesli&#39;s Homebrew tap (1 week ago)
 - [charmbracelet/glamour](https://github.com/charmbracelet/glamour) - Stylesheet-based markdown rendering for your CLI apps 💇🏻‍♀️ (1 week ago)
 - [muesli/gitty](https://github.com/muesli/gitty) - Contextual information about your git projects, right on the command-line (1 week ago)
@@ -28,15 +28,15 @@ of other projects. Curious what I've been hacking on recently?
 
 #### 🔭 Latest releases I've contributed to
 
-- [muesli/kmeans](https://github.com/muesli/kmeans) ([v0.3.0](https://github.com/muesli/kmeans/releases/tag/v0.3.0), today) - k-means clustering algorithm implementation written in Go
-- [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) ([v0.179.0](https://github.com/goreleaser/goreleaser/releases/tag/v0.179.0), today) - Deliver Go binaries as fast and easily as possible
-- [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) ([v0.15.0](https://github.com/charmbracelet/bubbletea/releases/tag/v0.15.0), 5 days ago) - A powerful little TUI framework 🏗
-- [charmbracelet/bubbles](https://github.com/charmbracelet/bubbles) ([v0.9.0](https://github.com/charmbracelet/bubbles/releases/tag/v0.9.0), 5 days ago) - TUI components for Bubble Tea 🍡
+- [muesli/kmeans](https://github.com/muesli/kmeans) ([v0.3.0](https://github.com/muesli/kmeans/releases/tag/v0.3.0), 1 day ago) - k-means clustering algorithm implementation written in Go
+- [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) ([v0.179.0](https://github.com/goreleaser/goreleaser/releases/tag/v0.179.0), 1 day ago) - Deliver Go binaries as fast and easily as possible
+- [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) ([v0.15.0](https://github.com/charmbracelet/bubbletea/releases/tag/v0.15.0), 6 days ago) - A powerful little TUI framework 🏗
+- [charmbracelet/bubbles](https://github.com/charmbracelet/bubbles) ([v0.9.0](https://github.com/charmbracelet/bubbles/releases/tag/v0.9.0), 6 days ago) - TUI components for Bubble Tea 🍡
 - [muesli/gitty](https://github.com/muesli/gitty) ([v0.3.0](https://github.com/muesli/gitty/releases/tag/v0.3.0), 1 week ago) - Contextual information about your git projects, right on the command-line
 
 #### 🔨 Latest Pull Requests I published
 
-- [Add ToHex(color.Color) for convenience](https://github.com/muesli/gamut/pull/16) on [muesli/gamut](https://github.com/muesli/gamut) (6 days ago)
+- [Add ToHex(color.Color) for convenience](https://github.com/muesli/gamut/pull/16) on [muesli/gamut](https://github.com/muesli/gamut) (1 week ago)
 - [Truncate strings with an ellipsis](https://github.com/muesli/gitty/pull/11) on [muesli/gitty](https://github.com/muesli/gitty) (1 week ago)
 - [Bump termenv, chroma, bluemonday, goldmark deps](https://github.com/charmbracelet/glamour/pull/120) on [charmbracelet/glamour](https://github.com/charmbracelet/glamour) (1 week ago)
 - [Dry up label printing](https://github.com/muesli/gitty/pull/10) on [muesli/gitty](https://github.com/muesli/gitty) (1 week ago)
@@ -52,8 +52,8 @@ of other projects. Curious what I've been hacking on recently?
 
 #### ❤️ These awesome people sponsor me (thank you!)
 
-- [LuckierDodge](https://github.com/LuckierDodge) (today)
-- [crazy-max](https://github.com/crazy-max) (4 days ago)
+- [LuckierDodge](https://github.com/LuckierDodge) (1 day ago)
+- [crazy-max](https://github.com/crazy-max) (5 days ago)
 - [ocelotsloth](https://github.com/ocelotsloth) (3 months ago)
 - [angristan](https://github.com/angristan) (3 months ago)
 - [sadikkuzu](https://github.com/sadikkuzu) (6 months ago)
