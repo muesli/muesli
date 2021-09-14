@@ -12,11 +12,11 @@ of other projects. Curious what I've been hacking on recently?
 
 #### 👷 Check out what I'm currently working on
 
+- [charmbracelet/keygen](https://github.com/charmbracelet/keygen) - An SSH key pair generator (today)
+- [muesli/gitty](https://github.com/muesli/gitty) - Contextual information about your git projects, right on the command-line (today)
 - [muesli/kmeans](https://github.com/muesli/kmeans) - k-means clustering algorithm implementation written in Go (1 day ago)
 - [muesli/gamut](https://github.com/muesli/gamut) - Go package to generate and manage color palettes &amp; schemes 🎨 (1 week ago)
-- [muesli/homebrew-tap](https://github.com/muesli/homebrew-tap) - muesli&#39;s Homebrew tap (1 week ago)
 - [charmbracelet/glamour](https://github.com/charmbracelet/glamour) - Stylesheet-based markdown rendering for your CLI apps 💇🏻‍♀️ (1 week ago)
-- [muesli/gitty](https://github.com/muesli/gitty) - Contextual information about your git projects, right on the command-line (1 week ago)
 
 #### 🌱 My latest projects
 
@@ -28,11 +28,11 @@ of other projects. Curious what I've been hacking on recently?
 
 #### 🔭 Latest releases I've contributed to
 
+- [charmbracelet/keygen](https://github.com/charmbracelet/keygen) ([v0.1.2](https://github.com/charmbracelet/keygen/releases/tag/v0.1.2), 1 day ago) - An SSH key pair generator
 - [muesli/kmeans](https://github.com/muesli/kmeans) ([v0.3.0](https://github.com/muesli/kmeans/releases/tag/v0.3.0), 1 day ago) - k-means clustering algorithm implementation written in Go
 - [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) ([v0.179.0](https://github.com/goreleaser/goreleaser/releases/tag/v0.179.0), 1 day ago) - Deliver Go binaries as fast and easily as possible
 - [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) ([v0.15.0](https://github.com/charmbracelet/bubbletea/releases/tag/v0.15.0), 6 days ago) - A powerful little TUI framework 🏗
 - [charmbracelet/bubbles](https://github.com/charmbracelet/bubbles) ([v0.9.0](https://github.com/charmbracelet/bubbles/releases/tag/v0.9.0), 6 days ago) - TUI components for Bubble Tea 🍡
-- [muesli/gitty](https://github.com/muesli/gitty) ([v0.3.0](https://github.com/muesli/gitty/releases/tag/v0.3.0), 1 week ago) - Contextual information about your git projects, right on the command-line
 
 #### 🔨 Latest Pull Requests I published
 
