@@ -12,9 +12,9 @@ of other projects. Curious what I've been hacking on recently?
 
 #### 👷 Check out what I'm currently working on
 
-- [charmbracelet/keygen](https://github.com/charmbracelet/keygen) - An SSH key pair generator (today)
-- [muesli/gitty](https://github.com/muesli/gitty) - Contextual information about your git projects, right on the command-line (today)
-- [muesli/kmeans](https://github.com/muesli/kmeans) - k-means clustering algorithm implementation written in Go (1 day ago)
+- [charmbracelet/keygen](https://github.com/charmbracelet/keygen) - An SSH key pair generator (1 day ago)
+- [muesli/gitty](https://github.com/muesli/gitty) - Contextual information about your git projects, right on the command-line (1 day ago)
+- [muesli/kmeans](https://github.com/muesli/kmeans) - k-means clustering algorithm implementation written in Go (2 days ago)
 - [muesli/gamut](https://github.com/muesli/gamut) - Go package to generate and manage color palettes &amp; schemes 🎨 (1 week ago)
 - [charmbracelet/glamour](https://github.com/charmbracelet/glamour) - Stylesheet-based markdown rendering for your CLI apps 💇🏻‍♀️ (1 week ago)
 
@@ -28,17 +28,17 @@ of other projects. Curious what I've been hacking on recently?
 
 #### 🔭 Latest releases I've contributed to
 
-- [charmbracelet/keygen](https://github.com/charmbracelet/keygen) ([v0.1.2](https://github.com/charmbracelet/keygen/releases/tag/v0.1.2), 1 day ago) - An SSH key pair generator
-- [muesli/kmeans](https://github.com/muesli/kmeans) ([v0.3.0](https://github.com/muesli/kmeans/releases/tag/v0.3.0), 1 day ago) - k-means clustering algorithm implementation written in Go
-- [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) ([v0.179.0](https://github.com/goreleaser/goreleaser/releases/tag/v0.179.0), 1 day ago) - Deliver Go binaries as fast and easily as possible
-- [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) ([v0.15.0](https://github.com/charmbracelet/bubbletea/releases/tag/v0.15.0), 6 days ago) - A powerful little TUI framework 🏗
-- [charmbracelet/bubbles](https://github.com/charmbracelet/bubbles) ([v0.9.0](https://github.com/charmbracelet/bubbles/releases/tag/v0.9.0), 6 days ago) - TUI components for Bubble Tea 🍡
+- [charmbracelet/keygen](https://github.com/charmbracelet/keygen) ([v0.1.2](https://github.com/charmbracelet/keygen/releases/tag/v0.1.2), 2 days ago) - An SSH key pair generator
+- [muesli/kmeans](https://github.com/muesli/kmeans) ([v0.3.0](https://github.com/muesli/kmeans/releases/tag/v0.3.0), 2 days ago) - k-means clustering algorithm implementation written in Go
+- [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) ([v0.179.0](https://github.com/goreleaser/goreleaser/releases/tag/v0.179.0), 2 days ago) - Deliver Go binaries as fast and easily as possible
+- [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) ([v0.15.0](https://github.com/charmbracelet/bubbletea/releases/tag/v0.15.0), 1 week ago) - A powerful little TUI framework 🏗
+- [charmbracelet/bubbles](https://github.com/charmbracelet/bubbles) ([v0.9.0](https://github.com/charmbracelet/bubbles/releases/tag/v0.9.0), 1 week ago) - TUI components for Bubble Tea 🍡
 
 #### 🔨 Latest Pull Requests I published
 
-- [Avoid accessing loop value&#39;s reference](https://github.com/muesli/gitty/pull/18) on [muesli/gitty](https://github.com/muesli/gitty) (today)
-- [Make gitty provider agnostic and support GitLab instances](https://github.com/muesli/gitty/pull/17) on [muesli/gitty](https://github.com/muesli/gitty) (today)
-- [Add golangci-lint config](https://github.com/charmbracelet/keygen/pull/2) on [charmbracelet/keygen](https://github.com/charmbracelet/keygen) (today)
+- [Avoid accessing loop value&#39;s reference](https://github.com/muesli/gitty/pull/18) on [muesli/gitty](https://github.com/muesli/gitty) (1 day ago)
+- [Make gitty provider agnostic and support GitLab instances](https://github.com/muesli/gitty/pull/17) on [muesli/gitty](https://github.com/muesli/gitty) (1 day ago)
+- [Add golangci-lint config](https://github.com/charmbracelet/keygen/pull/2) on [charmbracelet/keygen](https://github.com/charmbracelet/keygen) (1 day ago)
 - [Add ToHex(color.Color) for convenience](https://github.com/muesli/gamut/pull/16) on [muesli/gamut](https://github.com/muesli/gamut) (1 week ago)
 - [Truncate strings with an ellipsis](https://github.com/muesli/gitty/pull/11) on [muesli/gitty](https://github.com/muesli/gitty) (1 week ago)
 
@@ -52,8 +52,8 @@ of other projects. Curious what I've been hacking on recently?
 
 #### ❤️ These awesome people sponsor me (thank you!)
 
-- [LuckierDodge](https://github.com/LuckierDodge) (1 day ago)
-- [crazy-max](https://github.com/crazy-max) (5 days ago)
+- [LuckierDodge](https://github.com/LuckierDodge) (2 days ago)
+- [crazy-max](https://github.com/crazy-max) (6 days ago)
 - [ocelotsloth](https://github.com/ocelotsloth) (3 months ago)
 - [angristan](https://github.com/angristan) (3 months ago)
 - [sadikkuzu](https://github.com/sadikkuzu) (6 months ago)
