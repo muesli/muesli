@@ -28,10 +28,10 @@ of other projects. Curious what I've been hacking on recently?
 
 #### 🔭 Latest releases I've contributed to
 
-- [codenotary/immudb](https://github.com/codenotary/immudb) ([v1.1.0](https://github.com/codenotary/immudb/releases/tag/v1.1.0), 2 days ago) - immudb - world’s fastest immutable database
+- [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) ([v0.180.0](https://github.com/goreleaser/goreleaser/releases/tag/v0.180.0), today) - Deliver Go binaries as fast and easily as possible
+- [codenotary/immudb](https://github.com/codenotary/immudb) ([v1.1.0](https://github.com/codenotary/immudb/releases/tag/v1.1.0), 3 days ago) - immudb - world’s fastest immutable database
 - [charmbracelet/keygen](https://github.com/charmbracelet/keygen) ([v0.1.2](https://github.com/charmbracelet/keygen/releases/tag/v0.1.2), 1 week ago) - An SSH key pair generator
 - [muesli/kmeans](https://github.com/muesli/kmeans) ([v0.3.0](https://github.com/muesli/kmeans/releases/tag/v0.3.0), 1 week ago) - k-means clustering algorithm implementation written in Go
-- [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) ([v0.179.0](https://github.com/goreleaser/goreleaser/releases/tag/v0.179.0), 1 week ago) - Deliver Go binaries as fast and easily as possible
 - [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) ([v0.15.0](https://github.com/charmbracelet/bubbletea/releases/tag/v0.15.0), 2 weeks ago) - A powerful little TUI framework 🏗
 
 #### 🔨 Latest Pull Requests I published
@@ -56,7 +56,7 @@ of other projects. Curious what I've been hacking on recently?
 - [crazy-max](https://github.com/crazy-max) (2 weeks ago)
 - [ocelotsloth](https://github.com/ocelotsloth) (3 months ago)
 - [angristan](https://github.com/angristan) (3 months ago)
-- [sadikkuzu](https://github.com/sadikkuzu) (6 months ago)
+- [sadikkuzu](https://github.com/sadikkuzu) (7 months ago)
 
 #### 💬 Feedback
 
