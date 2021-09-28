@@ -14,9 +14,9 @@ of other projects. Curious what I've been hacking on recently?
 
 - [muesli/go-razer](https://github.com/muesli/go-razer) - Go library to control Razer (Chroma) devices (1 week ago)
 - [muesli/gitty](https://github.com/muesli/gitty) - Contextual information about your git projects, right on the command-line (1 week ago)
-- [charmbracelet/keygen](https://github.com/charmbracelet/keygen) - An SSH key pair generator (1 week ago)
+- [charmbracelet/keygen](https://github.com/charmbracelet/keygen) - An SSH key pair generator (2 weeks ago)
 - [muesli/kmeans](https://github.com/muesli/kmeans) - k-means clustering algorithm implementation written in Go (2 weeks ago)
-- [muesli/gamut](https://github.com/muesli/gamut) - Go package to generate and manage color palettes &amp; schemes 🎨 (2 weeks ago)
+- [muesli/gamut](https://github.com/muesli/gamut) - Go package to generate and manage color palettes &amp; schemes 🎨 (3 weeks ago)
 
 #### 🌱 My latest projects
 
@@ -28,18 +28,18 @@ of other projects. Curious what I've been hacking on recently?
 
 #### 🔭 Latest releases I've contributed to
 
-- [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) ([v0.180.2](https://github.com/goreleaser/goreleaser/releases/tag/v0.180.2), today) - Deliver Go binaries as fast and easily as possible
-- [owncast/owncast](https://github.com/owncast/owncast) ([v0.0.9](https://github.com/owncast/owncast/releases/tag/v0.0.9), 1 day ago) - Take control over your live stream video by running it yourself.  Streaming &#43; chat out of the box.
-- [JF002/InfiniTime](https://github.com/JF002/InfiniTime) ([1.5.0](https://github.com/JF002/InfiniTime/releases/tag/1.5.0), 1 day ago) - Firmware for Pinetime smartwatch written in C/C&#43;&#43; and based on FreeRTOS
-- [codenotary/immudb](https://github.com/codenotary/immudb) ([v1.1.0](https://github.com/codenotary/immudb/releases/tag/v1.1.0), 5 days ago) - immudb - world’s fastest immutable database
+- [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) ([v0.180.2](https://github.com/goreleaser/goreleaser/releases/tag/v0.180.2), 1 day ago) - Deliver Go binaries as fast and easily as possible
+- [owncast/owncast](https://github.com/owncast/owncast) ([v0.0.9](https://github.com/owncast/owncast/releases/tag/v0.0.9), 2 days ago) - Take control over your live stream video by running it yourself.  Streaming &#43; chat out of the box.
+- [JF002/InfiniTime](https://github.com/JF002/InfiniTime) ([1.5.0](https://github.com/JF002/InfiniTime/releases/tag/1.5.0), 2 days ago) - Firmware for Pinetime smartwatch written in C/C&#43;&#43; and based on FreeRTOS
+- [codenotary/immudb](https://github.com/codenotary/immudb) ([v1.1.0](https://github.com/codenotary/immudb/releases/tag/v1.1.0), 6 days ago) - immudb - world’s fastest immutable database
 - [charmbracelet/keygen](https://github.com/charmbracelet/keygen) ([v0.1.2](https://github.com/charmbracelet/keygen/releases/tag/v0.1.2), 2 weeks ago) - An SSH key pair generator
 
 #### 🔨 Latest Pull Requests I published
 
-- [Avoid accessing loop value&#39;s reference](https://github.com/muesli/gitty/pull/18) on [muesli/gitty](https://github.com/muesli/gitty) (1 week ago)
-- [Make gitty provider agnostic and support GitLab instances](https://github.com/muesli/gitty/pull/17) on [muesli/gitty](https://github.com/muesli/gitty) (1 week ago)
-- [Add golangci-lint config](https://github.com/charmbracelet/keygen/pull/2) on [charmbracelet/keygen](https://github.com/charmbracelet/keygen) (1 week ago)
-- [Add ToHex(color.Color) for convenience](https://github.com/muesli/gamut/pull/16) on [muesli/gamut](https://github.com/muesli/gamut) (2 weeks ago)
+- [Avoid accessing loop value&#39;s reference](https://github.com/muesli/gitty/pull/18) on [muesli/gitty](https://github.com/muesli/gitty) (2 weeks ago)
+- [Make gitty provider agnostic and support GitLab instances](https://github.com/muesli/gitty/pull/17) on [muesli/gitty](https://github.com/muesli/gitty) (2 weeks ago)
+- [Add golangci-lint config](https://github.com/charmbracelet/keygen/pull/2) on [charmbracelet/keygen](https://github.com/charmbracelet/keygen) (2 weeks ago)
+- [Add ToHex(color.Color) for convenience](https://github.com/muesli/gamut/pull/16) on [muesli/gamut](https://github.com/muesli/gamut) (3 weeks ago)
 - [Truncate strings with an ellipsis](https://github.com/muesli/gitty/pull/11) on [muesli/gitty](https://github.com/muesli/gitty) (3 weeks ago)
 
 #### 📜 My recent blog posts
