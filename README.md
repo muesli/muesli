@@ -12,8 +12,8 @@ of other projects. Curious what I've been hacking on recently?
 
 #### 👷 Check out what I'm currently working on
 
-- [muesli/go-razer](https://github.com/muesli/go-razer) - Go library to control Razer (Chroma) devices (1 week ago)
-- [muesli/gitty](https://github.com/muesli/gitty) - Contextual information about your git projects, right on the command-line (1 week ago)
+- [muesli/go-razer](https://github.com/muesli/go-razer) - Go library to control Razer (Chroma) devices (2 weeks ago)
+- [muesli/gitty](https://github.com/muesli/gitty) - Contextual information about your git projects, right on the command-line (2 weeks ago)
 - [charmbracelet/keygen](https://github.com/charmbracelet/keygen) - An SSH key pair generator (2 weeks ago)
 - [muesli/kmeans](https://github.com/muesli/kmeans) - k-means clustering algorithm implementation written in Go (2 weeks ago)
 - [muesli/gamut](https://github.com/muesli/gamut) - Go package to generate and manage color palettes &amp; schemes 🎨 (3 weeks ago)
@@ -28,11 +28,11 @@ of other projects. Curious what I've been hacking on recently?
 
 #### 🔭 Latest releases I've contributed to
 
-- [JF002/InfiniTime](https://github.com/JF002/InfiniTime) ([1.6.0](https://github.com/JF002/InfiniTime/releases/tag/1.6.0), today) - Firmware for Pinetime smartwatch written in C/C&#43;&#43; and based on FreeRTOS
-- [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) ([v0.16.0](https://github.com/charmbracelet/bubbletea/releases/tag/v0.16.0), today) - A powerful little TUI framework 🏗
-- [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) ([v0.180.3](https://github.com/goreleaser/goreleaser/releases/tag/v0.180.3), today) - Deliver Go binaries as fast and easily as possible
-- [owncast/owncast](https://github.com/owncast/owncast) ([v0.0.9](https://github.com/owncast/owncast/releases/tag/v0.0.9), 2 days ago) - Take control over your live stream video by running it yourself.  Streaming &#43; chat out of the box.
-- [codenotary/immudb](https://github.com/codenotary/immudb) ([v1.1.0](https://github.com/codenotary/immudb/releases/tag/v1.1.0), 6 days ago) - immudb - world’s fastest immutable database
+- [JF002/InfiniTime](https://github.com/JF002/InfiniTime) ([1.6.0](https://github.com/JF002/InfiniTime/releases/tag/1.6.0), 1 day ago) - Firmware for Pinetime smartwatch written in C/C&#43;&#43; and based on FreeRTOS
+- [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) ([v0.16.0](https://github.com/charmbracelet/bubbletea/releases/tag/v0.16.0), 1 day ago) - A powerful little TUI framework 🏗
+- [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) ([v0.180.3](https://github.com/goreleaser/goreleaser/releases/tag/v0.180.3), 1 day ago) - Deliver Go binaries as fast and easily as possible
+- [owncast/owncast](https://github.com/owncast/owncast) ([v0.0.9](https://github.com/owncast/owncast/releases/tag/v0.0.9), 3 days ago) - Take control over your live stream video by running it yourself.  Streaming &#43; chat out of the box.
+- [codenotary/immudb](https://github.com/codenotary/immudb) ([v1.1.0](https://github.com/codenotary/immudb/releases/tag/v1.1.0), 1 week ago) - immudb - world’s fastest immutable database
 
 #### 🔨 Latest Pull Requests I published
 
