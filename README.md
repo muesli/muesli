@@ -28,7 +28,7 @@ of other projects. Curious what I've been hacking on recently?
 
 #### 🔭 Latest releases I've contributed to
 
-- [JF002/InfiniTime](https://github.com/JF002/InfiniTime) ([1.6.0](https://github.com/JF002/InfiniTime/releases/tag/1.6.0), 4 days ago) - Firmware for Pinetime smartwatch written in C/C&#43;&#43; and based on FreeRTOS
+- [InfiniTimeOrg/InfiniTime](https://github.com/InfiniTimeOrg/InfiniTime) ([1.6.0](https://github.com/InfiniTimeOrg/InfiniTime/releases/tag/1.6.0), 4 days ago) - Firmware for Pinetime smartwatch written in C/C&#43;&#43; and based on FreeRTOS
 - [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) ([v0.16.0](https://github.com/charmbracelet/bubbletea/releases/tag/v0.16.0), 4 days ago) - A powerful little TUI framework 🏗
 - [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) ([v0.180.3](https://github.com/goreleaser/goreleaser/releases/tag/v0.180.3), 4 days ago) - Deliver Go binaries as fast and easily as possible
 - [owncast/owncast](https://github.com/owncast/owncast) ([v0.0.9](https://github.com/owncast/owncast/releases/tag/v0.0.9), 6 days ago) - Take control over your live stream video by running it yourself.  Streaming &#43; chat out of the box.
