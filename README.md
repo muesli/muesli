@@ -28,10 +28,10 @@ of other projects. Curious what I've been hacking on recently?
 
 #### 🔭 Latest releases I've contributed to
 
-- [InfiniTimeOrg/InfiniTime](https://github.com/InfiniTimeOrg/InfiniTime) ([1.6.0](https://github.com/InfiniTimeOrg/InfiniTime/releases/tag/1.6.0), 4 days ago) - Firmware for Pinetime smartwatch written in C/C&#43;&#43; and based on FreeRTOS
-- [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) ([v0.16.0](https://github.com/charmbracelet/bubbletea/releases/tag/v0.16.0), 4 days ago) - A powerful little TUI framework 🏗
-- [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) ([v0.180.3](https://github.com/goreleaser/goreleaser/releases/tag/v0.180.3), 4 days ago) - Deliver Go binaries as fast and easily as possible
-- [owncast/owncast](https://github.com/owncast/owncast) ([v0.0.9](https://github.com/owncast/owncast/releases/tag/v0.0.9), 6 days ago) - Take control over your live stream video by running it yourself.  Streaming &#43; chat out of the box.
+- [InfiniTimeOrg/InfiniTime](https://github.com/InfiniTimeOrg/InfiniTime) ([1.6.0](https://github.com/InfiniTimeOrg/InfiniTime/releases/tag/1.6.0), 5 days ago) - Firmware for Pinetime smartwatch written in C/C&#43;&#43; and based on FreeRTOS
+- [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) ([v0.16.0](https://github.com/charmbracelet/bubbletea/releases/tag/v0.16.0), 5 days ago) - A powerful little TUI framework 🏗
+- [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) ([v0.180.3](https://github.com/goreleaser/goreleaser/releases/tag/v0.180.3), 5 days ago) - Deliver Go binaries as fast and easily as possible
+- [owncast/owncast](https://github.com/owncast/owncast) ([v0.0.9](https://github.com/owncast/owncast/releases/tag/v0.0.9), 1 week ago) - Take control over your live stream video by running it yourself.  Streaming &#43; chat out of the box.
 - [codenotary/immudb](https://github.com/codenotary/immudb) ([v1.1.0](https://github.com/codenotary/immudb/releases/tag/v1.1.0), 1 week ago) - immudb - world’s fastest immutable database
 
 #### 🔨 Latest Pull Requests I published
@@ -52,7 +52,7 @@ of other projects. Curious what I've been hacking on recently?
 
 #### ❤️ These awesome people sponsor me (thank you!)
 
-- [nkpremices](https://github.com/nkpremices) (1 day ago)
+- [nkpremices](https://github.com/nkpremices) (2 days ago)
 - [LuckierDodge](https://github.com/LuckierDodge) (2 weeks ago)
 - [crazy-max](https://github.com/crazy-max) (3 weeks ago)
 - [ocelotsloth](https://github.com/ocelotsloth) (3 months ago)
