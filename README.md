@@ -14,9 +14,9 @@ of other projects. Curious what I've been hacking on recently?
 
 - [muesli/go-razer](https://github.com/muesli/go-razer) - Go library to control Razer (Chroma) devices (2 weeks ago)
 - [muesli/gitty](https://github.com/muesli/gitty) - Contextual information about your git projects, right on the command-line (2 weeks ago)
-- [charmbracelet/keygen](https://github.com/charmbracelet/keygen) - An SSH key pair generator (2 weeks ago)
+- [charmbracelet/keygen](https://github.com/charmbracelet/keygen) - An SSH key pair generator (3 weeks ago)
 - [muesli/kmeans](https://github.com/muesli/kmeans) - k-means clustering algorithm implementation written in Go (3 weeks ago)
-- [muesli/gamut](https://github.com/muesli/gamut) - Go package to generate and manage color palettes &amp; schemes 🎨 (3 weeks ago)
+- [muesli/gamut](https://github.com/muesli/gamut) - Go package to generate and manage color palettes &amp; schemes 🎨 (4 weeks ago)
 
 #### 🌱 My latest projects
 
@@ -28,18 +28,18 @@ of other projects. Curious what I've been hacking on recently?
 
 #### 🔭 Latest releases I've contributed to
 
-- [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) ([v0.17.0](https://github.com/charmbracelet/bubbletea/releases/tag/v0.17.0), 1 day ago) - A powerful little TUI framework 🏗
-- [InfiniTimeOrg/InfiniTime](https://github.com/InfiniTimeOrg/InfiniTime) ([1.6.0](https://github.com/InfiniTimeOrg/InfiniTime/releases/tag/1.6.0), 6 days ago) - Firmware for Pinetime smartwatch written in C/C&#43;&#43; and based on FreeRTOS
-- [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) ([v0.180.3](https://github.com/goreleaser/goreleaser/releases/tag/v0.180.3), 6 days ago) - Deliver Go binaries as fast and easily as possible
+- [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) ([v0.17.0](https://github.com/charmbracelet/bubbletea/releases/tag/v0.17.0), 2 days ago) - A powerful little TUI framework 🏗
+- [InfiniTimeOrg/InfiniTime](https://github.com/InfiniTimeOrg/InfiniTime) ([1.6.0](https://github.com/InfiniTimeOrg/InfiniTime/releases/tag/1.6.0), 1 week ago) - Firmware for Pinetime smartwatch written in C/C&#43;&#43; and based on FreeRTOS
+- [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) ([v0.180.3](https://github.com/goreleaser/goreleaser/releases/tag/v0.180.3), 1 week ago) - Deliver Go binaries as fast and easily as possible
 - [owncast/owncast](https://github.com/owncast/owncast) ([v0.0.9](https://github.com/owncast/owncast/releases/tag/v0.0.9), 1 week ago) - Take control over your live stream video by running it yourself.  Streaming &#43; chat out of the box.
 - [codenotary/immudb](https://github.com/codenotary/immudb) ([v1.1.0](https://github.com/codenotary/immudb/releases/tag/v1.1.0), 1 week ago) - immudb - world’s fastest immutable database
 
 #### 🔨 Latest Pull Requests I published
 
-- [Avoid accessing loop value&#39;s reference](https://github.com/muesli/gitty/pull/18) on [muesli/gitty](https://github.com/muesli/gitty) (2 weeks ago)
-- [Make gitty provider agnostic and support GitLab instances](https://github.com/muesli/gitty/pull/17) on [muesli/gitty](https://github.com/muesli/gitty) (2 weeks ago)
-- [Add golangci-lint config](https://github.com/charmbracelet/keygen/pull/2) on [charmbracelet/keygen](https://github.com/charmbracelet/keygen) (2 weeks ago)
-- [Add ToHex(color.Color) for convenience](https://github.com/muesli/gamut/pull/16) on [muesli/gamut](https://github.com/muesli/gamut) (3 weeks ago)
+- [Avoid accessing loop value&#39;s reference](https://github.com/muesli/gitty/pull/18) on [muesli/gitty](https://github.com/muesli/gitty) (3 weeks ago)
+- [Make gitty provider agnostic and support GitLab instances](https://github.com/muesli/gitty/pull/17) on [muesli/gitty](https://github.com/muesli/gitty) (3 weeks ago)
+- [Add golangci-lint config](https://github.com/charmbracelet/keygen/pull/2) on [charmbracelet/keygen](https://github.com/charmbracelet/keygen) (3 weeks ago)
+- [Add ToHex(color.Color) for convenience](https://github.com/muesli/gamut/pull/16) on [muesli/gamut](https://github.com/muesli/gamut) (4 weeks ago)
 - [Truncate strings with an ellipsis](https://github.com/muesli/gitty/pull/11) on [muesli/gitty](https://github.com/muesli/gitty) (4 weeks ago)
 
 #### 📜 My recent blog posts
@@ -52,10 +52,10 @@ of other projects. Curious what I've been hacking on recently?
 
 #### ❤️ These awesome people sponsor me (thank you!)
 
-- [nkpremices](https://github.com/nkpremices) (3 days ago)
+- [nkpremices](https://github.com/nkpremices) (4 days ago)
 - [LuckierDodge](https://github.com/LuckierDodge) (3 weeks ago)
 - [crazy-max](https://github.com/crazy-max) (3 weeks ago)
-- [ocelotsloth](https://github.com/ocelotsloth) (3 months ago)
+- [ocelotsloth](https://github.com/ocelotsloth) (4 months ago)
 - [angristan](https://github.com/angristan) (4 months ago)
 
 #### 💬 Feedback
