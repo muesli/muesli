@@ -14,7 +14,7 @@ of other projects. Curious what I've been hacking on recently?
 
 - [muesli/gitty](https://github.com/muesli/gitty) - Contextual information about your git projects, right on the command-line (3 weeks ago)
 - [muesli/go-razer](https://github.com/muesli/go-razer) - Go library to control Razer (Chroma) devices (3 weeks ago)
-- [charmbracelet/keygen](https://github.com/charmbracelet/keygen) - An SSH key pair generator (3 weeks ago)
+- [charmbracelet/keygen](https://github.com/charmbracelet/keygen) - An SSH key pair generator (4 weeks ago)
 - [muesli/kmeans](https://github.com/muesli/kmeans) - k-means clustering algorithm implementation written in Go (4 weeks ago)
 - [muesli/gamut](https://github.com/muesli/gamut) - Go package to generate and manage color palettes &amp; schemes 🎨 (1 month ago)
 
@@ -28,17 +28,17 @@ of other projects. Curious what I've been hacking on recently?
 
 #### 🔭 Latest releases I've contributed to
 
-- [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) ([v0.181.1](https://github.com/goreleaser/goreleaser/releases/tag/v0.181.1), 5 days ago) - Deliver Go binaries as fast and easily as possible
-- [arp242/uni](https://github.com/arp242/uni) ([v2.3.0](https://github.com/arp242/uni/releases/tag/v2.3.0), 6 days ago) - Query the Unicode database from the commandline, with good support for emojis
+- [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) ([v0.181.1](https://github.com/goreleaser/goreleaser/releases/tag/v0.181.1), 6 days ago) - Deliver Go binaries as fast and easily as possible
+- [arp242/uni](https://github.com/arp242/uni) ([v2.3.0](https://github.com/arp242/uni/releases/tag/v2.3.0), 1 week ago) - Query the Unicode database from the commandline, with good support for emojis
 - [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) ([v0.17.0](https://github.com/charmbracelet/bubbletea/releases/tag/v0.17.0), 1 week ago) - A powerful little TUI framework 🏗
-- [InfiniTimeOrg/InfiniTime](https://github.com/InfiniTimeOrg/InfiniTime) ([1.6.0](https://github.com/InfiniTimeOrg/InfiniTime/releases/tag/1.6.0), 1 week ago) - Firmware for Pinetime smartwatch written in C/C&#43;&#43; and based on FreeRTOS
+- [InfiniTimeOrg/InfiniTime](https://github.com/InfiniTimeOrg/InfiniTime) ([1.6.0](https://github.com/InfiniTimeOrg/InfiniTime/releases/tag/1.6.0), 2 weeks ago) - Firmware for Pinetime smartwatch written in C/C&#43;&#43; and based on FreeRTOS
 - [codenotary/immudb](https://github.com/codenotary/immudb) ([v1.1.0](https://github.com/codenotary/immudb/releases/tag/v1.1.0), 2 weeks ago) - immudb - world’s fastest immutable database, built on a zero trust model
 
 #### 🔨 Latest Pull Requests I published
 
-- [Avoid accessing loop value&#39;s reference](https://github.com/muesli/gitty/pull/18) on [muesli/gitty](https://github.com/muesli/gitty) (3 weeks ago)
-- [Make gitty provider agnostic and support GitLab instances](https://github.com/muesli/gitty/pull/17) on [muesli/gitty](https://github.com/muesli/gitty) (3 weeks ago)
-- [Add golangci-lint config](https://github.com/charmbracelet/keygen/pull/2) on [charmbracelet/keygen](https://github.com/charmbracelet/keygen) (3 weeks ago)
+- [Avoid accessing loop value&#39;s reference](https://github.com/muesli/gitty/pull/18) on [muesli/gitty](https://github.com/muesli/gitty) (4 weeks ago)
+- [Make gitty provider agnostic and support GitLab instances](https://github.com/muesli/gitty/pull/17) on [muesli/gitty](https://github.com/muesli/gitty) (4 weeks ago)
+- [Add golangci-lint config](https://github.com/charmbracelet/keygen/pull/2) on [charmbracelet/keygen](https://github.com/charmbracelet/keygen) (4 weeks ago)
 - [Add ToHex(color.Color) for convenience](https://github.com/muesli/gamut/pull/16) on [muesli/gamut](https://github.com/muesli/gamut) (1 month ago)
 - [Truncate strings with an ellipsis](https://github.com/muesli/gitty/pull/11) on [muesli/gitty](https://github.com/muesli/gitty) (1 month ago)
 
