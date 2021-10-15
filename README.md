@@ -12,8 +12,8 @@ of other projects. Curious what I've been hacking on recently?
 
 #### 👷 Check out what I'm currently working on
 
-- [muesli/gitty](https://github.com/muesli/gitty) - Contextual information about your git projects, right on the command-line (4 weeks ago)
-- [muesli/go-razer](https://github.com/muesli/go-razer) - Go library to control Razer (Chroma) devices (4 weeks ago)
+- [muesli/gitty](https://github.com/muesli/gitty) - Contextual information about your git projects, right on the command-line (1 month ago)
+- [muesli/go-razer](https://github.com/muesli/go-razer) - Go library to control Razer (Chroma) devices (1 month ago)
 - [charmbracelet/keygen](https://github.com/charmbracelet/keygen) - An SSH key pair generator (1 month ago)
 - [muesli/kmeans](https://github.com/muesli/kmeans) - k-means clustering algorithm implementation written in Go (1 month ago)
 - [muesli/gamut](https://github.com/muesli/gamut) - Go package to generate and manage color palettes &amp; schemes 🎨 (1 month ago)
@@ -28,7 +28,7 @@ of other projects. Curious what I've been hacking on recently?
 
 #### 🔭 Latest releases I've contributed to
 
-- [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) ([v0.182.1](https://github.com/goreleaser/goreleaser/releases/tag/v0.182.1), 1 day ago) - Deliver Go binaries as fast and easily as possible
+- [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) ([v0.182.1](https://github.com/goreleaser/goreleaser/releases/tag/v0.182.1), 2 days ago) - Deliver Go binaries as fast and easily as possible
 - [arp242/uni](https://github.com/arp242/uni) ([v2.3.0](https://github.com/arp242/uni/releases/tag/v2.3.0), 1 week ago) - Query the Unicode database from the commandline, with good support for emojis
 - [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) ([v0.17.0](https://github.com/charmbracelet/bubbletea/releases/tag/v0.17.0), 1 week ago) - A powerful little TUI framework 🏗
 - [InfiniTimeOrg/InfiniTime](https://github.com/InfiniTimeOrg/InfiniTime) ([1.6.0](https://github.com/InfiniTimeOrg/InfiniTime/releases/tag/1.6.0), 2 weeks ago) - Firmware for Pinetime smartwatch written in C/C&#43;&#43; and based on FreeRTOS
@@ -52,7 +52,7 @@ of other projects. Curious what I've been hacking on recently?
 
 #### ❤️ These awesome people sponsor me (thank you!)
 
-- [nkpremices](https://github.com/nkpremices) (1 week ago)
+- [nkpremices](https://github.com/nkpremices) (2 weeks ago)
 - [LuckierDodge](https://github.com/LuckierDodge) (1 month ago)
 - [crazy-max](https://github.com/crazy-max) (1 month ago)
 - [ocelotsloth](https://github.com/ocelotsloth) (4 months ago)
