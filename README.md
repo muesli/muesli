@@ -12,19 +12,19 @@ of other projects. Curious what I've been hacking on recently?
 
 #### 👷 Check out what I'm currently working on
 
+- [muesli/ansi](https://github.com/muesli/ansi) - Raw ANSI sequence helpers (today)
 - [muesli/go-razer](https://github.com/muesli/go-razer) - Go library to control Razer (Chroma) devices (1 month ago)
 - [muesli/gitty](https://github.com/muesli/gitty) - Contextual information about your git projects, right on the command-line (1 month ago)
 - [charmbracelet/keygen](https://github.com/charmbracelet/keygen) - An SSH key pair generator (1 month ago)
 - [muesli/kmeans](https://github.com/muesli/kmeans) - k-means clustering algorithm implementation written in Go (1 month ago)
-- [muesli/gamut](https://github.com/muesli/gamut) - Go package to generate and manage color palettes &amp; schemes 🎨 (1 month ago)
 
 #### 🌱 My latest projects
 
+- [muesli/ansi](https://github.com/muesli/ansi) - Raw ANSI sequence helpers
 - [muesli/gitty](https://github.com/muesli/gitty) - Contextual information about your git projects, right on the command-line
 - [muesli/code-server](https://github.com/muesli/code-server) - My code-server Docker image
 - [muesli/deckmaster-emojis](https://github.com/muesli/deckmaster-emojis) - A deck of emojis for Deckmaster
 - [muesli/prism](https://github.com/muesli/prism) - An RTMP stream recaster / splitter
-- [muesli/saloon](https://github.com/muesli/saloon) - Saloon, an Arduino/ESP-based Information Monitor
 
 #### 🔭 Latest releases I've contributed to
 
