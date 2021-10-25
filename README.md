@@ -12,7 +12,7 @@ of other projects. Curious what I've been hacking on recently?
 
 #### 👷 Check out what I'm currently working on
 
-- [muesli/ansi](https://github.com/muesli/ansi) - Raw ANSI sequence helpers (6 days ago)
+- [muesli/ansi](https://github.com/muesli/ansi) - Raw ANSI sequence helpers (1 week ago)
 - [muesli/go-razer](https://github.com/muesli/go-razer) - Go library to control Razer (Chroma) devices (1 month ago)
 - [muesli/gitty](https://github.com/muesli/gitty) - Contextual information about your git projects, right on the command-line (1 month ago)
 - [charmbracelet/keygen](https://github.com/charmbracelet/keygen) - An SSH key pair generator (1 month ago)
@@ -28,7 +28,7 @@ of other projects. Curious what I've been hacking on recently?
 
 #### 🔭 Latest releases I've contributed to
 
-- [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) ([v0.183.0](https://github.com/goreleaser/goreleaser/releases/tag/v0.183.0), 2 days ago) - Deliver Go binaries as fast and easily as possible
+- [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) ([v0.183.0](https://github.com/goreleaser/goreleaser/releases/tag/v0.183.0), 3 days ago) - Deliver Go binaries as fast and easily as possible
 - [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) ([v0.17.0](https://github.com/charmbracelet/bubbletea/releases/tag/v0.17.0), 3 weeks ago) - A powerful little TUI framework 🏗
 - [InfiniTimeOrg/InfiniTime](https://github.com/InfiniTimeOrg/InfiniTime) ([1.6.0](https://github.com/InfiniTimeOrg/InfiniTime/releases/tag/1.6.0), 3 weeks ago) - Firmware for Pinetime smartwatch written in C/C&#43;&#43; and based on FreeRTOS
 - [charmbracelet/keygen](https://github.com/charmbracelet/keygen) ([v0.1.2](https://github.com/charmbracelet/keygen/releases/tag/v0.1.2), 1 month ago) - An SSH key pair generator
