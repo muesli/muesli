@@ -28,7 +28,7 @@ of other projects. Curious what I've been hacking on recently?
 
 #### 🔭 Latest releases I've contributed to
 
-- [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) ([v0.18.0](https://github.com/charmbracelet/bubbletea/releases/tag/v0.18.0), 2 days ago) - A powerful little TUI framework 🏗
+- [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) ([v0.19.0](https://github.com/charmbracelet/bubbletea/releases/tag/v0.19.0), today) - A powerful little TUI framework 🏗
 - [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) ([v0.183.0](https://github.com/goreleaser/goreleaser/releases/tag/v0.183.0), 1 week ago) - Deliver Go binaries as fast and easily as possible
 - [InfiniTimeOrg/InfiniTime](https://github.com/InfiniTimeOrg/InfiniTime) ([1.6.0](https://github.com/InfiniTimeOrg/InfiniTime/releases/tag/1.6.0), 1 month ago) - Firmware for Pinetime smartwatch written in C/C&#43;&#43; and based on FreeRTOS
 - [charmbracelet/keygen](https://github.com/charmbracelet/keygen) ([v0.1.2](https://github.com/charmbracelet/keygen/releases/tag/v0.1.2), 1 month ago) - An SSH key pair generator
