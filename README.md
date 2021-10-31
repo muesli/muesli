@@ -12,10 +12,10 @@ of other projects. Curious what I've been hacking on recently?
 
 #### 👷 Check out what I'm currently working on
 
+- [muesli/ansi](https://github.com/muesli/ansi) - Raw ANSI sequence helpers (today)
 - [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) - A powerful little TUI framework 🏗 (1 week ago)
-- [muesli/ansi](https://github.com/muesli/ansi) - Raw ANSI sequence helpers (1 week ago)
-- [muesli/gitty](https://github.com/muesli/gitty) - Contextual information about your git projects, right on the command-line (1 month ago)
 - [muesli/go-razer](https://github.com/muesli/go-razer) - Go library to control Razer (Chroma) devices (1 month ago)
+- [muesli/gitty](https://github.com/muesli/gitty) - Contextual information about your git projects, right on the command-line (1 month ago)
 - [charmbracelet/keygen](https://github.com/charmbracelet/keygen) - An SSH key pair generator (1 month ago)
 
 #### 🌱 My latest projects
@@ -36,11 +36,11 @@ of other projects. Curious what I've been hacking on recently?
 
 #### 🔨 Latest Pull Requests I published
 
+- [Update README desc](https://github.com/muesli/ansi/pull/4) on [muesli/ansi](https://github.com/muesli/ansi) (today)
+- [Add README badges](https://github.com/muesli/ansi/pull/3) on [muesli/ansi](https://github.com/muesli/ansi) (today)
+- [Add generic ANSI writer example](https://github.com/muesli/ansi/pull/2) on [muesli/ansi](https://github.com/muesli/ansi) (today)
+- [Add compressor example](https://github.com/muesli/ansi/pull/1) on [muesli/ansi](https://github.com/muesli/ansi) (today)
 - [Avoid accessing loop value&#39;s reference](https://github.com/muesli/gitty/pull/18) on [muesli/gitty](https://github.com/muesli/gitty) (1 month ago)
-- [Make gitty provider agnostic and support GitLab instances](https://github.com/muesli/gitty/pull/17) on [muesli/gitty](https://github.com/muesli/gitty) (1 month ago)
-- [Add golangci-lint config](https://github.com/charmbracelet/keygen/pull/2) on [charmbracelet/keygen](https://github.com/charmbracelet/keygen) (1 month ago)
-- [Add ToHex(color.Color) for convenience](https://github.com/muesli/gamut/pull/16) on [muesli/gamut](https://github.com/muesli/gamut) (1 month ago)
-- [Truncate strings with an ellipsis](https://github.com/muesli/gitty/pull/11) on [muesli/gitty](https://github.com/muesli/gitty) (1 month ago)
 
 #### 📜 My recent blog posts
 
