@@ -13,7 +13,7 @@ of other projects. Curious what I've been hacking on recently?
 #### 👷 Check out what I'm currently working on
 
 - [muesli/ansi](https://github.com/muesli/ansi) - Raw ANSI sequence helpers (1 week ago)
-- [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) - A powerful little TUI framework 🏗 (2 weeks ago)
+- [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) - A powerful little TUI framework 🏗 (3 weeks ago)
 - [muesli/gitty](https://github.com/muesli/gitty) - Contextual information about your git projects, right on the command-line (1 month ago)
 - [muesli/go-razer](https://github.com/muesli/go-razer) - Go library to control Razer (Chroma) devices (1 month ago)
 - [charmbracelet/keygen](https://github.com/charmbracelet/keygen) - An SSH key pair generator (1 month ago)
@@ -28,8 +28,8 @@ of other projects. Curious what I've been hacking on recently?
 
 #### 🔭 Latest releases I've contributed to
 
-- [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) ([v0.19.1](https://github.com/charmbracelet/bubbletea/releases/tag/v0.19.1), 2 days ago) - A powerful little TUI framework 🏗
-- [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) ([v0.184.0](https://github.com/goreleaser/goreleaser/releases/tag/v0.184.0), 6 days ago) - Deliver Go binaries as fast and easily as possible
+- [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) ([v0.19.1](https://github.com/charmbracelet/bubbletea/releases/tag/v0.19.1), 3 days ago) - A powerful little TUI framework 🏗
+- [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) ([v0.184.0](https://github.com/goreleaser/goreleaser/releases/tag/v0.184.0), 1 week ago) - Deliver Go binaries as fast and easily as possible
 - [InfiniTimeOrg/InfiniTime](https://github.com/InfiniTimeOrg/InfiniTime) ([1.6.0](https://github.com/InfiniTimeOrg/InfiniTime/releases/tag/1.6.0), 1 month ago) - Firmware for Pinetime smartwatch written in C/C&#43;&#43; and based on FreeRTOS
 - [charmbracelet/keygen](https://github.com/charmbracelet/keygen) ([v0.1.2](https://github.com/charmbracelet/keygen/releases/tag/v0.1.2), 1 month ago) - An SSH key pair generator
 - [muesli/kmeans](https://github.com/muesli/kmeans) ([v0.3.0](https://github.com/muesli/kmeans/releases/tag/v0.3.0), 1 month ago) - k-means clustering algorithm implementation written in Go
@@ -54,7 +54,7 @@ of other projects. Curious what I've been hacking on recently?
 
 - [nkpremices](https://github.com/nkpremices) (1 month ago)
 - [LuckierDodge](https://github.com/LuckierDodge) (1 month ago)
-- [crazy-max](https://github.com/crazy-max) (1 month ago)
+- [crazy-max](https://github.com/crazy-max) (2 months ago)
 - [ocelotsloth](https://github.com/ocelotsloth) (5 months ago)
 - [angristan](https://github.com/angristan) (5 months ago)
 
