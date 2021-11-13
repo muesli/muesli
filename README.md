@@ -16,7 +16,7 @@ of other projects. Curious what I've been hacking on recently?
 - [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) - A powerful little TUI framework 🏗 (3 weeks ago)
 - [muesli/go-razer](https://github.com/muesli/go-razer) - Go library to control Razer (Chroma) devices (1 month ago)
 - [muesli/gitty](https://github.com/muesli/gitty) - Contextual information about your git projects, right on the command-line (1 month ago)
-- [charmbracelet/keygen](https://github.com/charmbracelet/keygen) - An SSH key pair generator (1 month ago)
+- [charmbracelet/keygen](https://github.com/charmbracelet/keygen) - An SSH key pair generator (2 months ago)
 
 #### 🌱 My latest projects
 
@@ -40,7 +40,7 @@ of other projects. Curious what I've been hacking on recently?
 - [Add README badges](https://github.com/muesli/ansi/pull/3) on [muesli/ansi](https://github.com/muesli/ansi) (1 week ago)
 - [Add generic ANSI writer example](https://github.com/muesli/ansi/pull/2) on [muesli/ansi](https://github.com/muesli/ansi) (1 week ago)
 - [Add compressor example](https://github.com/muesli/ansi/pull/1) on [muesli/ansi](https://github.com/muesli/ansi) (1 week ago)
-- [Avoid accessing loop value&#39;s reference](https://github.com/muesli/gitty/pull/18) on [muesli/gitty](https://github.com/muesli/gitty) (1 month ago)
+- [Avoid accessing loop value&#39;s reference](https://github.com/muesli/gitty/pull/18) on [muesli/gitty](https://github.com/muesli/gitty) (2 months ago)
 
 #### 📜 My recent blog posts
 
