@@ -28,8 +28,8 @@ of other projects. Curious what I've been hacking on recently?
 
 #### 🔭 Latest releases I've contributed to
 
+- [InfiniTimeOrg/InfiniTime](https://github.com/InfiniTimeOrg/InfiniTime) ([1.7.1](https://github.com/InfiniTimeOrg/InfiniTime/releases/tag/1.7.1), today) - Firmware for Pinetime smartwatch written in C/C&#43;&#43; and based on FreeRTOS
 - [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) ([v1.0.0](https://github.com/goreleaser/goreleaser/releases/tag/v1.0.0), 1 day ago) - Deliver Go binaries as fast and easily as possible
-- [InfiniTimeOrg/InfiniTime](https://github.com/InfiniTimeOrg/InfiniTime) ([1.7.0](https://github.com/InfiniTimeOrg/InfiniTime/releases/tag/1.7.0), 2 days ago) - Firmware for Pinetime smartwatch written in C/C&#43;&#43; and based on FreeRTOS
 - [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) ([v0.19.1](https://github.com/charmbracelet/bubbletea/releases/tag/v0.19.1), 1 week ago) - A powerful little TUI framework 🏗
 - [charmbracelet/keygen](https://github.com/charmbracelet/keygen) ([v0.1.2](https://github.com/charmbracelet/keygen/releases/tag/v0.1.2), 2 months ago) - An SSH key pair generator
 - [muesli/kmeans](https://github.com/muesli/kmeans) ([v0.3.0](https://github.com/muesli/kmeans/releases/tag/v0.3.0), 2 months ago) - k-means clustering algorithm implementation written in Go
