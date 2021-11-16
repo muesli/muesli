@@ -36,11 +36,11 @@ of other projects. Curious what I've been hacking on recently?
 
 #### 🔨 Latest Pull Requests I published
 
+- [Fix first layer height of Artillery 0.28mm profile](https://github.com/prusa3d/PrusaSlicer-settings/pull/145) on [prusa3d/PrusaSlicer-settings](https://github.com/prusa3d/PrusaSlicer-settings) (today)
 - [Update README desc](https://github.com/muesli/ansi/pull/4) on [muesli/ansi](https://github.com/muesli/ansi) (2 weeks ago)
 - [Add README badges](https://github.com/muesli/ansi/pull/3) on [muesli/ansi](https://github.com/muesli/ansi) (2 weeks ago)
 - [Add generic ANSI writer example](https://github.com/muesli/ansi/pull/2) on [muesli/ansi](https://github.com/muesli/ansi) (2 weeks ago)
 - [Add compressor example](https://github.com/muesli/ansi/pull/1) on [muesli/ansi](https://github.com/muesli/ansi) (2 weeks ago)
-- [Avoid accessing loop value&#39;s reference](https://github.com/muesli/gitty/pull/18) on [muesli/gitty](https://github.com/muesli/gitty) (2 months ago)
 
 #### 📜 My recent blog posts
 
