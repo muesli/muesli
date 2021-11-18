@@ -12,7 +12,7 @@ of other projects. Curious what I've been hacking on recently?
 
 #### 👷 Check out what I'm currently working on
 
-- [muesli/deckmaster](https://github.com/muesli/deckmaster) - An application to control your Elgato Stream Deck on Linux (1 day ago)
+- [muesli/deckmaster](https://github.com/muesli/deckmaster) - An application to control your Elgato Stream Deck on Linux (2 days ago)
 - [muesli/ansi](https://github.com/muesli/ansi) - Raw ANSI sequence helpers (2 weeks ago)
 - [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) - A powerful little TUI framework 🏗 (1 month ago)
 - [muesli/gitty](https://github.com/muesli/gitty) - Contextual information about your git projects, right on the command-line (2 months ago)
@@ -28,15 +28,15 @@ of other projects. Curious what I've been hacking on recently?
 
 #### 🔭 Latest releases I've contributed to
 
-- [InfiniTimeOrg/InfiniTime](https://github.com/InfiniTimeOrg/InfiniTime) ([1.7.1](https://github.com/InfiniTimeOrg/InfiniTime/releases/tag/1.7.1), 2 days ago) - Firmware for Pinetime smartwatch written in C/C&#43;&#43; and based on FreeRTOS
-- [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) ([v1.0.0](https://github.com/goreleaser/goreleaser/releases/tag/v1.0.0), 3 days ago) - Deliver Go binaries as fast and easily as possible
+- [InfiniTimeOrg/InfiniTime](https://github.com/InfiniTimeOrg/InfiniTime) ([1.7.1](https://github.com/InfiniTimeOrg/InfiniTime/releases/tag/1.7.1), 3 days ago) - Firmware for Pinetime smartwatch written in C/C&#43;&#43; and based on FreeRTOS
+- [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) ([v1.0.0](https://github.com/goreleaser/goreleaser/releases/tag/v1.0.0), 4 days ago) - Deliver Go binaries as fast and easily as possible
 - [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) ([v0.19.1](https://github.com/charmbracelet/bubbletea/releases/tag/v0.19.1), 1 week ago) - A powerful little TUI framework 🏗
 - [charmbracelet/keygen](https://github.com/charmbracelet/keygen) ([v0.1.2](https://github.com/charmbracelet/keygen/releases/tag/v0.1.2), 2 months ago) - An SSH key pair generator
 - [muesli/kmeans](https://github.com/muesli/kmeans) ([v0.3.0](https://github.com/muesli/kmeans/releases/tag/v0.3.0), 2 months ago) - k-means clustering algorithm implementation written in Go
 
 #### 🔨 Latest Pull Requests I published
 
-- [Fix first layer height of Artillery 0.28mm profile](https://github.com/prusa3d/PrusaSlicer-settings/pull/145) on [prusa3d/PrusaSlicer-settings](https://github.com/prusa3d/PrusaSlicer-settings) (1 day ago)
+- [Fix first layer height of Artillery 0.28mm profile](https://github.com/prusa3d/PrusaSlicer-settings/pull/145) on [prusa3d/PrusaSlicer-settings](https://github.com/prusa3d/PrusaSlicer-settings) (2 days ago)
 - [Update README desc](https://github.com/muesli/ansi/pull/4) on [muesli/ansi](https://github.com/muesli/ansi) (2 weeks ago)
 - [Add README badges](https://github.com/muesli/ansi/pull/3) on [muesli/ansi](https://github.com/muesli/ansi) (2 weeks ago)
 - [Add generic ANSI writer example](https://github.com/muesli/ansi/pull/2) on [muesli/ansi](https://github.com/muesli/ansi) (2 weeks ago)
