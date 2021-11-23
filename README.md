@@ -12,7 +12,7 @@ of other projects. Curious what I've been hacking on recently?
 
 #### 👷 Check out what I'm currently working on
 
-- [muesli/deckmaster](https://github.com/muesli/deckmaster) - An application to control your Elgato Stream Deck on Linux (6 days ago)
+- [muesli/deckmaster](https://github.com/muesli/deckmaster) - An application to control your Elgato Stream Deck on Linux (1 week ago)
 - [muesli/ansi](https://github.com/muesli/ansi) - Raw ANSI sequence helpers (3 weeks ago)
 - [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) - A powerful little TUI framework 🏗 (1 month ago)
 - [muesli/go-razer](https://github.com/muesli/go-razer) - Go library to control Razer (Chroma) devices (2 months ago)
@@ -36,7 +36,7 @@ of other projects. Curious what I've been hacking on recently?
 
 #### 🔨 Latest Pull Requests I published
 
-- [Fix first layer height of Artillery 0.28mm profile](https://github.com/prusa3d/PrusaSlicer-settings/pull/145) on [prusa3d/PrusaSlicer-settings](https://github.com/prusa3d/PrusaSlicer-settings) (6 days ago)
+- [Fix first layer height of Artillery 0.28mm profile](https://github.com/prusa3d/PrusaSlicer-settings/pull/145) on [prusa3d/PrusaSlicer-settings](https://github.com/prusa3d/PrusaSlicer-settings) (1 week ago)
 - [Update README desc](https://github.com/muesli/ansi/pull/4) on [muesli/ansi](https://github.com/muesli/ansi) (3 weeks ago)
 - [Add README badges](https://github.com/muesli/ansi/pull/3) on [muesli/ansi](https://github.com/muesli/ansi) (3 weeks ago)
 - [Add generic ANSI writer example](https://github.com/muesli/ansi/pull/2) on [muesli/ansi](https://github.com/muesli/ansi) (3 weeks ago)
