@@ -12,8 +12,8 @@ of other projects. Curious what I've been hacking on recently?
 
 #### 👷 Check out what I'm currently working on
 
-- [muesli/obs-cli](https://github.com/muesli/obs-cli) - OBS-cli is a command-line remote control for OBS (5 days ago)
-- [dschmidt/go-layerfs](https://github.com/dschmidt/go-layerfs) - Simple wrapper around multiple fs.FS instances, recursively merging them together dynamically. (5 days ago)
+- [muesli/obs-cli](https://github.com/muesli/obs-cli) - OBS-cli is a command-line remote control for OBS (6 days ago)
+- [dschmidt/go-layerfs](https://github.com/dschmidt/go-layerfs) - Simple wrapper around multiple fs.FS instances, recursively merging them together dynamically. (6 days ago)
 - [muesli/deckmaster](https://github.com/muesli/deckmaster) - An application to control your Elgato Stream Deck on Linux (2 weeks ago)
 - [muesli/ansi](https://github.com/muesli/ansi) - Raw ANSI sequence helpers (1 month ago)
 - [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) - A powerful little TUI framework 🏗 (1 month ago)
@@ -28,7 +28,7 @@ of other projects. Curious what I've been hacking on recently?
 
 #### 🔭 Latest releases I've contributed to
 
-- [dschmidt/go-layerfs](https://github.com/dschmidt/go-layerfs) ([v0.1.0](https://github.com/dschmidt/go-layerfs/releases/tag/v0.1.0), 4 days ago) - Simple wrapper around multiple fs.FS instances, recursively merging them together dynamically.
+- [dschmidt/go-layerfs](https://github.com/dschmidt/go-layerfs) ([v0.1.0](https://github.com/dschmidt/go-layerfs/releases/tag/v0.1.0), 5 days ago) - Simple wrapper around multiple fs.FS instances, recursively merging them together dynamically.
 - [InfiniTimeOrg/InfiniTime](https://github.com/InfiniTimeOrg/InfiniTime) ([1.7.1](https://github.com/InfiniTimeOrg/InfiniTime/releases/tag/1.7.1), 2 weeks ago) - Firmware for Pinetime smartwatch written in C/C&#43;&#43; and based on FreeRTOS
 - [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) ([v0.19.1](https://github.com/charmbracelet/bubbletea/releases/tag/v0.19.1), 3 weeks ago) - A powerful little TUI framework 🏗
 - [charmbracelet/keygen](https://github.com/charmbracelet/keygen) ([v0.1.2](https://github.com/charmbracelet/keygen/releases/tag/v0.1.2), 2 months ago) - An SSH key pair generator
@@ -36,8 +36,8 @@ of other projects. Curious what I've been hacking on recently?
 
 #### 🔨 Latest Pull Requests I published
 
-- [Compress README a bit](https://github.com/muesli/obs-cli/pull/24) on [muesli/obs-cli](https://github.com/muesli/obs-cli) (5 days ago)
-- [Add GitHub workflows](https://github.com/dschmidt/go-layerfs/pull/1) on [dschmidt/go-layerfs](https://github.com/dschmidt/go-layerfs) (5 days ago)
+- [Compress README a bit](https://github.com/muesli/obs-cli/pull/24) on [muesli/obs-cli](https://github.com/muesli/obs-cli) (6 days ago)
+- [Add GitHub workflows](https://github.com/dschmidt/go-layerfs/pull/1) on [dschmidt/go-layerfs](https://github.com/dschmidt/go-layerfs) (6 days ago)
 - [Fix first layer height of Artillery 0.28mm profile](https://github.com/prusa3d/PrusaSlicer-settings/pull/145) on [prusa3d/PrusaSlicer-settings](https://github.com/prusa3d/PrusaSlicer-settings) (2 weeks ago)
 - [Update README desc](https://github.com/muesli/ansi/pull/4) on [muesli/ansi](https://github.com/muesli/ansi) (1 month ago)
 - [Add README badges](https://github.com/muesli/ansi/pull/3) on [muesli/ansi](https://github.com/muesli/ansi) (1 month ago)
@@ -56,7 +56,7 @@ of other projects. Curious what I've been hacking on recently?
 - [LuckierDodge](https://github.com/LuckierDodge) (2 months ago)
 - [crazy-max](https://github.com/crazy-max) (2 months ago)
 - [ocelotsloth](https://github.com/ocelotsloth) (5 months ago)
-- [angristan](https://github.com/angristan) (5 months ago)
+- [angristan](https://github.com/angristan) (6 months ago)
 
 #### 💬 Feedback
 
