@@ -55,7 +55,7 @@ of other projects. Curious what I've been hacking on recently?
 - [nkpremices](https://github.com/nkpremices) (2 months ago)
 - [LuckierDodge](https://github.com/LuckierDodge) (2 months ago)
 - [crazy-max](https://github.com/crazy-max) (2 months ago)
-- [ocelotsloth](https://github.com/ocelotsloth) (5 months ago)
+- [ocelotsloth](https://github.com/ocelotsloth) (6 months ago)
 - [angristan](https://github.com/angristan) (6 months ago)
 
 #### 💬 Feedback
