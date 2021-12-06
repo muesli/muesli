@@ -40,7 +40,6 @@ of other projects. Curious what I've been hacking on recently?
 - [Add GitHub workflows](https://github.com/dschmidt/go-layerfs/pull/1) on [dschmidt/go-layerfs](https://github.com/dschmidt/go-layerfs) (1 week ago)
 - [Fix first layer height of Artillery 0.28mm profile](https://github.com/prusa3d/PrusaSlicer-settings/pull/145) on [prusa3d/PrusaSlicer-settings](https://github.com/prusa3d/PrusaSlicer-settings) (2 weeks ago)
 - [Update README desc](https://github.com/muesli/ansi/pull/4) on [muesli/ansi](https://github.com/muesli/ansi) (1 month ago)
-- [Add README badges](https://github.com/muesli/ansi/pull/3) on [muesli/ansi](https://github.com/muesli/ansi) (1 month ago)
 
 #### 📜 My recent blog posts
 
