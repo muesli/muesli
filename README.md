@@ -12,11 +12,11 @@ of other projects. Curious what I've been hacking on recently?
 
 #### 👷 Check out what I'm currently working on
 
+- [charmbracelet/wish](https://github.com/charmbracelet/wish) - Make SSH apps, just like that! 💫 (today)
 - [muesli/obs-cli](https://github.com/muesli/obs-cli) - OBS-cli is a command-line remote control for OBS (1 week ago)
 - [dschmidt/go-layerfs](https://github.com/dschmidt/go-layerfs) - Simple wrapper around multiple fs.FS instances, recursively merging them together dynamically. (1 week ago)
 - [muesli/deckmaster](https://github.com/muesli/deckmaster) - An application to control your Elgato Stream Deck on Linux (2 weeks ago)
 - [muesli/ansi](https://github.com/muesli/ansi) - Raw ANSI sequence helpers (1 month ago)
-- [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) - A powerful little TUI framework 🏗 (1 month ago)
 
 #### 🌱 My latest projects
 
@@ -28,14 +28,15 @@ of other projects. Curious what I've been hacking on recently?
 
 #### 🔭 Latest releases I've contributed to
 
+- [charmbracelet/wish](https://github.com/charmbracelet/wish) ([v0.1.0](https://github.com/charmbracelet/wish/releases/tag/v0.1.0), today) - Make SSH apps, just like that! 💫
 - [dschmidt/go-layerfs](https://github.com/dschmidt/go-layerfs) ([v0.1.0](https://github.com/dschmidt/go-layerfs/releases/tag/v0.1.0), 1 week ago) - Simple wrapper around multiple fs.FS instances, recursively merging them together dynamically.
 - [InfiniTimeOrg/InfiniTime](https://github.com/InfiniTimeOrg/InfiniTime) ([1.7.1](https://github.com/InfiniTimeOrg/InfiniTime/releases/tag/1.7.1), 3 weeks ago) - Firmware for Pinetime smartwatch written in C/C&#43;&#43; and based on FreeRTOS
 - [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) ([v0.19.1](https://github.com/charmbracelet/bubbletea/releases/tag/v0.19.1), 1 month ago) - A powerful little TUI framework 🏗
 - [charmbracelet/keygen](https://github.com/charmbracelet/keygen) ([v0.1.2](https://github.com/charmbracelet/keygen/releases/tag/v0.1.2), 2 months ago) - An SSH key pair generator
-- [muesli/kmeans](https://github.com/muesli/kmeans) ([v0.3.0](https://github.com/muesli/kmeans/releases/tag/v0.3.0), 2 months ago) - k-means clustering algorithm implementation written in Go
 
 #### 🔨 Latest Pull Requests I published
 
+- [Update GitHub workflows](https://github.com/charmbracelet/wish/pull/14) on [charmbracelet/wish](https://github.com/charmbracelet/wish) (today)
 - [Compress README a bit](https://github.com/muesli/obs-cli/pull/24) on [muesli/obs-cli](https://github.com/muesli/obs-cli) (1 week ago)
 - [Add GitHub workflows](https://github.com/dschmidt/go-layerfs/pull/1) on [dschmidt/go-layerfs](https://github.com/dschmidt/go-layerfs) (1 week ago)
 - [Fix first layer height of Artillery 0.28mm profile](https://github.com/prusa3d/PrusaSlicer-settings/pull/145) on [prusa3d/PrusaSlicer-settings](https://github.com/prusa3d/PrusaSlicer-settings) (2 weeks ago)
