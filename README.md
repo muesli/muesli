@@ -12,11 +12,11 @@ of other projects. Curious what I've been hacking on recently?
 
 #### 👷 Check out what I'm currently working on
 
+- [charmbracelet/charm](https://github.com/charmbracelet/charm) - The Charm Tool and Library 🌟 (today)
 - [charmbracelet/skate](https://github.com/charmbracelet/skate) - A personal key value store 🛼 (today)
-- [charmbracelet/charm](https://github.com/charmbracelet/charm) - The Charm Tool and Library 🌟 (1 day ago)
 - [charmbracelet/wish](https://github.com/charmbracelet/wish) - Make SSH apps, just like that! 💫 (1 day ago)
-- [dschmidt/go-layerfs](https://github.com/dschmidt/go-layerfs) - Simple wrapper around multiple fs.FS instances, recursively merging them together dynamically. (1 week ago)
 - [muesli/obs-cli](https://github.com/muesli/obs-cli) - OBS-cli is a command-line remote control for OBS (1 week ago)
+- [dschmidt/go-layerfs](https://github.com/dschmidt/go-layerfs) - Simple wrapper around multiple fs.FS instances, recursively merging them together dynamically. (1 week ago)
 
 #### 🌱 My latest projects
 
@@ -36,11 +36,11 @@ of other projects. Curious what I've been hacking on recently?
 
 #### 🔨 Latest Pull Requests I published
 
+- [Enable Windows builds, disable BSD builds in GoReleaser config](https://github.com/charmbracelet/skate/pull/10) on [charmbracelet/skate](https://github.com/charmbracelet/skate) (today)
+- [Enable Windows builds, disable BSD builds in GoReleaser config](https://github.com/charmbracelet/charm/pull/28) on [charmbracelet/charm](https://github.com/charmbracelet/charm) (today)
 - [Add header art and badges, fix LICENSE link](https://github.com/charmbracelet/skate/pull/8) on [charmbracelet/skate](https://github.com/charmbracelet/skate) (1 day ago)
 - [Add GoReleaser config &amp; workflow](https://github.com/charmbracelet/skate/pull/7) on [charmbracelet/skate](https://github.com/charmbracelet/skate) (1 day ago)
 - [Update GitHub workflows](https://github.com/charmbracelet/wish/pull/14) on [charmbracelet/wish](https://github.com/charmbracelet/wish) (1 day ago)
-- [Add GitHub build &amp; lint workflow](https://github.com/charmbracelet/skate/pull/4) on [charmbracelet/skate](https://github.com/charmbracelet/skate) (6 days ago)
-- [Compress README a bit](https://github.com/muesli/obs-cli/pull/24) on [muesli/obs-cli](https://github.com/muesli/obs-cli) (1 week ago)
 
 #### 📜 My recent blog posts
 
