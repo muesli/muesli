@@ -12,11 +12,11 @@ of other projects. Curious what I've been hacking on recently?
 
 #### 👷 Check out what I'm currently working on
 
-- [charmbracelet/wish](https://github.com/charmbracelet/wish) - Make SSH apps, just like that! 💫 (today)
-- [charmbracelet/charm](https://github.com/charmbracelet/charm) - The Charm Tool and Library 🌟 (today)
-- [muesli/obs-cli](https://github.com/muesli/obs-cli) - OBS-cli is a command-line remote control for OBS (1 week ago)
+- [charmbracelet/skate](https://github.com/charmbracelet/skate) - A personal key value store 🛼 (today)
+- [charmbracelet/charm](https://github.com/charmbracelet/charm) - The Charm Tool and Library 🌟 (1 day ago)
+- [charmbracelet/wish](https://github.com/charmbracelet/wish) - Make SSH apps, just like that! 💫 (1 day ago)
 - [dschmidt/go-layerfs](https://github.com/dschmidt/go-layerfs) - Simple wrapper around multiple fs.FS instances, recursively merging them together dynamically. (1 week ago)
-- [muesli/deckmaster](https://github.com/muesli/deckmaster) - An application to control your Elgato Stream Deck on Linux (2 weeks ago)
+- [muesli/obs-cli](https://github.com/muesli/obs-cli) - OBS-cli is a command-line remote control for OBS (1 week ago)
 
 #### 🌱 My latest projects
 
@@ -28,19 +28,19 @@ of other projects. Curious what I've been hacking on recently?
 
 #### 🔭 Latest releases I've contributed to
 
-- [charmbracelet/wish](https://github.com/charmbracelet/wish) ([v0.1.1](https://github.com/charmbracelet/wish/releases/tag/v0.1.1), today) - Make SSH apps, just like that! 💫
-- [charmbracelet/charm](https://github.com/charmbracelet/charm) ([v0.9.0](https://github.com/charmbracelet/charm/releases/tag/v0.9.0), today) - The Charm Tool and Library 🌟
+- [charmbracelet/skate](https://github.com/charmbracelet/skate) ([v0.1.0](https://github.com/charmbracelet/skate/releases/tag/v0.1.0), today) - A personal key value store 🛼
+- [charmbracelet/wish](https://github.com/charmbracelet/wish) ([v0.1.1](https://github.com/charmbracelet/wish/releases/tag/v0.1.1), 1 day ago) - Make SSH apps, just like that! 💫
+- [charmbracelet/charm](https://github.com/charmbracelet/charm) ([v0.9.0](https://github.com/charmbracelet/charm/releases/tag/v0.9.0), 1 day ago) - The Charm Tool and Library 🌟
 - [dschmidt/go-layerfs](https://github.com/dschmidt/go-layerfs) ([v0.1.0](https://github.com/dschmidt/go-layerfs/releases/tag/v0.1.0), 1 week ago) - Simple wrapper around multiple fs.FS instances, recursively merging them together dynamically.
 - [InfiniTimeOrg/InfiniTime](https://github.com/InfiniTimeOrg/InfiniTime) ([1.7.1](https://github.com/InfiniTimeOrg/InfiniTime/releases/tag/1.7.1), 3 weeks ago) - Firmware for Pinetime smartwatch written in C/C&#43;&#43; and based on FreeRTOS
-- [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) ([v0.19.1](https://github.com/charmbracelet/bubbletea/releases/tag/v0.19.1), 1 month ago) - A powerful little TUI framework 🏗
 
 #### 🔨 Latest Pull Requests I published
 
-- [Update GitHub workflows](https://github.com/charmbracelet/wish/pull/14) on [charmbracelet/wish](https://github.com/charmbracelet/wish) (today)
+- [Add header art and badges, fix LICENSE link](https://github.com/charmbracelet/skate/pull/8) on [charmbracelet/skate](https://github.com/charmbracelet/skate) (1 day ago)
+- [Add GoReleaser config &amp; workflow](https://github.com/charmbracelet/skate/pull/7) on [charmbracelet/skate](https://github.com/charmbracelet/skate) (1 day ago)
+- [Update GitHub workflows](https://github.com/charmbracelet/wish/pull/14) on [charmbracelet/wish](https://github.com/charmbracelet/wish) (1 day ago)
+- [Add GitHub build &amp; lint workflow](https://github.com/charmbracelet/skate/pull/4) on [charmbracelet/skate](https://github.com/charmbracelet/skate) (6 days ago)
 - [Compress README a bit](https://github.com/muesli/obs-cli/pull/24) on [muesli/obs-cli](https://github.com/muesli/obs-cli) (1 week ago)
-- [Add GitHub workflows](https://github.com/dschmidt/go-layerfs/pull/1) on [dschmidt/go-layerfs](https://github.com/dschmidt/go-layerfs) (1 week ago)
-- [Fix first layer height of Artillery 0.28mm profile](https://github.com/prusa3d/PrusaSlicer-settings/pull/145) on [prusa3d/PrusaSlicer-settings](https://github.com/prusa3d/PrusaSlicer-settings) (2 weeks ago)
-- [Update README desc](https://github.com/muesli/ansi/pull/4) on [muesli/ansi](https://github.com/muesli/ansi) (1 month ago)
 
 #### 📜 My recent blog posts
 
