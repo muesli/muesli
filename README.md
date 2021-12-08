@@ -12,9 +12,9 @@ of other projects. Curious what I've been hacking on recently?
 
 #### 👷 Check out what I'm currently working on
 
-- [charmbracelet/charm](https://github.com/charmbracelet/charm) - The Charm Tool and Library 🌟 (today)
-- [charmbracelet/skate](https://github.com/charmbracelet/skate) - A personal key value store 🛼 (today)
-- [charmbracelet/wish](https://github.com/charmbracelet/wish) - Make SSH apps, just like that! 💫 (1 day ago)
+- [charmbracelet/charm](https://github.com/charmbracelet/charm) - The Charm Tool and Library 🌟 (1 day ago)
+- [charmbracelet/skate](https://github.com/charmbracelet/skate) - A personal key value store 🛼 (1 day ago)
+- [charmbracelet/wish](https://github.com/charmbracelet/wish) - Make SSH apps, just like that! 💫 (2 days ago)
 - [muesli/obs-cli](https://github.com/muesli/obs-cli) - OBS-cli is a command-line remote control for OBS (1 week ago)
 - [dschmidt/go-layerfs](https://github.com/dschmidt/go-layerfs) - Simple wrapper around multiple fs.FS instances, recursively merging them together dynamically. (1 week ago)
 
@@ -28,19 +28,19 @@ of other projects. Curious what I've been hacking on recently?
 
 #### 🔭 Latest releases I've contributed to
 
-- [charmbracelet/skate](https://github.com/charmbracelet/skate) ([v0.1.0](https://github.com/charmbracelet/skate/releases/tag/v0.1.0), today) - A personal key value store 🛼
-- [charmbracelet/wish](https://github.com/charmbracelet/wish) ([v0.1.1](https://github.com/charmbracelet/wish/releases/tag/v0.1.1), 1 day ago) - Make SSH apps, just like that! 💫
-- [charmbracelet/charm](https://github.com/charmbracelet/charm) ([v0.9.0](https://github.com/charmbracelet/charm/releases/tag/v0.9.0), 1 day ago) - The Charm Tool and Library 🌟
+- [charmbracelet/skate](https://github.com/charmbracelet/skate) ([v0.1.0](https://github.com/charmbracelet/skate/releases/tag/v0.1.0), 1 day ago) - A personal key value store 🛼
+- [charmbracelet/wish](https://github.com/charmbracelet/wish) ([v0.1.1](https://github.com/charmbracelet/wish/releases/tag/v0.1.1), 2 days ago) - Make SSH apps, just like that! 💫
+- [charmbracelet/charm](https://github.com/charmbracelet/charm) ([v0.9.0](https://github.com/charmbracelet/charm/releases/tag/v0.9.0), 2 days ago) - The Charm Tool and Library 🌟
 - [dschmidt/go-layerfs](https://github.com/dschmidt/go-layerfs) ([v0.1.0](https://github.com/dschmidt/go-layerfs/releases/tag/v0.1.0), 1 week ago) - Simple wrapper around multiple fs.FS instances, recursively merging them together dynamically.
 - [InfiniTimeOrg/InfiniTime](https://github.com/InfiniTimeOrg/InfiniTime) ([1.7.1](https://github.com/InfiniTimeOrg/InfiniTime/releases/tag/1.7.1), 3 weeks ago) - Firmware for Pinetime smartwatch written in C/C&#43;&#43; and based on FreeRTOS
 
 #### 🔨 Latest Pull Requests I published
 
-- [Enable Windows builds, disable BSD builds in GoReleaser config](https://github.com/charmbracelet/skate/pull/10) on [charmbracelet/skate](https://github.com/charmbracelet/skate) (today)
-- [Enable Windows builds, disable BSD builds in GoReleaser config](https://github.com/charmbracelet/charm/pull/28) on [charmbracelet/charm](https://github.com/charmbracelet/charm) (today)
-- [Add header art and badges, fix LICENSE link](https://github.com/charmbracelet/skate/pull/8) on [charmbracelet/skate](https://github.com/charmbracelet/skate) (1 day ago)
-- [Add GoReleaser config &amp; workflow](https://github.com/charmbracelet/skate/pull/7) on [charmbracelet/skate](https://github.com/charmbracelet/skate) (1 day ago)
-- [Update GitHub workflows](https://github.com/charmbracelet/wish/pull/14) on [charmbracelet/wish](https://github.com/charmbracelet/wish) (1 day ago)
+- [Enable Windows builds, disable BSD builds in GoReleaser config](https://github.com/charmbracelet/skate/pull/10) on [charmbracelet/skate](https://github.com/charmbracelet/skate) (1 day ago)
+- [Enable Windows builds, disable BSD builds in GoReleaser config](https://github.com/charmbracelet/charm/pull/28) on [charmbracelet/charm](https://github.com/charmbracelet/charm) (1 day ago)
+- [Add header art and badges, fix LICENSE link](https://github.com/charmbracelet/skate/pull/8) on [charmbracelet/skate](https://github.com/charmbracelet/skate) (2 days ago)
+- [Add GoReleaser config &amp; workflow](https://github.com/charmbracelet/skate/pull/7) on [charmbracelet/skate](https://github.com/charmbracelet/skate) (2 days ago)
+- [Update GitHub workflows](https://github.com/charmbracelet/wish/pull/14) on [charmbracelet/wish](https://github.com/charmbracelet/wish) (2 days ago)
 
 #### 📜 My recent blog posts
 
@@ -54,7 +54,7 @@ of other projects. Curious what I've been hacking on recently?
 
 - [nkpremices](https://github.com/nkpremices) (2 months ago)
 - [LuckierDodge](https://github.com/LuckierDodge) (2 months ago)
-- [crazy-max](https://github.com/crazy-max) (2 months ago)
+- [crazy-max](https://github.com/crazy-max) (3 months ago)
 - [ocelotsloth](https://github.com/ocelotsloth) (6 months ago)
 - [angristan](https://github.com/angristan) (6 months ago)
 
