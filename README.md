@@ -36,11 +36,11 @@ of other projects. Curious what I've been hacking on recently?
 
 #### 🔨 Latest Pull Requests I published
 
+- [Fix releases link in README](https://github.com/charmbracelet/soft-serve/pull/29) on [charmbracelet/soft-serve](https://github.com/charmbracelet/soft-serve) (today)
 - [Enable Windows builds, disable BSD builds in GoReleaser config](https://github.com/charmbracelet/skate/pull/10) on [charmbracelet/skate](https://github.com/charmbracelet/skate) (1 day ago)
 - [Enable Windows builds, disable BSD builds in GoReleaser config](https://github.com/charmbracelet/charm/pull/28) on [charmbracelet/charm](https://github.com/charmbracelet/charm) (1 day ago)
 - [Add header art and badges, fix LICENSE link](https://github.com/charmbracelet/skate/pull/8) on [charmbracelet/skate](https://github.com/charmbracelet/skate) (2 days ago)
 - [Add GoReleaser config &amp; workflow](https://github.com/charmbracelet/skate/pull/7) on [charmbracelet/skate](https://github.com/charmbracelet/skate) (2 days ago)
-- [Update GitHub workflows](https://github.com/charmbracelet/wish/pull/14) on [charmbracelet/wish](https://github.com/charmbracelet/wish) (2 days ago)
 
 #### 📜 My recent blog posts
 
