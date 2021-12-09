@@ -12,9 +12,9 @@ of other projects. Curious what I've been hacking on recently?
 
 #### 👷 Check out what I'm currently working on
 
+- [charmbracelet/charm](https://github.com/charmbracelet/charm) - The Charm Tool and Library 🌟 (today)
 - [charmbracelet/soft-serve](https://github.com/charmbracelet/soft-serve) - A tasty, self-hostable Git server for the command line🍦 (1 day ago)
 - [charmbracelet/skate](https://github.com/charmbracelet/skate) - A personal key value store 🛼 (2 days ago)
-- [charmbracelet/charm](https://github.com/charmbracelet/charm) - The Charm Tool and Library 🌟 (2 days ago)
 - [charmbracelet/wish](https://github.com/charmbracelet/wish) - Make SSH apps, just like that! 💫 (3 days ago)
 - [dschmidt/go-layerfs](https://github.com/dschmidt/go-layerfs) - Simple wrapper around multiple fs.FS instances, recursively merging them together dynamically. (2 weeks ago)
 
@@ -36,11 +36,11 @@ of other projects. Curious what I've been hacking on recently?
 
 #### 🔨 Latest Pull Requests I published
 
+- [Add separate goreleaser test workflow and FreeBSD support](https://github.com/charmbracelet/charm/pull/34) on [charmbracelet/charm](https://github.com/charmbracelet/charm) (today)
+- [Tidy up go.mod](https://github.com/charmbracelet/soft-serve/pull/34) on [charmbracelet/soft-serve](https://github.com/charmbracelet/soft-serve) (today)
 - [Bump modernc.org/sqlite to v1.14.2](https://github.com/charmbracelet/charm/pull/33) on [charmbracelet/charm](https://github.com/charmbracelet/charm) (today)
 - [Add --help and --version flags](https://github.com/charmbracelet/soft-serve/pull/30) on [charmbracelet/soft-serve](https://github.com/charmbracelet/soft-serve) (1 day ago)
 - [Fix releases link in README](https://github.com/charmbracelet/soft-serve/pull/29) on [charmbracelet/soft-serve](https://github.com/charmbracelet/soft-serve) (1 day ago)
-- [Enable Windows builds, disable BSD builds in GoReleaser config](https://github.com/charmbracelet/skate/pull/10) on [charmbracelet/skate](https://github.com/charmbracelet/skate) (2 days ago)
-- [Enable Windows builds, disable BSD builds in GoReleaser config](https://github.com/charmbracelet/charm/pull/28) on [charmbracelet/charm](https://github.com/charmbracelet/charm) (2 days ago)
 
 #### 📜 My recent blog posts
 
