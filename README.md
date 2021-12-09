@@ -36,11 +36,11 @@ of other projects. Curious what I've been hacking on recently?
 
 #### 🔨 Latest Pull Requests I published
 
+- [Bump modernc.org/sqlite to v1.14.2](https://github.com/charmbracelet/charm/pull/33) on [charmbracelet/charm](https://github.com/charmbracelet/charm) (today)
 - [Add --help and --version flags](https://github.com/charmbracelet/soft-serve/pull/30) on [charmbracelet/soft-serve](https://github.com/charmbracelet/soft-serve) (1 day ago)
 - [Fix releases link in README](https://github.com/charmbracelet/soft-serve/pull/29) on [charmbracelet/soft-serve](https://github.com/charmbracelet/soft-serve) (1 day ago)
 - [Enable Windows builds, disable BSD builds in GoReleaser config](https://github.com/charmbracelet/skate/pull/10) on [charmbracelet/skate](https://github.com/charmbracelet/skate) (2 days ago)
 - [Enable Windows builds, disable BSD builds in GoReleaser config](https://github.com/charmbracelet/charm/pull/28) on [charmbracelet/charm](https://github.com/charmbracelet/charm) (2 days ago)
-- [Add header art and badges, fix LICENSE link](https://github.com/charmbracelet/skate/pull/8) on [charmbracelet/skate](https://github.com/charmbracelet/skate) (3 days ago)
 
 #### 📜 My recent blog posts
 
