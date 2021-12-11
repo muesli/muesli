@@ -12,11 +12,11 @@ of other projects. Curious what I've been hacking on recently?
 
 #### 👷 Check out what I'm currently working on
 
+- [muesli/elvish-libs](https://github.com/muesli/elvish-libs) - Libs / Themes for elvish (today)
+- [charmbracelet/skate](https://github.com/charmbracelet/skate) - A personal key value store 🛼 (2 days ago)
 - [charmbracelet/soft-serve](https://github.com/charmbracelet/soft-serve) - A tasty, self-hostable Git server for the command line🍦 (2 days ago)
 - [charmbracelet/charm](https://github.com/charmbracelet/charm) - The Charm Tool and Library 🌟 (2 days ago)
-- [charmbracelet/skate](https://github.com/charmbracelet/skate) - A personal key value store 🛼 (2 days ago)
 - [charmbracelet/wish](https://github.com/charmbracelet/wish) - Make SSH apps, just like that! 💫 (5 days ago)
-- [muesli/obs-cli](https://github.com/muesli/obs-cli) - OBS-cli is a command-line remote control for OBS (2 weeks ago)
 
 #### 🌱 My latest projects
 
@@ -36,11 +36,11 @@ of other projects. Curious what I've been hacking on recently?
 
 #### 🔨 Latest Pull Requests I published
 
+- [Upgrade elvish files to v0.17 with helper tool](https://github.com/muesli/elvish-libs/pull/18) on [muesli/elvish-libs](https://github.com/muesli/elvish-libs) (today)
 - [Fix module namespace](https://github.com/charmbracelet/skate/pull/13) on [charmbracelet/skate](https://github.com/charmbracelet/skate) (2 days ago)
 - [Add separate goreleaser test workflow and FreeBSD support](https://github.com/charmbracelet/charm/pull/34) on [charmbracelet/charm](https://github.com/charmbracelet/charm) (2 days ago)
 - [Tidy up go.mod](https://github.com/charmbracelet/soft-serve/pull/34) on [charmbracelet/soft-serve](https://github.com/charmbracelet/soft-serve) (2 days ago)
 - [Bump modernc.org/sqlite to v1.14.2](https://github.com/charmbracelet/charm/pull/33) on [charmbracelet/charm](https://github.com/charmbracelet/charm) (2 days ago)
-- [Add --help and --version flags](https://github.com/charmbracelet/soft-serve/pull/30) on [charmbracelet/soft-serve](https://github.com/charmbracelet/soft-serve) (3 days ago)
 
 #### 📜 My recent blog posts
 
