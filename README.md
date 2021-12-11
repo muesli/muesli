@@ -12,10 +12,10 @@ of other projects. Curious what I've been hacking on recently?
 
 #### 👷 Check out what I'm currently working on
 
-- [charmbracelet/soft-serve](https://github.com/charmbracelet/soft-serve) - A tasty, self-hostable Git server for the command line🍦 (1 day ago)
-- [charmbracelet/charm](https://github.com/charmbracelet/charm) - The Charm Tool and Library 🌟 (1 day ago)
-- [charmbracelet/skate](https://github.com/charmbracelet/skate) - A personal key value store 🛼 (1 day ago)
-- [charmbracelet/wish](https://github.com/charmbracelet/wish) - Make SSH apps, just like that! 💫 (4 days ago)
+- [charmbracelet/soft-serve](https://github.com/charmbracelet/soft-serve) - A tasty, self-hostable Git server for the command line🍦 (2 days ago)
+- [charmbracelet/charm](https://github.com/charmbracelet/charm) - The Charm Tool and Library 🌟 (2 days ago)
+- [charmbracelet/skate](https://github.com/charmbracelet/skate) - A personal key value store 🛼 (2 days ago)
+- [charmbracelet/wish](https://github.com/charmbracelet/wish) - Make SSH apps, just like that! 💫 (5 days ago)
 - [muesli/obs-cli](https://github.com/muesli/obs-cli) - OBS-cli is a command-line remote control for OBS (2 weeks ago)
 
 #### 🌱 My latest projects
@@ -28,19 +28,19 @@ of other projects. Curious what I've been hacking on recently?
 
 #### 🔭 Latest releases I've contributed to
 
-- [charmbracelet/soft-serve](https://github.com/charmbracelet/soft-serve) ([v0.1.2](https://github.com/charmbracelet/soft-serve/releases/tag/v0.1.2), today) - A tasty, self-hostable Git server for the command line🍦
-- [charmbracelet/skate](https://github.com/charmbracelet/skate) ([v0.1.2](https://github.com/charmbracelet/skate/releases/tag/v0.1.2), 1 day ago) - A personal key value store 🛼
-- [charmbracelet/charm](https://github.com/charmbracelet/charm) ([v0.9.1](https://github.com/charmbracelet/charm/releases/tag/v0.9.1), 2 days ago) - The Charm Tool and Library 🌟
-- [charmbracelet/wish](https://github.com/charmbracelet/wish) ([v0.1.1](https://github.com/charmbracelet/wish/releases/tag/v0.1.1), 4 days ago) - Make SSH apps, just like that! 💫
+- [charmbracelet/soft-serve](https://github.com/charmbracelet/soft-serve) ([v0.1.2](https://github.com/charmbracelet/soft-serve/releases/tag/v0.1.2), 1 day ago) - A tasty, self-hostable Git server for the command line🍦
+- [charmbracelet/skate](https://github.com/charmbracelet/skate) ([v0.1.2](https://github.com/charmbracelet/skate/releases/tag/v0.1.2), 2 days ago) - A personal key value store 🛼
+- [charmbracelet/charm](https://github.com/charmbracelet/charm) ([v0.9.1](https://github.com/charmbracelet/charm/releases/tag/v0.9.1), 3 days ago) - The Charm Tool and Library 🌟
+- [charmbracelet/wish](https://github.com/charmbracelet/wish) ([v0.1.1](https://github.com/charmbracelet/wish/releases/tag/v0.1.1), 5 days ago) - Make SSH apps, just like that! 💫
 - [dschmidt/go-layerfs](https://github.com/dschmidt/go-layerfs) ([v0.1.0](https://github.com/dschmidt/go-layerfs/releases/tag/v0.1.0), 2 weeks ago) - Simple wrapper around multiple fs.FS instances, recursively merging them together dynamically.
 
 #### 🔨 Latest Pull Requests I published
 
-- [Fix module namespace](https://github.com/charmbracelet/skate/pull/13) on [charmbracelet/skate](https://github.com/charmbracelet/skate) (1 day ago)
-- [Add separate goreleaser test workflow and FreeBSD support](https://github.com/charmbracelet/charm/pull/34) on [charmbracelet/charm](https://github.com/charmbracelet/charm) (1 day ago)
-- [Tidy up go.mod](https://github.com/charmbracelet/soft-serve/pull/34) on [charmbracelet/soft-serve](https://github.com/charmbracelet/soft-serve) (1 day ago)
-- [Bump modernc.org/sqlite to v1.14.2](https://github.com/charmbracelet/charm/pull/33) on [charmbracelet/charm](https://github.com/charmbracelet/charm) (1 day ago)
-- [Add --help and --version flags](https://github.com/charmbracelet/soft-serve/pull/30) on [charmbracelet/soft-serve](https://github.com/charmbracelet/soft-serve) (2 days ago)
+- [Fix module namespace](https://github.com/charmbracelet/skate/pull/13) on [charmbracelet/skate](https://github.com/charmbracelet/skate) (2 days ago)
+- [Add separate goreleaser test workflow and FreeBSD support](https://github.com/charmbracelet/charm/pull/34) on [charmbracelet/charm](https://github.com/charmbracelet/charm) (2 days ago)
+- [Tidy up go.mod](https://github.com/charmbracelet/soft-serve/pull/34) on [charmbracelet/soft-serve](https://github.com/charmbracelet/soft-serve) (2 days ago)
+- [Bump modernc.org/sqlite to v1.14.2](https://github.com/charmbracelet/charm/pull/33) on [charmbracelet/charm](https://github.com/charmbracelet/charm) (2 days ago)
+- [Add --help and --version flags](https://github.com/charmbracelet/soft-serve/pull/30) on [charmbracelet/soft-serve](https://github.com/charmbracelet/soft-serve) (3 days ago)
 
 #### 📜 My recent blog posts
 
