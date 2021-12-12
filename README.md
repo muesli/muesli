@@ -12,11 +12,11 @@ of other projects. Curious what I've been hacking on recently?
 
 #### 👷 Check out what I'm currently working on
 
-- [muesli/elvish-libs](https://github.com/muesli/elvish-libs) - Libs / Themes for elvish (today)
-- [charmbracelet/skate](https://github.com/charmbracelet/skate) - A personal key value store 🛼 (2 days ago)
-- [charmbracelet/soft-serve](https://github.com/charmbracelet/soft-serve) - A tasty, self-hostable Git server for the command line🍦 (2 days ago)
-- [charmbracelet/charm](https://github.com/charmbracelet/charm) - The Charm Tool and Library 🌟 (2 days ago)
-- [charmbracelet/wish](https://github.com/charmbracelet/wish) - Make SSH apps, just like that! 💫 (5 days ago)
+- [muesli/homebrew-tap](https://github.com/muesli/homebrew-tap) - muesli&#39;s Homebrew tap (today)
+- [muesli/obs-cli](https://github.com/muesli/obs-cli) - OBS-cli is a command-line remote control for OBS (today)
+- [muesli/elvish-libs](https://github.com/muesli/elvish-libs) - Libs / Themes for elvish (1 day ago)
+- [charmbracelet/charm](https://github.com/charmbracelet/charm) - The Charm Tool and Library 🌟 (3 days ago)
+- [charmbracelet/skate](https://github.com/charmbracelet/skate) - A personal key value store 🛼 (3 days ago)
 
 #### 🌱 My latest projects
 
@@ -28,19 +28,19 @@ of other projects. Curious what I've been hacking on recently?
 
 #### 🔭 Latest releases I've contributed to
 
-- [charmbracelet/soft-serve](https://github.com/charmbracelet/soft-serve) ([v0.1.2](https://github.com/charmbracelet/soft-serve/releases/tag/v0.1.2), 1 day ago) - A tasty, self-hostable Git server for the command line🍦
-- [charmbracelet/skate](https://github.com/charmbracelet/skate) ([v0.1.2](https://github.com/charmbracelet/skate/releases/tag/v0.1.2), 2 days ago) - A personal key value store 🛼
-- [charmbracelet/charm](https://github.com/charmbracelet/charm) ([v0.9.1](https://github.com/charmbracelet/charm/releases/tag/v0.9.1), 3 days ago) - The Charm Tool and Library 🌟
-- [charmbracelet/wish](https://github.com/charmbracelet/wish) ([v0.1.1](https://github.com/charmbracelet/wish/releases/tag/v0.1.1), 5 days ago) - Make SSH apps, just like that! 💫
-- [dschmidt/go-layerfs](https://github.com/dschmidt/go-layerfs) ([v0.1.0](https://github.com/dschmidt/go-layerfs/releases/tag/v0.1.0), 2 weeks ago) - Simple wrapper around multiple fs.FS instances, recursively merging them together dynamically.
+- [muesli/obs-cli](https://github.com/muesli/obs-cli) ([v0.3.0](https://github.com/muesli/obs-cli/releases/tag/v0.3.0), 1 day ago) - OBS-cli is a command-line remote control for OBS
+- [charmbracelet/soft-serve](https://github.com/charmbracelet/soft-serve) ([v0.1.2](https://github.com/charmbracelet/soft-serve/releases/tag/v0.1.2), 2 days ago) - A tasty, self-hostable Git server for the command line🍦
+- [charmbracelet/skate](https://github.com/charmbracelet/skate) ([v0.1.2](https://github.com/charmbracelet/skate/releases/tag/v0.1.2), 3 days ago) - A personal key value store 🛼
+- [charmbracelet/charm](https://github.com/charmbracelet/charm) ([v0.9.1](https://github.com/charmbracelet/charm/releases/tag/v0.9.1), 4 days ago) - The Charm Tool and Library 🌟
+- [charmbracelet/wish](https://github.com/charmbracelet/wish) ([v0.1.1](https://github.com/charmbracelet/wish/releases/tag/v0.1.1), 6 days ago) - Make SSH apps, just like that! 💫
 
 #### 🔨 Latest Pull Requests I published
 
-- [Upgrade elvish files to v0.17 with helper tool](https://github.com/muesli/elvish-libs/pull/18) on [muesli/elvish-libs](https://github.com/muesli/elvish-libs) (today)
-- [Fix module namespace](https://github.com/charmbracelet/skate/pull/13) on [charmbracelet/skate](https://github.com/charmbracelet/skate) (2 days ago)
-- [Add separate goreleaser test workflow and FreeBSD support](https://github.com/charmbracelet/charm/pull/34) on [charmbracelet/charm](https://github.com/charmbracelet/charm) (2 days ago)
-- [Tidy up go.mod](https://github.com/charmbracelet/soft-serve/pull/34) on [charmbracelet/soft-serve](https://github.com/charmbracelet/soft-serve) (2 days ago)
-- [Bump modernc.org/sqlite to v1.14.2](https://github.com/charmbracelet/charm/pull/33) on [charmbracelet/charm](https://github.com/charmbracelet/charm) (2 days ago)
+- [Upgrade elvish files to v0.17 with helper tool](https://github.com/muesli/elvish-libs/pull/18) on [muesli/elvish-libs](https://github.com/muesli/elvish-libs) (1 day ago)
+- [Fix module namespace](https://github.com/charmbracelet/skate/pull/13) on [charmbracelet/skate](https://github.com/charmbracelet/skate) (3 days ago)
+- [Add separate goreleaser test workflow and FreeBSD support](https://github.com/charmbracelet/charm/pull/34) on [charmbracelet/charm](https://github.com/charmbracelet/charm) (3 days ago)
+- [Tidy up go.mod](https://github.com/charmbracelet/soft-serve/pull/34) on [charmbracelet/soft-serve](https://github.com/charmbracelet/soft-serve) (3 days ago)
+- [Bump modernc.org/sqlite to v1.14.2](https://github.com/charmbracelet/charm/pull/33) on [charmbracelet/charm](https://github.com/charmbracelet/charm) (3 days ago)
 
 #### 📜 My recent blog posts
 
@@ -53,7 +53,7 @@ of other projects. Curious what I've been hacking on recently?
 #### ❤️ These awesome people sponsor me (thank you!)
 
 - [nkpremices](https://github.com/nkpremices) (2 months ago)
-- [LuckierDodge](https://github.com/LuckierDodge) (2 months ago)
+- [LuckierDodge](https://github.com/LuckierDodge) (3 months ago)
 - [crazy-max](https://github.com/crazy-max) (3 months ago)
 - [ocelotsloth](https://github.com/ocelotsloth) (6 months ago)
 - [angristan](https://github.com/angristan) (6 months ago)
