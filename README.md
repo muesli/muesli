@@ -13,8 +13,8 @@ of other projects. Curious what I've been hacking on recently?
 #### 👷 Check out what I'm currently working on
 
 - [muesli/gitty](https://github.com/muesli/gitty) - Contextual information about your git projects, right on the command-line (today)
+- [muesli/homebrew-tap](https://github.com/muesli/homebrew-tap) - muesli&#39;s Homebrew tap (today)
 - [muesli/obs-cli](https://github.com/muesli/obs-cli) - OBS-cli is a command-line remote control for OBS (2 days ago)
-- [muesli/homebrew-tap](https://github.com/muesli/homebrew-tap) - muesli&#39;s Homebrew tap (2 days ago)
 - [knoxite/knoxite](https://github.com/knoxite/knoxite) - A data storage &amp; backup system (3 days ago)
 - [muesli/elvish-libs](https://github.com/muesli/elvish-libs) - Libs / Themes for elvish (4 days ago)
 
@@ -28,11 +28,11 @@ of other projects. Curious what I've been hacking on recently?
 
 #### 🔭 Latest releases I've contributed to
 
+- [muesli/gitty](https://github.com/muesli/gitty) ([v0.4.0](https://github.com/muesli/gitty/releases/tag/v0.4.0), today) - Contextual information about your git projects, right on the command-line
 - [muesli/obs-cli](https://github.com/muesli/obs-cli) ([v0.3.1](https://github.com/muesli/obs-cli/releases/tag/v0.3.1), 2 days ago) - OBS-cli is a command-line remote control for OBS
 - [charmbracelet/soft-serve](https://github.com/charmbracelet/soft-serve) ([v0.1.2](https://github.com/charmbracelet/soft-serve/releases/tag/v0.1.2), 5 days ago) - A tasty, self-hostable Git server for the command line🍦
 - [charmbracelet/skate](https://github.com/charmbracelet/skate) ([v0.1.2](https://github.com/charmbracelet/skate/releases/tag/v0.1.2), 6 days ago) - A personal key value store 🛼
 - [charmbracelet/charm](https://github.com/charmbracelet/charm) ([v0.9.1](https://github.com/charmbracelet/charm/releases/tag/v0.9.1), 1 week ago) - The Charm Tool and Library 🌟
-- [charmbracelet/wish](https://github.com/charmbracelet/wish) ([v0.1.1](https://github.com/charmbracelet/wish/releases/tag/v0.1.1), 1 week ago) - Make SSH apps, just like that! 💫
 
 #### 🔨 Latest Pull Requests I published
 
