@@ -36,11 +36,11 @@ of other projects. Curious what I've been hacking on recently?
 
 #### 🔨 Latest Pull Requests I published
 
+- [Add pause controls](https://github.com/muesli/obs-cli/pull/41) on [muesli/obs-cli](https://github.com/muesli/obs-cli) (today)
+- [Bump goobs dep](https://github.com/muesli/obs-cli/pull/40) on [muesli/obs-cli](https://github.com/muesli/obs-cli) (today)
 - [Add scene collection management](https://github.com/muesli/obs-cli/pull/39) on [muesli/obs-cli](https://github.com/muesli/obs-cli) (today)
 - [Add profile management](https://github.com/muesli/obs-cli/pull/38) on [muesli/obs-cli](https://github.com/muesli/obs-cli) (today)
 - [Restore locked status of sceneitems](https://github.com/muesli/obs-cli/pull/35) on [muesli/obs-cli](https://github.com/muesli/obs-cli) (4 days ago)
-- [Generate man pages with hidden &#39;man&#39; command](https://github.com/muesli/obs-cli/pull/33) on [muesli/obs-cli](https://github.com/muesli/obs-cli) (5 days ago)
-- [Upgrade elvish files to v0.17 with helper tool](https://github.com/muesli/elvish-libs/pull/18) on [muesli/elvish-libs](https://github.com/muesli/elvish-libs) (6 days ago)
 
 #### 📜 My recent blog posts
 
