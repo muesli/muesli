@@ -28,11 +28,11 @@ of other projects. Curious what I've been hacking on recently?
 
 #### 🔭 Latest releases I've contributed to
 
+- [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) ([v0.19.2](https://github.com/charmbracelet/bubbletea/releases/tag/v0.19.2), today) - A powerful little TUI framework 🏗
 - [muesli/obs-cli](https://github.com/muesli/obs-cli) ([v0.4.0](https://github.com/muesli/obs-cli/releases/tag/v0.4.0), today) - OBS-cli is a command-line remote control for OBS
 - [charmbracelet/skate](https://github.com/charmbracelet/skate) ([v0.1.3](https://github.com/charmbracelet/skate/releases/tag/v0.1.3), 1 day ago) - A personal key value store 🛼
 - [charmbracelet/charm](https://github.com/charmbracelet/charm) ([v0.9.2](https://github.com/charmbracelet/charm/releases/tag/v0.9.2), 1 day ago) - The Charm Tool and Library 🌟
 - [muesli/gitty](https://github.com/muesli/gitty) ([v0.4.0](https://github.com/muesli/gitty/releases/tag/v0.4.0), 2 days ago) - Contextual information about your git projects, right on the command-line
-- [charmbracelet/soft-serve](https://github.com/charmbracelet/soft-serve) ([v0.1.2](https://github.com/charmbracelet/soft-serve/releases/tag/v0.1.2), 1 week ago) - A tasty, self-hostable Git server for the command line🍦
 
 #### 🔨 Latest Pull Requests I published
 
