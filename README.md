@@ -36,11 +36,11 @@ of other projects. Curious what I've been hacking on recently?
 
 #### 🔨 Latest Pull Requests I published
 
+- [Add support for virtual camera](https://github.com/muesli/obs-cli/pull/42) on [muesli/obs-cli](https://github.com/muesli/obs-cli) (today)
 - [Add pause controls](https://github.com/muesli/obs-cli/pull/41) on [muesli/obs-cli](https://github.com/muesli/obs-cli) (today)
 - [Bump goobs dep](https://github.com/muesli/obs-cli/pull/40) on [muesli/obs-cli](https://github.com/muesli/obs-cli) (today)
 - [Add scene collection management](https://github.com/muesli/obs-cli/pull/39) on [muesli/obs-cli](https://github.com/muesli/obs-cli) (today)
 - [Add profile management](https://github.com/muesli/obs-cli/pull/38) on [muesli/obs-cli](https://github.com/muesli/obs-cli) (today)
-- [Restore locked status of sceneitems](https://github.com/muesli/obs-cli/pull/35) on [muesli/obs-cli](https://github.com/muesli/obs-cli) (4 days ago)
 
 #### 📜 My recent blog posts
 
