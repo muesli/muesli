@@ -13,9 +13,9 @@ of other projects. Curious what I've been hacking on recently?
 #### 👷 Check out what I'm currently working on
 
 - [muesli/lighthouse](https://github.com/muesli/lighthouse) - A fully modular, parametric, and customizable case design. Built with OpenSCAD. (today)
+- [muesli/gitty](https://github.com/muesli/gitty) - Contextual information about your git projects, right on the command-line (today)
 - [muesli/obs-cli](https://github.com/muesli/obs-cli) - OBS-cli is a command-line remote control for OBS (today)
 - [muesli/homebrew-tap](https://github.com/muesli/homebrew-tap) - muesli&#39;s Homebrew tap (today)
-- [muesli/gitty](https://github.com/muesli/gitty) - Contextual information about your git projects, right on the command-line (2 days ago)
 - [knoxite/knoxite](https://github.com/knoxite/knoxite) - A data storage &amp; backup system (5 days ago)
 
 #### 🌱 My latest projects
@@ -36,11 +36,11 @@ of other projects. Curious what I've been hacking on recently?
 
 #### 🔨 Latest Pull Requests I published
 
+- [Fix GitLab pagination](https://github.com/muesli/gitty/pull/24) on [muesli/gitty](https://github.com/muesli/gitty) (today)
+- [Use parsed owner &amp; repo name when retrieving commit history](https://github.com/muesli/gitty/pull/23) on [muesli/gitty](https://github.com/muesli/gitty) (today)
 - [Add support for virtual camera](https://github.com/muesli/obs-cli/pull/42) on [muesli/obs-cli](https://github.com/muesli/obs-cli) (today)
 - [Add pause controls](https://github.com/muesli/obs-cli/pull/41) on [muesli/obs-cli](https://github.com/muesli/obs-cli) (today)
 - [Bump goobs dep](https://github.com/muesli/obs-cli/pull/40) on [muesli/obs-cli](https://github.com/muesli/obs-cli) (today)
-- [Add scene collection management](https://github.com/muesli/obs-cli/pull/39) on [muesli/obs-cli](https://github.com/muesli/obs-cli) (today)
-- [Add profile management](https://github.com/muesli/obs-cli/pull/38) on [muesli/obs-cli](https://github.com/muesli/obs-cli) (today)
 
 #### 📜 My recent blog posts
 
