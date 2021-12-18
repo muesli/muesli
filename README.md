@@ -36,11 +36,11 @@ of other projects. Curious what I've been hacking on recently?
 
 #### 🔨 Latest Pull Requests I published
 
+- [Support resolving SSH config stanzas](https://github.com/muesli/gitty/pull/25) on [muesli/gitty](https://github.com/muesli/gitty) (today)
 - [Fix GitLab pagination](https://github.com/muesli/gitty/pull/24) on [muesli/gitty](https://github.com/muesli/gitty) (1 day ago)
 - [Use parsed owner &amp; repo name when retrieving commit history](https://github.com/muesli/gitty/pull/23) on [muesli/gitty](https://github.com/muesli/gitty) (1 day ago)
 - [Add support for virtual camera](https://github.com/muesli/obs-cli/pull/42) on [muesli/obs-cli](https://github.com/muesli/obs-cli) (1 day ago)
 - [Add pause controls](https://github.com/muesli/obs-cli/pull/41) on [muesli/obs-cli](https://github.com/muesli/obs-cli) (1 day ago)
-- [Bump goobs dep](https://github.com/muesli/obs-cli/pull/40) on [muesli/obs-cli](https://github.com/muesli/obs-cli) (1 day ago)
 
 #### 📜 My recent blog posts
 
