@@ -12,11 +12,11 @@ of other projects. Curious what I've been hacking on recently?
 
 #### 👷 Check out what I'm currently working on
 
+- [muesli/duf](https://github.com/muesli/duf) - Disk Usage/Free Utility - a better &#39;df&#39; alternative (today)
 - [muesli/homebrew-tap](https://github.com/muesli/homebrew-tap) - muesli&#39;s Homebrew tap (1 day ago)
 - [muesli/lighthouse](https://github.com/muesli/lighthouse) - A fully modular, parametric, and customizable case design. Built with OpenSCAD. (2 days ago)
 - [muesli/gitty](https://github.com/muesli/gitty) - Contextual information about your git projects, right on the command-line (2 days ago)
 - [muesli/obs-cli](https://github.com/muesli/obs-cli) - OBS-cli is a command-line remote control for OBS (2 days ago)
-- [knoxite/knoxite](https://github.com/knoxite/knoxite) - A data storage &amp; backup system (1 week ago)
 
 #### 🌱 My latest projects
 
@@ -36,11 +36,11 @@ of other projects. Curious what I've been hacking on recently?
 
 #### 🔨 Latest Pull Requests I published
 
+- [Remove unmaintained snap package](https://github.com/muesli/duf/pull/150) on [muesli/duf](https://github.com/muesli/duf) (today)
+- [Bump go-pretty to v6.2.4](https://github.com/muesli/duf/pull/149) on [muesli/duf](https://github.com/muesli/duf) (today)
 - [Support resolving SSH config stanzas](https://github.com/muesli/gitty/pull/25) on [muesli/gitty](https://github.com/muesli/gitty) (1 day ago)
 - [Fix GitLab pagination](https://github.com/muesli/gitty/pull/24) on [muesli/gitty](https://github.com/muesli/gitty) (2 days ago)
 - [Use parsed owner &amp; repo name when retrieving commit history](https://github.com/muesli/gitty/pull/23) on [muesli/gitty](https://github.com/muesli/gitty) (2 days ago)
-- [Add support for virtual camera](https://github.com/muesli/obs-cli/pull/42) on [muesli/obs-cli](https://github.com/muesli/obs-cli) (2 days ago)
-- [Add pause controls](https://github.com/muesli/obs-cli/pull/41) on [muesli/obs-cli](https://github.com/muesli/obs-cli) (2 days ago)
 
 #### 📜 My recent blog posts
 
