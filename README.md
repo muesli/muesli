@@ -12,11 +12,11 @@ of other projects. Curious what I've been hacking on recently?
 
 #### 👷 Check out what I'm currently working on
 
+- [muesli/deckmaster](https://github.com/muesli/deckmaster) - An application to control your Elgato Stream Deck on Linux (today)
 - [muesli/duf](https://github.com/muesli/duf) - Disk Usage/Free Utility - a better &#39;df&#39; alternative (2 days ago)
 - [muesli/homebrew-tap](https://github.com/muesli/homebrew-tap) - muesli&#39;s Homebrew tap (4 days ago)
 - [muesli/lighthouse](https://github.com/muesli/lighthouse) - A fully modular, parametric, and customizable case design. Built with OpenSCAD. (5 days ago)
 - [muesli/gitty](https://github.com/muesli/gitty) - Contextual information about your git projects, right on the command-line (5 days ago)
-- [muesli/obs-cli](https://github.com/muesli/obs-cli) - OBS-cli is a command-line remote control for OBS (5 days ago)
 
 #### 🌱 My latest projects
 
@@ -28,11 +28,11 @@ of other projects. Curious what I've been hacking on recently?
 
 #### 🔭 Latest releases I've contributed to
 
+- [muesli/deckmaster](https://github.com/muesli/deckmaster) ([v0.6.0](https://github.com/muesli/deckmaster/releases/tag/v0.6.0), today) - An application to control your Elgato Stream Deck on Linux
+- [muesli/streamdeck](https://github.com/muesli/streamdeck) ([v0.2.2](https://github.com/muesli/streamdeck/releases/tag/v0.2.2), today) - An application and Go library to control your Elgato Stream Deck on Linux
 - [muesli/gitty](https://github.com/muesli/gitty) ([v0.4.1](https://github.com/muesli/gitty/releases/tag/v0.4.1), 4 days ago) - Contextual information about your git projects, right on the command-line
 - [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) ([v0.19.2](https://github.com/charmbracelet/bubbletea/releases/tag/v0.19.2), 5 days ago) - A powerful little TUI framework 🏗
 - [muesli/obs-cli](https://github.com/muesli/obs-cli) ([v0.4.0](https://github.com/muesli/obs-cli/releases/tag/v0.4.0), 5 days ago) - OBS-cli is a command-line remote control for OBS
-- [charmbracelet/skate](https://github.com/charmbracelet/skate) ([v0.1.3](https://github.com/charmbracelet/skate/releases/tag/v0.1.3), 6 days ago) - A personal key value store 🛼
-- [charmbracelet/charm](https://github.com/charmbracelet/charm) ([v0.9.2](https://github.com/charmbracelet/charm/releases/tag/v0.9.2), 6 days ago) - The Charm Tool and Library 🌟
 
 #### 🔨 Latest Pull Requests I published
 
