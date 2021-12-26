@@ -13,10 +13,10 @@ of other projects. Curious what I've been hacking on recently?
 #### 👷 Check out what I'm currently working on
 
 - [muesli/gitty](https://github.com/muesli/gitty) - Contextual information about your git projects, right on the command-line (today)
+- [muesli/homebrew-tap](https://github.com/muesli/homebrew-tap) - muesli&#39;s Homebrew tap (today)
 - [muesli/obs-cli](https://github.com/muesli/obs-cli) - OBS-cli is a command-line remote control for OBS (3 days ago)
 - [muesli/deckmaster](https://github.com/muesli/deckmaster) - An application to control your Elgato Stream Deck on Linux (4 days ago)
 - [muesli/duf](https://github.com/muesli/duf) - Disk Usage/Free Utility - a better &#39;df&#39; alternative (6 days ago)
-- [muesli/homebrew-tap](https://github.com/muesli/homebrew-tap) - muesli&#39;s Homebrew tap (1 week ago)
 
 #### 🌱 My latest projects
 
@@ -28,9 +28,9 @@ of other projects. Curious what I've been hacking on recently?
 
 #### 🔭 Latest releases I've contributed to
 
+- [muesli/gitty](https://github.com/muesli/gitty) ([v0.5.0](https://github.com/muesli/gitty/releases/tag/v0.5.0), today) - Contextual information about your git projects, right on the command-line
 - [muesli/deckmaster](https://github.com/muesli/deckmaster) ([v0.6.0](https://github.com/muesli/deckmaster/releases/tag/v0.6.0), 4 days ago) - An application to control your Elgato Stream Deck on Linux
 - [muesli/streamdeck](https://github.com/muesli/streamdeck) ([v0.2.2](https://github.com/muesli/streamdeck/releases/tag/v0.2.2), 4 days ago) - An application and Go library to control your Elgato Stream Deck on Linux
-- [muesli/gitty](https://github.com/muesli/gitty) ([v0.4.1](https://github.com/muesli/gitty/releases/tag/v0.4.1), 1 week ago) - Contextual information about your git projects, right on the command-line
 - [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) ([v0.19.2](https://github.com/charmbracelet/bubbletea/releases/tag/v0.19.2), 1 week ago) - A powerful little TUI framework 🏗
 - [muesli/obs-cli](https://github.com/muesli/obs-cli) ([v0.4.0](https://github.com/muesli/obs-cli/releases/tag/v0.4.0), 1 week ago) - OBS-cli is a command-line remote control for OBS
 
