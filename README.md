@@ -28,11 +28,11 @@ of other projects. Curious what I've been hacking on recently?
 
 #### 🔭 Latest releases I've contributed to
 
+- [andreykaipov/goobs](https://github.com/andreykaipov/goobs) ([v0.8.0](https://github.com/andreykaipov/goobs/releases/tag/v0.8.0), today) - Go client library to control OBS Studio via WebSockets.
 - [muesli/gamut](https://github.com/muesli/gamut) ([v0.3.0](https://github.com/muesli/gamut/releases/tag/v0.3.0), 1 day ago) - Go package to generate and manage color palettes &amp; schemes 🎨
 - [muesli/gitty](https://github.com/muesli/gitty) ([v0.5.0](https://github.com/muesli/gitty/releases/tag/v0.5.0), 3 days ago) - Contextual information about your git projects, right on the command-line
 - [muesli/deckmaster](https://github.com/muesli/deckmaster) ([v0.6.0](https://github.com/muesli/deckmaster/releases/tag/v0.6.0), 1 week ago) - An application to control your Elgato Stream Deck on Linux
 - [muesli/streamdeck](https://github.com/muesli/streamdeck) ([v0.2.2](https://github.com/muesli/streamdeck/releases/tag/v0.2.2), 1 week ago) - An application and Go library to control your Elgato Stream Deck on Linux
-- [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) ([v0.19.2](https://github.com/charmbracelet/bubbletea/releases/tag/v0.19.2), 1 week ago) - A powerful little TUI framework 🏗
 
 #### 🔨 Latest Pull Requests I published
 
