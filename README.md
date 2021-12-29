@@ -12,11 +12,11 @@ of other projects. Curious what I've been hacking on recently?
 
 #### 👷 Check out what I'm currently working on
 
-- [muesli/gamut](https://github.com/muesli/gamut) - Go package to generate and manage color palettes &amp; schemes 🎨 (today)
-- [muesli/gitty](https://github.com/muesli/gitty) - Contextual information about your git projects, right on the command-line (2 days ago)
-- [muesli/homebrew-tap](https://github.com/muesli/homebrew-tap) - muesli&#39;s Homebrew tap (2 days ago)
-- [muesli/obs-cli](https://github.com/muesli/obs-cli) - OBS-cli is a command-line remote control for OBS (5 days ago)
-- [muesli/deckmaster](https://github.com/muesli/deckmaster) - An application to control your Elgato Stream Deck on Linux (6 days ago)
+- [muesli/gamut](https://github.com/muesli/gamut) - Go package to generate and manage color palettes &amp; schemes 🎨 (1 day ago)
+- [muesli/gitty](https://github.com/muesli/gitty) - Contextual information about your git projects, right on the command-line (3 days ago)
+- [muesli/homebrew-tap](https://github.com/muesli/homebrew-tap) - muesli&#39;s Homebrew tap (3 days ago)
+- [muesli/obs-cli](https://github.com/muesli/obs-cli) - OBS-cli is a command-line remote control for OBS (6 days ago)
+- [muesli/deckmaster](https://github.com/muesli/deckmaster) - An application to control your Elgato Stream Deck on Linux (1 week ago)
 
 #### 🌱 My latest projects
 
@@ -28,16 +28,16 @@ of other projects. Curious what I've been hacking on recently?
 
 #### 🔭 Latest releases I've contributed to
 
-- [muesli/gamut](https://github.com/muesli/gamut) ([v0.3.0](https://github.com/muesli/gamut/releases/tag/v0.3.0), today) - Go package to generate and manage color palettes &amp; schemes 🎨
-- [muesli/gitty](https://github.com/muesli/gitty) ([v0.5.0](https://github.com/muesli/gitty/releases/tag/v0.5.0), 2 days ago) - Contextual information about your git projects, right on the command-line
-- [muesli/deckmaster](https://github.com/muesli/deckmaster) ([v0.6.0](https://github.com/muesli/deckmaster/releases/tag/v0.6.0), 6 days ago) - An application to control your Elgato Stream Deck on Linux
-- [muesli/streamdeck](https://github.com/muesli/streamdeck) ([v0.2.2](https://github.com/muesli/streamdeck/releases/tag/v0.2.2), 6 days ago) - An application and Go library to control your Elgato Stream Deck on Linux
+- [muesli/gamut](https://github.com/muesli/gamut) ([v0.3.0](https://github.com/muesli/gamut/releases/tag/v0.3.0), 1 day ago) - Go package to generate and manage color palettes &amp; schemes 🎨
+- [muesli/gitty](https://github.com/muesli/gitty) ([v0.5.0](https://github.com/muesli/gitty/releases/tag/v0.5.0), 3 days ago) - Contextual information about your git projects, right on the command-line
+- [muesli/deckmaster](https://github.com/muesli/deckmaster) ([v0.6.0](https://github.com/muesli/deckmaster/releases/tag/v0.6.0), 1 week ago) - An application to control your Elgato Stream Deck on Linux
+- [muesli/streamdeck](https://github.com/muesli/streamdeck) ([v0.2.2](https://github.com/muesli/streamdeck/releases/tag/v0.2.2), 1 week ago) - An application and Go library to control your Elgato Stream Deck on Linux
 - [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) ([v0.19.2](https://github.com/charmbracelet/bubbletea/releases/tag/v0.19.2), 1 week ago) - A powerful little TUI framework 🏗
 
 #### 🔨 Latest Pull Requests I published
 
-- [Add support for gitea instances](https://github.com/muesli/gitty/pull/27) on [muesli/gitty](https://github.com/muesli/gitty) (3 days ago)
-- [Add replay buffer commands](https://github.com/muesli/obs-cli/pull/44) on [muesli/obs-cli](https://github.com/muesli/obs-cli) (5 days ago)
+- [Add support for gitea instances](https://github.com/muesli/gitty/pull/27) on [muesli/gitty](https://github.com/muesli/gitty) (4 days ago)
+- [Add replay buffer commands](https://github.com/muesli/obs-cli/pull/44) on [muesli/obs-cli](https://github.com/muesli/obs-cli) (6 days ago)
 - [Remove unmaintained snap package](https://github.com/muesli/duf/pull/150) on [muesli/duf](https://github.com/muesli/duf) (1 week ago)
 - [Bump go-pretty to v6.2.4](https://github.com/muesli/duf/pull/149) on [muesli/duf](https://github.com/muesli/duf) (1 week ago)
 - [Support resolving SSH config stanzas](https://github.com/muesli/gitty/pull/25) on [muesli/gitty](https://github.com/muesli/gitty) (1 week ago)
