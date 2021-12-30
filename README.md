@@ -12,8 +12,8 @@ of other projects. Curious what I've been hacking on recently?
 
 #### 👷 Check out what I'm currently working on
 
+- [muesli/gitty](https://github.com/muesli/gitty) - Contextual information about your git projects, right on the command-line (today)
 - [muesli/gamut](https://github.com/muesli/gamut) - Go package to generate and manage color palettes &amp; schemes 🎨 (2 days ago)
-- [muesli/gitty](https://github.com/muesli/gitty) - Contextual information about your git projects, right on the command-line (4 days ago)
 - [muesli/homebrew-tap](https://github.com/muesli/homebrew-tap) - muesli&#39;s Homebrew tap (4 days ago)
 - [muesli/obs-cli](https://github.com/muesli/obs-cli) - OBS-cli is a command-line remote control for OBS (1 week ago)
 - [muesli/deckmaster](https://github.com/muesli/deckmaster) - An application to control your Elgato Stream Deck on Linux (1 week ago)
@@ -36,11 +36,11 @@ of other projects. Curious what I've been hacking on recently?
 
 #### 🔨 Latest Pull Requests I published
 
+- [Support projects within (sub-)groups on GitLab](https://github.com/muesli/gitty/pull/31) on [muesli/gitty](https://github.com/muesli/gitty) (today)
 - [Add support for gitea instances](https://github.com/muesli/gitty/pull/27) on [muesli/gitty](https://github.com/muesli/gitty) (5 days ago)
 - [Add replay buffer commands](https://github.com/muesli/obs-cli/pull/44) on [muesli/obs-cli](https://github.com/muesli/obs-cli) (1 week ago)
 - [Remove unmaintained snap package](https://github.com/muesli/duf/pull/150) on [muesli/duf](https://github.com/muesli/duf) (1 week ago)
 - [Bump go-pretty to v6.2.4](https://github.com/muesli/duf/pull/149) on [muesli/duf](https://github.com/muesli/duf) (1 week ago)
-- [Support resolving SSH config stanzas](https://github.com/muesli/gitty/pull/25) on [muesli/gitty](https://github.com/muesli/gitty) (1 week ago)
 
 #### 📜 My recent blog posts
 
