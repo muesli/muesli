@@ -36,11 +36,11 @@ of other projects. Curious what I've been hacking on recently?
 
 #### 🔨 Latest Pull Requests I published
 
+- [Bump gitea, gamut, go-gitlab deps](https://github.com/muesli/gitty/pull/35) on [muesli/gitty](https://github.com/muesli/gitty) (today)
 - [Support projects within (sub-)groups on GitLab](https://github.com/muesli/gitty/pull/31) on [muesli/gitty](https://github.com/muesli/gitty) (6 days ago)
 - [Add support for gitea instances](https://github.com/muesli/gitty/pull/27) on [muesli/gitty](https://github.com/muesli/gitty) (1 week ago)
 - [Add replay buffer commands](https://github.com/muesli/obs-cli/pull/44) on [muesli/obs-cli](https://github.com/muesli/obs-cli) (1 week ago)
 - [Remove unmaintained snap package](https://github.com/muesli/duf/pull/150) on [muesli/duf](https://github.com/muesli/duf) (2 weeks ago)
-- [Bump go-pretty to v6.2.4](https://github.com/muesli/duf/pull/149) on [muesli/duf](https://github.com/muesli/duf) (2 weeks ago)
 
 #### 📜 My recent blog posts
 
