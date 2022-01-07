@@ -28,11 +28,11 @@ of other projects. Curious what I've been hacking on recently?
 
 #### 🔭 Latest releases I've contributed to
 
+- [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) ([v0.19.3](https://github.com/charmbracelet/bubbletea/releases/tag/v0.19.3), today) - A powerful little TUI framework 🏗
 - [InfiniTimeOrg/InfiniTime](https://github.com/InfiniTimeOrg/InfiniTime) ([1.8.0](https://github.com/InfiniTimeOrg/InfiniTime/releases/tag/1.8.0), today) - Firmware for Pinetime smartwatch written in C/C&#43;&#43; and based on FreeRTOS
 - [muesli/go-app-paths](https://github.com/muesli/go-app-paths) ([v0.2.2](https://github.com/muesli/go-app-paths/releases/tag/v0.2.2), 4 days ago) - Lets you retrieve platform-specific paths (like directories for app-data, cache, config, and logs)
 - [muesli/gitty](https://github.com/muesli/gitty) ([v0.6.0](https://github.com/muesli/gitty/releases/tag/v0.6.0), 1 week ago) - Contextual information about your git projects, right on the command-line
 - [andreykaipov/goobs](https://github.com/andreykaipov/goobs) ([v0.8.0](https://github.com/andreykaipov/goobs/releases/tag/v0.8.0), 1 week ago) - Go client library to control OBS Studio via WebSockets.
-- [muesli/gamut](https://github.com/muesli/gamut) ([v0.3.0](https://github.com/muesli/gamut/releases/tag/v0.3.0), 1 week ago) - Go package to generate and manage color palettes &amp; schemes 🎨
 
 #### 🔨 Latest Pull Requests I published
 
