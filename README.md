@@ -12,7 +12,7 @@ of other projects. Curious what I've been hacking on recently?
 
 #### 👷 Check out what I'm currently working on
 
-- [muesli/go-app-paths](https://github.com/muesli/go-app-paths) - Lets you retrieve platform-specific paths (like directories for app-data, cache, config, and logs) (3 days ago)
+- [muesli/go-app-paths](https://github.com/muesli/go-app-paths) - Lets you retrieve platform-specific paths (like directories for app-data, cache, config, and logs) (4 days ago)
 - [muesli/homebrew-tap](https://github.com/muesli/homebrew-tap) - muesli&#39;s Homebrew tap (1 week ago)
 - [muesli/gitty](https://github.com/muesli/gitty) - Contextual information about your git projects, right on the command-line (1 week ago)
 - [muesli/gamut](https://github.com/muesli/gamut) - Go package to generate and manage color palettes &amp; schemes 🎨 (1 week ago)
@@ -28,7 +28,7 @@ of other projects. Curious what I've been hacking on recently?
 
 #### 🔭 Latest releases I've contributed to
 
-- [muesli/go-app-paths](https://github.com/muesli/go-app-paths) ([v0.2.2](https://github.com/muesli/go-app-paths/releases/tag/v0.2.2), 3 days ago) - Lets you retrieve platform-specific paths (like directories for app-data, cache, config, and logs)
+- [muesli/go-app-paths](https://github.com/muesli/go-app-paths) ([v0.2.2](https://github.com/muesli/go-app-paths/releases/tag/v0.2.2), 4 days ago) - Lets you retrieve platform-specific paths (like directories for app-data, cache, config, and logs)
 - [muesli/gitty](https://github.com/muesli/gitty) ([v0.6.0](https://github.com/muesli/gitty/releases/tag/v0.6.0), 1 week ago) - Contextual information about your git projects, right on the command-line
 - [andreykaipov/goobs](https://github.com/andreykaipov/goobs) ([v0.8.0](https://github.com/andreykaipov/goobs/releases/tag/v0.8.0), 1 week ago) - Go client library to control OBS Studio via WebSockets.
 - [muesli/gamut](https://github.com/muesli/gamut) ([v0.3.0](https://github.com/muesli/gamut/releases/tag/v0.3.0), 1 week ago) - Go package to generate and manage color palettes &amp; schemes 🎨
@@ -36,7 +36,7 @@ of other projects. Curious what I've been hacking on recently?
 
 #### 🔨 Latest Pull Requests I published
 
-- [Bump gitea, gamut, go-gitlab deps](https://github.com/muesli/gitty/pull/35) on [muesli/gitty](https://github.com/muesli/gitty) (1 day ago)
+- [Bump gitea, gamut, go-gitlab deps](https://github.com/muesli/gitty/pull/35) on [muesli/gitty](https://github.com/muesli/gitty) (2 days ago)
 - [Support projects within (sub-)groups on GitLab](https://github.com/muesli/gitty/pull/31) on [muesli/gitty](https://github.com/muesli/gitty) (1 week ago)
 - [Add support for gitea instances](https://github.com/muesli/gitty/pull/27) on [muesli/gitty](https://github.com/muesli/gitty) (1 week ago)
 - [Add replay buffer commands](https://github.com/muesli/obs-cli/pull/44) on [muesli/obs-cli](https://github.com/muesli/obs-cli) (2 weeks ago)
@@ -54,7 +54,7 @@ of other projects. Curious what I've been hacking on recently?
 
 - [nkpremices](https://github.com/nkpremices) (3 months ago)
 - [LuckierDodge](https://github.com/LuckierDodge) (3 months ago)
-- [crazy-max](https://github.com/crazy-max) (3 months ago)
+- [crazy-max](https://github.com/crazy-max) (4 months ago)
 - [ocelotsloth](https://github.com/ocelotsloth) (7 months ago)
 - [angristan](https://github.com/angristan) (7 months ago)
 
