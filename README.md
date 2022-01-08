@@ -12,11 +12,11 @@ of other projects. Curious what I've been hacking on recently?
 
 #### 👷 Check out what I'm currently working on
 
+- [muesli/duf](https://github.com/muesli/duf) - Disk Usage/Free Utility - a better &#39;df&#39; alternative (today)
+- [muesli/homebrew-tap](https://github.com/muesli/homebrew-tap) - muesli&#39;s Homebrew tap (today)
 - [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) - A powerful little TUI framework 🏗 (1 day ago)
 - [muesli/go-app-paths](https://github.com/muesli/go-app-paths) - Lets you retrieve platform-specific paths (like directories for app-data, cache, config, and logs) (5 days ago)
-- [muesli/homebrew-tap](https://github.com/muesli/homebrew-tap) - muesli&#39;s Homebrew tap (1 week ago)
 - [muesli/gitty](https://github.com/muesli/gitty) - Contextual information about your git projects, right on the command-line (1 week ago)
-- [muesli/gamut](https://github.com/muesli/gamut) - Go package to generate and manage color palettes &amp; schemes 🎨 (1 week ago)
 
 #### 🌱 My latest projects
 
@@ -28,11 +28,11 @@ of other projects. Curious what I've been hacking on recently?
 
 #### 🔭 Latest releases I've contributed to
 
+- [muesli/duf](https://github.com/muesli/duf) ([v0.7.0](https://github.com/muesli/duf/releases/tag/v0.7.0), today) - Disk Usage/Free Utility - a better &#39;df&#39; alternative
 - [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) ([v0.19.3](https://github.com/charmbracelet/bubbletea/releases/tag/v0.19.3), 1 day ago) - A powerful little TUI framework 🏗
 - [InfiniTimeOrg/InfiniTime](https://github.com/InfiniTimeOrg/InfiniTime) ([1.8.0](https://github.com/InfiniTimeOrg/InfiniTime/releases/tag/1.8.0), 1 day ago) - Firmware for Pinetime smartwatch written in C/C&#43;&#43; and based on FreeRTOS
 - [muesli/go-app-paths](https://github.com/muesli/go-app-paths) ([v0.2.2](https://github.com/muesli/go-app-paths/releases/tag/v0.2.2), 5 days ago) - Lets you retrieve platform-specific paths (like directories for app-data, cache, config, and logs)
 - [muesli/gitty](https://github.com/muesli/gitty) ([v0.6.0](https://github.com/muesli/gitty/releases/tag/v0.6.0), 1 week ago) - Contextual information about your git projects, right on the command-line
-- [andreykaipov/goobs](https://github.com/andreykaipov/goobs) ([v0.8.0](https://github.com/andreykaipov/goobs/releases/tag/v0.8.0), 1 week ago) - Go client library to control OBS Studio via WebSockets.
 
 #### 🔨 Latest Pull Requests I published
 
