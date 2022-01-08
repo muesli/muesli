@@ -36,11 +36,11 @@ of other projects. Curious what I've been hacking on recently?
 
 #### 🔨 Latest Pull Requests I published
 
+- [Add feedback paragraph to README](https://github.com/muesli/duf/pull/151) on [muesli/duf](https://github.com/muesli/duf) (today)
 - [Add separate sets of hard- and soft-enforced linters](https://github.com/charmbracelet/lipgloss/pull/54) on [charmbracelet/lipgloss](https://github.com/charmbracelet/lipgloss) (1 day ago)
 - [Add separate sets of hard- and soft-enforced linters](https://github.com/charmbracelet/bubbletea/pull/182) on [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) (1 day ago)
 - [Bump gitea, gamut, go-gitlab deps](https://github.com/muesli/gitty/pull/35) on [muesli/gitty](https://github.com/muesli/gitty) (3 days ago)
 - [Support projects within (sub-)groups on GitLab](https://github.com/muesli/gitty/pull/31) on [muesli/gitty](https://github.com/muesli/gitty) (1 week ago)
-- [Add support for gitea instances](https://github.com/muesli/gitty/pull/27) on [muesli/gitty](https://github.com/muesli/gitty) (2 weeks ago)
 
 #### 📜 My recent blog posts
 
