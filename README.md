@@ -12,8 +12,8 @@ of other projects. Curious what I've been hacking on recently?
 
 #### 👷 Check out what I'm currently working on
 
-- [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) - A powerful little TUI framework 🏗 (today)
-- [muesli/go-app-paths](https://github.com/muesli/go-app-paths) - Lets you retrieve platform-specific paths (like directories for app-data, cache, config, and logs) (4 days ago)
+- [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) - A powerful little TUI framework 🏗 (1 day ago)
+- [muesli/go-app-paths](https://github.com/muesli/go-app-paths) - Lets you retrieve platform-specific paths (like directories for app-data, cache, config, and logs) (5 days ago)
 - [muesli/homebrew-tap](https://github.com/muesli/homebrew-tap) - muesli&#39;s Homebrew tap (1 week ago)
 - [muesli/gitty](https://github.com/muesli/gitty) - Contextual information about your git projects, right on the command-line (1 week ago)
 - [muesli/gamut](https://github.com/muesli/gamut) - Go package to generate and manage color palettes &amp; schemes 🎨 (1 week ago)
@@ -28,19 +28,19 @@ of other projects. Curious what I've been hacking on recently?
 
 #### 🔭 Latest releases I've contributed to
 
-- [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) ([v0.19.3](https://github.com/charmbracelet/bubbletea/releases/tag/v0.19.3), today) - A powerful little TUI framework 🏗
-- [InfiniTimeOrg/InfiniTime](https://github.com/InfiniTimeOrg/InfiniTime) ([1.8.0](https://github.com/InfiniTimeOrg/InfiniTime/releases/tag/1.8.0), today) - Firmware for Pinetime smartwatch written in C/C&#43;&#43; and based on FreeRTOS
-- [muesli/go-app-paths](https://github.com/muesli/go-app-paths) ([v0.2.2](https://github.com/muesli/go-app-paths/releases/tag/v0.2.2), 4 days ago) - Lets you retrieve platform-specific paths (like directories for app-data, cache, config, and logs)
+- [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) ([v0.19.3](https://github.com/charmbracelet/bubbletea/releases/tag/v0.19.3), 1 day ago) - A powerful little TUI framework 🏗
+- [InfiniTimeOrg/InfiniTime](https://github.com/InfiniTimeOrg/InfiniTime) ([1.8.0](https://github.com/InfiniTimeOrg/InfiniTime/releases/tag/1.8.0), 1 day ago) - Firmware for Pinetime smartwatch written in C/C&#43;&#43; and based on FreeRTOS
+- [muesli/go-app-paths](https://github.com/muesli/go-app-paths) ([v0.2.2](https://github.com/muesli/go-app-paths/releases/tag/v0.2.2), 5 days ago) - Lets you retrieve platform-specific paths (like directories for app-data, cache, config, and logs)
 - [muesli/gitty](https://github.com/muesli/gitty) ([v0.6.0](https://github.com/muesli/gitty/releases/tag/v0.6.0), 1 week ago) - Contextual information about your git projects, right on the command-line
 - [andreykaipov/goobs](https://github.com/andreykaipov/goobs) ([v0.8.0](https://github.com/andreykaipov/goobs/releases/tag/v0.8.0), 1 week ago) - Go client library to control OBS Studio via WebSockets.
 
 #### 🔨 Latest Pull Requests I published
 
-- [Add separate sets of hard- and soft-enforced linters](https://github.com/charmbracelet/lipgloss/pull/54) on [charmbracelet/lipgloss](https://github.com/charmbracelet/lipgloss) (today)
-- [Add separate sets of hard- and soft-enforced linters](https://github.com/charmbracelet/bubbletea/pull/182) on [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) (today)
-- [Bump gitea, gamut, go-gitlab deps](https://github.com/muesli/gitty/pull/35) on [muesli/gitty](https://github.com/muesli/gitty) (2 days ago)
+- [Add separate sets of hard- and soft-enforced linters](https://github.com/charmbracelet/lipgloss/pull/54) on [charmbracelet/lipgloss](https://github.com/charmbracelet/lipgloss) (1 day ago)
+- [Add separate sets of hard- and soft-enforced linters](https://github.com/charmbracelet/bubbletea/pull/182) on [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) (1 day ago)
+- [Bump gitea, gamut, go-gitlab deps](https://github.com/muesli/gitty/pull/35) on [muesli/gitty](https://github.com/muesli/gitty) (3 days ago)
 - [Support projects within (sub-)groups on GitLab](https://github.com/muesli/gitty/pull/31) on [muesli/gitty](https://github.com/muesli/gitty) (1 week ago)
-- [Add support for gitea instances](https://github.com/muesli/gitty/pull/27) on [muesli/gitty](https://github.com/muesli/gitty) (1 week ago)
+- [Add support for gitea instances](https://github.com/muesli/gitty/pull/27) on [muesli/gitty](https://github.com/muesli/gitty) (2 weeks ago)
 
 #### 📜 My recent blog posts
 
