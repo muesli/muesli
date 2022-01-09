@@ -36,11 +36,11 @@ of other projects. Curious what I've been hacking on recently?
 
 #### 🔨 Latest Pull Requests I published
 
+- [Add GitHub build workflow, remove TravisCI config](https://github.com/go-fed/activity/pull/155) on [go-fed/activity](https://github.com/go-fed/activity) (today)
 - [Add feedback paragraph to README](https://github.com/muesli/duf/pull/151) on [muesli/duf](https://github.com/muesli/duf) (1 day ago)
 - [Add separate sets of hard- and soft-enforced linters](https://github.com/charmbracelet/lipgloss/pull/54) on [charmbracelet/lipgloss](https://github.com/charmbracelet/lipgloss) (2 days ago)
 - [Add separate sets of hard- and soft-enforced linters](https://github.com/charmbracelet/bubbletea/pull/182) on [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) (2 days ago)
 - [Bump gitea, gamut, go-gitlab deps](https://github.com/muesli/gitty/pull/35) on [muesli/gitty](https://github.com/muesli/gitty) (4 days ago)
-- [Support projects within (sub-)groups on GitLab](https://github.com/muesli/gitty/pull/31) on [muesli/gitty](https://github.com/muesli/gitty) (1 week ago)
 
 #### 📜 My recent blog posts
 
