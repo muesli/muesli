@@ -28,11 +28,11 @@ of other projects. Curious what I've been hacking on recently?
 
 #### 🔭 Latest releases I've contributed to
 
+- [muesli/roff](https://github.com/muesli/roff) ([v0.1.0](https://github.com/muesli/roff/releases/tag/v0.1.0), today) - roff lets you write roff documents in Go
 - [muesli/duf](https://github.com/muesli/duf) ([v0.7.0](https://github.com/muesli/duf/releases/tag/v0.7.0), 3 days ago) - Disk Usage/Free Utility - a better &#39;df&#39; alternative
 - [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) ([v0.19.3](https://github.com/charmbracelet/bubbletea/releases/tag/v0.19.3), 4 days ago) - A powerful little TUI framework 🏗
 - [InfiniTimeOrg/InfiniTime](https://github.com/InfiniTimeOrg/InfiniTime) ([1.8.0](https://github.com/InfiniTimeOrg/InfiniTime/releases/tag/1.8.0), 4 days ago) - Firmware for Pinetime smartwatch written in C/C&#43;&#43; and based on FreeRTOS
 - [muesli/go-app-paths](https://github.com/muesli/go-app-paths) ([v0.2.2](https://github.com/muesli/go-app-paths/releases/tag/v0.2.2), 1 week ago) - Lets you retrieve platform-specific paths (like directories for app-data, cache, config, and logs)
-- [muesli/gitty](https://github.com/muesli/gitty) ([v0.6.0](https://github.com/muesli/gitty/releases/tag/v0.6.0), 1 week ago) - Contextual information about your git projects, right on the command-line
 
 #### 🔨 Latest Pull Requests I published
 
