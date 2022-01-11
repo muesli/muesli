@@ -12,11 +12,11 @@ of other projects. Curious what I've been hacking on recently?
 
 #### 👷 Check out what I'm currently working on
 
+- [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) - A powerful little TUI framework 🏗 (today)
 - [muesli/roff](https://github.com/muesli/roff) - roff lets you write roff documents in Go (today)
-- [muesli/termenv](https://github.com/muesli/termenv) - Advanced ANSI style &amp; color support for your terminal applications (2 days ago)
 - [muesli/gitty](https://github.com/muesli/gitty) - Contextual information about your git projects, right on the command-line (2 days ago)
+- [muesli/termenv](https://github.com/muesli/termenv) - Advanced ANSI style &amp; color support for your terminal applications (2 days ago)
 - [muesli/gamut](https://github.com/muesli/gamut) - Go package to generate and manage color palettes &amp; schemes 🎨 (2 days ago)
-- [muesli/duf](https://github.com/muesli/duf) - Disk Usage/Free Utility - a better &#39;df&#39; alternative (3 days ago)
 
 #### 🌱 My latest projects
 
@@ -36,11 +36,11 @@ of other projects. Curious what I've been hacking on recently?
 
 #### 🔨 Latest Pull Requests I published
 
+- [Rename termdbms and add gh-prs to BubbleTea-powered programs](https://github.com/charmbracelet/bubbletea/pull/189) on [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) (today)
 - [fix: don&#39;t crash accessing invalid pathinfo](https://github.com/go-git/go-git/pull/443) on [go-git/go-git](https://github.com/go-git/go-git) (2 days ago)
 - [Add GitHub build workflow, remove TravisCI config](https://github.com/go-fed/activity/pull/155) on [go-fed/activity](https://github.com/go-fed/activity) (2 days ago)
 - [Add feedback paragraph to README](https://github.com/muesli/duf/pull/151) on [muesli/duf](https://github.com/muesli/duf) (3 days ago)
 - [Add separate sets of hard- and soft-enforced linters](https://github.com/charmbracelet/lipgloss/pull/54) on [charmbracelet/lipgloss](https://github.com/charmbracelet/lipgloss) (4 days ago)
-- [Add separate sets of hard- and soft-enforced linters](https://github.com/charmbracelet/bubbletea/pull/182) on [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) (4 days ago)
 
 #### 📜 My recent blog posts
 
