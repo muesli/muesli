@@ -36,11 +36,11 @@ of other projects. Curious what I've been hacking on recently?
 
 #### 🔨 Latest Pull Requests I published
 
+- [Find available ports by trying to listen on it](https://github.com/charmbracelet/wishlist/pull/6) on [charmbracelet/wishlist](https://github.com/charmbracelet/wishlist) (today)
+- [Ignore error returned from closing r/o file](https://github.com/charmbracelet/wishlist/pull/5) on [charmbracelet/wishlist](https://github.com/charmbracelet/wishlist) (today)
 - [Rename termdbms and add gh-prs to BubbleTea-powered programs](https://github.com/charmbracelet/bubbletea/pull/189) on [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) (today)
 - [fix: don&#39;t crash accessing invalid pathinfo](https://github.com/go-git/go-git/pull/443) on [go-git/go-git](https://github.com/go-git/go-git) (2 days ago)
 - [Add GitHub build workflow, remove TravisCI config](https://github.com/go-fed/activity/pull/155) on [go-fed/activity](https://github.com/go-fed/activity) (2 days ago)
-- [Add feedback paragraph to README](https://github.com/muesli/duf/pull/151) on [muesli/duf](https://github.com/muesli/duf) (3 days ago)
-- [Add separate sets of hard- and soft-enforced linters](https://github.com/charmbracelet/lipgloss/pull/54) on [charmbracelet/lipgloss](https://github.com/charmbracelet/lipgloss) (4 days ago)
 
 #### 📜 My recent blog posts
 
