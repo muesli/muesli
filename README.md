@@ -13,18 +13,18 @@ of other projects. Curious what I've been hacking on recently?
 #### 👷 Check out what I'm currently working on
 
 - [charmbracelet/wishlist](https://github.com/charmbracelet/wishlist) - The SSH directory ✨ (today)
+- [muesli/mango](https://github.com/muesli/mango) - mango is a man-page generator for the Go flag, pflag, and cobra packages (today)
 - [muesli/roff](https://github.com/muesli/roff) - roff lets you write roff documents in Go (1 day ago)
 - [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) - A powerful little TUI framework 🏗 (1 day ago)
 - [muesli/termenv](https://github.com/muesli/termenv) - Advanced ANSI style &amp; color support for your terminal applications (3 days ago)
-- [muesli/gamut](https://github.com/muesli/gamut) - Go package to generate and manage color palettes &amp; schemes 🎨 (3 days ago)
 
 #### 🌱 My latest projects
 
+- [muesli/mango](https://github.com/muesli/mango) - mango is a man-page generator for the Go flag, pflag, and cobra packages
 - [muesli/roff](https://github.com/muesli/roff) - roff lets you write roff documents in Go
 - [muesli/ansi](https://github.com/muesli/ansi) - Raw ANSI sequence helpers
 - [muesli/gitty](https://github.com/muesli/gitty) - Contextual information about your git projects, right on the command-line
 - [muesli/code-server](https://github.com/muesli/code-server) - My code-server Docker image
-- [muesli/deckmaster-emojis](https://github.com/muesli/deckmaster-emojis) - A deck of emojis for Deckmaster
 
 #### 🔭 Latest releases I've contributed to
 
