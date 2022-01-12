@@ -28,7 +28,7 @@ of other projects. Curious what I've been hacking on recently?
 
 #### 🔭 Latest releases I've contributed to
 
-- [charmbracelet/wishlist](https://github.com/charmbracelet/wishlist) ([v0.1.1](https://github.com/charmbracelet/wishlist/releases/tag/v0.1.1), 1 day ago) - The SSH directory ✨
+- [charmbracelet/wishlist](https://github.com/charmbracelet/wishlist) ([v0.1.3](https://github.com/charmbracelet/wishlist/releases/tag/v0.1.3), today) - The SSH directory ✨
 - [muesli/roff](https://github.com/muesli/roff) ([v0.1.0](https://github.com/muesli/roff/releases/tag/v0.1.0), 1 day ago) - roff lets you write roff documents in Go
 - [muesli/duf](https://github.com/muesli/duf) ([v0.7.0](https://github.com/muesli/duf/releases/tag/v0.7.0), 4 days ago) - Disk Usage/Free Utility - a better &#39;df&#39; alternative
 - [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) ([v0.19.3](https://github.com/charmbracelet/bubbletea/releases/tag/v0.19.3), 5 days ago) - A powerful little TUI framework 🏗
