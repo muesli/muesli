@@ -28,11 +28,11 @@ of other projects. Curious what I've been hacking on recently?
 
 #### 🔭 Latest releases I've contributed to
 
+- [charmbracelet/soft-serve](https://github.com/charmbracelet/soft-serve) ([v0.1.3](https://github.com/charmbracelet/soft-serve/releases/tag/v0.1.3), today) - A tasty, self-hostable Git server for the command line🍦
 - [charmbracelet/glamour](https://github.com/charmbracelet/glamour) ([v0.4.0](https://github.com/charmbracelet/glamour/releases/tag/v0.4.0), today) - Stylesheet-based markdown rendering for your CLI apps 💇🏻‍♀️
 - [charmbracelet/wish](https://github.com/charmbracelet/wish) ([v0.1.2](https://github.com/charmbracelet/wish/releases/tag/v0.1.2), 1 day ago) - Make SSH apps, just like that! 💫
 - [charmbracelet/wishlist](https://github.com/charmbracelet/wishlist) ([v0.1.3](https://github.com/charmbracelet/wishlist/releases/tag/v0.1.3), 1 day ago) - The SSH directory ✨
 - [muesli/roff](https://github.com/muesli/roff) ([v0.1.0](https://github.com/muesli/roff/releases/tag/v0.1.0), 2 days ago) - roff lets you write roff documents in Go
-- [muesli/duf](https://github.com/muesli/duf) ([v0.7.0](https://github.com/muesli/duf/releases/tag/v0.7.0), 5 days ago) - Disk Usage/Free Utility - a better &#39;df&#39; alternative
 
 #### 🔨 Latest Pull Requests I published
 
