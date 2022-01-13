@@ -12,11 +12,11 @@ of other projects. Curious what I've been hacking on recently?
 
 #### 👷 Check out what I'm currently working on
 
-- [charmbracelet/wishlist](https://github.com/charmbracelet/wishlist) - The SSH directory ✨ (today)
-- [muesli/mango](https://github.com/muesli/mango) - mango is a man-page generator for the Go flag, pflag, and cobra packages (today)
-- [muesli/roff](https://github.com/muesli/roff) - roff lets you write roff documents in Go (1 day ago)
-- [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) - A powerful little TUI framework 🏗 (1 day ago)
-- [muesli/termenv](https://github.com/muesli/termenv) - Advanced ANSI style &amp; color support for your terminal applications (3 days ago)
+- [charmbracelet/wishlist](https://github.com/charmbracelet/wishlist) - The SSH directory ✨ (1 day ago)
+- [muesli/mango](https://github.com/muesli/mango) - mango is a man-page generator for the Go flag, pflag, and cobra packages (1 day ago)
+- [muesli/roff](https://github.com/muesli/roff) - roff lets you write roff documents in Go (2 days ago)
+- [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) - A powerful little TUI framework 🏗 (2 days ago)
+- [muesli/termenv](https://github.com/muesli/termenv) - Advanced ANSI style &amp; color support for your terminal applications (4 days ago)
 
 #### 🌱 My latest projects
 
@@ -28,19 +28,19 @@ of other projects. Curious what I've been hacking on recently?
 
 #### 🔭 Latest releases I've contributed to
 
-- [charmbracelet/wish](https://github.com/charmbracelet/wish) ([v0.1.2](https://github.com/charmbracelet/wish/releases/tag/v0.1.2), today) - Make SSH apps, just like that! 💫
-- [charmbracelet/wishlist](https://github.com/charmbracelet/wishlist) ([v0.1.3](https://github.com/charmbracelet/wishlist/releases/tag/v0.1.3), today) - The SSH directory ✨
-- [muesli/roff](https://github.com/muesli/roff) ([v0.1.0](https://github.com/muesli/roff/releases/tag/v0.1.0), 1 day ago) - roff lets you write roff documents in Go
-- [muesli/duf](https://github.com/muesli/duf) ([v0.7.0](https://github.com/muesli/duf/releases/tag/v0.7.0), 4 days ago) - Disk Usage/Free Utility - a better &#39;df&#39; alternative
-- [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) ([v0.19.3](https://github.com/charmbracelet/bubbletea/releases/tag/v0.19.3), 5 days ago) - A powerful little TUI framework 🏗
+- [charmbracelet/wish](https://github.com/charmbracelet/wish) ([v0.1.2](https://github.com/charmbracelet/wish/releases/tag/v0.1.2), 1 day ago) - Make SSH apps, just like that! 💫
+- [charmbracelet/wishlist](https://github.com/charmbracelet/wishlist) ([v0.1.3](https://github.com/charmbracelet/wishlist/releases/tag/v0.1.3), 1 day ago) - The SSH directory ✨
+- [muesli/roff](https://github.com/muesli/roff) ([v0.1.0](https://github.com/muesli/roff/releases/tag/v0.1.0), 2 days ago) - roff lets you write roff documents in Go
+- [muesli/duf](https://github.com/muesli/duf) ([v0.7.0](https://github.com/muesli/duf/releases/tag/v0.7.0), 5 days ago) - Disk Usage/Free Utility - a better &#39;df&#39; alternative
+- [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) ([v0.19.3](https://github.com/charmbracelet/bubbletea/releases/tag/v0.19.3), 6 days ago) - A powerful little TUI framework 🏗
 
 #### 🔨 Latest Pull Requests I published
 
-- [Find available ports by trying to listen on it](https://github.com/charmbracelet/wishlist/pull/6) on [charmbracelet/wishlist](https://github.com/charmbracelet/wishlist) (1 day ago)
-- [Ignore error returned from closing r/o file](https://github.com/charmbracelet/wishlist/pull/5) on [charmbracelet/wishlist](https://github.com/charmbracelet/wishlist) (1 day ago)
-- [Rename termdbms and add gh-prs to BubbleTea-powered programs](https://github.com/charmbracelet/bubbletea/pull/189) on [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) (1 day ago)
-- [fix: don&#39;t crash accessing invalid pathinfo](https://github.com/go-git/go-git/pull/443) on [go-git/go-git](https://github.com/go-git/go-git) (3 days ago)
-- [Add GitHub build workflow, remove TravisCI config](https://github.com/go-fed/activity/pull/155) on [go-fed/activity](https://github.com/go-fed/activity) (3 days ago)
+- [Find available ports by trying to listen on it](https://github.com/charmbracelet/wishlist/pull/6) on [charmbracelet/wishlist](https://github.com/charmbracelet/wishlist) (2 days ago)
+- [Ignore error returned from closing r/o file](https://github.com/charmbracelet/wishlist/pull/5) on [charmbracelet/wishlist](https://github.com/charmbracelet/wishlist) (2 days ago)
+- [Rename termdbms and add gh-prs to BubbleTea-powered programs](https://github.com/charmbracelet/bubbletea/pull/189) on [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) (2 days ago)
+- [fix: don&#39;t crash accessing invalid pathinfo](https://github.com/go-git/go-git/pull/443) on [go-git/go-git](https://github.com/go-git/go-git) (4 days ago)
+- [Add GitHub build workflow, remove TravisCI config](https://github.com/go-fed/activity/pull/155) on [go-fed/activity](https://github.com/go-fed/activity) (4 days ago)
 
 #### 📜 My recent blog posts
 
