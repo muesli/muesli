@@ -12,11 +12,11 @@ of other projects. Curious what I've been hacking on recently?
 
 #### 👷 Check out what I'm currently working on
 
-- [muesli/mango](https://github.com/muesli/mango) - mango is a man-page generator for the Go flag, pflag, and cobra packages (today)
-- [charmbracelet/glamour](https://github.com/charmbracelet/glamour) - Stylesheet-based markdown rendering for your CLI apps 💇🏻‍♀️ (today)
-- [charmbracelet/wishlist](https://github.com/charmbracelet/wishlist) - The SSH directory ✨ (1 day ago)
-- [muesli/roff](https://github.com/muesli/roff) - roff lets you write roff documents in Go (2 days ago)
-- [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) - A powerful little TUI framework 🏗 (2 days ago)
+- [muesli/mango](https://github.com/muesli/mango) - mango is a man-page generator for the Go flag, pflag, and cobra packages (1 day ago)
+- [charmbracelet/glamour](https://github.com/charmbracelet/glamour) - Stylesheet-based markdown rendering for your CLI apps 💇🏻‍♀️ (1 day ago)
+- [charmbracelet/wishlist](https://github.com/charmbracelet/wishlist) - The SSH directory ✨ (2 days ago)
+- [muesli/roff](https://github.com/muesli/roff) - roff lets you write roff documents in Go (3 days ago)
+- [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) - A powerful little TUI framework 🏗 (3 days ago)
 
 #### 🌱 My latest projects
 
@@ -28,19 +28,19 @@ of other projects. Curious what I've been hacking on recently?
 
 #### 🔭 Latest releases I've contributed to
 
-- [charmbracelet/bubbles](https://github.com/charmbracelet/bubbles) ([v0.10.0](https://github.com/charmbracelet/bubbles/releases/tag/v0.10.0), today) - TUI components for Bubble Tea 🍡
-- [charmbracelet/soft-serve](https://github.com/charmbracelet/soft-serve) ([v0.1.3](https://github.com/charmbracelet/soft-serve/releases/tag/v0.1.3), today) - A tasty, self-hostable Git server for the command line🍦
-- [charmbracelet/glamour](https://github.com/charmbracelet/glamour) ([v0.4.0](https://github.com/charmbracelet/glamour/releases/tag/v0.4.0), today) - Stylesheet-based markdown rendering for your CLI apps 💇🏻‍♀️
-- [charmbracelet/wish](https://github.com/charmbracelet/wish) ([v0.1.2](https://github.com/charmbracelet/wish/releases/tag/v0.1.2), 1 day ago) - Make SSH apps, just like that! 💫
-- [charmbracelet/wishlist](https://github.com/charmbracelet/wishlist) ([v0.1.3](https://github.com/charmbracelet/wishlist/releases/tag/v0.1.3), 1 day ago) - The SSH directory ✨
+- [charmbracelet/bubbles](https://github.com/charmbracelet/bubbles) ([v0.10.0](https://github.com/charmbracelet/bubbles/releases/tag/v0.10.0), 1 day ago) - TUI components for Bubble Tea 🍡
+- [charmbracelet/soft-serve](https://github.com/charmbracelet/soft-serve) ([v0.1.3](https://github.com/charmbracelet/soft-serve/releases/tag/v0.1.3), 1 day ago) - A tasty, self-hostable Git server for the command line🍦
+- [charmbracelet/glamour](https://github.com/charmbracelet/glamour) ([v0.4.0](https://github.com/charmbracelet/glamour/releases/tag/v0.4.0), 1 day ago) - Stylesheet-based markdown rendering for your CLI apps 💇🏻‍♀️
+- [charmbracelet/wish](https://github.com/charmbracelet/wish) ([v0.1.2](https://github.com/charmbracelet/wish/releases/tag/v0.1.2), 2 days ago) - Make SSH apps, just like that! 💫
+- [charmbracelet/wishlist](https://github.com/charmbracelet/wishlist) ([v0.1.3](https://github.com/charmbracelet/wishlist/releases/tag/v0.1.3), 2 days ago) - The SSH directory ✨
 
 #### 🔨 Latest Pull Requests I published
 
-- [Bump chroma to v0.10.0](https://github.com/charmbracelet/glamour/pull/135) on [charmbracelet/glamour](https://github.com/charmbracelet/glamour) (today)
-- [Bump goldmark to v1.4.4](https://github.com/charmbracelet/glamour/pull/134) on [charmbracelet/glamour](https://github.com/charmbracelet/glamour) (today)
-- [Find available ports by trying to listen on it](https://github.com/charmbracelet/wishlist/pull/6) on [charmbracelet/wishlist](https://github.com/charmbracelet/wishlist) (2 days ago)
-- [Ignore error returned from closing r/o file](https://github.com/charmbracelet/wishlist/pull/5) on [charmbracelet/wishlist](https://github.com/charmbracelet/wishlist) (2 days ago)
-- [Rename termdbms and add gh-prs to BubbleTea-powered programs](https://github.com/charmbracelet/bubbletea/pull/189) on [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) (2 days ago)
+- [Bump chroma to v0.10.0](https://github.com/charmbracelet/glamour/pull/135) on [charmbracelet/glamour](https://github.com/charmbracelet/glamour) (1 day ago)
+- [Bump goldmark to v1.4.4](https://github.com/charmbracelet/glamour/pull/134) on [charmbracelet/glamour](https://github.com/charmbracelet/glamour) (1 day ago)
+- [Find available ports by trying to listen on it](https://github.com/charmbracelet/wishlist/pull/6) on [charmbracelet/wishlist](https://github.com/charmbracelet/wishlist) (3 days ago)
+- [Ignore error returned from closing r/o file](https://github.com/charmbracelet/wishlist/pull/5) on [charmbracelet/wishlist](https://github.com/charmbracelet/wishlist) (3 days ago)
+- [Rename termdbms and add gh-prs to BubbleTea-powered programs](https://github.com/charmbracelet/bubbletea/pull/189) on [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) (3 days ago)
 
 #### 📜 My recent blog posts
 
