@@ -12,11 +12,11 @@ of other projects. Curious what I've been hacking on recently?
 
 #### 👷 Check out what I'm currently working on
 
-- [muesli/mango](https://github.com/muesli/mango) - mango is a man-page generator for the Go flag, pflag, and cobra packages (4 days ago)
+- [charmbracelet/confettysh](https://github.com/charmbracelet/confettysh) - confetti over ssh (today)
 - [charmbracelet/glamour](https://github.com/charmbracelet/glamour) - Stylesheet-based markdown rendering for your CLI apps 💇🏻‍♀️ (4 days ago)
+- [muesli/mango](https://github.com/muesli/mango) - mango is a man-page generator for the Go flag, pflag, and cobra packages (4 days ago)
 - [charmbracelet/wishlist](https://github.com/charmbracelet/wishlist) - The SSH directory ✨ (5 days ago)
 - [muesli/roff](https://github.com/muesli/roff) - roff lets you write roff documents in Go (6 days ago)
-- [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) - A powerful little TUI framework 🏗 (6 days ago)
 
 #### 🌱 My latest projects
 
@@ -36,11 +36,11 @@ of other projects. Curious what I've been hacking on recently?
 
 #### 🔨 Latest Pull Requests I published
 
+- [Fix typo in godoc comment](https://github.com/charmbracelet/soft-serve/pull/61) on [charmbracelet/soft-serve](https://github.com/charmbracelet/soft-serve) (today)
+- [Generate man page when built with &#39;mango&#39; build-tag](https://github.com/charmbracelet/soft-serve/pull/60) on [charmbracelet/soft-serve](https://github.com/charmbracelet/soft-serve) (today)
 - [Bump chroma to v0.10.0](https://github.com/charmbracelet/glamour/pull/135) on [charmbracelet/glamour](https://github.com/charmbracelet/glamour) (4 days ago)
 - [Bump goldmark to v1.4.4](https://github.com/charmbracelet/glamour/pull/134) on [charmbracelet/glamour](https://github.com/charmbracelet/glamour) (4 days ago)
 - [Find available ports by trying to listen on it](https://github.com/charmbracelet/wishlist/pull/6) on [charmbracelet/wishlist](https://github.com/charmbracelet/wishlist) (6 days ago)
-- [Ignore error returned from closing r/o file](https://github.com/charmbracelet/wishlist/pull/5) on [charmbracelet/wishlist](https://github.com/charmbracelet/wishlist) (6 days ago)
-- [Rename termdbms and add gh-prs to BubbleTea-powered programs](https://github.com/charmbracelet/bubbletea/pull/189) on [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) (6 days ago)
 
 #### 📜 My recent blog posts
 
