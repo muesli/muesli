@@ -12,9 +12,9 @@ of other projects. Curious what I've been hacking on recently?
 
 #### 👷 Check out what I'm currently working on
 
+- [muesli/mango](https://github.com/muesli/mango) - mango is a man-page generator for the Go flag, pflag, and cobra packages (today)
 - [charmbracelet/confettysh](https://github.com/charmbracelet/confettysh) - confetti over ssh (1 day ago)
 - [charmbracelet/glamour](https://github.com/charmbracelet/glamour) - Stylesheet-based markdown rendering for your CLI apps 💇🏻‍♀️ (5 days ago)
-- [muesli/mango](https://github.com/muesli/mango) - mango is a man-page generator for the Go flag, pflag, and cobra packages (5 days ago)
 - [charmbracelet/wishlist](https://github.com/charmbracelet/wishlist) - The SSH directory ✨ (6 days ago)
 - [muesli/roff](https://github.com/muesli/roff) - roff lets you write roff documents in Go (1 week ago)
 
@@ -36,11 +36,11 @@ of other projects. Curious what I've been hacking on recently?
 
 #### 🔨 Latest Pull Requests I published
 
+- [Ignore hidden cobra commands](https://github.com/muesli/mango/pull/4) on [muesli/mango](https://github.com/muesli/mango) (today)
 - [Fix typo in godoc comment](https://github.com/charmbracelet/soft-serve/pull/61) on [charmbracelet/soft-serve](https://github.com/charmbracelet/soft-serve) (1 day ago)
 - [Generate man page when built with &#39;mango&#39; build-tag](https://github.com/charmbracelet/soft-serve/pull/60) on [charmbracelet/soft-serve](https://github.com/charmbracelet/soft-serve) (1 day ago)
 - [Bump chroma to v0.10.0](https://github.com/charmbracelet/glamour/pull/135) on [charmbracelet/glamour](https://github.com/charmbracelet/glamour) (5 days ago)
 - [Bump goldmark to v1.4.4](https://github.com/charmbracelet/glamour/pull/134) on [charmbracelet/glamour](https://github.com/charmbracelet/glamour) (5 days ago)
-- [Find available ports by trying to listen on it](https://github.com/charmbracelet/wishlist/pull/6) on [charmbracelet/wishlist](https://github.com/charmbracelet/wishlist) (1 week ago)
 
 #### 📜 My recent blog posts
 
