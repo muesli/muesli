@@ -12,11 +12,11 @@ of other projects. Curious what I've been hacking on recently?
 
 #### 👷 Check out what I'm currently working on
 
-- [charmbracelet/soft-serve](https://github.com/charmbracelet/soft-serve) - A tasty, self-hostable Git server for the command line🍦 (today)
-- [muesli/mango](https://github.com/muesli/mango) - mango is a man-page generator for the Go flag, pflag, and cobra packages (today)
-- [charmbracelet/confettysh](https://github.com/charmbracelet/confettysh) - confetti over ssh (1 day ago)
-- [charmbracelet/glamour](https://github.com/charmbracelet/glamour) - Stylesheet-based markdown rendering for your CLI apps 💇🏻‍♀️ (5 days ago)
-- [charmbracelet/wishlist](https://github.com/charmbracelet/wishlist) - The SSH directory ✨ (6 days ago)
+- [charmbracelet/soft-serve](https://github.com/charmbracelet/soft-serve) - A tasty, self-hostable Git server for the command line🍦 (1 day ago)
+- [muesli/mango](https://github.com/muesli/mango) - mango is a man-page generator for the Go flag, pflag, and cobra packages (1 day ago)
+- [charmbracelet/confettysh](https://github.com/charmbracelet/confettysh) - confetti over ssh (2 days ago)
+- [charmbracelet/glamour](https://github.com/charmbracelet/glamour) - Stylesheet-based markdown rendering for your CLI apps 💇🏻‍♀️ (6 days ago)
+- [charmbracelet/wishlist](https://github.com/charmbracelet/wishlist) - The SSH directory ✨ (1 week ago)
 
 #### 🌱 My latest projects
 
@@ -28,19 +28,19 @@ of other projects. Curious what I've been hacking on recently?
 
 #### 🔭 Latest releases I've contributed to
 
-- [charmbracelet/confettysh](https://github.com/charmbracelet/confettysh) ([v1.0.1](https://github.com/charmbracelet/confettysh/releases/tag/v1.0.1), 1 day ago) - confetti over ssh
-- [charmbracelet/bubbles](https://github.com/charmbracelet/bubbles) ([v0.10.0](https://github.com/charmbracelet/bubbles/releases/tag/v0.10.0), 5 days ago) - TUI components for Bubble Tea 🍡
-- [charmbracelet/soft-serve](https://github.com/charmbracelet/soft-serve) ([v0.1.3](https://github.com/charmbracelet/soft-serve/releases/tag/v0.1.3), 5 days ago) - A tasty, self-hostable Git server for the command line🍦
-- [charmbracelet/glamour](https://github.com/charmbracelet/glamour) ([v0.4.0](https://github.com/charmbracelet/glamour/releases/tag/v0.4.0), 5 days ago) - Stylesheet-based markdown rendering for your CLI apps 💇🏻‍♀️
-- [charmbracelet/wish](https://github.com/charmbracelet/wish) ([v0.1.2](https://github.com/charmbracelet/wish/releases/tag/v0.1.2), 6 days ago) - Make SSH apps, just like that! 💫
+- [charmbracelet/confettysh](https://github.com/charmbracelet/confettysh) ([v1.0.1](https://github.com/charmbracelet/confettysh/releases/tag/v1.0.1), 2 days ago) - confetti over ssh
+- [charmbracelet/bubbles](https://github.com/charmbracelet/bubbles) ([v0.10.0](https://github.com/charmbracelet/bubbles/releases/tag/v0.10.0), 6 days ago) - TUI components for Bubble Tea 🍡
+- [charmbracelet/soft-serve](https://github.com/charmbracelet/soft-serve) ([v0.1.3](https://github.com/charmbracelet/soft-serve/releases/tag/v0.1.3), 6 days ago) - A tasty, self-hostable Git server for the command line🍦
+- [charmbracelet/glamour](https://github.com/charmbracelet/glamour) ([v0.4.0](https://github.com/charmbracelet/glamour/releases/tag/v0.4.0), 6 days ago) - Stylesheet-based markdown rendering for your CLI apps 💇🏻‍♀️
+- [charmbracelet/wish](https://github.com/charmbracelet/wish) ([v0.1.2](https://github.com/charmbracelet/wish/releases/tag/v0.1.2), 1 week ago) - Make SSH apps, just like that! 💫
 
 #### 🔨 Latest Pull Requests I published
 
-- [Ignore hidden cobra commands](https://github.com/muesli/mango/pull/4) on [muesli/mango](https://github.com/muesli/mango) (today)
-- [Fix typo in godoc comment](https://github.com/charmbracelet/soft-serve/pull/61) on [charmbracelet/soft-serve](https://github.com/charmbracelet/soft-serve) (1 day ago)
-- [Generate man page when built with &#39;mango&#39; build-tag](https://github.com/charmbracelet/soft-serve/pull/60) on [charmbracelet/soft-serve](https://github.com/charmbracelet/soft-serve) (1 day ago)
-- [Bump chroma to v0.10.0](https://github.com/charmbracelet/glamour/pull/135) on [charmbracelet/glamour](https://github.com/charmbracelet/glamour) (5 days ago)
-- [Bump goldmark to v1.4.4](https://github.com/charmbracelet/glamour/pull/134) on [charmbracelet/glamour](https://github.com/charmbracelet/glamour) (5 days ago)
+- [Ignore hidden cobra commands](https://github.com/muesli/mango/pull/4) on [muesli/mango](https://github.com/muesli/mango) (1 day ago)
+- [Fix typo in godoc comment](https://github.com/charmbracelet/soft-serve/pull/61) on [charmbracelet/soft-serve](https://github.com/charmbracelet/soft-serve) (2 days ago)
+- [Generate man page when built with &#39;mango&#39; build-tag](https://github.com/charmbracelet/soft-serve/pull/60) on [charmbracelet/soft-serve](https://github.com/charmbracelet/soft-serve) (2 days ago)
+- [Bump chroma to v0.10.0](https://github.com/charmbracelet/glamour/pull/135) on [charmbracelet/glamour](https://github.com/charmbracelet/glamour) (6 days ago)
+- [Bump goldmark to v1.4.4](https://github.com/charmbracelet/glamour/pull/134) on [charmbracelet/glamour](https://github.com/charmbracelet/glamour) (6 days ago)
 
 #### 📜 My recent blog posts
 
