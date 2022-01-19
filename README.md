@@ -28,8 +28,8 @@ of other projects. Curious what I've been hacking on recently?
 
 #### 🔭 Latest releases I've contributed to
 
+- [charmbracelet/bubbles](https://github.com/charmbracelet/bubbles) ([v0.10.1](https://github.com/charmbracelet/bubbles/releases/tag/v0.10.1), today) - TUI components for Bubble Tea 🍡
 - [charmbracelet/confettysh](https://github.com/charmbracelet/confettysh) ([v1.0.1](https://github.com/charmbracelet/confettysh/releases/tag/v1.0.1), 2 days ago) - confetti over ssh
-- [charmbracelet/bubbles](https://github.com/charmbracelet/bubbles) ([v0.10.0](https://github.com/charmbracelet/bubbles/releases/tag/v0.10.0), 6 days ago) - TUI components for Bubble Tea 🍡
 - [charmbracelet/soft-serve](https://github.com/charmbracelet/soft-serve) ([v0.1.3](https://github.com/charmbracelet/soft-serve/releases/tag/v0.1.3), 6 days ago) - A tasty, self-hostable Git server for the command line🍦
 - [charmbracelet/glamour](https://github.com/charmbracelet/glamour) ([v0.4.0](https://github.com/charmbracelet/glamour/releases/tag/v0.4.0), 6 days ago) - Stylesheet-based markdown rendering for your CLI apps 💇🏻‍♀️
 - [charmbracelet/wish](https://github.com/charmbracelet/wish) ([v0.1.2](https://github.com/charmbracelet/wish/releases/tag/v0.1.2), 1 week ago) - Make SSH apps, just like that! 💫
