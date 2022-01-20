@@ -36,11 +36,11 @@ of other projects. Curious what I've been hacking on recently?
 
 #### 🔨 Latest Pull Requests I published
 
+- [Use filepath.Join to generate path names](https://github.com/charmbracelet/charm/pull/66) on [charmbracelet/charm](https://github.com/charmbracelet/charm) (today)
 - [Ignore hidden cobra commands](https://github.com/muesli/mango/pull/4) on [muesli/mango](https://github.com/muesli/mango) (2 days ago)
 - [Fix typo in godoc comment](https://github.com/charmbracelet/soft-serve/pull/61) on [charmbracelet/soft-serve](https://github.com/charmbracelet/soft-serve) (3 days ago)
 - [Generate man page when built with &#39;mango&#39; build-tag](https://github.com/charmbracelet/soft-serve/pull/60) on [charmbracelet/soft-serve](https://github.com/charmbracelet/soft-serve) (3 days ago)
 - [Bump chroma to v0.10.0](https://github.com/charmbracelet/glamour/pull/135) on [charmbracelet/glamour](https://github.com/charmbracelet/glamour) (1 week ago)
-- [Bump goldmark to v1.4.4](https://github.com/charmbracelet/glamour/pull/134) on [charmbracelet/glamour](https://github.com/charmbracelet/glamour) (1 week ago)
 
 #### 📜 My recent blog posts
 
