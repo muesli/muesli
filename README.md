@@ -36,11 +36,11 @@ of other projects. Curious what I've been hacking on recently?
 
 #### 🔨 Latest Pull Requests I published
 
+- [Add &#39;scrollbarchar&#39; option](https://github.com/zyedidia/micro/pull/2342) on [zyedidia/micro](https://github.com/zyedidia/micro) (today)
 - [docs: don&#39;t suggest partial upgrades on Arch](https://github.com/caarlos0/org-stats/pull/48) on [caarlos0/org-stats](https://github.com/caarlos0/org-stats) (1 day ago)
 - [Use filepath.Join to generate path names](https://github.com/charmbracelet/charm/pull/66) on [charmbracelet/charm](https://github.com/charmbracelet/charm) (3 days ago)
 - [Ignore hidden cobra commands](https://github.com/muesli/mango/pull/4) on [muesli/mango](https://github.com/muesli/mango) (5 days ago)
 - [Fix typo in godoc comment](https://github.com/charmbracelet/soft-serve/pull/61) on [charmbracelet/soft-serve](https://github.com/charmbracelet/soft-serve) (6 days ago)
-- [Generate man page when built with &#39;mango&#39; build-tag](https://github.com/charmbracelet/soft-serve/pull/60) on [charmbracelet/soft-serve](https://github.com/charmbracelet/soft-serve) (6 days ago)
 
 #### 📜 My recent blog posts
 
