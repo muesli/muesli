@@ -12,11 +12,11 @@ of other projects. Curious what I've been hacking on recently?
 
 #### 👷 Check out what I'm currently working on
 
-- [caarlos0/org-stats](https://github.com/caarlos0/org-stats) - Get the contributor stats summary from all repos of any given organization (1 day ago)
-- [muesli/deckmaster](https://github.com/muesli/deckmaster) - An application to control your Elgato Stream Deck on Linux (2 days ago)
-- [charmbracelet/charm](https://github.com/charmbracelet/charm) - The Charm Tool and Library 🌟 (3 days ago)
-- [go-git/go-git](https://github.com/go-git/go-git) - A highly extensible Git implementation in pure Go. (4 days ago)
-- [charmbracelet/soft-serve](https://github.com/charmbracelet/soft-serve) - A tasty, self-hostable Git server for the command line🍦 (5 days ago)
+- [charmbracelet/glow](https://github.com/charmbracelet/glow) - Render markdown on the CLI, with pizzazz! 💅🏻 (today)
+- [caarlos0/org-stats](https://github.com/caarlos0/org-stats) - Get the contributor stats summary from all repos of any given organization (2 days ago)
+- [muesli/deckmaster](https://github.com/muesli/deckmaster) - An application to control your Elgato Stream Deck on Linux (3 days ago)
+- [charmbracelet/charm](https://github.com/charmbracelet/charm) - The Charm Tool and Library 🌟 (4 days ago)
+- [go-git/go-git](https://github.com/go-git/go-git) - A highly extensible Git implementation in pure Go. (5 days ago)
 
 #### 🌱 My latest projects
 
@@ -28,19 +28,19 @@ of other projects. Curious what I've been hacking on recently?
 
 #### 🔭 Latest releases I've contributed to
 
-- [caarlos0/org-stats](https://github.com/caarlos0/org-stats) ([v1.10.0](https://github.com/caarlos0/org-stats/releases/tag/v1.10.0), 1 day ago) - Get the contributor stats summary from all repos of any given organization
-- [charmbracelet/bubbles](https://github.com/charmbracelet/bubbles) ([v0.10.2](https://github.com/charmbracelet/bubbles/releases/tag/v0.10.2), 3 days ago) - TUI components for Bubble Tea 🍡
-- [charmbracelet/confettysh](https://github.com/charmbracelet/confettysh) ([v1.0.1](https://github.com/charmbracelet/confettysh/releases/tag/v1.0.1), 6 days ago) - confetti over ssh
+- [caarlos0/org-stats](https://github.com/caarlos0/org-stats) ([v1.10.0](https://github.com/caarlos0/org-stats/releases/tag/v1.10.0), 2 days ago) - Get the contributor stats summary from all repos of any given organization
+- [charmbracelet/bubbles](https://github.com/charmbracelet/bubbles) ([v0.10.2](https://github.com/charmbracelet/bubbles/releases/tag/v0.10.2), 4 days ago) - TUI components for Bubble Tea 🍡
+- [charmbracelet/confettysh](https://github.com/charmbracelet/confettysh) ([v1.0.1](https://github.com/charmbracelet/confettysh/releases/tag/v1.0.1), 1 week ago) - confetti over ssh
 - [charmbracelet/soft-serve](https://github.com/charmbracelet/soft-serve) ([v0.1.3](https://github.com/charmbracelet/soft-serve/releases/tag/v0.1.3), 1 week ago) - A tasty, self-hostable Git server for the command line🍦
 - [charmbracelet/glamour](https://github.com/charmbracelet/glamour) ([v0.4.0](https://github.com/charmbracelet/glamour/releases/tag/v0.4.0), 1 week ago) - Stylesheet-based markdown rendering for your CLI apps 💇🏻‍♀️
 
 #### 🔨 Latest Pull Requests I published
 
-- [Add &#39;scrollbarchar&#39; option](https://github.com/zyedidia/micro/pull/2342) on [zyedidia/micro](https://github.com/zyedidia/micro) (today)
-- [docs: don&#39;t suggest partial upgrades on Arch](https://github.com/caarlos0/org-stats/pull/48) on [caarlos0/org-stats](https://github.com/caarlos0/org-stats) (1 day ago)
-- [Use filepath.Join to generate path names](https://github.com/charmbracelet/charm/pull/66) on [charmbracelet/charm](https://github.com/charmbracelet/charm) (3 days ago)
-- [Ignore hidden cobra commands](https://github.com/muesli/mango/pull/4) on [muesli/mango](https://github.com/muesli/mango) (5 days ago)
-- [Fix typo in godoc comment](https://github.com/charmbracelet/soft-serve/pull/61) on [charmbracelet/soft-serve](https://github.com/charmbracelet/soft-serve) (6 days ago)
+- [Add &#39;scrollbarchar&#39; option](https://github.com/zyedidia/micro/pull/2342) on [zyedidia/micro](https://github.com/zyedidia/micro) (1 day ago)
+- [docs: don&#39;t suggest partial upgrades on Arch](https://github.com/caarlos0/org-stats/pull/48) on [caarlos0/org-stats](https://github.com/caarlos0/org-stats) (2 days ago)
+- [Use filepath.Join to generate path names](https://github.com/charmbracelet/charm/pull/66) on [charmbracelet/charm](https://github.com/charmbracelet/charm) (4 days ago)
+- [Ignore hidden cobra commands](https://github.com/muesli/mango/pull/4) on [muesli/mango](https://github.com/muesli/mango) (6 days ago)
+- [Fix typo in godoc comment](https://github.com/charmbracelet/soft-serve/pull/61) on [charmbracelet/soft-serve](https://github.com/charmbracelet/soft-serve) (1 week ago)
 
 #### 📜 My recent blog posts
 
@@ -52,7 +52,7 @@ of other projects. Curious what I've been hacking on recently?
 
 #### ❤️ These awesome people sponsor me (thank you!)
 
-- [twpayne](https://github.com/twpayne) (2 days ago)
+- [twpayne](https://github.com/twpayne) (3 days ago)
 - [nkpremices](https://github.com/nkpremices) (3 months ago)
 - [LuckierDodge](https://github.com/LuckierDodge) (4 months ago)
 - [crazy-max](https://github.com/crazy-max) (4 months ago)
