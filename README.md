@@ -13,10 +13,10 @@ of other projects. Curious what I've been hacking on recently?
 #### 👷 Check out what I'm currently working on
 
 - [charmbracelet/glow](https://github.com/charmbracelet/glow) - Render markdown on the CLI, with pizzazz! 💅🏻 (today)
+- [charmbracelet/bubbles](https://github.com/charmbracelet/bubbles) - TUI components for Bubble Tea 🍡 (today)
 - [muesli/smartcrop](https://github.com/muesli/smartcrop) - smartcrop finds good image crops for arbitrary crop sizes (today)
 - [caarlos0/org-stats](https://github.com/caarlos0/org-stats) - Get the contributor stats summary from all repos of any given organization (2 days ago)
 - [muesli/deckmaster](https://github.com/muesli/deckmaster) - An application to control your Elgato Stream Deck on Linux (3 days ago)
-- [charmbracelet/charm](https://github.com/charmbracelet/charm) - The Charm Tool and Library 🌟 (4 days ago)
 
 #### 🌱 My latest projects
 
@@ -36,11 +36,11 @@ of other projects. Curious what I've been hacking on recently?
 
 #### 🔨 Latest Pull Requests I published
 
+- [Fix key binding documentation](https://github.com/charmbracelet/bubbles/pull/106) on [charmbracelet/bubbles](https://github.com/charmbracelet/bubbles) (today)
 - [Switch to GitHub workflows](https://github.com/muesli/smartcrop/pull/45) on [muesli/smartcrop](https://github.com/muesli/smartcrop) (today)
 - [Add dependabot config](https://github.com/muesli/smartcrop/pull/44) on [muesli/smartcrop](https://github.com/muesli/smartcrop) (today)
 - [Add &#39;scrollbarchar&#39; option](https://github.com/zyedidia/micro/pull/2342) on [zyedidia/micro](https://github.com/zyedidia/micro) (1 day ago)
 - [docs: don&#39;t suggest partial upgrades on Arch](https://github.com/caarlos0/org-stats/pull/48) on [caarlos0/org-stats](https://github.com/caarlos0/org-stats) (2 days ago)
-- [Use filepath.Join to generate path names](https://github.com/charmbracelet/charm/pull/66) on [charmbracelet/charm](https://github.com/charmbracelet/charm) (4 days ago)
 
 #### 📜 My recent blog posts
 
