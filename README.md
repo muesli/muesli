@@ -12,11 +12,11 @@ of other projects. Curious what I've been hacking on recently?
 
 #### 👷 Check out what I'm currently working on
 
+- [charmbracelet/lipgloss](https://github.com/charmbracelet/lipgloss) - Style definitions for nice terminal layouts 👄 (today)
+- [muesli/termenv](https://github.com/muesli/termenv) - Advanced ANSI style &amp; color support for your terminal applications (today)
 - [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) - A powerful little TUI framework 🏗 (2 days ago)
-- [charmbracelet/glow](https://github.com/charmbracelet/glow) - Render markdown on the CLI, with pizzazz! 💅🏻 (4 days ago)
 - [charmbracelet/bubbles](https://github.com/charmbracelet/bubbles) - TUI components for Bubble Tea 🍡 (4 days ago)
-- [muesli/smartcrop](https://github.com/muesli/smartcrop) - smartcrop finds good image crops for arbitrary crop sizes (4 days ago)
-- [caarlos0/org-stats](https://github.com/caarlos0/org-stats) - Get the contributor stats summary from all repos of any given organization (6 days ago)
+- [charmbracelet/glow](https://github.com/charmbracelet/glow) - Render markdown on the CLI, with pizzazz! 💅🏻 (4 days ago)
 
 #### 🌱 My latest projects
 
@@ -28,19 +28,19 @@ of other projects. Curious what I've been hacking on recently?
 
 #### 🔭 Latest releases I've contributed to
 
+- [muesli/termenv](https://github.com/muesli/termenv) ([v0.10.0](https://github.com/muesli/termenv/releases/tag/v0.10.0), today) - Advanced ANSI style &amp; color support for your terminal applications
 - [charmbracelet/glamour](https://github.com/charmbracelet/glamour) ([v0.5.0](https://github.com/charmbracelet/glamour/releases/tag/v0.5.0), 4 days ago) - Stylesheet-based markdown rendering for your CLI apps 💇🏻‍♀️
 - [caarlos0/org-stats](https://github.com/caarlos0/org-stats) ([v1.10.0](https://github.com/caarlos0/org-stats/releases/tag/v1.10.0), 6 days ago) - Get the contributor stats summary from all repos of any given organization
 - [charmbracelet/bubbles](https://github.com/charmbracelet/bubbles) ([v0.10.2](https://github.com/charmbracelet/bubbles/releases/tag/v0.10.2), 1 week ago) - TUI components for Bubble Tea 🍡
 - [charmbracelet/confettysh](https://github.com/charmbracelet/confettysh) ([v1.0.1](https://github.com/charmbracelet/confettysh/releases/tag/v1.0.1), 1 week ago) - confetti over ssh
-- [charmbracelet/soft-serve](https://github.com/charmbracelet/soft-serve) ([v0.1.3](https://github.com/charmbracelet/soft-serve/releases/tag/v0.1.3), 2 weeks ago) - A tasty, self-hostable Git server for the command line🍦
 
 #### 🔨 Latest Pull Requests I published
 
+- [Bump termenv to v0.10.0](https://github.com/charmbracelet/lipgloss/pull/57) on [charmbracelet/lipgloss](https://github.com/charmbracelet/lipgloss) (today)
+- [Don&#39;t run OSC queries on CI](https://github.com/muesli/termenv/pull/52) on [muesli/termenv](https://github.com/muesli/termenv) (today)
 - [Fix source link in Commands tutorial](https://github.com/charmbracelet/bubbletea/pull/205) on [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) (2 days ago)
 - [Fix key binding documentation](https://github.com/charmbracelet/bubbles/pull/106) on [charmbracelet/bubbles](https://github.com/charmbracelet/bubbles) (4 days ago)
 - [Switch to GitHub workflows](https://github.com/muesli/smartcrop/pull/45) on [muesli/smartcrop](https://github.com/muesli/smartcrop) (4 days ago)
-- [Add dependabot config](https://github.com/muesli/smartcrop/pull/44) on [muesli/smartcrop](https://github.com/muesli/smartcrop) (4 days ago)
-- [Add &#39;scrollbarchar&#39; option](https://github.com/zyedidia/micro/pull/2342) on [zyedidia/micro](https://github.com/zyedidia/micro) (5 days ago)
 
 #### 📜 My recent blog posts
 
