@@ -28,11 +28,11 @@ of other projects. Curious what I've been hacking on recently?
 
 #### 🔭 Latest releases I've contributed to
 
+- [charmbracelet/wish](https://github.com/charmbracelet/wish) ([v0.2.0](https://github.com/charmbracelet/wish/releases/tag/v0.2.0), today) - Make SSH apps, just like that! 💫
 - [muesli/termenv](https://github.com/muesli/termenv) ([v0.10.0](https://github.com/muesli/termenv/releases/tag/v0.10.0), today) - Advanced ANSI style &amp; color support for your terminal applications
 - [minio/mc](https://github.com/minio/mc) ([RELEASE.2022-01-25T21-02-01Z](https://github.com/minio/mc/releases/tag/RELEASE.2022-01-25T21-02-01Z), 3 days ago) - MinIO Client is a replacement for ls, cp, mkdir, diff and rsync commands for filesystems and object storage.
 - [charmbracelet/glamour](https://github.com/charmbracelet/glamour) ([v0.5.0](https://github.com/charmbracelet/glamour/releases/tag/v0.5.0), 4 days ago) - Stylesheet-based markdown rendering for your CLI apps 💇🏻‍♀️
 - [caarlos0/org-stats](https://github.com/caarlos0/org-stats) ([v1.10.0](https://github.com/caarlos0/org-stats/releases/tag/v1.10.0), 6 days ago) - Get the contributor stats summary from all repos of any given organization
-- [charmbracelet/bubbles](https://github.com/charmbracelet/bubbles) ([v0.10.2](https://github.com/charmbracelet/bubbles/releases/tag/v0.10.2), 1 week ago) - TUI components for Bubble Tea 🍡
 
 #### 🔨 Latest Pull Requests I published
 
