@@ -36,11 +36,11 @@ of other projects. Curious what I've been hacking on recently?
 
 #### 🔨 Latest Pull Requests I published
 
+- [fix: do not query terminal when running in a CI context](https://github.com/minio/mc/pull/3941) on [minio/mc](https://github.com/minio/mc) (today)
 - [Bump termenv to v0.10.0](https://github.com/charmbracelet/lipgloss/pull/57) on [charmbracelet/lipgloss](https://github.com/charmbracelet/lipgloss) (today)
 - [Don&#39;t run OSC queries on CI](https://github.com/muesli/termenv/pull/52) on [muesli/termenv](https://github.com/muesli/termenv) (today)
 - [Fix source link in Commands tutorial](https://github.com/charmbracelet/bubbletea/pull/205) on [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) (2 days ago)
 - [Fix key binding documentation](https://github.com/charmbracelet/bubbles/pull/106) on [charmbracelet/bubbles](https://github.com/charmbracelet/bubbles) (4 days ago)
-- [Switch to GitHub workflows](https://github.com/muesli/smartcrop/pull/45) on [muesli/smartcrop](https://github.com/muesli/smartcrop) (4 days ago)
 
 #### 📜 My recent blog posts
 
