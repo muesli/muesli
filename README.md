@@ -28,10 +28,10 @@ of other projects. Curious what I've been hacking on recently?
 
 #### 🔭 Latest releases I've contributed to
 
+- [minio/mc](https://github.com/minio/mc) ([RELEASE.2022-01-29T01-03-27Z](https://github.com/minio/mc/releases/tag/RELEASE.2022-01-29T01-03-27Z), today) - MinIO Client is a replacement for ls, cp, mkdir, diff and rsync commands for filesystems and object storage.
 - [muesli/obs-cli](https://github.com/muesli/obs-cli) ([v0.5.0](https://github.com/muesli/obs-cli/releases/tag/v0.5.0), 1 day ago) - OBS-cli is a command-line remote control for OBS
 - [charmbracelet/wish](https://github.com/charmbracelet/wish) ([v0.2.0](https://github.com/charmbracelet/wish/releases/tag/v0.2.0), 1 day ago) - Make SSH apps, just like that! 💫
 - [muesli/termenv](https://github.com/muesli/termenv) ([v0.10.0](https://github.com/muesli/termenv/releases/tag/v0.10.0), 1 day ago) - Advanced ANSI style &amp; color support for your terminal applications
-- [minio/mc](https://github.com/minio/mc) ([RELEASE.2022-01-25T21-02-01Z](https://github.com/minio/mc/releases/tag/RELEASE.2022-01-25T21-02-01Z), 4 days ago) - MinIO Client is a replacement for ls, cp, mkdir, diff and rsync commands for filesystems and object storage.
 - [charmbracelet/glamour](https://github.com/charmbracelet/glamour) ([v0.5.0](https://github.com/charmbracelet/glamour/releases/tag/v0.5.0), 5 days ago) - Stylesheet-based markdown rendering for your CLI apps 💇🏻‍♀️
 
 #### 🔨 Latest Pull Requests I published
