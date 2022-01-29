@@ -12,11 +12,11 @@ of other projects. Curious what I've been hacking on recently?
 
 #### 👷 Check out what I'm currently working on
 
-- [minio/mc](https://github.com/minio/mc) - MinIO Client is a replacement for ls, cp, mkdir, diff and rsync commands for filesystems and object storage. (today)
-- [muesli/termenv](https://github.com/muesli/termenv) - Advanced ANSI style &amp; color support for your terminal applications (today)
-- [charmbracelet/lipgloss](https://github.com/charmbracelet/lipgloss) - Style definitions for nice terminal layouts 👄 (today)
-- [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) - A powerful little TUI framework 🏗 (2 days ago)
-- [charmbracelet/glow](https://github.com/charmbracelet/glow) - Render markdown on the CLI, with pizzazz! 💅🏻 (4 days ago)
+- [muesli/obs-cli](https://github.com/muesli/obs-cli) - OBS-cli is a command-line remote control for OBS (today)
+- [muesli/homebrew-tap](https://github.com/muesli/homebrew-tap) - muesli&#39;s Homebrew tap (today)
+- [muesli/termenv](https://github.com/muesli/termenv) - Advanced ANSI style &amp; color support for your terminal applications (1 day ago)
+- [charmbracelet/lipgloss](https://github.com/charmbracelet/lipgloss) - Style definitions for nice terminal layouts 👄 (1 day ago)
+- [minio/mc](https://github.com/minio/mc) - MinIO Client is a replacement for ls, cp, mkdir, diff and rsync commands for filesystems and object storage. (1 day ago)
 
 #### 🌱 My latest projects
 
@@ -28,19 +28,19 @@ of other projects. Curious what I've been hacking on recently?
 
 #### 🔭 Latest releases I've contributed to
 
-- [charmbracelet/wish](https://github.com/charmbracelet/wish) ([v0.2.0](https://github.com/charmbracelet/wish/releases/tag/v0.2.0), today) - Make SSH apps, just like that! 💫
-- [muesli/termenv](https://github.com/muesli/termenv) ([v0.10.0](https://github.com/muesli/termenv/releases/tag/v0.10.0), today) - Advanced ANSI style &amp; color support for your terminal applications
-- [minio/mc](https://github.com/minio/mc) ([RELEASE.2022-01-25T21-02-01Z](https://github.com/minio/mc/releases/tag/RELEASE.2022-01-25T21-02-01Z), 3 days ago) - MinIO Client is a replacement for ls, cp, mkdir, diff and rsync commands for filesystems and object storage.
-- [charmbracelet/glamour](https://github.com/charmbracelet/glamour) ([v0.5.0](https://github.com/charmbracelet/glamour/releases/tag/v0.5.0), 4 days ago) - Stylesheet-based markdown rendering for your CLI apps 💇🏻‍♀️
-- [caarlos0/org-stats](https://github.com/caarlos0/org-stats) ([v1.10.0](https://github.com/caarlos0/org-stats/releases/tag/v1.10.0), 6 days ago) - Get the contributor stats summary from all repos of any given organization
+- [muesli/obs-cli](https://github.com/muesli/obs-cli) ([v0.5.0](https://github.com/muesli/obs-cli/releases/tag/v0.5.0), 1 day ago) - OBS-cli is a command-line remote control for OBS
+- [charmbracelet/wish](https://github.com/charmbracelet/wish) ([v0.2.0](https://github.com/charmbracelet/wish/releases/tag/v0.2.0), 1 day ago) - Make SSH apps, just like that! 💫
+- [muesli/termenv](https://github.com/muesli/termenv) ([v0.10.0](https://github.com/muesli/termenv/releases/tag/v0.10.0), 1 day ago) - Advanced ANSI style &amp; color support for your terminal applications
+- [minio/mc](https://github.com/minio/mc) ([RELEASE.2022-01-25T21-02-01Z](https://github.com/minio/mc/releases/tag/RELEASE.2022-01-25T21-02-01Z), 4 days ago) - MinIO Client is a replacement for ls, cp, mkdir, diff and rsync commands for filesystems and object storage.
+- [charmbracelet/glamour](https://github.com/charmbracelet/glamour) ([v0.5.0](https://github.com/charmbracelet/glamour/releases/tag/v0.5.0), 5 days ago) - Stylesheet-based markdown rendering for your CLI apps 💇🏻‍♀️
 
 #### 🔨 Latest Pull Requests I published
 
-- [fix: do not query terminal when running in a CI context](https://github.com/minio/mc/pull/3941) on [minio/mc](https://github.com/minio/mc) (today)
-- [Bump termenv to v0.10.0](https://github.com/charmbracelet/lipgloss/pull/57) on [charmbracelet/lipgloss](https://github.com/charmbracelet/lipgloss) (today)
-- [Don&#39;t run OSC queries on CI](https://github.com/muesli/termenv/pull/52) on [muesli/termenv](https://github.com/muesli/termenv) (today)
-- [Fix source link in Commands tutorial](https://github.com/charmbracelet/bubbletea/pull/205) on [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) (2 days ago)
-- [Fix key binding documentation](https://github.com/charmbracelet/bubbles/pull/106) on [charmbracelet/bubbles](https://github.com/charmbracelet/bubbles) (4 days ago)
+- [fix: do not query terminal when running in a CI context](https://github.com/minio/mc/pull/3941) on [minio/mc](https://github.com/minio/mc) (1 day ago)
+- [Bump termenv to v0.10.0](https://github.com/charmbracelet/lipgloss/pull/57) on [charmbracelet/lipgloss](https://github.com/charmbracelet/lipgloss) (1 day ago)
+- [Don&#39;t run OSC queries on CI](https://github.com/muesli/termenv/pull/52) on [muesli/termenv](https://github.com/muesli/termenv) (1 day ago)
+- [Fix source link in Commands tutorial](https://github.com/charmbracelet/bubbletea/pull/205) on [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) (3 days ago)
+- [Fix key binding documentation](https://github.com/charmbracelet/bubbles/pull/106) on [charmbracelet/bubbles](https://github.com/charmbracelet/bubbles) (5 days ago)
 
 #### 📜 My recent blog posts
 
@@ -53,7 +53,7 @@ of other projects. Curious what I've been hacking on recently?
 #### ❤️ These awesome people sponsor me (thank you!)
 
 - [twpayne](https://github.com/twpayne) (1 week ago)
-- [nkpremices](https://github.com/nkpremices) (3 months ago)
+- [nkpremices](https://github.com/nkpremices) (4 months ago)
 - [LuckierDodge](https://github.com/LuckierDodge) (4 months ago)
 - [crazy-max](https://github.com/crazy-max) (4 months ago)
 - [ocelotsloth](https://github.com/ocelotsloth) (7 months ago)
