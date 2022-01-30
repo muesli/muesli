@@ -36,11 +36,11 @@ of other projects. Curious what I've been hacking on recently?
 
 #### 🔨 Latest Pull Requests I published
 
+- [Add terminal compatbility list to README](https://github.com/muesli/termenv/pull/54) on [muesli/termenv](https://github.com/muesli/termenv) (today)
+- [Add session commands](https://github.com/muesli/termenv/pull/53) on [muesli/termenv](https://github.com/muesli/termenv) (today)
 - [fix: do not query terminal when running in a CI context](https://github.com/minio/mc/pull/3941) on [minio/mc](https://github.com/minio/mc) (2 days ago)
 - [Bump termenv to v0.10.0](https://github.com/charmbracelet/lipgloss/pull/57) on [charmbracelet/lipgloss](https://github.com/charmbracelet/lipgloss) (2 days ago)
 - [Don&#39;t run OSC queries on CI](https://github.com/muesli/termenv/pull/52) on [muesli/termenv](https://github.com/muesli/termenv) (2 days ago)
-- [Fix source link in Commands tutorial](https://github.com/charmbracelet/bubbletea/pull/205) on [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) (4 days ago)
-- [Fix key binding documentation](https://github.com/charmbracelet/bubbles/pull/106) on [charmbracelet/bubbles](https://github.com/charmbracelet/bubbles) (6 days ago)
 
 #### 📜 My recent blog posts
 
