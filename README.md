@@ -12,11 +12,11 @@ of other projects. Curious what I've been hacking on recently?
 
 #### 👷 Check out what I'm currently working on
 
-- [orlangure/gocovsh](https://github.com/orlangure/gocovsh) - Go Coverage in Shell: a tool for exploring Go Coverage reports from the command line 💻 (today)
 - [muesli/termenv](https://github.com/muesli/termenv) - Advanced ANSI style &amp; color support for your terminal applications (today)
-- [muesli/obs-cli](https://github.com/muesli/obs-cli) - OBS-cli is a command-line remote control for OBS (2 days ago)
+- [charmbracelet/lipgloss](https://github.com/charmbracelet/lipgloss) - Style definitions for nice terminal layouts 👄 (today)
+- [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) - A powerful little TUI framework 🏗 (today)
+- [orlangure/gocovsh](https://github.com/orlangure/gocovsh) - Go Coverage in Shell: a tool for exploring Go Coverage reports from the command line 💻 (today)
 - [muesli/homebrew-tap](https://github.com/muesli/homebrew-tap) - muesli&#39;s Homebrew tap (2 days ago)
-- [minio/mc](https://github.com/minio/mc) - MinIO Client is a replacement for ls, cp, mkdir, diff and rsync commands for filesystems and object storage. (3 days ago)
 
 #### 🌱 My latest projects
 
@@ -28,19 +28,19 @@ of other projects. Curious what I've been hacking on recently?
 
 #### 🔭 Latest releases I've contributed to
 
+- [muesli/termenv](https://github.com/muesli/termenv) ([v0.11.0](https://github.com/muesli/termenv/releases/tag/v0.11.0), today) - Advanced ANSI style &amp; color support for your terminal applications
 - [charmbracelet/keygen](https://github.com/charmbracelet/keygen) ([v0.2.0](https://github.com/charmbracelet/keygen/releases/tag/v0.2.0), today) - An SSH key pair generator
 - [minio/mc](https://github.com/minio/mc) ([RELEASE.2022-01-29T01-03-27Z](https://github.com/minio/mc/releases/tag/RELEASE.2022-01-29T01-03-27Z), 2 days ago) - MinIO Client is a replacement for ls, cp, mkdir, diff and rsync commands for filesystems and object storage.
 - [muesli/obs-cli](https://github.com/muesli/obs-cli) ([v0.5.0](https://github.com/muesli/obs-cli/releases/tag/v0.5.0), 3 days ago) - OBS-cli is a command-line remote control for OBS
 - [charmbracelet/wish](https://github.com/charmbracelet/wish) ([v0.2.0](https://github.com/charmbracelet/wish/releases/tag/v0.2.0), 3 days ago) - Make SSH apps, just like that! 💫
-- [muesli/termenv](https://github.com/muesli/termenv) ([v0.10.0](https://github.com/muesli/termenv/releases/tag/v0.10.0), 3 days ago) - Advanced ANSI style &amp; color support for your terminal applications
 
 #### 🔨 Latest Pull Requests I published
 
+- [fix: don&#39;t block if terminal does not respond to OSC query](https://github.com/minio/mc/pull/3946) on [minio/mc](https://github.com/minio/mc) (today)
+- [Bump termenv to v0.11.0](https://github.com/charmbracelet/bubbletea/pull/211) on [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) (today)
+- [Bump termenv to v0.11.0](https://github.com/charmbracelet/lipgloss/pull/59) on [charmbracelet/lipgloss](https://github.com/charmbracelet/lipgloss) (today)
 - [Bump go-isatty and x/sys](https://github.com/muesli/termenv/pull/62) on [muesli/termenv](https://github.com/muesli/termenv) (today)
 - [Add helper to enable virtual terminal processing on Windows](https://github.com/muesli/termenv/pull/61) on [muesli/termenv](https://github.com/muesli/termenv) (today)
-- [Add separate sets of hard- and soft-enforced linters](https://github.com/muesli/termenv/pull/60) on [muesli/termenv](https://github.com/muesli/termenv) (today)
-- [Add footnote about terminal multiplexers](https://github.com/muesli/termenv/pull/59) on [muesli/termenv](https://github.com/muesli/termenv) (today)
-- [Add &#39;kitty&#39; and &#39;ansi&#39; values as a fallback color support detection](https://github.com/muesli/termenv/pull/58) on [muesli/termenv](https://github.com/muesli/termenv) (today)
 
 #### 📜 My recent blog posts
 
