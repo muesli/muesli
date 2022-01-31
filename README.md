@@ -36,11 +36,11 @@ of other projects. Curious what I've been hacking on recently?
 
 #### 🔨 Latest Pull Requests I published
 
+- [Fix README badges](https://github.com/IGLOU-EU/go-wildcard/pull/3) on [IGLOU-EU/go-wildcard](https://github.com/IGLOU-EU/go-wildcard) (today)
+- [Use termenv to enable Windows virtual terminal processing](https://github.com/charmbracelet/lipgloss/pull/60) on [charmbracelet/lipgloss](https://github.com/charmbracelet/lipgloss) (today)
 - [fix: don&#39;t block if terminal does not respond to OSC query](https://github.com/minio/mc/pull/3946) on [minio/mc](https://github.com/minio/mc) (today)
 - [Bump termenv to v0.11.0](https://github.com/charmbracelet/bubbletea/pull/211) on [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) (today)
 - [Bump termenv to v0.11.0](https://github.com/charmbracelet/lipgloss/pull/59) on [charmbracelet/lipgloss](https://github.com/charmbracelet/lipgloss) (today)
-- [Bump go-isatty and x/sys](https://github.com/muesli/termenv/pull/62) on [muesli/termenv](https://github.com/muesli/termenv) (today)
-- [Add helper to enable virtual terminal processing on Windows](https://github.com/muesli/termenv/pull/61) on [muesli/termenv](https://github.com/muesli/termenv) (today)
 
 #### 📜 My recent blog posts
 
