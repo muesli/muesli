@@ -12,10 +12,10 @@ of other projects. Curious what I've been hacking on recently?
 
 #### 👷 Check out what I'm currently working on
 
+- [orlangure/gocovsh](https://github.com/orlangure/gocovsh) - Go Coverage in Shell: a tool for exploring Go Coverage reports from the command line 💻 (today)
 - [muesli/termenv](https://github.com/muesli/termenv) - Advanced ANSI style &amp; color support for your terminal applications (today)
 - [muesli/obs-cli](https://github.com/muesli/obs-cli) - OBS-cli is a command-line remote control for OBS (2 days ago)
 - [muesli/homebrew-tap](https://github.com/muesli/homebrew-tap) - muesli&#39;s Homebrew tap (2 days ago)
-- [charmbracelet/lipgloss](https://github.com/charmbracelet/lipgloss) - Style definitions for nice terminal layouts 👄 (3 days ago)
 - [minio/mc](https://github.com/minio/mc) - MinIO Client is a replacement for ls, cp, mkdir, diff and rsync commands for filesystems and object storage. (3 days ago)
 
 #### 🌱 My latest projects
@@ -36,11 +36,11 @@ of other projects. Curious what I've been hacking on recently?
 
 #### 🔨 Latest Pull Requests I published
 
+- [Proceed with defaults if no OSC response arrives within 5 seconds](https://github.com/muesli/termenv/pull/57) on [muesli/termenv](https://github.com/muesli/termenv) (today)
+- [Correctly parse COLORFGBG with three values](https://github.com/muesli/termenv/pull/56) on [muesli/termenv](https://github.com/muesli/termenv) (today)
+- [Fix install instruction for &#39;go install&#39;](https://github.com/orlangure/gocovsh/pull/11) on [orlangure/gocovsh](https://github.com/orlangure/gocovsh) (today)
 - [Require Go 1.16](https://github.com/charmbracelet/charm/pull/77) on [charmbracelet/charm](https://github.com/charmbracelet/charm) (today)
 - [Group vte-based terminals in README](https://github.com/muesli/termenv/pull/55) on [muesli/termenv](https://github.com/muesli/termenv) (today)
-- [Add terminal compatbility list to README](https://github.com/muesli/termenv/pull/54) on [muesli/termenv](https://github.com/muesli/termenv) (1 day ago)
-- [Add session commands](https://github.com/muesli/termenv/pull/53) on [muesli/termenv](https://github.com/muesli/termenv) (1 day ago)
-- [fix: do not query terminal when running in a CI context](https://github.com/minio/mc/pull/3941) on [minio/mc](https://github.com/minio/mc) (3 days ago)
 
 #### 📜 My recent blog posts
 
