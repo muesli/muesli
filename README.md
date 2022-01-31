@@ -36,11 +36,11 @@ of other projects. Curious what I've been hacking on recently?
 
 #### 🔨 Latest Pull Requests I published
 
+- [Add separate sets of hard- and soft-enforced linters](https://github.com/muesli/termenv/pull/60) on [muesli/termenv](https://github.com/muesli/termenv) (today)
 - [Add footnote about terminal multiplexers](https://github.com/muesli/termenv/pull/59) on [muesli/termenv](https://github.com/muesli/termenv) (today)
 - [Add &#39;kitty&#39; and &#39;ansi&#39; values as a fallback color support detection](https://github.com/muesli/termenv/pull/58) on [muesli/termenv](https://github.com/muesli/termenv) (today)
 - [Proceed with defaults if no OSC response arrives within 5 seconds](https://github.com/muesli/termenv/pull/57) on [muesli/termenv](https://github.com/muesli/termenv) (today)
 - [Correctly parse COLORFGBG with three values](https://github.com/muesli/termenv/pull/56) on [muesli/termenv](https://github.com/muesli/termenv) (today)
-- [Fix install instruction for &#39;go install&#39;](https://github.com/orlangure/gocovsh/pull/11) on [orlangure/gocovsh](https://github.com/orlangure/gocovsh) (today)
 
 #### 📜 My recent blog posts
 
