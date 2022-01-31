@@ -28,19 +28,19 @@ of other projects. Curious what I've been hacking on recently?
 
 #### 🔭 Latest releases I've contributed to
 
+- [charmbracelet/keygen](https://github.com/charmbracelet/keygen) ([v0.2.0](https://github.com/charmbracelet/keygen/releases/tag/v0.2.0), today) - An SSH key pair generator
 - [minio/mc](https://github.com/minio/mc) ([RELEASE.2022-01-29T01-03-27Z](https://github.com/minio/mc/releases/tag/RELEASE.2022-01-29T01-03-27Z), 2 days ago) - MinIO Client is a replacement for ls, cp, mkdir, diff and rsync commands for filesystems and object storage.
 - [muesli/obs-cli](https://github.com/muesli/obs-cli) ([v0.5.0](https://github.com/muesli/obs-cli/releases/tag/v0.5.0), 3 days ago) - OBS-cli is a command-line remote control for OBS
 - [charmbracelet/wish](https://github.com/charmbracelet/wish) ([v0.2.0](https://github.com/charmbracelet/wish/releases/tag/v0.2.0), 3 days ago) - Make SSH apps, just like that! 💫
 - [muesli/termenv](https://github.com/muesli/termenv) ([v0.10.0](https://github.com/muesli/termenv/releases/tag/v0.10.0), 3 days ago) - Advanced ANSI style &amp; color support for your terminal applications
-- [charmbracelet/glamour](https://github.com/charmbracelet/glamour) ([v0.5.0](https://github.com/charmbracelet/glamour/releases/tag/v0.5.0), 1 week ago) - Stylesheet-based markdown rendering for your CLI apps 💇🏻‍♀️
 
 #### 🔨 Latest Pull Requests I published
 
+- [Add &#39;kitty&#39; and &#39;ansi&#39; values as a fallback color support detection](https://github.com/muesli/termenv/pull/58) on [muesli/termenv](https://github.com/muesli/termenv) (today)
 - [Proceed with defaults if no OSC response arrives within 5 seconds](https://github.com/muesli/termenv/pull/57) on [muesli/termenv](https://github.com/muesli/termenv) (today)
 - [Correctly parse COLORFGBG with three values](https://github.com/muesli/termenv/pull/56) on [muesli/termenv](https://github.com/muesli/termenv) (today)
 - [Fix install instruction for &#39;go install&#39;](https://github.com/orlangure/gocovsh/pull/11) on [orlangure/gocovsh](https://github.com/orlangure/gocovsh) (today)
 - [Require Go 1.16](https://github.com/charmbracelet/charm/pull/77) on [charmbracelet/charm](https://github.com/charmbracelet/charm) (today)
-- [Group vte-based terminals in README](https://github.com/muesli/termenv/pull/55) on [muesli/termenv](https://github.com/muesli/termenv) (today)
 
 #### 📜 My recent blog posts
 
