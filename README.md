@@ -36,11 +36,11 @@ of other projects. Curious what I've been hacking on recently?
 
 #### 🔨 Latest Pull Requests I published
 
+- [Bump go-isatty and x/sys](https://github.com/muesli/termenv/pull/62) on [muesli/termenv](https://github.com/muesli/termenv) (today)
+- [Add helper to enable virtual terminal processing on Windows](https://github.com/muesli/termenv/pull/61) on [muesli/termenv](https://github.com/muesli/termenv) (today)
 - [Add separate sets of hard- and soft-enforced linters](https://github.com/muesli/termenv/pull/60) on [muesli/termenv](https://github.com/muesli/termenv) (today)
 - [Add footnote about terminal multiplexers](https://github.com/muesli/termenv/pull/59) on [muesli/termenv](https://github.com/muesli/termenv) (today)
 - [Add &#39;kitty&#39; and &#39;ansi&#39; values as a fallback color support detection](https://github.com/muesli/termenv/pull/58) on [muesli/termenv](https://github.com/muesli/termenv) (today)
-- [Proceed with defaults if no OSC response arrives within 5 seconds](https://github.com/muesli/termenv/pull/57) on [muesli/termenv](https://github.com/muesli/termenv) (today)
-- [Correctly parse COLORFGBG with three values](https://github.com/muesli/termenv/pull/56) on [muesli/termenv](https://github.com/muesli/termenv) (today)
 
 #### 📜 My recent blog posts
 
