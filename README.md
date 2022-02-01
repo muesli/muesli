@@ -12,35 +12,35 @@ of other projects. Curious what I've been hacking on recently?
 
 #### 👷 Check out what I'm currently working on
 
-- [muesli/termenv](https://github.com/muesli/termenv) - Advanced ANSI style &amp; color support for your terminal applications (today)
-- [charmbracelet/lipgloss](https://github.com/charmbracelet/lipgloss) - Style definitions for nice terminal layouts 👄 (today)
-- [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) - A powerful little TUI framework 🏗 (today)
-- [orlangure/gocovsh](https://github.com/orlangure/gocovsh) - Go Coverage in Shell: a tool for exploring Go Coverage reports from the command line 💻 (today)
-- [muesli/homebrew-tap](https://github.com/muesli/homebrew-tap) - muesli&#39;s Homebrew tap (2 days ago)
+- [muesli/mango-pflag](https://github.com/muesli/mango-pflag) - pflag adapter for mango (today)
+- [muesli/mango-cobra](https://github.com/muesli/mango-cobra) - cobra adapter for mango (today)
+- [muesli/duf](https://github.com/muesli/duf) - Disk Usage/Free Utility - a better &#39;df&#39; alternative (today)
+- [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) - A powerful little TUI framework 🏗 (1 day ago)
+- [muesli/termenv](https://github.com/muesli/termenv) - Advanced ANSI style &amp; color support for your terminal applications (1 day ago)
 
 #### 🌱 My latest projects
 
+- [muesli/mango-pflag](https://github.com/muesli/mango-pflag) - pflag adapter for mango
+- [muesli/mango-cobra](https://github.com/muesli/mango-cobra) - cobra adapter for mango
 - [muesli/mango](https://github.com/muesli/mango) - mango is a man-page generator for the Go flag, pflag, and cobra packages
 - [muesli/roff](https://github.com/muesli/roff) - roff lets you write roff documents in Go
 - [muesli/ansi](https://github.com/muesli/ansi) - Raw ANSI sequence helpers
-- [muesli/gitty](https://github.com/muesli/gitty) - Contextual information about your git projects, right on the command-line
-- [muesli/code-server](https://github.com/muesli/code-server) - My code-server Docker image
 
 #### 🔭 Latest releases I've contributed to
 
-- [muesli/termenv](https://github.com/muesli/termenv) ([v0.11.0](https://github.com/muesli/termenv/releases/tag/v0.11.0), today) - Advanced ANSI style &amp; color support for your terminal applications
-- [charmbracelet/keygen](https://github.com/charmbracelet/keygen) ([v0.2.0](https://github.com/charmbracelet/keygen/releases/tag/v0.2.0), today) - An SSH key pair generator
-- [minio/mc](https://github.com/minio/mc) ([RELEASE.2022-01-29T01-03-27Z](https://github.com/minio/mc/releases/tag/RELEASE.2022-01-29T01-03-27Z), 2 days ago) - MinIO Client is a replacement for ls, cp, mkdir, diff and rsync commands for filesystems and object storage.
-- [muesli/obs-cli](https://github.com/muesli/obs-cli) ([v0.5.0](https://github.com/muesli/obs-cli/releases/tag/v0.5.0), 3 days ago) - OBS-cli is a command-line remote control for OBS
-- [charmbracelet/wish](https://github.com/charmbracelet/wish) ([v0.2.0](https://github.com/charmbracelet/wish/releases/tag/v0.2.0), 3 days ago) - Make SSH apps, just like that! 💫
+- [muesli/termenv](https://github.com/muesli/termenv) ([v0.11.0](https://github.com/muesli/termenv/releases/tag/v0.11.0), 1 day ago) - Advanced ANSI style &amp; color support for your terminal applications
+- [charmbracelet/keygen](https://github.com/charmbracelet/keygen) ([v0.2.0](https://github.com/charmbracelet/keygen/releases/tag/v0.2.0), 1 day ago) - An SSH key pair generator
+- [minio/mc](https://github.com/minio/mc) ([RELEASE.2022-01-29T01-03-27Z](https://github.com/minio/mc/releases/tag/RELEASE.2022-01-29T01-03-27Z), 3 days ago) - MinIO Client is a replacement for ls, cp, mkdir, diff and rsync commands for filesystems and object storage.
+- [muesli/obs-cli](https://github.com/muesli/obs-cli) ([v0.5.0](https://github.com/muesli/obs-cli/releases/tag/v0.5.0), 4 days ago) - OBS-cli is a command-line remote control for OBS
+- [charmbracelet/wish](https://github.com/charmbracelet/wish) ([v0.2.0](https://github.com/charmbracelet/wish/releases/tag/v0.2.0), 4 days ago) - Make SSH apps, just like that! 💫
 
 #### 🔨 Latest Pull Requests I published
 
-- [Fix README badges](https://github.com/IGLOU-EU/go-wildcard/pull/3) on [IGLOU-EU/go-wildcard](https://github.com/IGLOU-EU/go-wildcard) (today)
-- [Use termenv to enable Windows virtual terminal processing](https://github.com/charmbracelet/lipgloss/pull/60) on [charmbracelet/lipgloss](https://github.com/charmbracelet/lipgloss) (today)
-- [fix: don&#39;t block if terminal does not respond to OSC query](https://github.com/minio/mc/pull/3946) on [minio/mc](https://github.com/minio/mc) (today)
-- [Bump termenv to v0.11.0](https://github.com/charmbracelet/bubbletea/pull/211) on [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) (today)
-- [Bump termenv to v0.11.0](https://github.com/charmbracelet/lipgloss/pull/59) on [charmbracelet/lipgloss](https://github.com/charmbracelet/lipgloss) (today)
+- [Move mcobra &amp; mpflag into separate repositories](https://github.com/muesli/mango/pull/5) on [muesli/mango](https://github.com/muesli/mango) (today)
+- [Bump termenv to v0.11.0](https://github.com/muesli/duf/pull/159) on [muesli/duf](https://github.com/muesli/duf) (1 day ago)
+- [Fix README badges](https://github.com/IGLOU-EU/go-wildcard/pull/3) on [IGLOU-EU/go-wildcard](https://github.com/IGLOU-EU/go-wildcard) (1 day ago)
+- [Use termenv to enable Windows virtual terminal processing](https://github.com/charmbracelet/lipgloss/pull/60) on [charmbracelet/lipgloss](https://github.com/charmbracelet/lipgloss) (1 day ago)
+- [fix: don&#39;t block if terminal does not respond to OSC query](https://github.com/minio/mc/pull/3946) on [minio/mc](https://github.com/minio/mc) (1 day ago)
 
 #### 📜 My recent blog posts
 
