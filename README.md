@@ -36,11 +36,11 @@ of other projects. Curious what I've been hacking on recently?
 
 #### 🔨 Latest Pull Requests I published
 
+- [Bump go-git dependency to prevent crash](https://github.com/muesli/gitty/pull/43) on [muesli/gitty](https://github.com/muesli/gitty) (today)
+- [Add separate sets of hard and soft enforced linters](https://github.com/muesli/gitty/pull/42) on [muesli/gitty](https://github.com/muesli/gitty) (today)
 - [Add &#39;ansi&#39; theme that uses the terminal&#39;s native 4-bit ANSI colors](https://github.com/muesli/duf/pull/163) on [muesli/duf](https://github.com/muesli/duf) (today)
 - [Add Go 1.17 build tags](https://github.com/muesli/duf/pull/162) on [muesli/duf](https://github.com/muesli/duf) (today)
 - [Generate man page when built with &#39;mango&#39; build-tag](https://github.com/muesli/duf/pull/160) on [muesli/duf](https://github.com/muesli/duf) (today)
-- [chore: bump mango and adapt to changed API](https://github.com/caarlos0/tasktimer/pull/37) on [caarlos0/tasktimer](https://github.com/caarlos0/tasktimer) (today)
-- [chore: bump mango and adapt to changed API](https://github.com/caarlos0/org-stats/pull/49) on [caarlos0/org-stats](https://github.com/caarlos0/org-stats) (today)
 
 #### 📜 My recent blog posts
 
