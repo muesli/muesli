@@ -12,11 +12,11 @@ of other projects. Curious what I've been hacking on recently?
 
 #### 👷 Check out what I'm currently working on
 
-- [muesli/duf](https://github.com/muesli/duf) - Disk Usage/Free Utility - a better &#39;df&#39; alternative (today)
-- [muesli/mango-cobra](https://github.com/muesli/mango-cobra) - cobra adapter for mango (today)
 - [muesli/mango](https://github.com/muesli/mango) - mango is a man-page generator for the Go flag, pflag, and cobra packages (today)
-- [muesli/mango-pflag](https://github.com/muesli/mango-pflag) - pflag adapter for mango (today)
-- [IGLOU-EU/go-wildcard](https://github.com/IGLOU-EU/go-wildcard) - Fast and light wildcard pattern matching. Fork from Minio project. (1 day ago)
+- [caarlos0/org-stats](https://github.com/caarlos0/org-stats) - Get the contributor stats summary from all repos of any given organization (today)
+- [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) - Deliver Go binaries as fast and easily as possible (today)
+- [muesli/mango-cobra](https://github.com/muesli/mango-cobra) - cobra adapter for mango (today)
+- [caarlos0/tasktimer](https://github.com/caarlos0/tasktimer) - Task Timer (tt) is a dead simple TUI task timer (today)
 
 #### 🌱 My latest projects
 
