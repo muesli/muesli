@@ -12,11 +12,11 @@ of other projects. Curious what I've been hacking on recently?
 
 #### 👷 Check out what I'm currently working on
 
-- [muesli/mango-pflag](https://github.com/muesli/mango-pflag) - pflag adapter for mango (today)
-- [muesli/mango-cobra](https://github.com/muesli/mango-cobra) - cobra adapter for mango (today)
 - [muesli/duf](https://github.com/muesli/duf) - Disk Usage/Free Utility - a better &#39;df&#39; alternative (today)
-- [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) - A powerful little TUI framework 🏗 (1 day ago)
-- [muesli/termenv](https://github.com/muesli/termenv) - Advanced ANSI style &amp; color support for your terminal applications (1 day ago)
+- [muesli/mango-cobra](https://github.com/muesli/mango-cobra) - cobra adapter for mango (today)
+- [muesli/mango](https://github.com/muesli/mango) - mango is a man-page generator for the Go flag, pflag, and cobra packages (today)
+- [muesli/mango-pflag](https://github.com/muesli/mango-pflag) - pflag adapter for mango (today)
+- [IGLOU-EU/go-wildcard](https://github.com/IGLOU-EU/go-wildcard) - Fast and light wildcard pattern matching. Fork from Minio project. (1 day ago)
 
 #### 🌱 My latest projects
 
@@ -36,11 +36,11 @@ of other projects. Curious what I've been hacking on recently?
 
 #### 🔨 Latest Pull Requests I published
 
+- [Generate man page when built with &#39;mango&#39; build-tag](https://github.com/muesli/duf/pull/160) on [muesli/duf](https://github.com/muesli/duf) (today)
+- [chore: bump mango and adapt to changed API](https://github.com/caarlos0/tasktimer/pull/37) on [caarlos0/tasktimer](https://github.com/caarlos0/tasktimer) (today)
+- [chore: bump mango and adapt to changed API](https://github.com/caarlos0/org-stats/pull/49) on [caarlos0/org-stats](https://github.com/caarlos0/org-stats) (today)
+- [chore: bump mango and adapt to changed API](https://github.com/goreleaser/goreleaser/pull/2865) on [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) (today)
 - [Move mcobra &amp; mpflag into separate repositories](https://github.com/muesli/mango/pull/5) on [muesli/mango](https://github.com/muesli/mango) (today)
-- [Bump termenv to v0.11.0](https://github.com/muesli/duf/pull/159) on [muesli/duf](https://github.com/muesli/duf) (1 day ago)
-- [Fix README badges](https://github.com/IGLOU-EU/go-wildcard/pull/3) on [IGLOU-EU/go-wildcard](https://github.com/IGLOU-EU/go-wildcard) (1 day ago)
-- [Use termenv to enable Windows virtual terminal processing](https://github.com/charmbracelet/lipgloss/pull/60) on [charmbracelet/lipgloss](https://github.com/charmbracelet/lipgloss) (1 day ago)
-- [fix: don&#39;t block if terminal does not respond to OSC query](https://github.com/minio/mc/pull/3946) on [minio/mc](https://github.com/minio/mc) (1 day ago)
 
 #### 📜 My recent blog posts
 
