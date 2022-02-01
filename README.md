@@ -12,11 +12,11 @@ of other projects. Curious what I've been hacking on recently?
 
 #### 👷 Check out what I'm currently working on
 
-- [muesli/mango](https://github.com/muesli/mango) - mango is a man-page generator for the Go flag, pflag, and cobra packages (today)
+- [muesli/gamut](https://github.com/muesli/gamut) - Go package to generate and manage color palettes &amp; schemes 🎨 (today)
 - [caarlos0/org-stats](https://github.com/caarlos0/org-stats) - Get the contributor stats summary from all repos of any given organization (today)
+- [muesli/gitty](https://github.com/muesli/gitty) - Contextual information about your git projects, right on the command-line (today)
 - [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) - Deliver Go binaries as fast and easily as possible (today)
 - [muesli/mango-cobra](https://github.com/muesli/mango-cobra) - cobra adapter for mango (today)
-- [caarlos0/tasktimer](https://github.com/caarlos0/tasktimer) - Task Timer (tt) is a dead simple TUI task timer (today)
 
 #### 🌱 My latest projects
 
@@ -28,11 +28,11 @@ of other projects. Curious what I've been hacking on recently?
 
 #### 🔭 Latest releases I've contributed to
 
+- [muesli/duf](https://github.com/muesli/duf) ([v0.8.0](https://github.com/muesli/duf/releases/tag/v0.8.0), today) - Disk Usage/Free Utility - a better &#39;df&#39; alternative
 - [muesli/termenv](https://github.com/muesli/termenv) ([v0.11.0](https://github.com/muesli/termenv/releases/tag/v0.11.0), 1 day ago) - Advanced ANSI style &amp; color support for your terminal applications
 - [charmbracelet/keygen](https://github.com/charmbracelet/keygen) ([v0.2.0](https://github.com/charmbracelet/keygen/releases/tag/v0.2.0), 1 day ago) - An SSH key pair generator
 - [minio/mc](https://github.com/minio/mc) ([RELEASE.2022-01-29T01-03-27Z](https://github.com/minio/mc/releases/tag/RELEASE.2022-01-29T01-03-27Z), 3 days ago) - MinIO Client is a replacement for ls, cp, mkdir, diff and rsync commands for filesystems and object storage.
 - [muesli/obs-cli](https://github.com/muesli/obs-cli) ([v0.5.0](https://github.com/muesli/obs-cli/releases/tag/v0.5.0), 4 days ago) - OBS-cli is a command-line remote control for OBS
-- [charmbracelet/wish](https://github.com/charmbracelet/wish) ([v0.2.0](https://github.com/charmbracelet/wish/releases/tag/v0.2.0), 4 days ago) - Make SSH apps, just like that! 💫
 
 #### 🔨 Latest Pull Requests I published
 
