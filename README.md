@@ -36,11 +36,11 @@ of other projects. Curious what I've been hacking on recently?
 
 #### 🔨 Latest Pull Requests I published
 
+- [Add links to related projects](https://github.com/muesli/termenv/pull/63) on [muesli/termenv](https://github.com/muesli/termenv) (today)
 - [Support ssh.github.com as a valid provider](https://github.com/muesli/gitty/pull/46) on [muesli/gitty](https://github.com/muesli/gitty) (today)
 - [Prioritize upstream remote over origin](https://github.com/muesli/gitty/pull/45) on [muesli/gitty](https://github.com/muesli/gitty) (today)
 - [Improve usage text](https://github.com/muesli/gitty/pull/44) on [muesli/gitty](https://github.com/muesli/gitty) (today)
 - [Bump go-git dependency to prevent crash](https://github.com/muesli/gitty/pull/43) on [muesli/gitty](https://github.com/muesli/gitty) (today)
-- [Add separate sets of hard and soft enforced linters](https://github.com/muesli/gitty/pull/42) on [muesli/gitty](https://github.com/muesli/gitty) (today)
 
 #### 📜 My recent blog posts
 
