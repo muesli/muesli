@@ -28,19 +28,19 @@ of other projects. Curious what I've been hacking on recently?
 
 #### 🔭 Latest releases I've contributed to
 
+- [muesli/gitty](https://github.com/muesli/gitty) ([v0.7.0](https://github.com/muesli/gitty/releases/tag/v0.7.0), today) - Contextual information about your git projects, right on the command-line
 - [muesli/duf](https://github.com/muesli/duf) ([v0.8.0](https://github.com/muesli/duf/releases/tag/v0.8.0), today) - Disk Usage/Free Utility - a better &#39;df&#39; alternative
 - [muesli/termenv](https://github.com/muesli/termenv) ([v0.11.0](https://github.com/muesli/termenv/releases/tag/v0.11.0), 1 day ago) - Advanced ANSI style &amp; color support for your terminal applications
 - [charmbracelet/keygen](https://github.com/charmbracelet/keygen) ([v0.2.0](https://github.com/charmbracelet/keygen/releases/tag/v0.2.0), 1 day ago) - An SSH key pair generator
 - [minio/mc](https://github.com/minio/mc) ([RELEASE.2022-01-29T01-03-27Z](https://github.com/minio/mc/releases/tag/RELEASE.2022-01-29T01-03-27Z), 3 days ago) - MinIO Client is a replacement for ls, cp, mkdir, diff and rsync commands for filesystems and object storage.
-- [muesli/obs-cli](https://github.com/muesli/obs-cli) ([v0.5.0](https://github.com/muesli/obs-cli/releases/tag/v0.5.0), 4 days ago) - OBS-cli is a command-line remote control for OBS
 
 #### 🔨 Latest Pull Requests I published
 
+- [Support ssh.github.com as a valid provider](https://github.com/muesli/gitty/pull/46) on [muesli/gitty](https://github.com/muesli/gitty) (today)
 - [Prioritize upstream remote over origin](https://github.com/muesli/gitty/pull/45) on [muesli/gitty](https://github.com/muesli/gitty) (today)
 - [Improve usage text](https://github.com/muesli/gitty/pull/44) on [muesli/gitty](https://github.com/muesli/gitty) (today)
 - [Bump go-git dependency to prevent crash](https://github.com/muesli/gitty/pull/43) on [muesli/gitty](https://github.com/muesli/gitty) (today)
 - [Add separate sets of hard and soft enforced linters](https://github.com/muesli/gitty/pull/42) on [muesli/gitty](https://github.com/muesli/gitty) (today)
-- [Add &#39;ansi&#39; theme that uses the terminal&#39;s native 4-bit ANSI colors](https://github.com/muesli/duf/pull/163) on [muesli/duf](https://github.com/muesli/duf) (today)
 
 #### 📜 My recent blog posts
 
