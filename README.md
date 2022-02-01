@@ -36,11 +36,11 @@ of other projects. Curious what I've been hacking on recently?
 
 #### 🔨 Latest Pull Requests I published
 
+- [Add &#39;ansi&#39; theme that uses the terminal&#39;s native 4-bit ANSI colors](https://github.com/muesli/duf/pull/163) on [muesli/duf](https://github.com/muesli/duf) (today)
+- [Add Go 1.17 build tags](https://github.com/muesli/duf/pull/162) on [muesli/duf](https://github.com/muesli/duf) (today)
 - [Generate man page when built with &#39;mango&#39; build-tag](https://github.com/muesli/duf/pull/160) on [muesli/duf](https://github.com/muesli/duf) (today)
 - [chore: bump mango and adapt to changed API](https://github.com/caarlos0/tasktimer/pull/37) on [caarlos0/tasktimer](https://github.com/caarlos0/tasktimer) (today)
 - [chore: bump mango and adapt to changed API](https://github.com/caarlos0/org-stats/pull/49) on [caarlos0/org-stats](https://github.com/caarlos0/org-stats) (today)
-- [chore: bump mango and adapt to changed API](https://github.com/goreleaser/goreleaser/pull/2865) on [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) (today)
-- [Move mcobra &amp; mpflag into separate repositories](https://github.com/muesli/mango/pull/5) on [muesli/mango](https://github.com/muesli/mango) (today)
 
 #### 📜 My recent blog posts
 
