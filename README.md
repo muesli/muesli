@@ -15,8 +15,8 @@ of other projects. Curious what I've been hacking on recently?
 - [muesli/gamut](https://github.com/muesli/gamut) - Go package to generate and manage color palettes &amp; schemes 🎨 (today)
 - [caarlos0/org-stats](https://github.com/caarlos0/org-stats) - Get the contributor stats summary from all repos of any given organization (today)
 - [muesli/gitty](https://github.com/muesli/gitty) - Contextual information about your git projects, right on the command-line (today)
+- [muesli/termenv](https://github.com/muesli/termenv) - Advanced ANSI style &amp; color support for your terminal applications (today)
 - [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) - Deliver Go binaries as fast and easily as possible (today)
-- [muesli/mango-cobra](https://github.com/muesli/mango-cobra) - cobra adapter for mango (today)
 
 #### 🌱 My latest projects
 
@@ -36,11 +36,11 @@ of other projects. Curious what I've been hacking on recently?
 
 #### 🔨 Latest Pull Requests I published
 
+- [Reorder README paragraphs](https://github.com/muesli/termenv/pull/64) on [muesli/termenv](https://github.com/muesli/termenv) (today)
 - [Add links to related projects](https://github.com/muesli/termenv/pull/63) on [muesli/termenv](https://github.com/muesli/termenv) (today)
 - [Support ssh.github.com as a valid provider](https://github.com/muesli/gitty/pull/46) on [muesli/gitty](https://github.com/muesli/gitty) (today)
 - [Prioritize upstream remote over origin](https://github.com/muesli/gitty/pull/45) on [muesli/gitty](https://github.com/muesli/gitty) (today)
 - [Improve usage text](https://github.com/muesli/gitty/pull/44) on [muesli/gitty](https://github.com/muesli/gitty) (today)
-- [Bump go-git dependency to prevent crash](https://github.com/muesli/gitty/pull/43) on [muesli/gitty](https://github.com/muesli/gitty) (today)
 
 #### 📜 My recent blog posts
 
