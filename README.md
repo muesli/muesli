@@ -12,19 +12,19 @@ of other projects. Curious what I've been hacking on recently?
 
 #### 👷 Check out what I'm currently working on
 
+- [muesli/mango-coral](https://github.com/muesli/mango-coral) - coral adapter for mango (today)
+- [muesli/termenv](https://github.com/muesli/termenv) - Advanced ANSI style &amp; color support for your terminal applications (today)
+- [muesli/mango-cobra](https://github.com/muesli/mango-cobra) - cobra adapter for mango (today)
 - [caarlos0/org-stats](https://github.com/caarlos0/org-stats) - Get the contributor stats summary from all repos of any given organization (1 day ago)
-- [minio/mc](https://github.com/minio/mc) - MinIO Client is a replacement for ls, cp, mkdir, diff and rsync commands for filesystems and object storage. (1 day ago)
 - [muesli/gitty](https://github.com/muesli/gitty) - Contextual information about your git projects, right on the command-line (1 day ago)
-- [muesli/termenv](https://github.com/muesli/termenv) - Advanced ANSI style &amp; color support for your terminal applications (1 day ago)
-- [muesli/gamut](https://github.com/muesli/gamut) - Go package to generate and manage color palettes &amp; schemes 🎨 (1 day ago)
 
 #### 🌱 My latest projects
 
+- [muesli/mango-coral](https://github.com/muesli/mango-coral) - coral adapter for mango
 - [muesli/mango-pflag](https://github.com/muesli/mango-pflag) - pflag adapter for mango
 - [muesli/mango-cobra](https://github.com/muesli/mango-cobra) - cobra adapter for mango
 - [muesli/mango](https://github.com/muesli/mango) - mango is a man-page generator for the Go flag, pflag, and cobra packages
 - [muesli/roff](https://github.com/muesli/roff) - roff lets you write roff documents in Go
-- [muesli/ansi](https://github.com/muesli/ansi) - Raw ANSI sequence helpers
 
 #### 🔭 Latest releases I've contributed to
 
@@ -36,11 +36,11 @@ of other projects. Curious what I've been hacking on recently?
 
 #### 🔨 Latest Pull Requests I published
 
+- [Add Windows color support detection](https://github.com/muesli/termenv/pull/65) on [muesli/termenv](https://github.com/muesli/termenv) (today)
+- [Fix ANSICON version check](https://github.com/Delta456/box-cli-maker/pull/24) on [Delta456/box-cli-maker](https://github.com/Delta456/box-cli-maker) (today)
 - [Reorder README paragraphs](https://github.com/muesli/termenv/pull/64) on [muesli/termenv](https://github.com/muesli/termenv) (1 day ago)
 - [Add links to related projects](https://github.com/muesli/termenv/pull/63) on [muesli/termenv](https://github.com/muesli/termenv) (1 day ago)
 - [Support ssh.github.com as a valid provider](https://github.com/muesli/gitty/pull/46) on [muesli/gitty](https://github.com/muesli/gitty) (1 day ago)
-- [Prioritize upstream remote over origin](https://github.com/muesli/gitty/pull/45) on [muesli/gitty](https://github.com/muesli/gitty) (1 day ago)
-- [Improve usage text](https://github.com/muesli/gitty/pull/44) on [muesli/gitty](https://github.com/muesli/gitty) (1 day ago)
 
 #### 📜 My recent blog posts
 
