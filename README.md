@@ -28,11 +28,11 @@ of other projects. Curious what I've been hacking on recently?
 
 #### 🔭 Latest releases I've contributed to
 
+- [minio/mc](https://github.com/minio/mc) ([RELEASE.2022-02-02T02-03-24Z](https://github.com/minio/mc/releases/tag/RELEASE.2022-02-02T02-03-24Z), today) - MinIO Client is a replacement for ls, cp, mkdir, diff and rsync commands for filesystems and object storage.
 - [orlangure/gocovsh](https://github.com/orlangure/gocovsh) ([v0.1.0](https://github.com/orlangure/gocovsh/releases/tag/v0.1.0), 1 day ago) - Go Coverage in your terminal: a tool for exploring Go Coverage reports from the command line 💻
 - [muesli/gitty](https://github.com/muesli/gitty) ([v0.7.0](https://github.com/muesli/gitty/releases/tag/v0.7.0), 1 day ago) - Contextual information about your git projects, right on the command-line
 - [muesli/duf](https://github.com/muesli/duf) ([v0.8.0](https://github.com/muesli/duf/releases/tag/v0.8.0), 1 day ago) - Disk Usage/Free Utility - a better &#39;df&#39; alternative
 - [muesli/termenv](https://github.com/muesli/termenv) ([v0.11.0](https://github.com/muesli/termenv/releases/tag/v0.11.0), 2 days ago) - Advanced ANSI style &amp; color support for your terminal applications
-- [charmbracelet/keygen](https://github.com/charmbracelet/keygen) ([v0.2.0](https://github.com/charmbracelet/keygen/releases/tag/v0.2.0), 2 days ago) - An SSH key pair generator
 
 #### 🔨 Latest Pull Requests I published
 
