@@ -12,11 +12,11 @@ of other projects. Curious what I've been hacking on recently?
 
 #### 👷 Check out what I'm currently working on
 
-- [caarlos0/org-stats](https://github.com/caarlos0/org-stats) - Get the contributor stats summary from all repos of any given organization (today)
-- [minio/mc](https://github.com/minio/mc) - MinIO Client is a replacement for ls, cp, mkdir, diff and rsync commands for filesystems and object storage. (today)
-- [muesli/gitty](https://github.com/muesli/gitty) - Contextual information about your git projects, right on the command-line (today)
-- [muesli/termenv](https://github.com/muesli/termenv) - Advanced ANSI style &amp; color support for your terminal applications (today)
-- [muesli/gamut](https://github.com/muesli/gamut) - Go package to generate and manage color palettes &amp; schemes 🎨 (today)
+- [caarlos0/org-stats](https://github.com/caarlos0/org-stats) - Get the contributor stats summary from all repos of any given organization (1 day ago)
+- [minio/mc](https://github.com/minio/mc) - MinIO Client is a replacement for ls, cp, mkdir, diff and rsync commands for filesystems and object storage. (1 day ago)
+- [muesli/gitty](https://github.com/muesli/gitty) - Contextual information about your git projects, right on the command-line (1 day ago)
+- [muesli/termenv](https://github.com/muesli/termenv) - Advanced ANSI style &amp; color support for your terminal applications (1 day ago)
+- [muesli/gamut](https://github.com/muesli/gamut) - Go package to generate and manage color palettes &amp; schemes 🎨 (1 day ago)
 
 #### 🌱 My latest projects
 
@@ -28,19 +28,19 @@ of other projects. Curious what I've been hacking on recently?
 
 #### 🔭 Latest releases I've contributed to
 
-- [orlangure/gocovsh](https://github.com/orlangure/gocovsh) ([v0.1.0](https://github.com/orlangure/gocovsh/releases/tag/v0.1.0), today) - Go Coverage in your terminal: a tool for exploring Go Coverage reports from the command line 💻
-- [muesli/gitty](https://github.com/muesli/gitty) ([v0.7.0](https://github.com/muesli/gitty/releases/tag/v0.7.0), today) - Contextual information about your git projects, right on the command-line
-- [muesli/duf](https://github.com/muesli/duf) ([v0.8.0](https://github.com/muesli/duf/releases/tag/v0.8.0), today) - Disk Usage/Free Utility - a better &#39;df&#39; alternative
-- [muesli/termenv](https://github.com/muesli/termenv) ([v0.11.0](https://github.com/muesli/termenv/releases/tag/v0.11.0), 1 day ago) - Advanced ANSI style &amp; color support for your terminal applications
-- [charmbracelet/keygen](https://github.com/charmbracelet/keygen) ([v0.2.0](https://github.com/charmbracelet/keygen/releases/tag/v0.2.0), 1 day ago) - An SSH key pair generator
+- [orlangure/gocovsh](https://github.com/orlangure/gocovsh) ([v0.1.0](https://github.com/orlangure/gocovsh/releases/tag/v0.1.0), 1 day ago) - Go Coverage in your terminal: a tool for exploring Go Coverage reports from the command line 💻
+- [muesli/gitty](https://github.com/muesli/gitty) ([v0.7.0](https://github.com/muesli/gitty/releases/tag/v0.7.0), 1 day ago) - Contextual information about your git projects, right on the command-line
+- [muesli/duf](https://github.com/muesli/duf) ([v0.8.0](https://github.com/muesli/duf/releases/tag/v0.8.0), 1 day ago) - Disk Usage/Free Utility - a better &#39;df&#39; alternative
+- [muesli/termenv](https://github.com/muesli/termenv) ([v0.11.0](https://github.com/muesli/termenv/releases/tag/v0.11.0), 2 days ago) - Advanced ANSI style &amp; color support for your terminal applications
+- [charmbracelet/keygen](https://github.com/charmbracelet/keygen) ([v0.2.0](https://github.com/charmbracelet/keygen/releases/tag/v0.2.0), 2 days ago) - An SSH key pair generator
 
 #### 🔨 Latest Pull Requests I published
 
-- [Reorder README paragraphs](https://github.com/muesli/termenv/pull/64) on [muesli/termenv](https://github.com/muesli/termenv) (today)
-- [Add links to related projects](https://github.com/muesli/termenv/pull/63) on [muesli/termenv](https://github.com/muesli/termenv) (today)
-- [Support ssh.github.com as a valid provider](https://github.com/muesli/gitty/pull/46) on [muesli/gitty](https://github.com/muesli/gitty) (today)
-- [Prioritize upstream remote over origin](https://github.com/muesli/gitty/pull/45) on [muesli/gitty](https://github.com/muesli/gitty) (today)
-- [Improve usage text](https://github.com/muesli/gitty/pull/44) on [muesli/gitty](https://github.com/muesli/gitty) (today)
+- [Reorder README paragraphs](https://github.com/muesli/termenv/pull/64) on [muesli/termenv](https://github.com/muesli/termenv) (1 day ago)
+- [Add links to related projects](https://github.com/muesli/termenv/pull/63) on [muesli/termenv](https://github.com/muesli/termenv) (1 day ago)
+- [Support ssh.github.com as a valid provider](https://github.com/muesli/gitty/pull/46) on [muesli/gitty](https://github.com/muesli/gitty) (1 day ago)
+- [Prioritize upstream remote over origin](https://github.com/muesli/gitty/pull/45) on [muesli/gitty](https://github.com/muesli/gitty) (1 day ago)
+- [Improve usage text](https://github.com/muesli/gitty/pull/44) on [muesli/gitty](https://github.com/muesli/gitty) (1 day ago)
 
 #### 📜 My recent blog posts
 
@@ -56,7 +56,7 @@ of other projects. Curious what I've been hacking on recently?
 - [nkpremices](https://github.com/nkpremices) (4 months ago)
 - [LuckierDodge](https://github.com/LuckierDodge) (4 months ago)
 - [crazy-max](https://github.com/crazy-max) (4 months ago)
-- [ocelotsloth](https://github.com/ocelotsloth) (7 months ago)
+- [ocelotsloth](https://github.com/ocelotsloth) (8 months ago)
 
 #### 💬 Feedback
 
