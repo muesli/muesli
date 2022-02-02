@@ -13,9 +13,9 @@ of other projects. Curious what I've been hacking on recently?
 #### 👷 Check out what I'm currently working on
 
 - [muesli/mango-coral](https://github.com/muesli/mango-coral) - coral adapter for mango (today)
+- [muesli/mango](https://github.com/muesli/mango) - mango is a man-page generator for the Go flag, pflag, and cobra packages (today)
 - [muesli/termenv](https://github.com/muesli/termenv) - Advanced ANSI style &amp; color support for your terminal applications (today)
 - [muesli/mango-cobra](https://github.com/muesli/mango-cobra) - cobra adapter for mango (today)
-- [caarlos0/org-stats](https://github.com/caarlos0/org-stats) - Get the contributor stats summary from all repos of any given organization (1 day ago)
 - [muesli/gitty](https://github.com/muesli/gitty) - Contextual information about your git projects, right on the command-line (1 day ago)
 
 #### 🌱 My latest projects
