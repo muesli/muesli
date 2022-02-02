@@ -36,11 +36,11 @@ of other projects. Curious what I've been hacking on recently?
 
 #### 🔨 Latest Pull Requests I published
 
+- [Decouple cobra from viper](https://github.com/muesli/coral/pull/2) on [muesli/coral](https://github.com/muesli/coral) (today)
 - [Add Windows color support detection](https://github.com/muesli/termenv/pull/65) on [muesli/termenv](https://github.com/muesli/termenv) (today)
 - [Fix ANSICON version check](https://github.com/Delta456/box-cli-maker/pull/24) on [Delta456/box-cli-maker](https://github.com/Delta456/box-cli-maker) (today)
 - [Reorder README paragraphs](https://github.com/muesli/termenv/pull/64) on [muesli/termenv](https://github.com/muesli/termenv) (1 day ago)
 - [Add links to related projects](https://github.com/muesli/termenv/pull/63) on [muesli/termenv](https://github.com/muesli/termenv) (1 day ago)
-- [Support ssh.github.com as a valid provider](https://github.com/muesli/gitty/pull/46) on [muesli/gitty](https://github.com/muesli/gitty) (1 day ago)
 
 #### 📜 My recent blog posts
 
