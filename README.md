@@ -12,11 +12,11 @@ of other projects. Curious what I've been hacking on recently?
 
 #### 👷 Check out what I'm currently working on
 
-- [muesli/toktok](https://github.com/muesli/toktok) - Typo/error resilient, human-readable token generator (today)
 - [charmbracelet/charm](https://github.com/charmbracelet/charm) - The Charm Tool and Library 🌟 (today)
+- [muesli/mango-pflag](https://github.com/muesli/mango-pflag) - pflag adapter for mango (today)
+- [muesli/toktok](https://github.com/muesli/toktok) - Typo/error resilient, human-readable token generator (today)
+- [muesli/mango-cobra](https://github.com/muesli/mango-cobra) - cobra adapter for mango (today)
 - [muesli/obs-cli](https://github.com/muesli/obs-cli) - OBS-cli is a command-line remote control for OBS (today)
-- [muesli/mango](https://github.com/muesli/mango) - mango is a man-page generator for the Go flag, pflag, and cobra packages (1 day ago)
-- [muesli/termenv](https://github.com/muesli/termenv) - Advanced ANSI style &amp; color support for your terminal applications (1 day ago)
 
 #### 🌱 My latest projects
 
@@ -28,19 +28,19 @@ of other projects. Curious what I've been hacking on recently?
 
 #### 🔭 Latest releases I've contributed to
 
+- [muesli/mango-cobra](https://github.com/muesli/mango-cobra) ([v1.0.0](https://github.com/muesli/mango-cobra/releases/tag/v1.0.0), today) - cobra adapter for mango
+- [muesli/mango-coral](https://github.com/muesli/mango-coral) ([v1.0.0](https://github.com/muesli/mango-coral/releases/tag/v1.0.0), today) - coral adapter for mango
+- [muesli/mango-pflag](https://github.com/muesli/mango-pflag) ([v0.1.0](https://github.com/muesli/mango-pflag/releases/tag/v0.1.0), today) - pflag adapter for mango
+- [muesli/mango](https://github.com/muesli/mango) ([v0.1.0](https://github.com/muesli/mango/releases/tag/v0.1.0), today) - mango is a man-page generator for the Go flag, pflag, and cobra packages
 - [muesli/toktok](https://github.com/muesli/toktok) ([v0.1.0](https://github.com/muesli/toktok/releases/tag/v0.1.0), 1 day ago) - Typo/error resilient, human-readable token generator
-- [minio/mc](https://github.com/minio/mc) ([RELEASE.2022-02-02T02-03-24Z](https://github.com/minio/mc/releases/tag/RELEASE.2022-02-02T02-03-24Z), 1 day ago) - MinIO Client is a replacement for ls, cp, mkdir, diff and rsync commands for filesystems and object storage.
-- [orlangure/gocovsh](https://github.com/orlangure/gocovsh) ([v0.1.0](https://github.com/orlangure/gocovsh/releases/tag/v0.1.0), 2 days ago) - Go Coverage in your terminal: a tool for exploring Go Coverage reports from the command line 💻
-- [muesli/gitty](https://github.com/muesli/gitty) ([v0.7.0](https://github.com/muesli/gitty/releases/tag/v0.7.0), 2 days ago) - Contextual information about your git projects, right on the command-line
-- [muesli/duf](https://github.com/muesli/duf) ([v0.8.0](https://github.com/muesli/duf/releases/tag/v0.8.0), 2 days ago) - Disk Usage/Free Utility - a better &#39;df&#39; alternative
 
 #### 🔨 Latest Pull Requests I published
 
+- [Follow lintian and add &#39;name - description&#39; to Name section](https://github.com/muesli/mango/pull/7) on [muesli/mango](https://github.com/muesli/mango) (today)
 - [Replace Cobra with Coral](https://github.com/muesli/obs-cli/pull/51) on [muesli/obs-cli](https://github.com/muesli/obs-cli) (today)
 - [Bump toktok to v0.1.0](https://github.com/charmbracelet/charm/pull/83) on [charmbracelet/charm](https://github.com/charmbracelet/charm) (1 day ago)
 - [Switch to GitHub workflows](https://github.com/muesli/toktok/pull/2) on [muesli/toktok](https://github.com/muesli/toktok) (1 day ago)
 - [Decouple cobra from viper](https://github.com/muesli/coral/pull/2) on [muesli/coral](https://github.com/muesli/coral) (1 day ago)
-- [Add Windows color support detection](https://github.com/muesli/termenv/pull/65) on [muesli/termenv](https://github.com/muesli/termenv) (1 day ago)
 
 #### 📜 My recent blog posts
 
