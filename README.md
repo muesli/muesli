@@ -36,11 +36,11 @@ of other projects. Curious what I've been hacking on recently?
 
 #### 🔨 Latest Pull Requests I published
 
+- [Add dependabot config](https://github.com/muesli/obs-cli/pull/52) on [muesli/obs-cli](https://github.com/muesli/obs-cli) (today)
 - [Support receiving batched mouse events](https://github.com/charmbracelet/bubbletea/pull/215) on [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) (today)
 - [Follow lintian and add &#39;name - description&#39; to Name section](https://github.com/muesli/mango/pull/7) on [muesli/mango](https://github.com/muesli/mango) (today)
 - [Replace Cobra with Coral](https://github.com/muesli/obs-cli/pull/51) on [muesli/obs-cli](https://github.com/muesli/obs-cli) (today)
 - [Bump toktok to v0.1.0](https://github.com/charmbracelet/charm/pull/83) on [charmbracelet/charm](https://github.com/charmbracelet/charm) (1 day ago)
-- [Switch to GitHub workflows](https://github.com/muesli/toktok/pull/2) on [muesli/toktok](https://github.com/muesli/toktok) (1 day ago)
 
 #### 📜 My recent blog posts
 
