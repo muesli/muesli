@@ -14,9 +14,9 @@ of other projects. Curious what I've been hacking on recently?
 
 - [muesli/toktok](https://github.com/muesli/toktok) - Typo/error resilient, human-readable token generator (today)
 - [charmbracelet/charm](https://github.com/charmbracelet/charm) - The Charm Tool and Library 🌟 (today)
-- [muesli/mango-coral](https://github.com/muesli/mango-coral) - coral adapter for mango (1 day ago)
+- [muesli/obs-cli](https://github.com/muesli/obs-cli) - OBS-cli is a command-line remote control for OBS (today)
+- [muesli/mango](https://github.com/muesli/mango) - mango is a man-page generator for the Go flag, pflag, and cobra packages (1 day ago)
 - [muesli/termenv](https://github.com/muesli/termenv) - Advanced ANSI style &amp; color support for your terminal applications (1 day ago)
-- [muesli/mango-cobra](https://github.com/muesli/mango-cobra) - cobra adapter for mango (1 day ago)
 
 #### 🌱 My latest projects
 
@@ -36,11 +36,11 @@ of other projects. Curious what I've been hacking on recently?
 
 #### 🔨 Latest Pull Requests I published
 
+- [Replace Cobra with Coral](https://github.com/muesli/obs-cli/pull/51) on [muesli/obs-cli](https://github.com/muesli/obs-cli) (today)
 - [Bump toktok to v0.1.0](https://github.com/charmbracelet/charm/pull/83) on [charmbracelet/charm](https://github.com/charmbracelet/charm) (1 day ago)
 - [Switch to GitHub workflows](https://github.com/muesli/toktok/pull/2) on [muesli/toktok](https://github.com/muesli/toktok) (1 day ago)
 - [Decouple cobra from viper](https://github.com/muesli/coral/pull/2) on [muesli/coral](https://github.com/muesli/coral) (1 day ago)
 - [Add Windows color support detection](https://github.com/muesli/termenv/pull/65) on [muesli/termenv](https://github.com/muesli/termenv) (1 day ago)
-- [Fix ANSICON version check](https://github.com/Delta456/box-cli-maker/pull/24) on [Delta456/box-cli-maker](https://github.com/Delta456/box-cli-maker) (1 day ago)
 
 #### 📜 My recent blog posts
 
