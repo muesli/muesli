@@ -13,10 +13,10 @@ of other projects. Curious what I've been hacking on recently?
 #### 👷 Check out what I'm currently working on
 
 - [muesli/toktok](https://github.com/muesli/toktok) - Typo/error resilient, human-readable token generator (today)
-- [muesli/mango-coral](https://github.com/muesli/mango-coral) - coral adapter for mango (today)
-- [muesli/mango-cobra](https://github.com/muesli/mango-cobra) - cobra adapter for mango (today)
-- [muesli/termenv](https://github.com/muesli/termenv) - Advanced ANSI style &amp; color support for your terminal applications (today)
-- [muesli/mango](https://github.com/muesli/mango) - mango is a man-page generator for the Go flag, pflag, and cobra packages (today)
+- [charmbracelet/charm](https://github.com/charmbracelet/charm) - The Charm Tool and Library 🌟 (today)
+- [muesli/mango-coral](https://github.com/muesli/mango-coral) - coral adapter for mango (1 day ago)
+- [muesli/termenv](https://github.com/muesli/termenv) - Advanced ANSI style &amp; color support for your terminal applications (1 day ago)
+- [muesli/mango-cobra](https://github.com/muesli/mango-cobra) - cobra adapter for mango (1 day ago)
 
 #### 🌱 My latest projects
 
@@ -28,19 +28,19 @@ of other projects. Curious what I've been hacking on recently?
 
 #### 🔭 Latest releases I've contributed to
 
-- [minio/mc](https://github.com/minio/mc) ([RELEASE.2022-02-02T02-03-24Z](https://github.com/minio/mc/releases/tag/RELEASE.2022-02-02T02-03-24Z), today) - MinIO Client is a replacement for ls, cp, mkdir, diff and rsync commands for filesystems and object storage.
-- [orlangure/gocovsh](https://github.com/orlangure/gocovsh) ([v0.1.0](https://github.com/orlangure/gocovsh/releases/tag/v0.1.0), 1 day ago) - Go Coverage in your terminal: a tool for exploring Go Coverage reports from the command line 💻
-- [muesli/gitty](https://github.com/muesli/gitty) ([v0.7.0](https://github.com/muesli/gitty/releases/tag/v0.7.0), 1 day ago) - Contextual information about your git projects, right on the command-line
-- [muesli/duf](https://github.com/muesli/duf) ([v0.8.0](https://github.com/muesli/duf/releases/tag/v0.8.0), 1 day ago) - Disk Usage/Free Utility - a better &#39;df&#39; alternative
-- [muesli/termenv](https://github.com/muesli/termenv) ([v0.11.0](https://github.com/muesli/termenv/releases/tag/v0.11.0), 2 days ago) - Advanced ANSI style &amp; color support for your terminal applications
+- [muesli/toktok](https://github.com/muesli/toktok) ([v0.1.0](https://github.com/muesli/toktok/releases/tag/v0.1.0), 1 day ago) - Typo/error resilient, human-readable token generator
+- [minio/mc](https://github.com/minio/mc) ([RELEASE.2022-02-02T02-03-24Z](https://github.com/minio/mc/releases/tag/RELEASE.2022-02-02T02-03-24Z), 1 day ago) - MinIO Client is a replacement for ls, cp, mkdir, diff and rsync commands for filesystems and object storage.
+- [orlangure/gocovsh](https://github.com/orlangure/gocovsh) ([v0.1.0](https://github.com/orlangure/gocovsh/releases/tag/v0.1.0), 2 days ago) - Go Coverage in your terminal: a tool for exploring Go Coverage reports from the command line 💻
+- [muesli/gitty](https://github.com/muesli/gitty) ([v0.7.0](https://github.com/muesli/gitty/releases/tag/v0.7.0), 2 days ago) - Contextual information about your git projects, right on the command-line
+- [muesli/duf](https://github.com/muesli/duf) ([v0.8.0](https://github.com/muesli/duf/releases/tag/v0.8.0), 2 days ago) - Disk Usage/Free Utility - a better &#39;df&#39; alternative
 
 #### 🔨 Latest Pull Requests I published
 
-- [Switch to GitHub workflows](https://github.com/muesli/toktok/pull/2) on [muesli/toktok](https://github.com/muesli/toktok) (today)
-- [Decouple cobra from viper](https://github.com/muesli/coral/pull/2) on [muesli/coral](https://github.com/muesli/coral) (today)
-- [Add Windows color support detection](https://github.com/muesli/termenv/pull/65) on [muesli/termenv](https://github.com/muesli/termenv) (today)
-- [Fix ANSICON version check](https://github.com/Delta456/box-cli-maker/pull/24) on [Delta456/box-cli-maker](https://github.com/Delta456/box-cli-maker) (today)
-- [Reorder README paragraphs](https://github.com/muesli/termenv/pull/64) on [muesli/termenv](https://github.com/muesli/termenv) (1 day ago)
+- [Bump toktok to v0.1.0](https://github.com/charmbracelet/charm/pull/83) on [charmbracelet/charm](https://github.com/charmbracelet/charm) (1 day ago)
+- [Switch to GitHub workflows](https://github.com/muesli/toktok/pull/2) on [muesli/toktok](https://github.com/muesli/toktok) (1 day ago)
+- [Decouple cobra from viper](https://github.com/muesli/coral/pull/2) on [muesli/coral](https://github.com/muesli/coral) (1 day ago)
+- [Add Windows color support detection](https://github.com/muesli/termenv/pull/65) on [muesli/termenv](https://github.com/muesli/termenv) (1 day ago)
+- [Fix ANSICON version check](https://github.com/Delta456/box-cli-maker/pull/24) on [Delta456/box-cli-maker](https://github.com/Delta456/box-cli-maker) (1 day ago)
 
 #### 📜 My recent blog posts
 
