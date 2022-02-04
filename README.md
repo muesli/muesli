@@ -12,11 +12,11 @@ of other projects. Curious what I've been hacking on recently?
 
 #### 👷 Check out what I'm currently working on
 
-- [charmbracelet/lipgloss](https://github.com/charmbracelet/lipgloss) - Style definitions for nice terminal layouts 👄 (today)
 - [treilik/bubblelister](https://github.com/treilik/bubblelister) -  (today)
 - [muesli/termenv](https://github.com/muesli/termenv) - Advanced ANSI style &amp; color support for your terminal applications (today)
-- [muesli/mango-pflag](https://github.com/muesli/mango-pflag) - pflag adapter for mango (1 day ago)
-- [muesli/obs-cli](https://github.com/muesli/obs-cli) - OBS-cli is a command-line remote control for OBS (1 day ago)
+- [charmbracelet/lipgloss](https://github.com/charmbracelet/lipgloss) - Style definitions for nice terminal layouts 👄 (today)
+- [minio/mc](https://github.com/minio/mc) - MinIO Client is a replacement for ls, cp, mkdir, diff and rsync commands for filesystems and object storage. (today)
+- [charmbracelet/charm](https://github.com/charmbracelet/charm) - The Charm Tool and Library 🌟 (1 day ago)
 
 #### 🌱 My latest projects
 
@@ -36,11 +36,11 @@ of other projects. Curious what I've been hacking on recently?
 
 #### 🔨 Latest Pull Requests I published
 
+- [fix: don&#39;t query terminal on startup](https://github.com/minio/mc/pull/3956) on [minio/mc](https://github.com/minio/mc) (today)
 - [Bump termenv dependency](https://github.com/charmbracelet/lipgloss/pull/62) on [charmbracelet/lipgloss](https://github.com/charmbracelet/lipgloss) (today)
 - [Lazily detect background color setting](https://github.com/charmbracelet/lipgloss/pull/61) on [charmbracelet/lipgloss](https://github.com/charmbracelet/lipgloss) (today)
 - [Don&#39;t use OSC queries if we&#39;re not in control of the terminal](https://github.com/muesli/termenv/pull/66) on [muesli/termenv](https://github.com/muesli/termenv) (today)
 - [Add GitHub build &amp; linter workflow](https://github.com/treilik/bubblelister/pull/1) on [treilik/bubblelister](https://github.com/treilik/bubblelister) (today)
-- [Add dependabot config](https://github.com/muesli/obs-cli/pull/52) on [muesli/obs-cli](https://github.com/muesli/obs-cli) (1 day ago)
 
 #### 📜 My recent blog posts
 
