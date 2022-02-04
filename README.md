@@ -12,11 +12,11 @@ of other projects. Curious what I've been hacking on recently?
 
 #### 👷 Check out what I'm currently working on
 
-- [charmbracelet/charm](https://github.com/charmbracelet/charm) - The Charm Tool and Library 🌟 (today)
-- [muesli/mango-pflag](https://github.com/muesli/mango-pflag) - pflag adapter for mango (today)
-- [muesli/toktok](https://github.com/muesli/toktok) - Typo/error resilient, human-readable token generator (today)
-- [muesli/mango-cobra](https://github.com/muesli/mango-cobra) - cobra adapter for mango (today)
-- [muesli/obs-cli](https://github.com/muesli/obs-cli) - OBS-cli is a command-line remote control for OBS (today)
+- [treilik/bubblelister](https://github.com/treilik/bubblelister) -  (today)
+- [charmbracelet/charm](https://github.com/charmbracelet/charm) - The Charm Tool and Library 🌟 (1 day ago)
+- [muesli/mango-pflag](https://github.com/muesli/mango-pflag) - pflag adapter for mango (1 day ago)
+- [muesli/toktok](https://github.com/muesli/toktok) - Typo/error resilient, human-readable token generator (1 day ago)
+- [muesli/obs-cli](https://github.com/muesli/obs-cli) - OBS-cli is a command-line remote control for OBS (1 day ago)
 
 #### 🌱 My latest projects
 
@@ -28,19 +28,19 @@ of other projects. Curious what I've been hacking on recently?
 
 #### 🔭 Latest releases I've contributed to
 
-- [charmbracelet/wishlist](https://github.com/charmbracelet/wishlist) ([v0.2.0](https://github.com/charmbracelet/wishlist/releases/tag/v0.2.0), today) - The SSH directory ✨
-- [muesli/mango-cobra](https://github.com/muesli/mango-cobra) ([v1.0.0](https://github.com/muesli/mango-cobra/releases/tag/v1.0.0), today) - cobra adapter for mango
-- [muesli/mango-coral](https://github.com/muesli/mango-coral) ([v1.0.0](https://github.com/muesli/mango-coral/releases/tag/v1.0.0), today) - coral adapter for mango
-- [muesli/mango-pflag](https://github.com/muesli/mango-pflag) ([v0.1.0](https://github.com/muesli/mango-pflag/releases/tag/v0.1.0), today) - pflag adapter for mango
-- [muesli/mango](https://github.com/muesli/mango) ([v0.1.0](https://github.com/muesli/mango/releases/tag/v0.1.0), today) - mango is a man-page generator for the Go flag, pflag, and cobra packages
+- [charmbracelet/wishlist](https://github.com/charmbracelet/wishlist) ([v0.2.0](https://github.com/charmbracelet/wishlist/releases/tag/v0.2.0), 1 day ago) - The SSH directory ✨
+- [muesli/mango-cobra](https://github.com/muesli/mango-cobra) ([v1.0.0](https://github.com/muesli/mango-cobra/releases/tag/v1.0.0), 1 day ago) - cobra adapter for mango
+- [muesli/mango-coral](https://github.com/muesli/mango-coral) ([v1.0.0](https://github.com/muesli/mango-coral/releases/tag/v1.0.0), 1 day ago) - coral adapter for mango
+- [muesli/mango-pflag](https://github.com/muesli/mango-pflag) ([v0.1.0](https://github.com/muesli/mango-pflag/releases/tag/v0.1.0), 1 day ago) - pflag adapter for mango
+- [muesli/mango](https://github.com/muesli/mango) ([v0.1.0](https://github.com/muesli/mango/releases/tag/v0.1.0), 1 day ago) - mango is a man-page generator for the Go flag, pflag, and cobra packages
 
 #### 🔨 Latest Pull Requests I published
 
-- [Add dependabot config](https://github.com/muesli/obs-cli/pull/52) on [muesli/obs-cli](https://github.com/muesli/obs-cli) (today)
-- [Support receiving batched mouse events](https://github.com/charmbracelet/bubbletea/pull/215) on [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) (today)
-- [Follow lintian and add &#39;name - description&#39; to Name section](https://github.com/muesli/mango/pull/7) on [muesli/mango](https://github.com/muesli/mango) (today)
-- [Replace Cobra with Coral](https://github.com/muesli/obs-cli/pull/51) on [muesli/obs-cli](https://github.com/muesli/obs-cli) (today)
-- [Bump toktok to v0.1.0](https://github.com/charmbracelet/charm/pull/83) on [charmbracelet/charm](https://github.com/charmbracelet/charm) (1 day ago)
+- [Add GitHub build &amp; linter workflow](https://github.com/treilik/bubblelister/pull/1) on [treilik/bubblelister](https://github.com/treilik/bubblelister) (today)
+- [Add dependabot config](https://github.com/muesli/obs-cli/pull/52) on [muesli/obs-cli](https://github.com/muesli/obs-cli) (1 day ago)
+- [Support receiving batched mouse events](https://github.com/charmbracelet/bubbletea/pull/215) on [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) (1 day ago)
+- [Follow lintian and add &#39;name - description&#39; to Name section](https://github.com/muesli/mango/pull/7) on [muesli/mango](https://github.com/muesli/mango) (1 day ago)
+- [Replace Cobra with Coral](https://github.com/muesli/obs-cli/pull/51) on [muesli/obs-cli](https://github.com/muesli/obs-cli) (1 day ago)
 
 #### 📜 My recent blog posts
 
@@ -52,7 +52,7 @@ of other projects. Curious what I've been hacking on recently?
 
 #### ❤️ These awesome people sponsor me (thank you!)
 
-- [twpayne](https://github.com/twpayne) (1 week ago)
+- [twpayne](https://github.com/twpayne) (2 weeks ago)
 - [nkpremices](https://github.com/nkpremices) (4 months ago)
 - [LuckierDodge](https://github.com/LuckierDodge) (4 months ago)
 - [crazy-max](https://github.com/crazy-max) (4 months ago)
