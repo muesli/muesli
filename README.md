@@ -28,7 +28,7 @@ of other projects. Curious what I've been hacking on recently?
 
 #### 🔭 Latest releases I've contributed to
 
-- [charmbracelet/wishlist](https://github.com/charmbracelet/wishlist) ([v0.2.0](https://github.com/charmbracelet/wishlist/releases/tag/v0.2.0), 1 day ago) - The SSH directory ✨
+- [charmbracelet/wishlist](https://github.com/charmbracelet/wishlist) ([v0.2.1](https://github.com/charmbracelet/wishlist/releases/tag/v0.2.1), today) - The SSH directory ✨
 - [muesli/mango-cobra](https://github.com/muesli/mango-cobra) ([v1.0.0](https://github.com/muesli/mango-cobra/releases/tag/v1.0.0), 1 day ago) - cobra adapter for mango
 - [muesli/mango-coral](https://github.com/muesli/mango-coral) ([v1.0.0](https://github.com/muesli/mango-coral/releases/tag/v1.0.0), 1 day ago) - coral adapter for mango
 - [muesli/mango-pflag](https://github.com/muesli/mango-pflag) ([v0.1.0](https://github.com/muesli/mango-pflag/releases/tag/v0.1.0), 1 day ago) - pflag adapter for mango
