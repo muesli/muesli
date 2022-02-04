@@ -36,11 +36,11 @@ of other projects. Curious what I've been hacking on recently?
 
 #### 🔨 Latest Pull Requests I published
 
+- [Fix DisableMousePress doing the opposite](https://github.com/muesli/termenv/pull/67) on [muesli/termenv](https://github.com/muesli/termenv) (today)
 - [fix: don&#39;t query terminal on startup](https://github.com/minio/mc/pull/3956) on [minio/mc](https://github.com/minio/mc) (today)
 - [Bump termenv dependency](https://github.com/charmbracelet/lipgloss/pull/62) on [charmbracelet/lipgloss](https://github.com/charmbracelet/lipgloss) (today)
 - [Lazily detect background color setting](https://github.com/charmbracelet/lipgloss/pull/61) on [charmbracelet/lipgloss](https://github.com/charmbracelet/lipgloss) (today)
 - [Don&#39;t use OSC queries if we&#39;re not in control of the terminal](https://github.com/muesli/termenv/pull/66) on [muesli/termenv](https://github.com/muesli/termenv) (today)
-- [Add GitHub build &amp; linter workflow](https://github.com/treilik/bubblelister/pull/1) on [treilik/bubblelister](https://github.com/treilik/bubblelister) (today)
 
 #### 📜 My recent blog posts
 
