@@ -52,11 +52,11 @@ Want your own self-generating profile page? Check out [readme-scribe](https://gi
 
 #### ⭐ Recent stars
 
+- [maaslalani/gambit](https://github.com/maaslalani/gambit) - Play chess in your terminal (today)
 - [alecthomas/mango-kong](https://github.com/alecthomas/mango-kong) - Mango (man page generator) integration for Kong (today)
 - [ajeetdsouza/clidle](https://github.com/ajeetdsouza/clidle) - Play Wordle over SSH (2 days ago)
 - [lemoony/snipkit](https://github.com/lemoony/snipkit) - Snippet CLI manager for quickly accessing code snippets without leaving the terminal (2 days ago)
 - [muesli/coral](https://github.com/muesli/coral) - Coral, a friendly Cobra fork with nearly all its features, but only 4 dependencies (3 days ago)
-- [makeworld-the-better-one/amfora](https://github.com/makeworld-the-better-one/amfora) - A fancy terminal browser for the Gemini protocol. (4 days ago)
 
 #### ❤️ These awesome people sponsor me (thank you!)
 
