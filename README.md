@@ -28,11 +28,11 @@ Want your own self-generating profile page? Check out [readme-scribe](https://gi
 
 #### 🔭 Latest releases I've contributed to
 
+- [IGLOU-EU/go-wildcard](https://github.com/IGLOU-EU/go-wildcard) ([v1.0.3](https://github.com/IGLOU-EU/go-wildcard/releases/tag/v1.0.3), today) - Fast and light wildcard pattern matching. Fork from Minio project.
 - [charmbracelet/wishlist](https://github.com/charmbracelet/wishlist) ([v0.2.2](https://github.com/charmbracelet/wishlist/releases/tag/v0.2.2), 1 day ago) - The SSH directory ✨
 - [muesli/mango-cobra](https://github.com/muesli/mango-cobra) ([v1.0.0](https://github.com/muesli/mango-cobra/releases/tag/v1.0.0), 2 days ago) - cobra adapter for mango
 - [muesli/mango-coral](https://github.com/muesli/mango-coral) ([v1.0.0](https://github.com/muesli/mango-coral/releases/tag/v1.0.0), 2 days ago) - coral adapter for mango
 - [muesli/mango-pflag](https://github.com/muesli/mango-pflag) ([v0.1.0](https://github.com/muesli/mango-pflag/releases/tag/v0.1.0), 2 days ago) - pflag adapter for mango
-- [muesli/mango](https://github.com/muesli/mango) ([v0.1.0](https://github.com/muesli/mango/releases/tag/v0.1.0), 2 days ago) - mango is a man-page generator for the Go flag, pflag, and cobra packages
 
 #### 🔨 Latest Pull Requests I published
 
