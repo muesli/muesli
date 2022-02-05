@@ -2,19 +2,18 @@
 
 <img align="right" src="https://raw.githubusercontent.com/muesli/muesli/master/assets/termenv.png" width="260">
 
-What's this? A mysterious secret page? Shhh, don't tell anyone!
-Want your own awesome profile page? Check out [readme-scribe](https://github.com/muesli/readme-scribe)!
-
-I'm Chris, an open-source enthusiast and avid contributor. I'm the author of Beehive, Knoxite, Tomahawk and a bunch
-of other projects. Curious what I've been hacking on recently?
+I'm Chris, an open-source enthusiast and avid contributor. I'm the author of duf, gitty, Beehive, Knoxite and a bunch
+of other projects. Curious what I've been working on recently?
 
 (Love the logo on the right as much as I do? The awesome [Christian Rocha](https://github.com/meowgorithm/) made it!)
+
+Want your own self-generating profile page? Check out [readme-scribe](https://github.com/muesli/readme-scribe)!
 
 #### 👷 Check out what I'm currently working on
 
 - [muesli/termenv](https://github.com/muesli/termenv) - Advanced ANSI style &amp; color support for your terminal applications (today)
 - [muesli/reflow](https://github.com/muesli/reflow) - A collection of (ANSI-sequence aware) text reflow operations &amp; algorithms (today)
-- [treilik/bubblelister](https://github.com/treilik/bubblelister) -  (1 day ago)
+- [treilik/bubblelister](https://github.com/treilik/bubblelister) (1 day ago)
 - [minio/mc](https://github.com/minio/mc) - MinIO Client is a replacement for ls, cp, mkdir, diff and rsync commands for filesystems and object storage. (1 day ago)
 - [charmbracelet/lipgloss](https://github.com/charmbracelet/lipgloss) - Style definitions for nice terminal layouts 👄 (1 day ago)
 
