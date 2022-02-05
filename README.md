@@ -12,10 +12,10 @@ Want your own self-generating profile page? Check out [readme-scribe](https://gi
 
 #### 👷 Check out what I'm currently working on
 
-- [muesli/termenv](https://github.com/muesli/termenv) - Advanced ANSI style &amp; color support for your terminal applications (today)
 - [muesli/reflow](https://github.com/muesli/reflow) - A collection of (ANSI-sequence aware) text reflow operations &amp; algorithms (today)
+- [muesli/streamdeck](https://github.com/muesli/streamdeck) - An application and Go library to control your Elgato Stream Deck on Linux (today)
+- [muesli/termenv](https://github.com/muesli/termenv) - Advanced ANSI style &amp; color support for your terminal applications (today)
 - [treilik/bubblelister](https://github.com/treilik/bubblelister) (1 day ago)
-- [minio/mc](https://github.com/minio/mc) - MinIO Client is a replacement for ls, cp, mkdir, diff and rsync commands for filesystems and object storage. (1 day ago)
 - [charmbracelet/lipgloss](https://github.com/charmbracelet/lipgloss) - Style definitions for nice terminal layouts 👄 (1 day ago)
 
 #### 🌱 My latest projects
@@ -36,11 +36,11 @@ Want your own self-generating profile page? Check out [readme-scribe](https://gi
 
 #### 🔨 Latest Pull Requests I published
 
+- [Replace Cobra with Coral](https://github.com/muesli/streamdeck/pull/9) on [muesli/streamdeck](https://github.com/muesli/streamdeck) (today)
+- [Add sleep timeout feature](https://github.com/muesli/streamdeck/pull/8) on [muesli/streamdeck](https://github.com/muesli/streamdeck) (today)
 - [screen sessions should always support ANSI256](https://github.com/muesli/termenv/pull/68) on [muesli/termenv](https://github.com/muesli/termenv) (today)
 - [Fix DisableMousePress doing the opposite](https://github.com/muesli/termenv/pull/67) on [muesli/termenv](https://github.com/muesli/termenv) (1 day ago)
 - [fix: don&#39;t query terminal on startup](https://github.com/minio/mc/pull/3956) on [minio/mc](https://github.com/minio/mc) (1 day ago)
-- [Bump termenv dependency](https://github.com/charmbracelet/lipgloss/pull/62) on [charmbracelet/lipgloss](https://github.com/charmbracelet/lipgloss) (1 day ago)
-- [Lazily detect background color setting](https://github.com/charmbracelet/lipgloss/pull/61) on [charmbracelet/lipgloss](https://github.com/charmbracelet/lipgloss) (1 day ago)
 
 #### 📜 My recent blog posts
 
