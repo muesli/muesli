@@ -12,11 +12,11 @@ of other projects. Curious what I've been hacking on recently?
 
 #### 👷 Check out what I'm currently working on
 
-- [treilik/bubblelister](https://github.com/treilik/bubblelister) -  (today)
-- [muesli/termenv](https://github.com/muesli/termenv) - Advanced ANSI style &amp; color support for your terminal applications (today)
-- [charmbracelet/lipgloss](https://github.com/charmbracelet/lipgloss) - Style definitions for nice terminal layouts 👄 (today)
-- [minio/mc](https://github.com/minio/mc) - MinIO Client is a replacement for ls, cp, mkdir, diff and rsync commands for filesystems and object storage. (today)
-- [charmbracelet/charm](https://github.com/charmbracelet/charm) - The Charm Tool and Library 🌟 (1 day ago)
+- [treilik/bubblelister](https://github.com/treilik/bubblelister) -  (1 day ago)
+- [muesli/termenv](https://github.com/muesli/termenv) - Advanced ANSI style &amp; color support for your terminal applications (1 day ago)
+- [charmbracelet/lipgloss](https://github.com/charmbracelet/lipgloss) - Style definitions for nice terminal layouts 👄 (1 day ago)
+- [minio/mc](https://github.com/minio/mc) - MinIO Client is a replacement for ls, cp, mkdir, diff and rsync commands for filesystems and object storage. (1 day ago)
+- [charmbracelet/charm](https://github.com/charmbracelet/charm) - The Charm Tool and Library 🌟 (2 days ago)
 
 #### 🌱 My latest projects
 
@@ -28,19 +28,19 @@ of other projects. Curious what I've been hacking on recently?
 
 #### 🔭 Latest releases I've contributed to
 
-- [charmbracelet/wishlist](https://github.com/charmbracelet/wishlist) ([v0.2.2](https://github.com/charmbracelet/wishlist/releases/tag/v0.2.2), today) - The SSH directory ✨
-- [muesli/mango-cobra](https://github.com/muesli/mango-cobra) ([v1.0.0](https://github.com/muesli/mango-cobra/releases/tag/v1.0.0), 1 day ago) - cobra adapter for mango
-- [muesli/mango-coral](https://github.com/muesli/mango-coral) ([v1.0.0](https://github.com/muesli/mango-coral/releases/tag/v1.0.0), 1 day ago) - coral adapter for mango
-- [muesli/mango-pflag](https://github.com/muesli/mango-pflag) ([v0.1.0](https://github.com/muesli/mango-pflag/releases/tag/v0.1.0), 1 day ago) - pflag adapter for mango
-- [muesli/mango](https://github.com/muesli/mango) ([v0.1.0](https://github.com/muesli/mango/releases/tag/v0.1.0), 1 day ago) - mango is a man-page generator for the Go flag, pflag, and cobra packages
+- [charmbracelet/wishlist](https://github.com/charmbracelet/wishlist) ([v0.2.2](https://github.com/charmbracelet/wishlist/releases/tag/v0.2.2), 1 day ago) - The SSH directory ✨
+- [muesli/mango-cobra](https://github.com/muesli/mango-cobra) ([v1.0.0](https://github.com/muesli/mango-cobra/releases/tag/v1.0.0), 2 days ago) - cobra adapter for mango
+- [muesli/mango-coral](https://github.com/muesli/mango-coral) ([v1.0.0](https://github.com/muesli/mango-coral/releases/tag/v1.0.0), 2 days ago) - coral adapter for mango
+- [muesli/mango-pflag](https://github.com/muesli/mango-pflag) ([v0.1.0](https://github.com/muesli/mango-pflag/releases/tag/v0.1.0), 2 days ago) - pflag adapter for mango
+- [muesli/mango](https://github.com/muesli/mango) ([v0.1.0](https://github.com/muesli/mango/releases/tag/v0.1.0), 2 days ago) - mango is a man-page generator for the Go flag, pflag, and cobra packages
 
 #### 🔨 Latest Pull Requests I published
 
-- [Fix DisableMousePress doing the opposite](https://github.com/muesli/termenv/pull/67) on [muesli/termenv](https://github.com/muesli/termenv) (today)
-- [fix: don&#39;t query terminal on startup](https://github.com/minio/mc/pull/3956) on [minio/mc](https://github.com/minio/mc) (today)
-- [Bump termenv dependency](https://github.com/charmbracelet/lipgloss/pull/62) on [charmbracelet/lipgloss](https://github.com/charmbracelet/lipgloss) (today)
-- [Lazily detect background color setting](https://github.com/charmbracelet/lipgloss/pull/61) on [charmbracelet/lipgloss](https://github.com/charmbracelet/lipgloss) (today)
-- [Don&#39;t use OSC queries if we&#39;re not in control of the terminal](https://github.com/muesli/termenv/pull/66) on [muesli/termenv](https://github.com/muesli/termenv) (today)
+- [Fix DisableMousePress doing the opposite](https://github.com/muesli/termenv/pull/67) on [muesli/termenv](https://github.com/muesli/termenv) (1 day ago)
+- [fix: don&#39;t query terminal on startup](https://github.com/minio/mc/pull/3956) on [minio/mc](https://github.com/minio/mc) (1 day ago)
+- [Bump termenv dependency](https://github.com/charmbracelet/lipgloss/pull/62) on [charmbracelet/lipgloss](https://github.com/charmbracelet/lipgloss) (1 day ago)
+- [Lazily detect background color setting](https://github.com/charmbracelet/lipgloss/pull/61) on [charmbracelet/lipgloss](https://github.com/charmbracelet/lipgloss) (1 day ago)
+- [Don&#39;t use OSC queries if we&#39;re not in control of the terminal](https://github.com/muesli/termenv/pull/66) on [muesli/termenv](https://github.com/muesli/termenv) (1 day ago)
 
 #### 📜 My recent blog posts
 
