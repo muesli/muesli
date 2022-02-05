@@ -2,27 +2,26 @@
 
 <img align="right" src="https://raw.githubusercontent.com/muesli/muesli/master/assets/termenv.png" width="260">
 
-What's this? A mysterious secret page? Shhh, don't tell anyone!
-Want your own awesome profile page? Check out [readme-scribe](https://github.com/muesli/readme-scribe)!
-
-I'm Chris, an open-source enthusiast and avid contributor. I'm the author of Beehive, Knoxite, Tomahawk and a bunch
-of other projects. Curious what I've been hacking on recently?
+I'm Chris, an open-source enthusiast and avid contributor. I'm the author of duf, gitty, Beehive, Knoxite and a bunch
+of other projects. Curious what I've been working on recently?
 
 (Love the logo on the right as much as I do? The awesome [Christian Rocha](https://github.com/meowgorithm/) made it!)
 
+Want your own self-generating profile page? Check out [readme-scribe](https://github.com/muesli/readme-scribe)!
+
 #### 👷 Check out what I'm currently working on
 {{range recentContributions 5}}
-- [{{.Repo.Name}}]({{.Repo.URL}}) - {{.Repo.Description}} ({{humanize .OccurredAt}})
+- [{{.Repo.Name}}]({{.Repo.URL}}){{with .Repo.Description}} - {{.}}{{end}} ({{humanize .OccurredAt}})
 {{- end}}
 
 #### 🌱 My latest projects
 {{range recentRepos 5}}
-- [{{.Name}}]({{.URL}}) - {{.Description}}
+- [{{.Name}}]({{.URL}}){{with .Description}} - {{.}}{{end}}
 {{- end}}
 
 #### 🔭 Latest releases I've contributed to
 {{range recentReleases 5}}
-- [{{.Name}}]({{.URL}}) ([{{.LastRelease.TagName}}]({{.LastRelease.URL}}), {{humanize .LastRelease.PublishedAt}}) - {{.Description}}
+- [{{.Name}}]({{.URL}}) ([{{.LastRelease.TagName}}]({{.LastRelease.URL}}), {{humanize .LastRelease.PublishedAt}}){{with .Description}} - {{.}}{{end}}
 {{- end}}
 
 #### 🔨 Latest Pull Requests I published
