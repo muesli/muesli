@@ -35,6 +35,11 @@ Want your own self-generating profile page? Check out [readme-scribe](https://gi
 - [{{.Title}}]({{.URL}}) ({{humanize .PublishedAt}})
 {{- end}}
 
+#### ⭐ Recent stars
+{{range recentStars 5}}
+- [{{.Repo.Name}}]({{.Repo.URL}}){{with .Repo.Description}} - {{.}}{{end}} ({{humanize .StarredAt}})
+{{- end }}
+
 #### ❤️ These awesome people sponsor me (thank you!)
 {{range sponsors 5}}
 - [{{.User.Login}}]({{.User.URL}}) ({{humanize .CreatedAt}})
