@@ -12,11 +12,11 @@ Want your own self-generating profile page? Check out [readme-scribe](https://gi
 
 #### 👷 Check out what I'm currently working on
 
-- [muesli/reflow](https://github.com/muesli/reflow) - A collection of (ANSI-sequence aware) text reflow operations &amp; algorithms (today)
-- [muesli/termenv](https://github.com/muesli/termenv) - Advanced ANSI style &amp; color support for your terminal applications (today)
 - [muesli/streamdeck](https://github.com/muesli/streamdeck) - An application and Go library to control your Elgato Stream Deck on Linux (today)
+- [muesli/termenv](https://github.com/muesli/termenv) - Advanced ANSI style &amp; color support for your terminal applications (today)
+- [muesli/reflow](https://github.com/muesli/reflow) - A collection of (ANSI-sequence aware) text reflow operations &amp; algorithms (today)
+- [muesli/deckmaster](https://github.com/muesli/deckmaster) - An application to control your Elgato Stream Deck on Linux (today)
 - [treilik/bubblelister](https://github.com/treilik/bubblelister) (1 day ago)
-- [minio/mc](https://github.com/minio/mc) - MinIO Client is a replacement for ls, cp, mkdir, diff and rsync commands for filesystems and object storage. (1 day ago)
 
 #### 🌱 My latest projects
 
@@ -36,11 +36,11 @@ Want your own self-generating profile page? Check out [readme-scribe](https://gi
 
 #### 🔨 Latest Pull Requests I published
 
+- [Add sleep timeout flag](https://github.com/muesli/deckmaster/pull/68) on [muesli/deckmaster](https://github.com/muesli/deckmaster) (today)
 - [Add separate sets of hard- and soft-enforced linters](https://github.com/muesli/streamdeck/pull/10) on [muesli/streamdeck](https://github.com/muesli/streamdeck) (today)
 - [Replace Cobra with Coral](https://github.com/muesli/streamdeck/pull/9) on [muesli/streamdeck](https://github.com/muesli/streamdeck) (today)
 - [Add sleep timeout feature](https://github.com/muesli/streamdeck/pull/8) on [muesli/streamdeck](https://github.com/muesli/streamdeck) (today)
 - [screen sessions should always support ANSI256](https://github.com/muesli/termenv/pull/68) on [muesli/termenv](https://github.com/muesli/termenv) (today)
-- [Fix DisableMousePress doing the opposite](https://github.com/muesli/termenv/pull/67) on [muesli/termenv](https://github.com/muesli/termenv) (1 day ago)
 
 #### 📜 My recent blog posts
 
