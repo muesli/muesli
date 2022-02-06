@@ -12,11 +12,11 @@ Want your own self-generating profile page? Check out [readme-scribe](https://gi
 
 #### 👷 Check out what I'm currently working on
 
+- [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) - A powerful little TUI framework 🏗 (today)
 - [muesli/termenv](https://github.com/muesli/termenv) - Advanced ANSI style &amp; color support for your terminal applications (today)
 - [charmbracelet/lipgloss](https://github.com/charmbracelet/lipgloss) - Style definitions for nice terminal layouts 👄 (today)
-- [muesli/streamdeck](https://github.com/muesli/streamdeck) - An application and Go library to control your Elgato Stream Deck on Linux (1 day ago)
 - [muesli/reflow](https://github.com/muesli/reflow) - A collection of (ANSI-sequence aware) text reflow operations &amp; algorithms (1 day ago)
-- [muesli/duf](https://github.com/muesli/duf) - Disk Usage/Free Utility - a better &#39;df&#39; alternative (1 day ago)
+- [muesli/streamdeck](https://github.com/muesli/streamdeck) - An application and Go library to control your Elgato Stream Deck on Linux (1 day ago)
 
 #### 🌱 My latest projects
 
@@ -36,11 +36,11 @@ Want your own self-generating profile page? Check out [readme-scribe](https://gi
 
 #### 🔨 Latest Pull Requests I published
 
+- [Use termenv&#39;s EnvColorProfile, which respects NO_COLOR and CLICOLOR_FORCE env vars](https://github.com/charmbracelet/bubbletea/pull/221) on [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) (today)
 - [Use termenv&#39;s EnvColorProfile, which respects NO_COLOR and CLICOLOR_FORCE env vars](https://github.com/charmbracelet/lipgloss/pull/64) on [charmbracelet/lipgloss](https://github.com/charmbracelet/lipgloss) (1 day ago)
 - [Fix typo in AdaptiveColor&#39;s godoc comment](https://github.com/charmbracelet/lipgloss/pull/63) on [charmbracelet/lipgloss](https://github.com/charmbracelet/lipgloss) (1 day ago)
 - [Add sleep timeout flag](https://github.com/muesli/deckmaster/pull/68) on [muesli/deckmaster](https://github.com/muesli/deckmaster) (1 day ago)
 - [Add separate sets of hard- and soft-enforced linters](https://github.com/muesli/streamdeck/pull/10) on [muesli/streamdeck](https://github.com/muesli/streamdeck) (1 day ago)
-- [Replace Cobra with Coral](https://github.com/muesli/streamdeck/pull/9) on [muesli/streamdeck](https://github.com/muesli/streamdeck) (1 day ago)
 
 #### 📜 My recent blog posts
 
