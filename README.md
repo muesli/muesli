@@ -52,11 +52,11 @@ Want your own self-generating profile page? Check out [readme-scribe](https://gi
 
 #### ⭐ Recent stars
 
+- [qiniu/iconv](https://github.com/qiniu/iconv) - Golang bindings to libiconv - Convert string to requested character encoding (today)
 - [berty/go-libtor](https://github.com/berty/go-libtor) - Self-contained Tor from Go (today)
 - [cmars/oniongrok](https://github.com/cmars/oniongrok) - Onion addresses for anything. (today)
 - [nimblebun/wordle-cli](https://github.com/nimblebun/wordle-cli) - play wordle in your command line (today)
 - [treilik/bubblelister](https://github.com/treilik/bubblelister) (today)
-- [maaslalani/gambit](https://github.com/maaslalani/gambit) - Play chess in your terminal (1 day ago)
 
 #### ❤️ These awesome people sponsor me (thank you!)
 
