@@ -15,15 +15,15 @@ Want your own self-generating profile page? Check out [readme-scribe](https://gi
 - [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) - A powerful little TUI framework 🏗 (today)
 - [muesli/termenv](https://github.com/muesli/termenv) - Advanced ANSI style &amp; color support for your terminal applications (today)
 - [charmbracelet/lipgloss](https://github.com/charmbracelet/lipgloss) - Style definitions for nice terminal layouts 👄 (today)
-- [muesli/reflow](https://github.com/muesli/reflow) - A collection of (ANSI-sequence aware) text reflow operations &amp; algorithms (1 day ago)
-- [muesli/streamdeck](https://github.com/muesli/streamdeck) - An application and Go library to control your Elgato Stream Deck on Linux (1 day ago)
+- [muesli/mango](https://github.com/muesli/mango) - mango is a man-page generator for the Go flag, pflag, cobra, coral, and kong packages (today)
+- [muesli/deckmaster](https://github.com/muesli/deckmaster) - An application to control your Elgato Stream Deck on Linux (1 day ago)
 
 #### 🌱 My latest projects
 
 - [muesli/mango-coral](https://github.com/muesli/mango-coral) - coral adapter for mango
 - [muesli/mango-pflag](https://github.com/muesli/mango-pflag) - pflag adapter for mango
 - [muesli/mango-cobra](https://github.com/muesli/mango-cobra) - cobra adapter for mango
-- [muesli/mango](https://github.com/muesli/mango) - mango is a man-page generator for the Go flag, pflag, and cobra packages
+- [muesli/mango](https://github.com/muesli/mango) - mango is a man-page generator for the Go flag, pflag, cobra, coral, and kong packages
 - [muesli/roff](https://github.com/muesli/roff) - roff lets you write roff documents in Go
 
 #### 🔭 Latest releases I've contributed to
@@ -36,11 +36,11 @@ Want your own self-generating profile page? Check out [readme-scribe](https://gi
 
 #### 🔨 Latest Pull Requests I published
 
+- [Update README badges](https://github.com/muesli/mango/pull/9) on [muesli/mango](https://github.com/muesli/mango) (today)
 - [Use termenv&#39;s EnvColorProfile, which respects NO_COLOR and CLICOLOR_FORCE env vars](https://github.com/charmbracelet/bubbletea/pull/221) on [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) (today)
 - [Use termenv&#39;s EnvColorProfile, which respects NO_COLOR and CLICOLOR_FORCE env vars](https://github.com/charmbracelet/lipgloss/pull/64) on [charmbracelet/lipgloss](https://github.com/charmbracelet/lipgloss) (1 day ago)
 - [Fix typo in AdaptiveColor&#39;s godoc comment](https://github.com/charmbracelet/lipgloss/pull/63) on [charmbracelet/lipgloss](https://github.com/charmbracelet/lipgloss) (1 day ago)
 - [Add sleep timeout flag](https://github.com/muesli/deckmaster/pull/68) on [muesli/deckmaster](https://github.com/muesli/deckmaster) (1 day ago)
-- [Add separate sets of hard- and soft-enforced linters](https://github.com/muesli/streamdeck/pull/10) on [muesli/streamdeck](https://github.com/muesli/streamdeck) (1 day ago)
 
 #### 📜 My recent blog posts
 
