@@ -28,11 +28,11 @@ Want your own self-generating profile page? Check out [readme-scribe](https://gi
 
 #### 🔭 Latest releases I've contributed to
 
+- [minio/mc](https://github.com/minio/mc) ([RELEASE.2022-02-07T09-25-34Z](https://github.com/minio/mc/releases/tag/RELEASE.2022-02-07T09-25-34Z), today) - MinIO Client is a replacement for ls, cp, mkdir, diff and rsync commands for filesystems and object storage.
 - [muesli/cancelreader](https://github.com/muesli/cancelreader) ([v0.1.0](https://github.com/muesli/cancelreader/releases/tag/v0.1.0), 1 day ago) - A cancelable reader for Go
 - [IGLOU-EU/go-wildcard](https://github.com/IGLOU-EU/go-wildcard) ([v1.0.3](https://github.com/IGLOU-EU/go-wildcard/releases/tag/v1.0.3), 2 days ago) - Fast and light wildcard pattern matching. Fork from Minio project.
 - [charmbracelet/wishlist](https://github.com/charmbracelet/wishlist) ([v0.2.2](https://github.com/charmbracelet/wishlist/releases/tag/v0.2.2), 3 days ago) - The SSH directory ✨
 - [muesli/mango-cobra](https://github.com/muesli/mango-cobra) ([v1.0.0](https://github.com/muesli/mango-cobra/releases/tag/v1.0.0), 4 days ago) - cobra adapter for mango
-- [muesli/mango-coral](https://github.com/muesli/mango-coral) ([v1.0.0](https://github.com/muesli/mango-coral/releases/tag/v1.0.0), 4 days ago) - coral adapter for mango
 
 #### 🔨 Latest Pull Requests I published
 
