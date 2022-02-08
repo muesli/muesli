@@ -28,19 +28,19 @@ Want your own self-generating profile page? Check out [readme-scribe](https://gi
 
 #### 🔭 Latest releases I've contributed to
 
+- [muesli/deckmaster](https://github.com/muesli/deckmaster) ([v0.7.0](https://github.com/muesli/deckmaster/releases/tag/v0.7.0), today) - An application to control your Elgato Stream Deck on Linux
 - [minio/mc](https://github.com/minio/mc) ([RELEASE.2022-02-07T09-25-34Z](https://github.com/minio/mc/releases/tag/RELEASE.2022-02-07T09-25-34Z), 1 day ago) - MinIO Client is a replacement for ls, cp, mkdir, diff and rsync commands for filesystems and object storage.
 - [muesli/cancelreader](https://github.com/muesli/cancelreader) ([v0.1.0](https://github.com/muesli/cancelreader/releases/tag/v0.1.0), 2 days ago) - A cancelable reader for Go
 - [IGLOU-EU/go-wildcard](https://github.com/IGLOU-EU/go-wildcard) ([v1.0.3](https://github.com/IGLOU-EU/go-wildcard/releases/tag/v1.0.3), 3 days ago) - Fast and light wildcard pattern matching. Fork from Minio project.
 - [charmbracelet/wishlist](https://github.com/charmbracelet/wishlist) ([v0.2.2](https://github.com/charmbracelet/wishlist/releases/tag/v0.2.2), 4 days ago) - The SSH directory ✨
-- [muesli/mango-cobra](https://github.com/muesli/mango-cobra) ([v1.0.0](https://github.com/muesli/mango-cobra/releases/tag/v1.0.0), 5 days ago) - cobra adapter for mango
 
 #### 🔨 Latest Pull Requests I published
 
+- [Add separate sets of hard- and soft-enforced linters](https://github.com/muesli/deckmaster/pull/77) on [muesli/deckmaster](https://github.com/muesli/deckmaster) (today)
+- [Add version flag](https://github.com/muesli/deckmaster/pull/76) on [muesli/deckmaster](https://github.com/muesli/deckmaster) (today)
 - [Add device sleep action](https://github.com/muesli/deckmaster/pull/72) on [muesli/deckmaster](https://github.com/muesli/deckmaster) (today)
 - [Update README badges](https://github.com/muesli/deckmaster/pull/71) on [muesli/deckmaster](https://github.com/muesli/deckmaster) (today)
 - [Add verbose flag and clean up printing to stdout/stderr](https://github.com/muesli/deckmaster/pull/70) on [muesli/deckmaster](https://github.com/muesli/deckmaster) (today)
-- [Move cancelreader into a separate package](https://github.com/charmbracelet/bubbletea/pull/222) on [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) (2 days ago)
-- [Update README badges](https://github.com/muesli/mango/pull/9) on [muesli/mango](https://github.com/muesli/mango) (2 days ago)
 
 #### 📜 My recent blog posts
 
