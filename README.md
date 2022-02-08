@@ -36,11 +36,11 @@ Want your own self-generating profile page? Check out [readme-scribe](https://gi
 
 #### 🔨 Latest Pull Requests I published
 
+- [Add device sleep action](https://github.com/muesli/deckmaster/pull/72) on [muesli/deckmaster](https://github.com/muesli/deckmaster) (today)
 - [Update README badges](https://github.com/muesli/deckmaster/pull/71) on [muesli/deckmaster](https://github.com/muesli/deckmaster) (today)
 - [Add verbose flag and clean up printing to stdout/stderr](https://github.com/muesli/deckmaster/pull/70) on [muesli/deckmaster](https://github.com/muesli/deckmaster) (today)
 - [Move cancelreader into a separate package](https://github.com/charmbracelet/bubbletea/pull/222) on [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) (2 days ago)
 - [Update README badges](https://github.com/muesli/mango/pull/9) on [muesli/mango](https://github.com/muesli/mango) (2 days ago)
-- [Use termenv&#39;s EnvColorProfile, which respects NO_COLOR and CLICOLOR_FORCE env vars](https://github.com/charmbracelet/bubbletea/pull/221) on [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) (2 days ago)
 
 #### 📜 My recent blog posts
 
