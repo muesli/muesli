@@ -13,8 +13,8 @@ Want your own self-generating profile page? Check out [readme-scribe](https://gi
 #### 👷 Check out what I'm currently working on
 
 - [muesli/deckmaster](https://github.com/muesli/deckmaster) - An application to control your Elgato Stream Deck on Linux (today)
+- [muesli/duf](https://github.com/muesli/duf) - Disk Usage/Free Utility - a better &#39;df&#39; alternative (today)
 - [charmbracelet/glamour](https://github.com/charmbracelet/glamour) - Stylesheet-based markdown rendering for your CLI apps 💇🏻‍♀️ (1 day ago)
-- [muesli/duf](https://github.com/muesli/duf) - Disk Usage/Free Utility - a better &#39;df&#39; alternative (1 day ago)
 - [muesli/mango](https://github.com/muesli/mango) - mango is a man-page generator for the Go flag, pflag, cobra, coral, and kong packages (2 days ago)
 - [muesli/termenv](https://github.com/muesli/termenv) - Advanced ANSI style &amp; color support for your terminal applications (2 days ago)
 
@@ -36,11 +36,11 @@ Want your own self-generating profile page? Check out [readme-scribe](https://gi
 
 #### 🔨 Latest Pull Requests I published
 
+- [Update README badges](https://github.com/muesli/duf/pull/165) on [muesli/duf](https://github.com/muesli/duf) (today)
+- [Add separate sets of hard- and soft-enforced linters](https://github.com/muesli/duf/pull/164) on [muesli/duf](https://github.com/muesli/duf) (today)
 - [Add separate sets of hard- and soft-enforced linters](https://github.com/muesli/deckmaster/pull/77) on [muesli/deckmaster](https://github.com/muesli/deckmaster) (today)
 - [Add version flag](https://github.com/muesli/deckmaster/pull/76) on [muesli/deckmaster](https://github.com/muesli/deckmaster) (today)
 - [Add device sleep action](https://github.com/muesli/deckmaster/pull/72) on [muesli/deckmaster](https://github.com/muesli/deckmaster) (today)
-- [Update README badges](https://github.com/muesli/deckmaster/pull/71) on [muesli/deckmaster](https://github.com/muesli/deckmaster) (today)
-- [Add verbose flag and clean up printing to stdout/stderr](https://github.com/muesli/deckmaster/pull/70) on [muesli/deckmaster](https://github.com/muesli/deckmaster) (today)
 
 #### 📜 My recent blog posts
 
