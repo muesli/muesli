@@ -12,11 +12,11 @@ Want your own self-generating profile page? Check out [readme-scribe](https://gi
 
 #### 👷 Check out what I'm currently working on
 
-- [muesli/duf](https://github.com/muesli/duf) - Disk Usage/Free Utility - a better &#39;df&#39; alternative (1 day ago)
+- [muesli/deckmaster](https://github.com/muesli/deckmaster) - An application to control your Elgato Stream Deck on Linux (today)
 - [charmbracelet/glamour](https://github.com/charmbracelet/glamour) - Stylesheet-based markdown rendering for your CLI apps 💇🏻‍♀️ (1 day ago)
-- [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) - A powerful little TUI framework 🏗 (2 days ago)
-- [muesli/termenv](https://github.com/muesli/termenv) - Advanced ANSI style &amp; color support for your terminal applications (2 days ago)
+- [muesli/duf](https://github.com/muesli/duf) - Disk Usage/Free Utility - a better &#39;df&#39; alternative (1 day ago)
 - [muesli/mango](https://github.com/muesli/mango) - mango is a man-page generator for the Go flag, pflag, cobra, coral, and kong packages (2 days ago)
+- [muesli/termenv](https://github.com/muesli/termenv) - Advanced ANSI style &amp; color support for your terminal applications (2 days ago)
 
 #### 🌱 My latest projects
 
@@ -36,11 +36,11 @@ Want your own self-generating profile page? Check out [readme-scribe](https://gi
 
 #### 🔨 Latest Pull Requests I published
 
+- [Update README badges](https://github.com/muesli/deckmaster/pull/71) on [muesli/deckmaster](https://github.com/muesli/deckmaster) (today)
+- [Add verbose flag and clean up printing to stdout/stderr](https://github.com/muesli/deckmaster/pull/70) on [muesli/deckmaster](https://github.com/muesli/deckmaster) (today)
 - [Move cancelreader into a separate package](https://github.com/charmbracelet/bubbletea/pull/222) on [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) (2 days ago)
 - [Update README badges](https://github.com/muesli/mango/pull/9) on [muesli/mango](https://github.com/muesli/mango) (2 days ago)
 - [Use termenv&#39;s EnvColorProfile, which respects NO_COLOR and CLICOLOR_FORCE env vars](https://github.com/charmbracelet/bubbletea/pull/221) on [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) (2 days ago)
-- [Use termenv&#39;s EnvColorProfile, which respects NO_COLOR and CLICOLOR_FORCE env vars](https://github.com/charmbracelet/lipgloss/pull/64) on [charmbracelet/lipgloss](https://github.com/charmbracelet/lipgloss) (3 days ago)
-- [Fix typo in AdaptiveColor&#39;s godoc comment](https://github.com/charmbracelet/lipgloss/pull/63) on [charmbracelet/lipgloss](https://github.com/charmbracelet/lipgloss) (3 days ago)
 
 #### 📜 My recent blog posts
 
