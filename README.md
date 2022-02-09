@@ -12,11 +12,11 @@ Want your own self-generating profile page? Check out [readme-scribe](https://gi
 
 #### 👷 Check out what I'm currently working on
 
-- [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) - A powerful little TUI framework 🏗 (today)
-- [muesli/homebrew-tap](https://github.com/muesli/homebrew-tap) - muesli&#39;s Homebrew tap (today)
-- [muesli/deckmaster](https://github.com/muesli/deckmaster) - An application to control your Elgato Stream Deck on Linux (today)
-- [muesli/duf](https://github.com/muesli/duf) - Disk Usage/Free Utility - a better &#39;df&#39; alternative (today)
-- [charmbracelet/glamour](https://github.com/charmbracelet/glamour) - Stylesheet-based markdown rendering for your CLI apps 💇🏻‍♀️ (1 day ago)
+- [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) - A powerful little TUI framework 🏗 (1 day ago)
+- [muesli/homebrew-tap](https://github.com/muesli/homebrew-tap) - muesli&#39;s Homebrew tap (1 day ago)
+- [muesli/deckmaster](https://github.com/muesli/deckmaster) - An application to control your Elgato Stream Deck on Linux (1 day ago)
+- [muesli/duf](https://github.com/muesli/duf) - Disk Usage/Free Utility - a better &#39;df&#39; alternative (1 day ago)
+- [charmbracelet/glamour](https://github.com/charmbracelet/glamour) - Stylesheet-based markdown rendering for your CLI apps 💇🏻‍♀️ (2 days ago)
 
 #### 🌱 My latest projects
 
@@ -28,19 +28,19 @@ Want your own self-generating profile page? Check out [readme-scribe](https://gi
 
 #### 🔭 Latest releases I've contributed to
 
-- [muesli/duf](https://github.com/muesli/duf) ([v0.8.1](https://github.com/muesli/duf/releases/tag/v0.8.1), today) - Disk Usage/Free Utility - a better &#39;df&#39; alternative
-- [muesli/deckmaster](https://github.com/muesli/deckmaster) ([v0.7.0](https://github.com/muesli/deckmaster/releases/tag/v0.7.0), today) - An application to control your Elgato Stream Deck on Linux
-- [minio/mc](https://github.com/minio/mc) ([RELEASE.2022-02-07T09-25-34Z](https://github.com/minio/mc/releases/tag/RELEASE.2022-02-07T09-25-34Z), 1 day ago) - MinIO Client is a replacement for ls, cp, mkdir, diff and rsync commands for filesystems and object storage.
-- [muesli/cancelreader](https://github.com/muesli/cancelreader) ([v0.1.0](https://github.com/muesli/cancelreader/releases/tag/v0.1.0), 2 days ago) - A cancelable reader for Go
-- [IGLOU-EU/go-wildcard](https://github.com/IGLOU-EU/go-wildcard) ([v1.0.3](https://github.com/IGLOU-EU/go-wildcard/releases/tag/v1.0.3), 3 days ago) - Fast and light wildcard pattern matching. Fork from Minio project.
+- [muesli/duf](https://github.com/muesli/duf) ([v0.8.1](https://github.com/muesli/duf/releases/tag/v0.8.1), 1 day ago) - Disk Usage/Free Utility - a better &#39;df&#39; alternative
+- [muesli/deckmaster](https://github.com/muesli/deckmaster) ([v0.7.0](https://github.com/muesli/deckmaster/releases/tag/v0.7.0), 1 day ago) - An application to control your Elgato Stream Deck on Linux
+- [minio/mc](https://github.com/minio/mc) ([RELEASE.2022-02-07T09-25-34Z](https://github.com/minio/mc/releases/tag/RELEASE.2022-02-07T09-25-34Z), 2 days ago) - MinIO Client is a replacement for ls, cp, mkdir, diff and rsync commands for filesystems and object storage.
+- [muesli/cancelreader](https://github.com/muesli/cancelreader) ([v0.1.0](https://github.com/muesli/cancelreader/releases/tag/v0.1.0), 3 days ago) - A cancelable reader for Go
+- [IGLOU-EU/go-wildcard](https://github.com/IGLOU-EU/go-wildcard) ([v1.0.3](https://github.com/IGLOU-EU/go-wildcard/releases/tag/v1.0.3), 4 days ago) - Fast and light wildcard pattern matching. Fork from Minio project.
 
 #### 🔨 Latest Pull Requests I published
 
-- [Simplify send-msg example](https://github.com/charmbracelet/bubbletea/pull/223) on [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) (today)
-- [Update README badges](https://github.com/muesli/duf/pull/165) on [muesli/duf](https://github.com/muesli/duf) (today)
-- [Add separate sets of hard- and soft-enforced linters](https://github.com/muesli/duf/pull/164) on [muesli/duf](https://github.com/muesli/duf) (today)
-- [Add separate sets of hard- and soft-enforced linters](https://github.com/muesli/deckmaster/pull/77) on [muesli/deckmaster](https://github.com/muesli/deckmaster) (today)
-- [Add version flag](https://github.com/muesli/deckmaster/pull/76) on [muesli/deckmaster](https://github.com/muesli/deckmaster) (today)
+- [Simplify send-msg example](https://github.com/charmbracelet/bubbletea/pull/223) on [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) (1 day ago)
+- [Update README badges](https://github.com/muesli/duf/pull/165) on [muesli/duf](https://github.com/muesli/duf) (1 day ago)
+- [Add separate sets of hard- and soft-enforced linters](https://github.com/muesli/duf/pull/164) on [muesli/duf](https://github.com/muesli/duf) (1 day ago)
+- [Add separate sets of hard- and soft-enforced linters](https://github.com/muesli/deckmaster/pull/77) on [muesli/deckmaster](https://github.com/muesli/deckmaster) (1 day ago)
+- [Add version flag](https://github.com/muesli/deckmaster/pull/76) on [muesli/deckmaster](https://github.com/muesli/deckmaster) (1 day ago)
 
 #### 📜 My recent blog posts
 
@@ -52,11 +52,11 @@ Want your own self-generating profile page? Check out [readme-scribe](https://gi
 
 #### ⭐ Recent stars
 
-- [muesli/cancelreader](https://github.com/muesli/cancelreader) - A cancelable reader for Go (2 days ago)
-- [qiniu/iconv](https://github.com/qiniu/iconv) - Golang bindings to libiconv - Convert string to requested character encoding (2 days ago)
-- [berty/go-libtor](https://github.com/berty/go-libtor) - Self-contained Tor from Go (2 days ago)
-- [cmars/oniongrok](https://github.com/cmars/oniongrok) - Onion addresses for anything. (2 days ago)
-- [nimblebun/wordle-cli](https://github.com/nimblebun/wordle-cli) - play wordle in your command line (2 days ago)
+- [muesli/cancelreader](https://github.com/muesli/cancelreader) - A cancelable reader for Go (3 days ago)
+- [qiniu/iconv](https://github.com/qiniu/iconv) - Golang bindings to libiconv - Convert string to requested character encoding (3 days ago)
+- [berty/go-libtor](https://github.com/berty/go-libtor) - Self-contained Tor from Go (3 days ago)
+- [cmars/oniongrok](https://github.com/cmars/oniongrok) - Onion addresses for anything. (3 days ago)
+- [nimblebun/wordle-cli](https://github.com/nimblebun/wordle-cli) - play wordle in your command line (3 days ago)
 
 #### ❤️ These awesome people sponsor me (thank you!)
 
