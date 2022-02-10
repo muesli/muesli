@@ -12,9 +12,9 @@ Want your own self-generating profile page? Check out [readme-scribe](https://gi
 
 #### 👷 Check out what I'm currently working on
 
+- [muesli/deckmaster](https://github.com/muesli/deckmaster) - An application to control your Elgato Stream Deck on Linux (today)
 - [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) - A powerful little TUI framework 🏗 (1 day ago)
 - [muesli/homebrew-tap](https://github.com/muesli/homebrew-tap) - muesli&#39;s Homebrew tap (2 days ago)
-- [muesli/deckmaster](https://github.com/muesli/deckmaster) - An application to control your Elgato Stream Deck on Linux (2 days ago)
 - [muesli/duf](https://github.com/muesli/duf) - Disk Usage/Free Utility - a better &#39;df&#39; alternative (2 days ago)
 - [charmbracelet/glamour](https://github.com/charmbracelet/glamour) - Stylesheet-based markdown rendering for your CLI apps 💇🏻‍♀️ (3 days ago)
 
@@ -52,11 +52,11 @@ Want your own self-generating profile page? Check out [readme-scribe](https://gi
 
 #### ⭐ Recent stars
 
+- [hinshun/vt10x](https://github.com/hinshun/vt10x) - Package vt10x is a vt10x terminal emulation backend. (today)
 - [abdfnx/tran](https://github.com/abdfnx/tran) - 🖥 Securely transfer and send anything between computers with TUI. (1 day ago)
 - [muesli/cancelreader](https://github.com/muesli/cancelreader) - A cancelable reader for Go (4 days ago)
 - [qiniu/iconv](https://github.com/qiniu/iconv) - Golang bindings to libiconv - Convert string to requested character encoding (4 days ago)
 - [berty/go-libtor](https://github.com/berty/go-libtor) - Self-contained Tor from Go (4 days ago)
-- [cmars/oniongrok](https://github.com/cmars/oniongrok) - Onion addresses for anything. (4 days ago)
 
 #### ❤️ These awesome people sponsor me (thank you!)
 
