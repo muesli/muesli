@@ -36,11 +36,11 @@ Want your own self-generating profile page? Check out [readme-scribe](https://gi
 
 #### 🔨 Latest Pull Requests I published
 
+- [fix: weather data refreshing shouldn&#39;t block rendering](https://github.com/muesli/deckmaster/pull/83) on [muesli/deckmaster](https://github.com/muesli/deckmaster) (today)
 - [Don&#39;t trigger actions before the key has been released](https://github.com/muesli/deckmaster/pull/80) on [muesli/deckmaster](https://github.com/muesli/deckmaster) (1 day ago)
 - [Simplify send-msg example](https://github.com/charmbracelet/bubbletea/pull/223) on [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) (2 days ago)
 - [Update README badges](https://github.com/muesli/duf/pull/165) on [muesli/duf](https://github.com/muesli/duf) (2 days ago)
 - [Add separate sets of hard- and soft-enforced linters](https://github.com/muesli/duf/pull/164) on [muesli/duf](https://github.com/muesli/duf) (2 days ago)
-- [Add separate sets of hard- and soft-enforced linters](https://github.com/muesli/deckmaster/pull/77) on [muesli/deckmaster](https://github.com/muesli/deckmaster) (2 days ago)
 
 #### 📜 My recent blog posts
 
