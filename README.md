@@ -12,11 +12,11 @@ Want your own self-generating profile page? Check out [readme-scribe](https://gi
 
 #### 👷 Check out what I'm currently working on
 
-- [muesli/deckmaster](https://github.com/muesli/deckmaster) - An application to control your Elgato Stream Deck on Linux (today)
-- [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) - A powerful little TUI framework 🏗 (1 day ago)
-- [muesli/homebrew-tap](https://github.com/muesli/homebrew-tap) - muesli&#39;s Homebrew tap (2 days ago)
-- [muesli/duf](https://github.com/muesli/duf) - Disk Usage/Free Utility - a better &#39;df&#39; alternative (2 days ago)
-- [charmbracelet/glamour](https://github.com/charmbracelet/glamour) - Stylesheet-based markdown rendering for your CLI apps 💇🏻‍♀️ (3 days ago)
+- [muesli/deckmaster](https://github.com/muesli/deckmaster) - An application to control your Elgato Stream Deck on Linux (1 day ago)
+- [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) - A powerful little TUI framework 🏗 (2 days ago)
+- [muesli/homebrew-tap](https://github.com/muesli/homebrew-tap) - muesli&#39;s Homebrew tap (3 days ago)
+- [muesli/duf](https://github.com/muesli/duf) - Disk Usage/Free Utility - a better &#39;df&#39; alternative (3 days ago)
+- [charmbracelet/glamour](https://github.com/charmbracelet/glamour) - Stylesheet-based markdown rendering for your CLI apps 💇🏻‍♀️ (4 days ago)
 
 #### 🌱 My latest projects
 
@@ -28,19 +28,19 @@ Want your own self-generating profile page? Check out [readme-scribe](https://gi
 
 #### 🔭 Latest releases I've contributed to
 
-- [muesli/duf](https://github.com/muesli/duf) ([v0.8.1](https://github.com/muesli/duf/releases/tag/v0.8.1), 2 days ago) - Disk Usage/Free Utility - a better &#39;df&#39; alternative
-- [muesli/deckmaster](https://github.com/muesli/deckmaster) ([v0.7.0](https://github.com/muesli/deckmaster/releases/tag/v0.7.0), 2 days ago) - An application to control your Elgato Stream Deck on Linux
-- [minio/mc](https://github.com/minio/mc) ([RELEASE.2022-02-07T09-25-34Z](https://github.com/minio/mc/releases/tag/RELEASE.2022-02-07T09-25-34Z), 3 days ago) - MinIO Client is a replacement for ls, cp, mkdir, diff and rsync commands for filesystems and object storage.
-- [muesli/cancelreader](https://github.com/muesli/cancelreader) ([v0.1.0](https://github.com/muesli/cancelreader/releases/tag/v0.1.0), 4 days ago) - A cancelable reader for Go
-- [IGLOU-EU/go-wildcard](https://github.com/IGLOU-EU/go-wildcard) ([v1.0.3](https://github.com/IGLOU-EU/go-wildcard/releases/tag/v1.0.3), 5 days ago) - Fast and light wildcard pattern matching. Fork from Minio project.
+- [muesli/duf](https://github.com/muesli/duf) ([v0.8.1](https://github.com/muesli/duf/releases/tag/v0.8.1), 3 days ago) - Disk Usage/Free Utility - a better &#39;df&#39; alternative
+- [muesli/deckmaster](https://github.com/muesli/deckmaster) ([v0.7.0](https://github.com/muesli/deckmaster/releases/tag/v0.7.0), 3 days ago) - An application to control your Elgato Stream Deck on Linux
+- [minio/mc](https://github.com/minio/mc) ([RELEASE.2022-02-07T09-25-34Z](https://github.com/minio/mc/releases/tag/RELEASE.2022-02-07T09-25-34Z), 4 days ago) - MinIO Client is a replacement for ls, cp, mkdir, diff and rsync commands for filesystems and object storage.
+- [muesli/cancelreader](https://github.com/muesli/cancelreader) ([v0.1.0](https://github.com/muesli/cancelreader/releases/tag/v0.1.0), 5 days ago) - A cancelable reader for Go
+- [IGLOU-EU/go-wildcard](https://github.com/IGLOU-EU/go-wildcard) ([v1.0.3](https://github.com/IGLOU-EU/go-wildcard/releases/tag/v1.0.3), 6 days ago) - Fast and light wildcard pattern matching. Fork from Minio project.
 
 #### 🔨 Latest Pull Requests I published
 
-- [fix: weather data refreshing shouldn&#39;t block rendering](https://github.com/muesli/deckmaster/pull/83) on [muesli/deckmaster](https://github.com/muesli/deckmaster) (today)
-- [Don&#39;t trigger actions before the key has been released](https://github.com/muesli/deckmaster/pull/80) on [muesli/deckmaster](https://github.com/muesli/deckmaster) (1 day ago)
-- [Simplify send-msg example](https://github.com/charmbracelet/bubbletea/pull/223) on [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) (2 days ago)
-- [Update README badges](https://github.com/muesli/duf/pull/165) on [muesli/duf](https://github.com/muesli/duf) (2 days ago)
-- [Add separate sets of hard- and soft-enforced linters](https://github.com/muesli/duf/pull/164) on [muesli/duf](https://github.com/muesli/duf) (2 days ago)
+- [fix: weather data refreshing shouldn&#39;t block rendering](https://github.com/muesli/deckmaster/pull/83) on [muesli/deckmaster](https://github.com/muesli/deckmaster) (1 day ago)
+- [Don&#39;t trigger actions before the key has been released](https://github.com/muesli/deckmaster/pull/80) on [muesli/deckmaster](https://github.com/muesli/deckmaster) (2 days ago)
+- [Simplify send-msg example](https://github.com/charmbracelet/bubbletea/pull/223) on [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) (3 days ago)
+- [Update README badges](https://github.com/muesli/duf/pull/165) on [muesli/duf](https://github.com/muesli/duf) (3 days ago)
+- [Add separate sets of hard- and soft-enforced linters](https://github.com/muesli/duf/pull/164) on [muesli/duf](https://github.com/muesli/duf) (3 days ago)
 
 #### 📜 My recent blog posts
 
@@ -52,15 +52,15 @@ Want your own self-generating profile page? Check out [readme-scribe](https://gi
 
 #### ⭐ Recent stars
 
-- [hinshun/vt10x](https://github.com/hinshun/vt10x) - Package vt10x is a vt10x terminal emulation backend. (today)
-- [abdfnx/tran](https://github.com/abdfnx/tran) - 🖥 Securely transfer and send anything between computers with TUI. (1 day ago)
-- [muesli/cancelreader](https://github.com/muesli/cancelreader) - A cancelable reader for Go (4 days ago)
-- [qiniu/iconv](https://github.com/qiniu/iconv) - Golang bindings to libiconv - Convert string to requested character encoding (4 days ago)
-- [berty/go-libtor](https://github.com/berty/go-libtor) - Self-contained Tor from Go (4 days ago)
+- [hinshun/vt10x](https://github.com/hinshun/vt10x) - Package vt10x is a vt10x terminal emulation backend. (1 day ago)
+- [abdfnx/tran](https://github.com/abdfnx/tran) - 🖥 Securely transfer and send anything between computers with TUI. (2 days ago)
+- [muesli/cancelreader](https://github.com/muesli/cancelreader) - A cancelable reader for Go (5 days ago)
+- [qiniu/iconv](https://github.com/qiniu/iconv) - Golang bindings to libiconv - Convert string to requested character encoding (5 days ago)
+- [berty/go-libtor](https://github.com/berty/go-libtor) - Self-contained Tor from Go (5 days ago)
 
 #### ❤️ These awesome people sponsor me (thank you!)
 
-- [twpayne](https://github.com/twpayne) (2 weeks ago)
+- [twpayne](https://github.com/twpayne) (3 weeks ago)
 - [nkpremices](https://github.com/nkpremices) (4 months ago)
 - [LuckierDodge](https://github.com/LuckierDodge) (5 months ago)
 - [crazy-max](https://github.com/crazy-max) (5 months ago)
