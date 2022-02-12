@@ -12,11 +12,11 @@ Want your own self-generating profile page? Check out [readme-scribe](https://gi
 
 #### 👷 Check out what I'm currently working on
 
+- [muesli/termenv](https://github.com/muesli/termenv) - Advanced ANSI style &amp; color support for your terminal applications (today)
 - [muesli/deckmaster](https://github.com/muesli/deckmaster) - An application to control your Elgato Stream Deck on Linux (2 days ago)
 - [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) - A powerful little TUI framework 🏗 (3 days ago)
 - [muesli/homebrew-tap](https://github.com/muesli/homebrew-tap) - muesli&#39;s Homebrew tap (4 days ago)
 - [muesli/duf](https://github.com/muesli/duf) - Disk Usage/Free Utility - a better &#39;df&#39; alternative (4 days ago)
-- [charmbracelet/glamour](https://github.com/charmbracelet/glamour) - Stylesheet-based markdown rendering for your CLI apps 💇🏻‍♀️ (5 days ago)
 
 #### 🌱 My latest projects
 
@@ -36,11 +36,11 @@ Want your own self-generating profile page? Check out [readme-scribe](https://gi
 
 #### 🔨 Latest Pull Requests I published
 
+- [Support foreground detection on Solaris/illumos](https://github.com/muesli/termenv/pull/73) on [muesli/termenv](https://github.com/muesli/termenv) (today)
 - [fix: weather data refreshing shouldn&#39;t block rendering](https://github.com/muesli/deckmaster/pull/83) on [muesli/deckmaster](https://github.com/muesli/deckmaster) (2 days ago)
 - [Don&#39;t trigger actions before the key has been released](https://github.com/muesli/deckmaster/pull/80) on [muesli/deckmaster](https://github.com/muesli/deckmaster) (3 days ago)
 - [Simplify send-msg example](https://github.com/charmbracelet/bubbletea/pull/223) on [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) (4 days ago)
 - [Update README badges](https://github.com/muesli/duf/pull/165) on [muesli/duf](https://github.com/muesli/duf) (4 days ago)
-- [Add separate sets of hard- and soft-enforced linters](https://github.com/muesli/duf/pull/164) on [muesli/duf](https://github.com/muesli/duf) (4 days ago)
 
 #### 📜 My recent blog posts
 
@@ -52,11 +52,11 @@ Want your own self-generating profile page? Check out [readme-scribe](https://gi
 
 #### ⭐ Recent stars
 
+- [mattn/go-sixel](https://github.com/mattn/go-sixel) (today)
 - [r-darwish/idnt](https://github.com/r-darwish/idnt) - Batch software uninstall (today)
 - [Evertras/bubble-table](https://github.com/Evertras/bubble-table) - A table component for the Bubble Tea framework (today)
 - [hinshun/vt10x](https://github.com/hinshun/vt10x) - Package vt10x is a vt10x terminal emulation backend. (2 days ago)
 - [abdfnx/tran](https://github.com/abdfnx/tran) - 🖥 Securely transfer and send anything between computers with TUI. (3 days ago)
-- [muesli/cancelreader](https://github.com/muesli/cancelreader) - A cancelable reader for Go (6 days ago)
 
 #### ❤️ These awesome people sponsor me (thank you!)
 
