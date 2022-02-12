@@ -52,11 +52,11 @@ Want your own self-generating profile page? Check out [readme-scribe](https://gi
 
 #### ⭐ Recent stars
 
+- [r-darwish/idnt](https://github.com/r-darwish/idnt) - Batch software uninstall (today)
 - [Evertras/bubble-table](https://github.com/Evertras/bubble-table) - A table component for the Bubble Tea framework (today)
 - [hinshun/vt10x](https://github.com/hinshun/vt10x) - Package vt10x is a vt10x terminal emulation backend. (2 days ago)
 - [abdfnx/tran](https://github.com/abdfnx/tran) - 🖥 Securely transfer and send anything between computers with TUI. (3 days ago)
 - [muesli/cancelreader](https://github.com/muesli/cancelreader) - A cancelable reader for Go (6 days ago)
-- [qiniu/iconv](https://github.com/qiniu/iconv) - Golang bindings to libiconv - Convert string to requested character encoding (6 days ago)
 
 #### ❤️ These awesome people sponsor me (thank you!)
 
