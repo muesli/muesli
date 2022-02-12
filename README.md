@@ -28,11 +28,11 @@ Want your own self-generating profile page? Check out [readme-scribe](https://gi
 
 #### 🔭 Latest releases I've contributed to
 
+- [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) ([v1.5.0](https://github.com/goreleaser/goreleaser/releases/tag/v1.5.0), today) - Deliver Go binaries as fast and easily as possible
 - [muesli/duf](https://github.com/muesli/duf) ([v0.8.1](https://github.com/muesli/duf/releases/tag/v0.8.1), 4 days ago) - Disk Usage/Free Utility - a better &#39;df&#39; alternative
 - [muesli/deckmaster](https://github.com/muesli/deckmaster) ([v0.7.0](https://github.com/muesli/deckmaster/releases/tag/v0.7.0), 4 days ago) - An application to control your Elgato Stream Deck on Linux
 - [minio/mc](https://github.com/minio/mc) ([RELEASE.2022-02-07T09-25-34Z](https://github.com/minio/mc/releases/tag/RELEASE.2022-02-07T09-25-34Z), 5 days ago) - MinIO Client is a replacement for ls, cp, mkdir, diff and rsync commands for filesystems and object storage.
 - [muesli/cancelreader](https://github.com/muesli/cancelreader) ([v0.1.0](https://github.com/muesli/cancelreader/releases/tag/v0.1.0), 6 days ago) - A cancelable reader for Go
-- [IGLOU-EU/go-wildcard](https://github.com/IGLOU-EU/go-wildcard) ([v1.0.3](https://github.com/IGLOU-EU/go-wildcard/releases/tag/v1.0.3), 1 week ago) - Fast and light wildcard pattern matching. Fork from Minio project.
 
 #### 🔨 Latest Pull Requests I published
 
