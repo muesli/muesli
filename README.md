@@ -57,11 +57,11 @@ Want your own self-generating profile page? Check out [readme-scribe](https://gi
 
 #### ❤️ These awesome people sponsor me (thank you!)
 
+- [FluxIndustries](https://github.com/FluxIndustries) (today)
 - [twpayne](https://github.com/twpayne) (3 weeks ago)
 - [nkpremices](https://github.com/nkpremices) (4 months ago)
 - [LuckierDodge](https://github.com/LuckierDodge) (5 months ago)
 - [crazy-max](https://github.com/crazy-max) (5 months ago)
-- [ocelotsloth](https://github.com/ocelotsloth) (8 months ago)
 
 #### 💬 Feedback
 
