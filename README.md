@@ -52,11 +52,11 @@ Want your own self-generating profile page? Check out [readme-scribe](https://gi
 
 #### ⭐ Recent stars
 
+- [astralapp/astral](https://github.com/astralapp/astral) - Organize Your GitHub Stars With Ease (today)
 - [mattn/go-sixel](https://github.com/mattn/go-sixel) (1 day ago)
 - [r-darwish/idnt](https://github.com/r-darwish/idnt) - Batch software uninstall (1 day ago)
 - [Evertras/bubble-table](https://github.com/Evertras/bubble-table) - A table component for the Bubble Tea framework (1 day ago)
 - [hinshun/vt10x](https://github.com/hinshun/vt10x) - Package vt10x is a vt10x terminal emulation backend. (3 days ago)
-- [abdfnx/tran](https://github.com/abdfnx/tran) - 🖥 Securely transfer and send anything between computers with TUI. (4 days ago)
 
 #### ❤️ These awesome people sponsor me (thank you!)
 
