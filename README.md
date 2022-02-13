@@ -38,9 +38,6 @@ Want your own self-generating profile page? Check out [readme-scribe](https://gi
 
 - [Support foreground detection on Solaris/illumos](https://github.com/muesli/termenv/pull/73) on [muesli/termenv](https://github.com/muesli/termenv) (1 day ago)
 - [fix: weather data refreshing shouldn&#39;t block rendering](https://github.com/muesli/deckmaster/pull/83) on [muesli/deckmaster](https://github.com/muesli/deckmaster) (3 days ago)
-- [Don&#39;t trigger actions before the key has been released](https://github.com/muesli/deckmaster/pull/80) on [muesli/deckmaster](https://github.com/muesli/deckmaster) (4 days ago)
-- [Simplify send-msg example](https://github.com/charmbracelet/bubbletea/pull/223) on [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) (5 days ago)
-- [Update README badges](https://github.com/muesli/duf/pull/165) on [muesli/duf](https://github.com/muesli/duf) (5 days ago)
 
 #### 📜 My recent blog posts
 
