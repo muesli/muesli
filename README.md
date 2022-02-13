@@ -12,11 +12,11 @@ Want your own self-generating profile page? Check out [readme-scribe](https://gi
 
 #### 👷 Check out what I'm currently working on
 
-- [muesli/termenv](https://github.com/muesli/termenv) - Advanced ANSI style &amp; color support for your terminal applications (today)
-- [muesli/cancelreader](https://github.com/muesli/cancelreader) - A cancelable reader for Go (today)
-- [muesli/deckmaster](https://github.com/muesli/deckmaster) - An application to control your Elgato Stream Deck on Linux (2 days ago)
-- [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) - A powerful little TUI framework 🏗 (3 days ago)
-- [muesli/homebrew-tap](https://github.com/muesli/homebrew-tap) - muesli&#39;s Homebrew tap (4 days ago)
+- [muesli/termenv](https://github.com/muesli/termenv) - Advanced ANSI style &amp; color support for your terminal applications (1 day ago)
+- [muesli/cancelreader](https://github.com/muesli/cancelreader) - A cancelable reader for Go (1 day ago)
+- [muesli/deckmaster](https://github.com/muesli/deckmaster) - An application to control your Elgato Stream Deck on Linux (3 days ago)
+- [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) - A powerful little TUI framework 🏗 (4 days ago)
+- [muesli/homebrew-tap](https://github.com/muesli/homebrew-tap) - muesli&#39;s Homebrew tap (5 days ago)
 
 #### 🌱 My latest projects
 
@@ -28,19 +28,19 @@ Want your own self-generating profile page? Check out [readme-scribe](https://gi
 
 #### 🔭 Latest releases I've contributed to
 
-- [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) ([v1.5.0](https://github.com/goreleaser/goreleaser/releases/tag/v1.5.0), today) - Deliver Go binaries as fast and easily as possible
-- [muesli/duf](https://github.com/muesli/duf) ([v0.8.1](https://github.com/muesli/duf/releases/tag/v0.8.1), 4 days ago) - Disk Usage/Free Utility - a better &#39;df&#39; alternative
-- [muesli/deckmaster](https://github.com/muesli/deckmaster) ([v0.7.0](https://github.com/muesli/deckmaster/releases/tag/v0.7.0), 4 days ago) - An application to control your Elgato Stream Deck on Linux
-- [minio/mc](https://github.com/minio/mc) ([RELEASE.2022-02-07T09-25-34Z](https://github.com/minio/mc/releases/tag/RELEASE.2022-02-07T09-25-34Z), 5 days ago) - MinIO Client is a replacement for ls, cp, mkdir, diff and rsync commands for filesystems and object storage.
-- [muesli/cancelreader](https://github.com/muesli/cancelreader) ([v0.1.0](https://github.com/muesli/cancelreader/releases/tag/v0.1.0), 6 days ago) - A cancelable reader for Go
+- [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) ([v1.5.0](https://github.com/goreleaser/goreleaser/releases/tag/v1.5.0), 1 day ago) - Deliver Go binaries as fast and easily as possible
+- [muesli/duf](https://github.com/muesli/duf) ([v0.8.1](https://github.com/muesli/duf/releases/tag/v0.8.1), 5 days ago) - Disk Usage/Free Utility - a better &#39;df&#39; alternative
+- [muesli/deckmaster](https://github.com/muesli/deckmaster) ([v0.7.0](https://github.com/muesli/deckmaster/releases/tag/v0.7.0), 5 days ago) - An application to control your Elgato Stream Deck on Linux
+- [minio/mc](https://github.com/minio/mc) ([RELEASE.2022-02-07T09-25-34Z](https://github.com/minio/mc/releases/tag/RELEASE.2022-02-07T09-25-34Z), 6 days ago) - MinIO Client is a replacement for ls, cp, mkdir, diff and rsync commands for filesystems and object storage.
+- [muesli/cancelreader](https://github.com/muesli/cancelreader) ([v0.1.0](https://github.com/muesli/cancelreader/releases/tag/v0.1.0), 1 week ago) - A cancelable reader for Go
 
 #### 🔨 Latest Pull Requests I published
 
-- [Support foreground detection on Solaris/illumos](https://github.com/muesli/termenv/pull/73) on [muesli/termenv](https://github.com/muesli/termenv) (today)
-- [fix: weather data refreshing shouldn&#39;t block rendering](https://github.com/muesli/deckmaster/pull/83) on [muesli/deckmaster](https://github.com/muesli/deckmaster) (2 days ago)
-- [Don&#39;t trigger actions before the key has been released](https://github.com/muesli/deckmaster/pull/80) on [muesli/deckmaster](https://github.com/muesli/deckmaster) (3 days ago)
-- [Simplify send-msg example](https://github.com/charmbracelet/bubbletea/pull/223) on [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) (4 days ago)
-- [Update README badges](https://github.com/muesli/duf/pull/165) on [muesli/duf](https://github.com/muesli/duf) (4 days ago)
+- [Support foreground detection on Solaris/illumos](https://github.com/muesli/termenv/pull/73) on [muesli/termenv](https://github.com/muesli/termenv) (1 day ago)
+- [fix: weather data refreshing shouldn&#39;t block rendering](https://github.com/muesli/deckmaster/pull/83) on [muesli/deckmaster](https://github.com/muesli/deckmaster) (3 days ago)
+- [Don&#39;t trigger actions before the key has been released](https://github.com/muesli/deckmaster/pull/80) on [muesli/deckmaster](https://github.com/muesli/deckmaster) (4 days ago)
+- [Simplify send-msg example](https://github.com/charmbracelet/bubbletea/pull/223) on [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) (5 days ago)
+- [Update README badges](https://github.com/muesli/duf/pull/165) on [muesli/duf](https://github.com/muesli/duf) (5 days ago)
 
 #### 📜 My recent blog posts
 
@@ -52,11 +52,11 @@ Want your own self-generating profile page? Check out [readme-scribe](https://gi
 
 #### ⭐ Recent stars
 
-- [mattn/go-sixel](https://github.com/mattn/go-sixel) (today)
-- [r-darwish/idnt](https://github.com/r-darwish/idnt) - Batch software uninstall (today)
-- [Evertras/bubble-table](https://github.com/Evertras/bubble-table) - A table component for the Bubble Tea framework (today)
-- [hinshun/vt10x](https://github.com/hinshun/vt10x) - Package vt10x is a vt10x terminal emulation backend. (2 days ago)
-- [abdfnx/tran](https://github.com/abdfnx/tran) - 🖥 Securely transfer and send anything between computers with TUI. (3 days ago)
+- [mattn/go-sixel](https://github.com/mattn/go-sixel) (1 day ago)
+- [r-darwish/idnt](https://github.com/r-darwish/idnt) - Batch software uninstall (1 day ago)
+- [Evertras/bubble-table](https://github.com/Evertras/bubble-table) - A table component for the Bubble Tea framework (1 day ago)
+- [hinshun/vt10x](https://github.com/hinshun/vt10x) - Package vt10x is a vt10x terminal emulation backend. (3 days ago)
+- [abdfnx/tran](https://github.com/abdfnx/tran) - 🖥 Securely transfer and send anything between computers with TUI. (4 days ago)
 
 #### ❤️ These awesome people sponsor me (thank you!)
 
