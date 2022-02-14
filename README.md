@@ -37,7 +37,6 @@ Want your own self-generating profile page? Check out [readme-scribe](https://gi
 #### 🔨 Latest Pull Requests I published
 
 - [Support foreground detection on Solaris/illumos](https://github.com/muesli/termenv/pull/73) on [muesli/termenv](https://github.com/muesli/termenv) (2 days ago)
-- [fix: weather data refreshing shouldn&#39;t block rendering](https://github.com/muesli/deckmaster/pull/83) on [muesli/deckmaster](https://github.com/muesli/deckmaster) (4 days ago)
 
 #### 📜 My recent blog posts
 
