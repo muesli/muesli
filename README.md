@@ -12,11 +12,11 @@ Want your own self-generating profile page? Check out [readme-scribe](https://gi
 
 #### 👷 Check out what I'm currently working on
 
-- [muesli/deckmaster](https://github.com/muesli/deckmaster) - An application to control your Elgato Stream Deck on Linux (today)
-- [muesli/termenv](https://github.com/muesli/termenv) - Advanced ANSI style &amp; color support for your terminal applications (1 day ago)
-- [muesli/cancelreader](https://github.com/muesli/cancelreader) - A cancelable reader for Go (1 day ago)
-- [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) - A powerful little TUI framework 🏗 (4 days ago)
-- [muesli/homebrew-tap](https://github.com/muesli/homebrew-tap) - muesli&#39;s Homebrew tap (5 days ago)
+- [muesli/deckmaster](https://github.com/muesli/deckmaster) - An application to control your Elgato Stream Deck on Linux (1 day ago)
+- [muesli/termenv](https://github.com/muesli/termenv) - Advanced ANSI style &amp; color support for your terminal applications (2 days ago)
+- [muesli/cancelreader](https://github.com/muesli/cancelreader) - A cancelable reader for Go (2 days ago)
+- [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) - A powerful little TUI framework 🏗 (5 days ago)
+- [muesli/homebrew-tap](https://github.com/muesli/homebrew-tap) - muesli&#39;s Homebrew tap (6 days ago)
 
 #### 🌱 My latest projects
 
@@ -28,20 +28,20 @@ Want your own self-generating profile page? Check out [readme-scribe](https://gi
 
 #### 🔭 Latest releases I've contributed to
 
-- [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) ([v1.5.0](https://github.com/goreleaser/goreleaser/releases/tag/v1.5.0), 1 day ago) - Deliver Go binaries as fast and easily as possible
-- [muesli/duf](https://github.com/muesli/duf) ([v0.8.1](https://github.com/muesli/duf/releases/tag/v0.8.1), 5 days ago) - Disk Usage/Free Utility - a better &#39;df&#39; alternative
-- [muesli/deckmaster](https://github.com/muesli/deckmaster) ([v0.7.0](https://github.com/muesli/deckmaster/releases/tag/v0.7.0), 5 days ago) - An application to control your Elgato Stream Deck on Linux
-- [minio/mc](https://github.com/minio/mc) ([RELEASE.2022-02-07T09-25-34Z](https://github.com/minio/mc/releases/tag/RELEASE.2022-02-07T09-25-34Z), 6 days ago) - MinIO Client is a replacement for ls, cp, mkdir, diff and rsync commands for filesystems and object storage.
+- [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) ([v1.5.0](https://github.com/goreleaser/goreleaser/releases/tag/v1.5.0), 2 days ago) - Deliver Go binaries as fast and easily as possible
+- [muesli/duf](https://github.com/muesli/duf) ([v0.8.1](https://github.com/muesli/duf/releases/tag/v0.8.1), 6 days ago) - Disk Usage/Free Utility - a better &#39;df&#39; alternative
+- [muesli/deckmaster](https://github.com/muesli/deckmaster) ([v0.7.0](https://github.com/muesli/deckmaster/releases/tag/v0.7.0), 6 days ago) - An application to control your Elgato Stream Deck on Linux
+- [minio/mc](https://github.com/minio/mc) ([RELEASE.2022-02-07T09-25-34Z](https://github.com/minio/mc/releases/tag/RELEASE.2022-02-07T09-25-34Z), 1 week ago) - MinIO Client is a replacement for ls, cp, mkdir, diff and rsync commands for filesystems and object storage.
 - [muesli/cancelreader](https://github.com/muesli/cancelreader) ([v0.1.0](https://github.com/muesli/cancelreader/releases/tag/v0.1.0), 1 week ago) - A cancelable reader for Go
 
 #### 🔨 Latest Pull Requests I published
 
-- [Support foreground detection on Solaris/illumos](https://github.com/muesli/termenv/pull/73) on [muesli/termenv](https://github.com/muesli/termenv) (1 day ago)
-- [fix: weather data refreshing shouldn&#39;t block rendering](https://github.com/muesli/deckmaster/pull/83) on [muesli/deckmaster](https://github.com/muesli/deckmaster) (3 days ago)
+- [Support foreground detection on Solaris/illumos](https://github.com/muesli/termenv/pull/73) on [muesli/termenv](https://github.com/muesli/termenv) (2 days ago)
+- [fix: weather data refreshing shouldn&#39;t block rendering](https://github.com/muesli/deckmaster/pull/83) on [muesli/deckmaster](https://github.com/muesli/deckmaster) (4 days ago)
 
 #### 📜 My recent blog posts
 
-- [Self-hosting VSCode](https://fribbledom.com/posts/selfhosting-vscode/) (7 months ago)
+- [Self-hosting VSCode](https://fribbledom.com/posts/selfhosting-vscode/) (8 months ago)
 - [Installing Arch Linux with Full Disk Encryption](https://fribbledom.com/posts/encrypted-arch-install/) (2 years ago)
 - [Remotely Installing a Fully-Encrypted Debian Server](https://fribbledom.com/posts/encrypted-remote-debian-install/) (3 years ago)
 - [Gamut, a Go Package to Manage Color Palettes](https://fribbledom.com/posts/gamut-package-to-handle-color-palettes/) (3 years ago)
@@ -49,15 +49,15 @@ Want your own self-generating profile page? Check out [readme-scribe](https://gi
 
 #### ⭐ Recent stars
 
-- [astralapp/astral](https://github.com/astralapp/astral) - Organize Your GitHub Stars With Ease (today)
-- [mattn/go-sixel](https://github.com/mattn/go-sixel) (1 day ago)
-- [r-darwish/idnt](https://github.com/r-darwish/idnt) - Batch software uninstall (1 day ago)
-- [Evertras/bubble-table](https://github.com/Evertras/bubble-table) - A table component for the Bubble Tea framework (1 day ago)
-- [hinshun/vt10x](https://github.com/hinshun/vt10x) - Package vt10x is a vt10x terminal emulation backend. (3 days ago)
+- [astralapp/astral](https://github.com/astralapp/astral) - Organize Your GitHub Stars With Ease (1 day ago)
+- [mattn/go-sixel](https://github.com/mattn/go-sixel) (2 days ago)
+- [r-darwish/idnt](https://github.com/r-darwish/idnt) - Batch software uninstall (2 days ago)
+- [Evertras/bubble-table](https://github.com/Evertras/bubble-table) - A table component for the Bubble Tea framework (2 days ago)
+- [hinshun/vt10x](https://github.com/hinshun/vt10x) - Package vt10x is a vt10x terminal emulation backend. (4 days ago)
 
 #### ❤️ These awesome people sponsor me (thank you!)
 
-- [FluxIndustries](https://github.com/FluxIndustries) (today)
+- [FluxIndustries](https://github.com/FluxIndustries) (1 day ago)
 - [twpayne](https://github.com/twpayne) (3 weeks ago)
 - [nkpremices](https://github.com/nkpremices) (4 months ago)
 - [LuckierDodge](https://github.com/LuckierDodge) (5 months ago)
