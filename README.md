@@ -49,11 +49,11 @@ Want your own self-generating profile page? Check out [readme-scribe](https://gi
 
 #### ⭐ Recent stars
 
-- [fatih/hclfmt](https://github.com/fatih/hclfmt) - Format and prettify HCL files (today)
 - [astralapp/astral](https://github.com/astralapp/astral) - Organize Your GitHub Stars With Ease (2 days ago)
 - [mattn/go-sixel](https://github.com/mattn/go-sixel) (3 days ago)
 - [r-darwish/idnt](https://github.com/r-darwish/idnt) - Batch software uninstall (3 days ago)
 - [Evertras/bubble-table](https://github.com/Evertras/bubble-table) - A table component for the Bubble Tea framework (3 days ago)
+- [hinshun/vt10x](https://github.com/hinshun/vt10x) - Package vt10x is a vt10x terminal emulation backend. (5 days ago)
 
 #### ❤️ These awesome people sponsor me (thank you!)
 
