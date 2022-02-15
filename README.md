@@ -28,11 +28,11 @@ Want your own self-generating profile page? Check out [readme-scribe](https://gi
 
 #### 🔭 Latest releases I've contributed to
 
+- [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) ([v0.20.0](https://github.com/charmbracelet/bubbletea/releases/tag/v0.20.0), today) - A powerful little TUI framework 🏗
 - [charmbracelet/lipgloss](https://github.com/charmbracelet/lipgloss) ([v0.5.0](https://github.com/charmbracelet/lipgloss/releases/tag/v0.5.0), 1 day ago) - Style definitions for nice terminal layouts 👄
 - [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) ([v1.5.0](https://github.com/goreleaser/goreleaser/releases/tag/v1.5.0), 3 days ago) - Deliver Go binaries as fast and easily as possible
 - [muesli/duf](https://github.com/muesli/duf) ([v0.8.1](https://github.com/muesli/duf/releases/tag/v0.8.1), 1 week ago) - Disk Usage/Free Utility - a better &#39;df&#39; alternative
 - [muesli/deckmaster](https://github.com/muesli/deckmaster) ([v0.7.0](https://github.com/muesli/deckmaster/releases/tag/v0.7.0), 1 week ago) - An application to control your Elgato Stream Deck on Linux
-- [minio/mc](https://github.com/minio/mc) ([RELEASE.2022-02-07T09-25-34Z](https://github.com/minio/mc/releases/tag/RELEASE.2022-02-07T09-25-34Z), 1 week ago) - MinIO Client is a replacement for ls, cp, mkdir, diff and rsync commands for filesystems and object storage.
 
 #### 🔨 Latest Pull Requests I published
 
