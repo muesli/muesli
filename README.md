@@ -12,11 +12,11 @@ Want your own self-generating profile page? Check out [readme-scribe](https://gi
 
 #### 👷 Check out what I'm currently working on
 
-- [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) - A powerful little TUI framework 🏗 (today)
-- [muesli/deckmaster](https://github.com/muesli/deckmaster) - An application to control your Elgato Stream Deck on Linux (1 day ago)
-- [muesli/cancelreader](https://github.com/muesli/cancelreader) - A cancelable reader for Go (2 days ago)
-- [muesli/termenv](https://github.com/muesli/termenv) - Advanced ANSI style &amp; color support for your terminal applications (2 days ago)
-- [muesli/duf](https://github.com/muesli/duf) - Disk Usage/Free Utility - a better &#39;df&#39; alternative (6 days ago)
+- [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) - A powerful little TUI framework 🏗 (1 day ago)
+- [muesli/deckmaster](https://github.com/muesli/deckmaster) - An application to control your Elgato Stream Deck on Linux (2 days ago)
+- [muesli/cancelreader](https://github.com/muesli/cancelreader) - A cancelable reader for Go (3 days ago)
+- [muesli/termenv](https://github.com/muesli/termenv) - Advanced ANSI style &amp; color support for your terminal applications (3 days ago)
+- [muesli/duf](https://github.com/muesli/duf) - Disk Usage/Free Utility - a better &#39;df&#39; alternative (1 week ago)
 
 #### 🌱 My latest projects
 
@@ -28,16 +28,16 @@ Want your own self-generating profile page? Check out [readme-scribe](https://gi
 
 #### 🔭 Latest releases I've contributed to
 
-- [charmbracelet/lipgloss](https://github.com/charmbracelet/lipgloss) ([v0.5.0](https://github.com/charmbracelet/lipgloss/releases/tag/v0.5.0), today) - Style definitions for nice terminal layouts 👄
-- [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) ([v1.5.0](https://github.com/goreleaser/goreleaser/releases/tag/v1.5.0), 2 days ago) - Deliver Go binaries as fast and easily as possible
-- [muesli/duf](https://github.com/muesli/duf) ([v0.8.1](https://github.com/muesli/duf/releases/tag/v0.8.1), 6 days ago) - Disk Usage/Free Utility - a better &#39;df&#39; alternative
-- [muesli/deckmaster](https://github.com/muesli/deckmaster) ([v0.7.0](https://github.com/muesli/deckmaster/releases/tag/v0.7.0), 6 days ago) - An application to control your Elgato Stream Deck on Linux
+- [charmbracelet/lipgloss](https://github.com/charmbracelet/lipgloss) ([v0.5.0](https://github.com/charmbracelet/lipgloss/releases/tag/v0.5.0), 1 day ago) - Style definitions for nice terminal layouts 👄
+- [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) ([v1.5.0](https://github.com/goreleaser/goreleaser/releases/tag/v1.5.0), 3 days ago) - Deliver Go binaries as fast and easily as possible
+- [muesli/duf](https://github.com/muesli/duf) ([v0.8.1](https://github.com/muesli/duf/releases/tag/v0.8.1), 1 week ago) - Disk Usage/Free Utility - a better &#39;df&#39; alternative
+- [muesli/deckmaster](https://github.com/muesli/deckmaster) ([v0.7.0](https://github.com/muesli/deckmaster/releases/tag/v0.7.0), 1 week ago) - An application to control your Elgato Stream Deck on Linux
 - [minio/mc](https://github.com/minio/mc) ([RELEASE.2022-02-07T09-25-34Z](https://github.com/minio/mc/releases/tag/RELEASE.2022-02-07T09-25-34Z), 1 week ago) - MinIO Client is a replacement for ls, cp, mkdir, diff and rsync commands for filesystems and object storage.
 
 #### 🔨 Latest Pull Requests I published
 
-- [chore: bump lipgloss and termenv](https://github.com/charmbracelet/bubbletea/pull/229) on [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) (today)
-- [fix: don&#39;t check terminal size if we&#39;re not writing to a terminal](https://github.com/charmbracelet/bubbletea/pull/228) on [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) (today)
+- [chore: bump lipgloss and termenv](https://github.com/charmbracelet/bubbletea/pull/229) on [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) (1 day ago)
+- [fix: don&#39;t check terminal size if we&#39;re not writing to a terminal](https://github.com/charmbracelet/bubbletea/pull/228) on [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) (1 day ago)
 
 #### 📜 My recent blog posts
 
@@ -49,15 +49,15 @@ Want your own self-generating profile page? Check out [readme-scribe](https://gi
 
 #### ⭐ Recent stars
 
-- [astralapp/astral](https://github.com/astralapp/astral) - Organize Your GitHub Stars With Ease (1 day ago)
-- [mattn/go-sixel](https://github.com/mattn/go-sixel) (2 days ago)
-- [r-darwish/idnt](https://github.com/r-darwish/idnt) - Batch software uninstall (2 days ago)
-- [Evertras/bubble-table](https://github.com/Evertras/bubble-table) - A table component for the Bubble Tea framework (2 days ago)
-- [hinshun/vt10x](https://github.com/hinshun/vt10x) - Package vt10x is a vt10x terminal emulation backend. (4 days ago)
+- [astralapp/astral](https://github.com/astralapp/astral) - Organize Your GitHub Stars With Ease (2 days ago)
+- [mattn/go-sixel](https://github.com/mattn/go-sixel) (3 days ago)
+- [r-darwish/idnt](https://github.com/r-darwish/idnt) - Batch software uninstall (3 days ago)
+- [Evertras/bubble-table](https://github.com/Evertras/bubble-table) - A table component for the Bubble Tea framework (3 days ago)
+- [hinshun/vt10x](https://github.com/hinshun/vt10x) - Package vt10x is a vt10x terminal emulation backend. (5 days ago)
 
 #### ❤️ These awesome people sponsor me (thank you!)
 
-- [FluxIndustries](https://github.com/FluxIndustries) (1 day ago)
+- [FluxIndustries](https://github.com/FluxIndustries) (2 days ago)
 - [twpayne](https://github.com/twpayne) (3 weeks ago)
 - [nkpremices](https://github.com/nkpremices) (4 months ago)
 - [LuckierDodge](https://github.com/LuckierDodge) (5 months ago)
