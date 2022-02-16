@@ -49,11 +49,11 @@ Want your own self-generating profile page? Check out [readme-scribe](https://gi
 
 #### ⭐ Recent stars
 
+- [mautrix/go](https://github.com/mautrix/go) - A Golang Matrix framework. (today)
 - [SaltFishPr/redis-viewer](https://github.com/SaltFishPr/redis-viewer) (today)
 - [astralapp/astral](https://github.com/astralapp/astral) - Organize Your GitHub Stars With Ease (3 days ago)
 - [mattn/go-sixel](https://github.com/mattn/go-sixel) (4 days ago)
 - [r-darwish/idnt](https://github.com/r-darwish/idnt) - Batch software uninstall (4 days ago)
-- [Evertras/bubble-table](https://github.com/Evertras/bubble-table) - A table component for the Bubble Tea framework (4 days ago)
 
 #### ❤️ These awesome people sponsor me (thank you!)
 
