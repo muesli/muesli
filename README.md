@@ -13,10 +13,10 @@ Want your own self-generating profile page? Check out [readme-scribe](https://gi
 #### 👷 Check out what I'm currently working on
 
 - [muesli/streamdeck](https://github.com/muesli/streamdeck) - An application and Go library to control your Elgato Stream Deck on Linux (today)
-- [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) - A powerful little TUI framework 🏗 (2 days ago)
-- [muesli/deckmaster](https://github.com/muesli/deckmaster) - An application to control your Elgato Stream Deck on Linux (3 days ago)
-- [muesli/cancelreader](https://github.com/muesli/cancelreader) - A cancelable reader for Go (4 days ago)
-- [muesli/termenv](https://github.com/muesli/termenv) - Advanced ANSI style &amp; color support for your terminal applications (4 days ago)
+- [muesli/deckmaster](https://github.com/muesli/deckmaster) - An application to control your Elgato Stream Deck on Linux (today)
+- [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) - A powerful little TUI framework 🏗 (3 days ago)
+- [muesli/cancelreader](https://github.com/muesli/cancelreader) - A cancelable reader for Go (5 days ago)
+- [muesli/termenv](https://github.com/muesli/termenv) - Advanced ANSI style &amp; color support for your terminal applications (5 days ago)
 
 #### 🌱 My latest projects
 
@@ -28,16 +28,16 @@ Want your own self-generating profile page? Check out [readme-scribe](https://gi
 
 #### 🔭 Latest releases I've contributed to
 
-- [charmbracelet/soft-serve](https://github.com/charmbracelet/soft-serve) ([v0.2.1](https://github.com/charmbracelet/soft-serve/releases/tag/v0.2.1), today) - A tasty, self-hostable Git server for the command line🍦
-- [charmbracelet/bubbles](https://github.com/charmbracelet/bubbles) ([v0.10.3](https://github.com/charmbracelet/bubbles/releases/tag/v0.10.3), today) - TUI components for Bubble Tea 🍡
-- [minio/mc](https://github.com/minio/mc) ([RELEASE.2022-02-16T05-54-01Z](https://github.com/minio/mc/releases/tag/RELEASE.2022-02-16T05-54-01Z), today) - MinIO Client is a replacement for ls, cp, mkdir, diff and rsync commands for filesystems and object storage.
-- [charmbracelet/keygen](https://github.com/charmbracelet/keygen) ([v0.2.1](https://github.com/charmbracelet/keygen/releases/tag/v0.2.1), 1 day ago) - An SSH key pair generator
-- [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) ([v0.20.0](https://github.com/charmbracelet/bubbletea/releases/tag/v0.20.0), 1 day ago) - A powerful little TUI framework 🏗
+- [charmbracelet/soft-serve](https://github.com/charmbracelet/soft-serve) ([v0.2.1](https://github.com/charmbracelet/soft-serve/releases/tag/v0.2.1), 1 day ago) - A tasty, self-hostable Git server for the command line🍦
+- [charmbracelet/bubbles](https://github.com/charmbracelet/bubbles) ([v0.10.3](https://github.com/charmbracelet/bubbles/releases/tag/v0.10.3), 1 day ago) - TUI components for Bubble Tea 🍡
+- [minio/mc](https://github.com/minio/mc) ([RELEASE.2022-02-16T05-54-01Z](https://github.com/minio/mc/releases/tag/RELEASE.2022-02-16T05-54-01Z), 1 day ago) - MinIO Client is a replacement for ls, cp, mkdir, diff and rsync commands for filesystems and object storage.
+- [charmbracelet/keygen](https://github.com/charmbracelet/keygen) ([v0.2.1](https://github.com/charmbracelet/keygen/releases/tag/v0.2.1), 2 days ago) - An SSH key pair generator
+- [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) ([v0.20.0](https://github.com/charmbracelet/bubbletea/releases/tag/v0.20.0), 2 days ago) - A powerful little TUI framework 🏗
 
 #### 🔨 Latest Pull Requests I published
 
-- [chore: bump lipgloss and termenv](https://github.com/charmbracelet/bubbletea/pull/229) on [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) (2 days ago)
-- [fix: don&#39;t check terminal size if we&#39;re not writing to a terminal](https://github.com/charmbracelet/bubbletea/pull/228) on [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) (2 days ago)
+- [chore: bump lipgloss and termenv](https://github.com/charmbracelet/bubbletea/pull/229) on [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) (3 days ago)
+- [fix: don&#39;t check terminal size if we&#39;re not writing to a terminal](https://github.com/charmbracelet/bubbletea/pull/228) on [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) (3 days ago)
 
 #### 📜 My recent blog posts
 
@@ -49,19 +49,19 @@ Want your own self-generating profile page? Check out [readme-scribe](https://gi
 
 #### ⭐ Recent stars
 
-- [mautrix/go](https://github.com/mautrix/go) - A Golang Matrix framework. (today)
-- [SaltFishPr/redis-viewer](https://github.com/SaltFishPr/redis-viewer) (today)
-- [astralapp/astral](https://github.com/astralapp/astral) - Organize Your GitHub Stars With Ease (3 days ago)
-- [mattn/go-sixel](https://github.com/mattn/go-sixel) (4 days ago)
-- [r-darwish/idnt](https://github.com/r-darwish/idnt) - Batch software uninstall (4 days ago)
+- [mautrix/go](https://github.com/mautrix/go) - A Golang Matrix framework. (1 day ago)
+- [SaltFishPr/redis-viewer](https://github.com/SaltFishPr/redis-viewer) (1 day ago)
+- [astralapp/astral](https://github.com/astralapp/astral) - Organize Your GitHub Stars With Ease (4 days ago)
+- [mattn/go-sixel](https://github.com/mattn/go-sixel) (5 days ago)
+- [r-darwish/idnt](https://github.com/r-darwish/idnt) - Batch software uninstall (5 days ago)
 
 #### ❤️ These awesome people sponsor me (thank you!)
 
-- [FluxIndustries](https://github.com/FluxIndustries) (3 days ago)
 - [twpayne](https://github.com/twpayne) (3 weeks ago)
 - [nkpremices](https://github.com/nkpremices) (4 months ago)
 - [LuckierDodge](https://github.com/LuckierDodge) (5 months ago)
 - [crazy-max](https://github.com/crazy-max) (5 months ago)
+- [ocelotsloth](https://github.com/ocelotsloth) (8 months ago)
 
 #### 💬 Feedback
 
