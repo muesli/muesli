@@ -12,11 +12,11 @@ Want your own self-generating profile page? Check out [readme-scribe](https://gi
 
 #### 👷 Check out what I'm currently working on
 
-- [muesli/deckmaster](https://github.com/muesli/deckmaster) - An application to control your Elgato Stream Deck on Linux (today)
-- [muesli/streamdeck](https://github.com/muesli/streamdeck) - An application and Go library to control your Elgato Stream Deck on Linux (today)
-- [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) - A powerful little TUI framework 🏗 (3 days ago)
-- [muesli/termenv](https://github.com/muesli/termenv) - Advanced ANSI style &amp; color support for your terminal applications (5 days ago)
-- [muesli/cancelreader](https://github.com/muesli/cancelreader) - A cancelable reader for Go (5 days ago)
+- [muesli/deckmaster](https://github.com/muesli/deckmaster) - An application to control your Elgato Stream Deck on Linux (1 day ago)
+- [muesli/streamdeck](https://github.com/muesli/streamdeck) - An application and Go library to control your Elgato Stream Deck on Linux (1 day ago)
+- [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) - A powerful little TUI framework 🏗 (4 days ago)
+- [muesli/termenv](https://github.com/muesli/termenv) - Advanced ANSI style &amp; color support for your terminal applications (6 days ago)
+- [muesli/cancelreader](https://github.com/muesli/cancelreader) - A cancelable reader for Go (6 days ago)
 
 #### 🌱 My latest projects
 
@@ -28,15 +28,15 @@ Want your own self-generating profile page? Check out [readme-scribe](https://gi
 
 #### 🔭 Latest releases I've contributed to
 
-- [muesli/deckmaster](https://github.com/muesli/deckmaster) ([v0.8.0](https://github.com/muesli/deckmaster/releases/tag/v0.8.0), today) - An application to control your Elgato Stream Deck on Linux
-- [muesli/streamdeck](https://github.com/muesli/streamdeck) ([v0.3.0](https://github.com/muesli/streamdeck/releases/tag/v0.3.0), today) - An application and Go library to control your Elgato Stream Deck on Linux
-- [charmbracelet/soft-serve](https://github.com/charmbracelet/soft-serve) ([v0.2.1](https://github.com/charmbracelet/soft-serve/releases/tag/v0.2.1), 1 day ago) - A tasty, self-hostable Git server for the command line🍦
-- [charmbracelet/bubbles](https://github.com/charmbracelet/bubbles) ([v0.10.3](https://github.com/charmbracelet/bubbles/releases/tag/v0.10.3), 1 day ago) - TUI components for Bubble Tea 🍡
-- [minio/mc](https://github.com/minio/mc) ([RELEASE.2022-02-16T05-54-01Z](https://github.com/minio/mc/releases/tag/RELEASE.2022-02-16T05-54-01Z), 1 day ago) - MinIO Client is a replacement for ls, cp, mkdir, diff and rsync commands for filesystems and object storage.
+- [charmbracelet/charm](https://github.com/charmbracelet/charm) ([v0.10.0](https://github.com/charmbracelet/charm/releases/tag/v0.10.0), today) - The Charm Tool and Library 🌟
+- [muesli/deckmaster](https://github.com/muesli/deckmaster) ([v0.8.0](https://github.com/muesli/deckmaster/releases/tag/v0.8.0), 1 day ago) - An application to control your Elgato Stream Deck on Linux
+- [muesli/streamdeck](https://github.com/muesli/streamdeck) ([v0.3.0](https://github.com/muesli/streamdeck/releases/tag/v0.3.0), 1 day ago) - An application and Go library to control your Elgato Stream Deck on Linux
+- [charmbracelet/soft-serve](https://github.com/charmbracelet/soft-serve) ([v0.2.1](https://github.com/charmbracelet/soft-serve/releases/tag/v0.2.1), 2 days ago) - A tasty, self-hostable Git server for the command line🍦
+- [charmbracelet/bubbles](https://github.com/charmbracelet/bubbles) ([v0.10.3](https://github.com/charmbracelet/bubbles/releases/tag/v0.10.3), 2 days ago) - TUI components for Bubble Tea 🍡
 
 #### 🔨 Latest Pull Requests I published
 
-- [add: allow setting a fade animation duration](https://github.com/muesli/streamdeck/pull/14) on [muesli/streamdeck](https://github.com/muesli/streamdeck) (today)
+- [add: allow setting a fade animation duration](https://github.com/muesli/streamdeck/pull/14) on [muesli/streamdeck](https://github.com/muesli/streamdeck) (1 day ago)
 
 #### 📜 My recent blog posts
 
@@ -48,15 +48,15 @@ Want your own self-generating profile page? Check out [readme-scribe](https://gi
 
 #### ⭐ Recent stars
 
-- [beetcb/ghdl](https://github.com/beetcb/ghdl) - A much more convenient way to download GitHub release binaries on the command line, works on Win &amp; Unix-like systems (today)
-- [mautrix/go](https://github.com/mautrix/go) - A Golang Matrix framework. (1 day ago)
-- [SaltFishPr/redis-viewer](https://github.com/SaltFishPr/redis-viewer) (1 day ago)
-- [astralapp/astral](https://github.com/astralapp/astral) - Organize Your GitHub Stars With Ease (4 days ago)
-- [mattn/go-sixel](https://github.com/mattn/go-sixel) (5 days ago)
+- [beetcb/ghdl](https://github.com/beetcb/ghdl) - A much more convenient way to download GitHub release binaries on the command line, works on Win &amp; Unix-like systems (1 day ago)
+- [mautrix/go](https://github.com/mautrix/go) - A Golang Matrix framework. (2 days ago)
+- [SaltFishPr/redis-viewer](https://github.com/SaltFishPr/redis-viewer) (2 days ago)
+- [astralapp/astral](https://github.com/astralapp/astral) - Organize Your GitHub Stars With Ease (5 days ago)
+- [mattn/go-sixel](https://github.com/mattn/go-sixel) (6 days ago)
 
 #### ❤️ These awesome people sponsor me (thank you!)
 
-- [twpayne](https://github.com/twpayne) (3 weeks ago)
+- [twpayne](https://github.com/twpayne) (4 weeks ago)
 - [nkpremices](https://github.com/nkpremices) (4 months ago)
 - [LuckierDodge](https://github.com/LuckierDodge) (5 months ago)
 - [crazy-max](https://github.com/crazy-max) (5 months ago)
