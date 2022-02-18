@@ -28,8 +28,8 @@ Want your own self-generating profile page? Check out [readme-scribe](https://gi
 
 #### 🔭 Latest releases I've contributed to
 
+- [charmbracelet/charm](https://github.com/charmbracelet/charm) ([v0.10.1](https://github.com/charmbracelet/charm/releases/tag/v0.10.1), today) - The Charm Tool and Library 🌟
 - [charmbracelet/skate](https://github.com/charmbracelet/skate) ([v0.1.4](https://github.com/charmbracelet/skate/releases/tag/v0.1.4), today) - A personal key value store 🛼
-- [charmbracelet/charm](https://github.com/charmbracelet/charm) ([v0.10.0](https://github.com/charmbracelet/charm/releases/tag/v0.10.0), today) - The Charm Tool and Library 🌟
 - [muesli/deckmaster](https://github.com/muesli/deckmaster) ([v0.8.0](https://github.com/muesli/deckmaster/releases/tag/v0.8.0), 1 day ago) - An application to control your Elgato Stream Deck on Linux
 - [muesli/streamdeck](https://github.com/muesli/streamdeck) ([v0.3.0](https://github.com/muesli/streamdeck/releases/tag/v0.3.0), 1 day ago) - An application and Go library to control your Elgato Stream Deck on Linux
 - [charmbracelet/soft-serve](https://github.com/charmbracelet/soft-serve) ([v0.2.1](https://github.com/charmbracelet/soft-serve/releases/tag/v0.2.1), 2 days ago) - A tasty, self-hostable Git server for the command line🍦
