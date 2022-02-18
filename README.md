@@ -48,11 +48,11 @@ Want your own self-generating profile page? Check out [readme-scribe](https://gi
 
 #### ⭐ Recent stars
 
+- [caarlos0/httperr](https://github.com/caarlos0/httperr) - func(w http.ResponseWriter, r *http.Request) error (today)
 - [littlefs-project/littlefs](https://github.com/littlefs-project/littlefs) - A little fail-safe filesystem designed for microcontrollers (today)
 - [beetcb/ghdl](https://github.com/beetcb/ghdl) - A much more convenient way to download GitHub release binaries on the command line, works on Win &amp; Unix-like systems (1 day ago)
 - [mautrix/go](https://github.com/mautrix/go) - A Golang Matrix framework. (2 days ago)
 - [SaltFishPr/redis-viewer](https://github.com/SaltFishPr/redis-viewer) (2 days ago)
-- [astralapp/astral](https://github.com/astralapp/astral) - Organize Your GitHub Stars With Ease (5 days ago)
 
 #### ❤️ These awesome people sponsor me (thank you!)
 
