@@ -12,11 +12,11 @@ Want your own self-generating profile page? Check out [readme-scribe](https://gi
 
 #### 👷 Check out what I'm currently working on
 
-- [muesli/deckmaster](https://github.com/muesli/deckmaster) - An application to control your Elgato Stream Deck on Linux (1 day ago)
-- [muesli/streamdeck](https://github.com/muesli/streamdeck) - An application and Go library to control your Elgato Stream Deck on Linux (1 day ago)
-- [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) - A powerful little TUI framework 🏗 (4 days ago)
-- [muesli/termenv](https://github.com/muesli/termenv) - Advanced ANSI style &amp; color support for your terminal applications (6 days ago)
-- [muesli/cancelreader](https://github.com/muesli/cancelreader) - A cancelable reader for Go (6 days ago)
+- [muesli/deckmaster](https://github.com/muesli/deckmaster) - An application to control your Elgato Stream Deck on Linux (2 days ago)
+- [muesli/streamdeck](https://github.com/muesli/streamdeck) - An application and Go library to control your Elgato Stream Deck on Linux (2 days ago)
+- [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) - A powerful little TUI framework 🏗 (5 days ago)
+- [muesli/termenv](https://github.com/muesli/termenv) - Advanced ANSI style &amp; color support for your terminal applications (1 week ago)
+- [muesli/cancelreader](https://github.com/muesli/cancelreader) - A cancelable reader for Go (1 week ago)
 
 #### 🌱 My latest projects
 
@@ -28,15 +28,16 @@ Want your own self-generating profile page? Check out [readme-scribe](https://gi
 
 #### 🔭 Latest releases I've contributed to
 
-- [charmbracelet/charm](https://github.com/charmbracelet/charm) ([v0.10.1](https://github.com/charmbracelet/charm/releases/tag/v0.10.1), today) - The Charm Tool and Library 🌟
-- [charmbracelet/skate](https://github.com/charmbracelet/skate) ([v0.1.4](https://github.com/charmbracelet/skate/releases/tag/v0.1.4), today) - A personal key value store 🛼
-- [muesli/deckmaster](https://github.com/muesli/deckmaster) ([v0.8.0](https://github.com/muesli/deckmaster/releases/tag/v0.8.0), 1 day ago) - An application to control your Elgato Stream Deck on Linux
-- [muesli/streamdeck](https://github.com/muesli/streamdeck) ([v0.3.0](https://github.com/muesli/streamdeck/releases/tag/v0.3.0), 1 day ago) - An application and Go library to control your Elgato Stream Deck on Linux
-- [charmbracelet/soft-serve](https://github.com/charmbracelet/soft-serve) ([v0.2.1](https://github.com/charmbracelet/soft-serve/releases/tag/v0.2.1), 2 days ago) - A tasty, self-hostable Git server for the command line🍦
+- [charmbracelet/soft-serve](https://github.com/charmbracelet/soft-serve) ([v0.2.2](https://github.com/charmbracelet/soft-serve/releases/tag/v0.2.2), today) - A tasty, self-hostable Git server for the command line🍦
+- [charmbracelet/charm](https://github.com/charmbracelet/charm) ([v0.10.1](https://github.com/charmbracelet/charm/releases/tag/v0.10.1), 1 day ago) - The Charm Tool and Library 🌟
+- [charmbracelet/skate](https://github.com/charmbracelet/skate) ([v0.1.4](https://github.com/charmbracelet/skate/releases/tag/v0.1.4), 1 day ago) - A personal key value store 🛼
+- [muesli/deckmaster](https://github.com/muesli/deckmaster) ([v0.8.0](https://github.com/muesli/deckmaster/releases/tag/v0.8.0), 2 days ago) - An application to control your Elgato Stream Deck on Linux
+- [muesli/streamdeck](https://github.com/muesli/streamdeck) ([v0.3.0](https://github.com/muesli/streamdeck/releases/tag/v0.3.0), 2 days ago) - An application and Go library to control your Elgato Stream Deck on Linux
 
 #### 🔨 Latest Pull Requests I published
 
-- [add: allow setting a fade animation duration](https://github.com/muesli/streamdeck/pull/14) on [muesli/streamdeck](https://github.com/muesli/streamdeck) (1 day ago)
+- [Ci/GitHub actions](https://github.com/bashbunni/project-management/pull/11) on [bashbunni/project-management](https://github.com/bashbunni/project-management) (today)
+- [add: allow setting a fade animation duration](https://github.com/muesli/streamdeck/pull/14) on [muesli/streamdeck](https://github.com/muesli/streamdeck) (2 days ago)
 
 #### 📜 My recent blog posts
 
@@ -48,11 +49,11 @@ Want your own self-generating profile page? Check out [readme-scribe](https://gi
 
 #### ⭐ Recent stars
 
-- [caarlos0/httperr](https://github.com/caarlos0/httperr) - func(w http.ResponseWriter, r *http.Request) error (today)
-- [littlefs-project/littlefs](https://github.com/littlefs-project/littlefs) - A little fail-safe filesystem designed for microcontrollers (today)
-- [beetcb/ghdl](https://github.com/beetcb/ghdl) - A much more convenient way to download GitHub release binaries on the command line, works on Win &amp; Unix-like systems (1 day ago)
-- [mautrix/go](https://github.com/mautrix/go) - A Golang Matrix framework. (2 days ago)
-- [SaltFishPr/redis-viewer](https://github.com/SaltFishPr/redis-viewer) (2 days ago)
+- [caarlos0/httperr](https://github.com/caarlos0/httperr) - func(w http.ResponseWriter, r *http.Request) error (1 day ago)
+- [littlefs-project/littlefs](https://github.com/littlefs-project/littlefs) - A little fail-safe filesystem designed for microcontrollers (1 day ago)
+- [beetcb/ghdl](https://github.com/beetcb/ghdl) - A much more convenient way to download GitHub release binaries on the command line, works on Win &amp; Unix-like systems (2 days ago)
+- [mautrix/go](https://github.com/mautrix/go) - A Golang Matrix framework. (3 days ago)
+- [SaltFishPr/redis-viewer](https://github.com/SaltFishPr/redis-viewer) (3 days ago)
 
 #### ❤️ These awesome people sponsor me (thank you!)
 
