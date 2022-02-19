@@ -28,11 +28,11 @@ Want your own self-generating profile page? Check out [readme-scribe](https://gi
 
 #### 🔭 Latest releases I've contributed to
 
+- [orlangure/gocovsh](https://github.com/orlangure/gocovsh) ([v0.2.0](https://github.com/orlangure/gocovsh/releases/tag/v0.2.0), today) - Go Coverage in your terminal: a tool for exploring Go Coverage reports from the command line 💻
 - [charmbracelet/soft-serve](https://github.com/charmbracelet/soft-serve) ([v0.2.2](https://github.com/charmbracelet/soft-serve/releases/tag/v0.2.2), today) - A tasty, self-hostable Git server for the command line🍦
 - [charmbracelet/charm](https://github.com/charmbracelet/charm) ([v0.10.1](https://github.com/charmbracelet/charm/releases/tag/v0.10.1), 1 day ago) - The Charm Tool and Library 🌟
 - [charmbracelet/skate](https://github.com/charmbracelet/skate) ([v0.1.4](https://github.com/charmbracelet/skate/releases/tag/v0.1.4), 1 day ago) - A personal key value store 🛼
 - [muesli/deckmaster](https://github.com/muesli/deckmaster) ([v0.8.0](https://github.com/muesli/deckmaster/releases/tag/v0.8.0), 2 days ago) - An application to control your Elgato Stream Deck on Linux
-- [muesli/streamdeck](https://github.com/muesli/streamdeck) ([v0.3.0](https://github.com/muesli/streamdeck/releases/tag/v0.3.0), 2 days ago) - An application and Go library to control your Elgato Stream Deck on Linux
 
 #### 🔨 Latest Pull Requests I published
 
