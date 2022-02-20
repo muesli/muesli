@@ -12,10 +12,10 @@ Want your own self-generating profile page? Check out [readme-scribe](https://gi
 
 #### 👷 Check out what I'm currently working on
 
+- [muesli/termenv](https://github.com/muesli/termenv) - Advanced ANSI style &amp; color support for your terminal applications (today)
 - [muesli/deckmaster](https://github.com/muesli/deckmaster) - An application to control your Elgato Stream Deck on Linux (3 days ago)
 - [muesli/streamdeck](https://github.com/muesli/streamdeck) - An application and Go library to control your Elgato Stream Deck on Linux (3 days ago)
 - [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) - A powerful little TUI framework 🏗 (6 days ago)
-- [muesli/termenv](https://github.com/muesli/termenv) - Advanced ANSI style &amp; color support for your terminal applications (1 week ago)
 - [muesli/cancelreader](https://github.com/muesli/cancelreader) - A cancelable reader for Go (1 week ago)
 
 #### 🌱 My latest projects
@@ -36,6 +36,7 @@ Want your own self-generating profile page? Check out [readme-scribe](https://gi
 
 #### 🔨 Latest Pull Requests I published
 
+- [fix: shims for AIX and Plan9](https://github.com/muesli/termenv/pull/76) on [muesli/termenv](https://github.com/muesli/termenv) (today)
 - [Ci/GitHub actions](https://github.com/bashbunni/project-management/pull/11) on [bashbunni/project-management](https://github.com/bashbunni/project-management) (1 day ago)
 - [add: allow setting a fade animation duration](https://github.com/muesli/streamdeck/pull/14) on [muesli/streamdeck](https://github.com/muesli/streamdeck) (3 days ago)
 
