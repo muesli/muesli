@@ -20,11 +20,11 @@ Want your own self-generating profile page? Check out [readme-scribe](https://gi
 
 #### 🌱 My latest projects
 
+- [muesli/ydl](https://github.com/muesli/ydl) - A simple youtube-dl library for Go
 - [muesli/cancelreader](https://github.com/muesli/cancelreader) - A cancelable reader for Go
 - [muesli/mango-coral](https://github.com/muesli/mango-coral) - coral adapter for mango
 - [muesli/mango-pflag](https://github.com/muesli/mango-pflag) - pflag adapter for mango
 - [muesli/mango-cobra](https://github.com/muesli/mango-cobra) - cobra adapter for mango
-- [muesli/mango](https://github.com/muesli/mango) - mango is a man-page generator for the Go flag, pflag, cobra, coral, and kong packages
 
 #### 🔭 Latest releases I've contributed to
 
