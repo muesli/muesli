@@ -36,6 +36,7 @@ Want your own self-generating profile page? Check out [readme-scribe](https://gi
 
 #### 🔨 Latest Pull Requests I published
 
+- [add: program.CancelInput &amp; RestoreInput to temporarily pause consuming inputs](https://github.com/charmbracelet/bubbletea/pull/237) on [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) (today)
 - [fix: shims for AIX and Plan9](https://github.com/muesli/termenv/pull/76) on [muesli/termenv](https://github.com/muesli/termenv) (1 day ago)
 - [Ci/GitHub actions](https://github.com/bashbunni/project-management/pull/11) on [bashbunni/project-management](https://github.com/bashbunni/project-management) (2 days ago)
 - [add: allow setting a fade animation duration](https://github.com/muesli/streamdeck/pull/14) on [muesli/streamdeck](https://github.com/muesli/streamdeck) (4 days ago)
@@ -50,11 +51,11 @@ Want your own self-generating profile page? Check out [readme-scribe](https://gi
 
 #### ⭐ Recent stars
 
+- [lxc/go-lxc](https://github.com/lxc/go-lxc) - Go bindings for liblxc (today)
 - [caarlos0/timer](https://github.com/caarlos0/timer) - A `sleep` with progress (1 day ago)
 - [caarlos0/httperr](https://github.com/caarlos0/httperr) - func(w http.ResponseWriter, r *http.Request) error (3 days ago)
 - [littlefs-project/littlefs](https://github.com/littlefs-project/littlefs) - A little fail-safe filesystem designed for microcontrollers (3 days ago)
 - [beetcb/ghdl](https://github.com/beetcb/ghdl) - A much more convenient way to download GitHub release binaries on the command line, works on Win &amp; Unix-like systems (4 days ago)
-- [mautrix/go](https://github.com/mautrix/go) - A Golang Matrix framework. (5 days ago)
 
 #### ❤️ These awesome people sponsor me (thank you!)
 
