@@ -12,10 +12,10 @@ Want your own self-generating profile page? Check out [readme-scribe](https://gi
 
 #### 👷 Check out what I'm currently working on
 
-- [muesli/ydl](https://github.com/muesli/ydl) - A simple youtube-dl library for Go (today)
-- [muesli/termenv](https://github.com/muesli/termenv) - Advanced ANSI style &amp; color support for your terminal applications (1 day ago)
-- [muesli/deckmaster](https://github.com/muesli/deckmaster) - An application to control your Elgato Stream Deck on Linux (4 days ago)
-- [muesli/streamdeck](https://github.com/muesli/streamdeck) - An application and Go library to control your Elgato Stream Deck on Linux (4 days ago)
+- [muesli/ydl](https://github.com/muesli/ydl) - A simple youtube-dl library for Go (1 day ago)
+- [muesli/termenv](https://github.com/muesli/termenv) - Advanced ANSI style &amp; color support for your terminal applications (2 days ago)
+- [muesli/deckmaster](https://github.com/muesli/deckmaster) - An application to control your Elgato Stream Deck on Linux (5 days ago)
+- [muesli/streamdeck](https://github.com/muesli/streamdeck) - An application and Go library to control your Elgato Stream Deck on Linux (5 days ago)
 - [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) - A powerful little TUI framework 🏗 (1 week ago)
 
 #### 🌱 My latest projects
@@ -28,18 +28,18 @@ Want your own self-generating profile page? Check out [readme-scribe](https://gi
 
 #### 🔭 Latest releases I've contributed to
 
-- [orlangure/gocovsh](https://github.com/orlangure/gocovsh) ([v0.2.0](https://github.com/orlangure/gocovsh/releases/tag/v0.2.0), 2 days ago) - Go Coverage in your terminal: a tool for exploring Go Coverage reports from the command line 💻
-- [charmbracelet/soft-serve](https://github.com/charmbracelet/soft-serve) ([v0.2.2](https://github.com/charmbracelet/soft-serve/releases/tag/v0.2.2), 2 days ago) - A tasty, self-hostable Git server for the command line🍦
-- [charmbracelet/charm](https://github.com/charmbracelet/charm) ([v0.10.1](https://github.com/charmbracelet/charm/releases/tag/v0.10.1), 3 days ago) - The Charm Tool and Library 🌟
-- [charmbracelet/skate](https://github.com/charmbracelet/skate) ([v0.1.4](https://github.com/charmbracelet/skate/releases/tag/v0.1.4), 3 days ago) - A personal key value store 🛼
-- [muesli/deckmaster](https://github.com/muesli/deckmaster) ([v0.8.0](https://github.com/muesli/deckmaster/releases/tag/v0.8.0), 4 days ago) - An application to control your Elgato Stream Deck on Linux
+- [orlangure/gocovsh](https://github.com/orlangure/gocovsh) ([v0.2.0](https://github.com/orlangure/gocovsh/releases/tag/v0.2.0), 3 days ago) - Go Coverage in your terminal: a tool for exploring Go Coverage reports from the command line 💻
+- [charmbracelet/soft-serve](https://github.com/charmbracelet/soft-serve) ([v0.2.2](https://github.com/charmbracelet/soft-serve/releases/tag/v0.2.2), 3 days ago) - A tasty, self-hostable Git server for the command line🍦
+- [charmbracelet/charm](https://github.com/charmbracelet/charm) ([v0.10.1](https://github.com/charmbracelet/charm/releases/tag/v0.10.1), 4 days ago) - The Charm Tool and Library 🌟
+- [charmbracelet/skate](https://github.com/charmbracelet/skate) ([v0.1.4](https://github.com/charmbracelet/skate/releases/tag/v0.1.4), 4 days ago) - A personal key value store 🛼
+- [muesli/deckmaster](https://github.com/muesli/deckmaster) ([v0.8.0](https://github.com/muesli/deckmaster/releases/tag/v0.8.0), 5 days ago) - An application to control your Elgato Stream Deck on Linux
 
 #### 🔨 Latest Pull Requests I published
 
-- [add: program.CancelInput &amp; RestoreInput to temporarily pause consuming inputs](https://github.com/charmbracelet/bubbletea/pull/237) on [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) (today)
-- [fix: shims for AIX and Plan9](https://github.com/muesli/termenv/pull/76) on [muesli/termenv](https://github.com/muesli/termenv) (1 day ago)
-- [Ci/GitHub actions](https://github.com/bashbunni/project-management/pull/11) on [bashbunni/project-management](https://github.com/bashbunni/project-management) (2 days ago)
-- [add: allow setting a fade animation duration](https://github.com/muesli/streamdeck/pull/14) on [muesli/streamdeck](https://github.com/muesli/streamdeck) (4 days ago)
+- [add: program.CancelInput &amp; RestoreInput to temporarily pause consuming inputs](https://github.com/charmbracelet/bubbletea/pull/237) on [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) (1 day ago)
+- [fix: shims for AIX and Plan9](https://github.com/muesli/termenv/pull/76) on [muesli/termenv](https://github.com/muesli/termenv) (2 days ago)
+- [Ci/GitHub actions](https://github.com/bashbunni/project-management/pull/11) on [bashbunni/project-management](https://github.com/bashbunni/project-management) (3 days ago)
+- [add: allow setting a fade animation duration](https://github.com/muesli/streamdeck/pull/14) on [muesli/streamdeck](https://github.com/muesli/streamdeck) (5 days ago)
 
 #### 📜 My recent blog posts
 
@@ -51,11 +51,11 @@ Want your own self-generating profile page? Check out [readme-scribe](https://gi
 
 #### ⭐ Recent stars
 
-- [lxc/go-lxc](https://github.com/lxc/go-lxc) - Go bindings for liblxc (today)
-- [caarlos0/timer](https://github.com/caarlos0/timer) - A `sleep` with progress (1 day ago)
-- [caarlos0/httperr](https://github.com/caarlos0/httperr) - func(w http.ResponseWriter, r *http.Request) error (3 days ago)
-- [littlefs-project/littlefs](https://github.com/littlefs-project/littlefs) - A little fail-safe filesystem designed for microcontrollers (3 days ago)
-- [beetcb/ghdl](https://github.com/beetcb/ghdl) - A much more convenient way to download GitHub release binaries on the command line, works on Win &amp; Unix-like systems (4 days ago)
+- [lxc/go-lxc](https://github.com/lxc/go-lxc) - Go bindings for liblxc (1 day ago)
+- [caarlos0/timer](https://github.com/caarlos0/timer) - A `sleep` with progress (2 days ago)
+- [caarlos0/httperr](https://github.com/caarlos0/httperr) - func(w http.ResponseWriter, r *http.Request) error (4 days ago)
+- [littlefs-project/littlefs](https://github.com/littlefs-project/littlefs) - A little fail-safe filesystem designed for microcontrollers (4 days ago)
+- [beetcb/ghdl](https://github.com/beetcb/ghdl) - A much more convenient way to download GitHub release binaries on the command line, works on Win &amp; Unix-like systems (5 days ago)
 
 #### ❤️ These awesome people sponsor me (thank you!)
 
