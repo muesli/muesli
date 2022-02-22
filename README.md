@@ -28,7 +28,7 @@ Want your own self-generating profile page? Check out [readme-scribe](https://gi
 
 #### 🔭 Latest releases I've contributed to
 
-- [charmbracelet/wish](https://github.com/charmbracelet/wish) ([v0.2.1](https://github.com/charmbracelet/wish/releases/tag/v0.2.1), today) - Make SSH apps, just like that! 💫
+- [charmbracelet/wish](https://github.com/charmbracelet/wish) ([v0.3.0](https://github.com/charmbracelet/wish/releases/tag/v0.3.0), today) - Make SSH apps, just like that! 💫
 - [orlangure/gocovsh](https://github.com/orlangure/gocovsh) ([v0.2.0](https://github.com/orlangure/gocovsh/releases/tag/v0.2.0), 3 days ago) - Go Coverage in your terminal: a tool for exploring Go Coverage reports from the command line 💻
 - [charmbracelet/soft-serve](https://github.com/charmbracelet/soft-serve) ([v0.2.2](https://github.com/charmbracelet/soft-serve/releases/tag/v0.2.2), 3 days ago) - A tasty, self-hostable Git server for the command line🍦
 - [charmbracelet/charm](https://github.com/charmbracelet/charm) ([v0.10.1](https://github.com/charmbracelet/charm/releases/tag/v0.10.1), 4 days ago) - The Charm Tool and Library 🌟
