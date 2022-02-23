@@ -51,11 +51,11 @@ Want your own self-generating profile page? Check out [readme-scribe](https://gi
 
 #### ⭐ Recent stars
 
+- [quickemu-project/quickemu](https://github.com/quickemu-project/quickemu) - Quickly create and run optimised Windows, macOS and Linux desktop virtual machines. (today)
 - [lxc/go-lxc](https://github.com/lxc/go-lxc) - Go bindings for liblxc (2 days ago)
 - [caarlos0/timer](https://github.com/caarlos0/timer) - A `sleep` with progress (3 days ago)
 - [caarlos0/httperr](https://github.com/caarlos0/httperr) - func(w http.ResponseWriter, r *http.Request) error (5 days ago)
 - [littlefs-project/littlefs](https://github.com/littlefs-project/littlefs) - A little fail-safe filesystem designed for microcontrollers (5 days ago)
-- [beetcb/ghdl](https://github.com/beetcb/ghdl) - A much more convenient way to download GitHub release binaries on the command line, works on Win &amp; Unix-like systems (6 days ago)
 
 #### ❤️ These awesome people sponsor me (thank you!)
 
