@@ -51,11 +51,11 @@ Want your own self-generating profile page? Check out [readme-scribe](https://gi
 
 #### ⭐ Recent stars
 
+- [g8rswimmer/go-twitter](https://github.com/g8rswimmer/go-twitter) - This is a go library for twitter v2 API integration. (today)
+- [tulir/whatsmeow](https://github.com/tulir/whatsmeow) - Go library for the WhatsApp web multidevice API (today)
 - [76creates/stickers](https://github.com/76creates/stickers) - Building blocks for charmbracelet/lipgloss 👾 (1 day ago)
 - [quickemu-project/quickemu](https://github.com/quickemu-project/quickemu) - Quickly create and run optimised Windows, macOS and Linux desktop virtual machines. (1 day ago)
 - [lxc/go-lxc](https://github.com/lxc/go-lxc) - Go bindings for liblxc (3 days ago)
-- [caarlos0/timer](https://github.com/caarlos0/timer) - A `sleep` with progress (4 days ago)
-- [caarlos0/httperr](https://github.com/caarlos0/httperr) - func(w http.ResponseWriter, r *http.Request) error (6 days ago)
 
 #### ❤️ These awesome people sponsor me (thank you!)
 
