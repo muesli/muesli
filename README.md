@@ -12,11 +12,11 @@ Want your own self-generating profile page? Check out [readme-scribe](https://gi
 
 #### 👷 Check out what I'm currently working on
 
-- [muesli/deckmaster](https://github.com/muesli/deckmaster) - An application to control your Elgato Stream Deck on Linux (today)
 - [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) - A powerful little TUI framework 🏗 (today)
+- [muesli/deckmaster](https://github.com/muesli/deckmaster) - An application to control your Elgato Stream Deck on Linux (today)
+- [charmbracelet/wishlist](https://github.com/charmbracelet/wishlist) - The SSH directory ✨ (today)
 - [muesli/ydl](https://github.com/muesli/ydl) - A simple youtube-dl library for Go (4 days ago)
 - [muesli/termenv](https://github.com/muesli/termenv) - Advanced ANSI style &amp; color support for your terminal applications (5 days ago)
-- [muesli/streamdeck](https://github.com/muesli/streamdeck) - An application and Go library to control your Elgato Stream Deck on Linux (1 week ago)
 
 #### 🌱 My latest projects
 
@@ -38,7 +38,7 @@ Want your own self-generating profile page? Check out [readme-scribe](https://gi
 
 - [ci: update golangci-lint-action to v3](https://github.com/charmbracelet/bubbletea/pull/242) on [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) (today)
 - [ci: update golangci-lint-action to v3](https://github.com/muesli/deckmaster/pull/90) on [muesli/deckmaster](https://github.com/muesli/deckmaster) (today)
-- [add: program.CancelInput &amp; RestoreInput to temporarily pause consuming inputs](https://github.com/charmbracelet/bubbletea/pull/237) on [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) (4 days ago)
+- [add: program.ReleaseTerminal and RestoreTerminal to re-use input &amp; terminal](https://github.com/charmbracelet/bubbletea/pull/237) on [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) (4 days ago)
 - [fix: shims for AIX and Plan9](https://github.com/muesli/termenv/pull/76) on [muesli/termenv](https://github.com/muesli/termenv) (5 days ago)
 - [Ci/GitHub actions](https://github.com/bashbunni/project-management/pull/11) on [bashbunni/project-management](https://github.com/bashbunni/project-management) (6 days ago)
 
