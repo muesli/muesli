@@ -28,9 +28,9 @@ Want your own self-generating profile page? Check out [readme-scribe](https://gi
 
 #### 🔭 Latest releases I've contributed to
 
+- [minio/mc](https://github.com/minio/mc) ([RELEASE.2022-02-26T03-58-31Z](https://github.com/minio/mc/releases/tag/RELEASE.2022-02-26T03-58-31Z), today) - MinIO Client is a replacement for ls, cp, mkdir, diff and rsync commands for filesystems and object storage.
 - [charmbracelet/charm](https://github.com/charmbracelet/charm) ([v0.10.2](https://github.com/charmbracelet/charm/releases/tag/v0.10.2), 3 days ago) - The Charm Tool and Library 🌟
 - [charmbracelet/soft-serve](https://github.com/charmbracelet/soft-serve) ([v0.2.3](https://github.com/charmbracelet/soft-serve/releases/tag/v0.2.3), 3 days ago) - A tasty, self-hostable Git server for the command line🍦
-- [minio/mc](https://github.com/minio/mc) ([RELEASE.2022-02-23T03-15-59Z](https://github.com/minio/mc/releases/tag/RELEASE.2022-02-23T03-15-59Z), 3 days ago) - MinIO Client is a replacement for ls, cp, mkdir, diff and rsync commands for filesystems and object storage.
 - [charmbracelet/wish](https://github.com/charmbracelet/wish) ([v0.3.0](https://github.com/charmbracelet/wish/releases/tag/v0.3.0), 4 days ago) - Make SSH apps, just like that! 💫
 - [orlangure/gocovsh](https://github.com/orlangure/gocovsh) ([v0.2.0](https://github.com/orlangure/gocovsh/releases/tag/v0.2.0), 1 week ago) - Go Coverage in your terminal: a tool for exploring Go Coverage reports from the command line 💻
 
