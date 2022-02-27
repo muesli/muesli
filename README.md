@@ -52,11 +52,11 @@ Want your own self-generating profile page? Check out [readme-scribe](https://gi
 
 #### ⭐ Recent stars
 
+- [nakabonne/tstorage](https://github.com/nakabonne/tstorage) - An embedded time-series database (today)
 - [g8rswimmer/go-twitter](https://github.com/g8rswimmer/go-twitter) - This is a go library for twitter v2 API integration. (3 days ago)
 - [tulir/whatsmeow](https://github.com/tulir/whatsmeow) - Go library for the WhatsApp web multidevice API (3 days ago)
 - [76creates/stickers](https://github.com/76creates/stickers) - Building blocks for charmbracelet/lipgloss 👾 (4 days ago)
 - [quickemu-project/quickemu](https://github.com/quickemu-project/quickemu) - Quickly create and run optimised Windows, macOS and Linux desktop virtual machines. (4 days ago)
-- [lxc/go-lxc](https://github.com/lxc/go-lxc) - Go bindings for liblxc (6 days ago)
 
 #### ❤️ These awesome people sponsor me (thank you!)
 
