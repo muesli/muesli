@@ -52,11 +52,11 @@ Want your own self-generating profile page? Check out [readme-scribe](https://gi
 
 #### ⭐ Recent stars
 
+- [astrogewgaw/koshka](https://github.com/astrogewgaw/koshka) - Meow-ster of cat-alogs 🐱 ! (today)
 - [vladimirvivien/go4vl](https://github.com/vladimirvivien/go4vl) - Go4vl is Go library for working with the Video for Linux API (V4L2) natively. (2 days ago)
 - [nakabonne/tstorage](https://github.com/nakabonne/tstorage) - An embedded time-series database (3 days ago)
 - [g8rswimmer/go-twitter](https://github.com/g8rswimmer/go-twitter) - This is a go library for twitter v2 API integration. (6 days ago)
 - [tulir/whatsmeow](https://github.com/tulir/whatsmeow) - Go library for the WhatsApp web multidevice API (6 days ago)
-- [76creates/stickers](https://github.com/76creates/stickers) - Building blocks for charmbracelet/lipgloss 👾 (1 week ago)
 
 #### ❤️ These awesome people sponsor me (thank you!)
 
