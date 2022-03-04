@@ -12,10 +12,10 @@ Want your own self-generating profile page? Check out [readme-scribe](https://gi
 
 #### 👷 Check out what I'm currently working on
 
-- [charmbracelet/charm](https://github.com/charmbracelet/charm) - The Charm Tool and Library 🌟 (3 days ago)
-- [charmbracelet/wishlist](https://github.com/charmbracelet/wishlist) - The SSH directory ✨ (6 days ago)
-- [muesli/deckmaster](https://github.com/muesli/deckmaster) - An application to control your Elgato Stream Deck on Linux (6 days ago)
-- [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) - A powerful little TUI framework 🏗 (6 days ago)
+- [charmbracelet/charm](https://github.com/charmbracelet/charm) - The Charm Tool and Library 🌟 (4 days ago)
+- [charmbracelet/wishlist](https://github.com/charmbracelet/wishlist) - The SSH directory ✨ (1 week ago)
+- [muesli/deckmaster](https://github.com/muesli/deckmaster) - An application to control your Elgato Stream Deck on Linux (1 week ago)
+- [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) - A powerful little TUI framework 🏗 (1 week ago)
 - [muesli/ydl](https://github.com/muesli/ydl) - A simple youtube-dl library for Go (1 week ago)
 
 #### 🌱 My latest projects
@@ -28,16 +28,16 @@ Want your own self-generating profile page? Check out [readme-scribe](https://gi
 
 #### 🔭 Latest releases I've contributed to
 
-- [minio/mc](https://github.com/minio/mc) ([RELEASE.2022-03-03T21-12-24Z](https://github.com/minio/mc/releases/tag/RELEASE.2022-03-03T21-12-24Z), today) - MinIO Client is a replacement for ls, cp, mkdir, diff and rsync commands for filesystems and object storage.
-- [charmbracelet/confettysh](https://github.com/charmbracelet/confettysh) ([v1.0.2](https://github.com/charmbracelet/confettysh/releases/tag/v1.0.2), 2 days ago) - confetti over ssh
+- [minio/mc](https://github.com/minio/mc) ([RELEASE.2022-03-03T21-12-24Z](https://github.com/minio/mc/releases/tag/RELEASE.2022-03-03T21-12-24Z), 1 day ago) - MinIO Client is a replacement for ls, cp, mkdir, diff and rsync commands for filesystems and object storage.
+- [charmbracelet/confettysh](https://github.com/charmbracelet/confettysh) ([v1.0.2](https://github.com/charmbracelet/confettysh/releases/tag/v1.0.2), 3 days ago) - confetti over ssh
 - [charmbracelet/charm](https://github.com/charmbracelet/charm) ([v0.10.2](https://github.com/charmbracelet/charm/releases/tag/v0.10.2), 1 week ago) - The Charm Tool and Library 🌟
 - [charmbracelet/soft-serve](https://github.com/charmbracelet/soft-serve) ([v0.2.3](https://github.com/charmbracelet/soft-serve/releases/tag/v0.2.3), 1 week ago) - A tasty, self-hostable Git server for the command line🍦
 - [charmbracelet/wish](https://github.com/charmbracelet/wish) ([v0.3.0](https://github.com/charmbracelet/wish/releases/tag/v0.3.0), 1 week ago) - Make SSH apps, just like that! 💫
 
 #### 🔨 Latest Pull Requests I published
 
-- [ci: update golangci-lint-action to v3](https://github.com/charmbracelet/bubbletea/pull/242) on [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) (6 days ago)
-- [ci: update golangci-lint-action to v3](https://github.com/muesli/deckmaster/pull/90) on [muesli/deckmaster](https://github.com/muesli/deckmaster) (6 days ago)
+- [ci: update golangci-lint-action to v3](https://github.com/charmbracelet/bubbletea/pull/242) on [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) (1 week ago)
+- [ci: update golangci-lint-action to v3](https://github.com/muesli/deckmaster/pull/90) on [muesli/deckmaster](https://github.com/muesli/deckmaster) (1 week ago)
 - [add: program.ReleaseTerminal and RestoreTerminal to re-use input &amp; terminal](https://github.com/charmbracelet/bubbletea/pull/237) on [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) (1 week ago)
 - [fix: shims for AIX and Plan9](https://github.com/muesli/termenv/pull/76) on [muesli/termenv](https://github.com/muesli/termenv) (1 week ago)
 - [Ci/GitHub actions](https://github.com/bashbunni/project-management/pull/11) on [bashbunni/project-management](https://github.com/bashbunni/project-management) (1 week ago)
@@ -52,9 +52,9 @@ Want your own self-generating profile page? Check out [readme-scribe](https://gi
 
 #### ⭐ Recent stars
 
-- [astrogewgaw/koshka](https://github.com/astrogewgaw/koshka) - Meow-ster of cat-alogs 🐱 ! (1 day ago)
-- [vladimirvivien/go4vl](https://github.com/vladimirvivien/go4vl) - Go4vl is Go library for working with the Video for Linux API (V4L2) natively. (3 days ago)
-- [nakabonne/tstorage](https://github.com/nakabonne/tstorage) - An embedded time-series database (4 days ago)
+- [astrogewgaw/koshka](https://github.com/astrogewgaw/koshka) - Meow-ster of cat-alogs 🐱 ! (2 days ago)
+- [vladimirvivien/go4vl](https://github.com/vladimirvivien/go4vl) - Go4vl is Go library for working with the Video for Linux API (V4L2) natively. (4 days ago)
+- [nakabonne/tstorage](https://github.com/nakabonne/tstorage) - An embedded time-series database (5 days ago)
 - [g8rswimmer/go-twitter](https://github.com/g8rswimmer/go-twitter) - This is a go library for twitter v2 API integration. (1 week ago)
 - [tulir/whatsmeow](https://github.com/tulir/whatsmeow) - Go library for the WhatsApp web multidevice API (1 week ago)
 
@@ -64,7 +64,7 @@ Want your own self-generating profile page? Check out [readme-scribe](https://gi
 - [nkpremices](https://github.com/nkpremices) (5 months ago)
 - [LuckierDodge](https://github.com/LuckierDodge) (5 months ago)
 - [crazy-max](https://github.com/crazy-max) (5 months ago)
-- [ocelotsloth](https://github.com/ocelotsloth) (8 months ago)
+- [ocelotsloth](https://github.com/ocelotsloth) (9 months ago)
 
 #### 💬 Feedback
 
