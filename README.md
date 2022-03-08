@@ -28,11 +28,11 @@ Want your own self-generating profile page? Check out [readme-scribe](https://gi
 
 #### 🔭 Latest releases I've contributed to
 
-- [charmbracelet/charm](https://github.com/charmbracelet/charm) ([v0.10.3](https://github.com/charmbracelet/charm/releases/tag/v0.10.3), today) - The Charm Tool and Library 🌟
-- [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) ([v1.6.1](https://github.com/goreleaser/goreleaser/releases/tag/v1.6.1), 1 day ago) - Deliver Go binaries as fast and easily as possible
-- [owncast/owncast](https://github.com/owncast/owncast) ([v0.0.11](https://github.com/owncast/owncast/releases/tag/v0.0.11), 2 days ago) - Take control over your live stream video by running it yourself.  Streaming &#43; chat out of the box.
-- [minio/mc](https://github.com/minio/mc) ([RELEASE.2022-03-03T21-12-24Z](https://github.com/minio/mc/releases/tag/RELEASE.2022-03-03T21-12-24Z), 4 days ago) - MinIO Client is a replacement for ls, cp, mkdir, diff and rsync commands for filesystems and object storage.
-- [charmbracelet/confettysh](https://github.com/charmbracelet/confettysh) ([v1.0.2](https://github.com/charmbracelet/confettysh/releases/tag/v1.0.2), 6 days ago) - confetti over ssh
+- [charmbracelet/charm](https://github.com/charmbracelet/charm) ([v0.10.3](https://github.com/charmbracelet/charm/releases/tag/v0.10.3), 1 day ago) - The Charm Tool and Library 🌟
+- [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) ([v1.6.1](https://github.com/goreleaser/goreleaser/releases/tag/v1.6.1), 2 days ago) - Deliver Go binaries as fast and easily as possible
+- [owncast/owncast](https://github.com/owncast/owncast) ([v0.0.11](https://github.com/owncast/owncast/releases/tag/v0.0.11), 3 days ago) - Take control over your live stream video by running it yourself.  Streaming &#43; chat out of the box.
+- [minio/mc](https://github.com/minio/mc) ([RELEASE.2022-03-03T21-12-24Z](https://github.com/minio/mc/releases/tag/RELEASE.2022-03-03T21-12-24Z), 5 days ago) - MinIO Client is a replacement for ls, cp, mkdir, diff and rsync commands for filesystems and object storage.
+- [charmbracelet/confettysh](https://github.com/charmbracelet/confettysh) ([v1.0.2](https://github.com/charmbracelet/confettysh/releases/tag/v1.0.2), 1 week ago) - confetti over ssh
 
 #### 🔨 Latest Pull Requests I published
 
@@ -52,8 +52,8 @@ Want your own self-generating profile page? Check out [readme-scribe](https://gi
 
 #### ⭐ Recent stars
 
-- [golang/groupcache](https://github.com/golang/groupcache) - groupcache is a caching and cache-filling library, intended as a replacement for memcached in many cases. (3 days ago)
-- [astrogewgaw/koshka](https://github.com/astrogewgaw/koshka) - Meow-ster of cat-alogs 🐱 ! (5 days ago)
+- [golang/groupcache](https://github.com/golang/groupcache) - groupcache is a caching and cache-filling library, intended as a replacement for memcached in many cases. (4 days ago)
+- [astrogewgaw/koshka](https://github.com/astrogewgaw/koshka) - Meow-ster of cat-alogs 🐱 ! (6 days ago)
 - [vladimirvivien/go4vl](https://github.com/vladimirvivien/go4vl) - Go4vl is Go library for working with the Video for Linux API (V4L2) natively. (1 week ago)
 - [nakabonne/tstorage](https://github.com/nakabonne/tstorage) - An embedded time-series database (1 week ago)
 - [g8rswimmer/go-twitter](https://github.com/g8rswimmer/go-twitter) - This is a go library for twitter v2 API integration. (1 week ago)
@@ -63,7 +63,7 @@ Want your own self-generating profile page? Check out [readme-scribe](https://gi
 - [twpayne](https://github.com/twpayne) (1 month ago)
 - [nkpremices](https://github.com/nkpremices) (5 months ago)
 - [LuckierDodge](https://github.com/LuckierDodge) (5 months ago)
-- [crazy-max](https://github.com/crazy-max) (5 months ago)
+- [crazy-max](https://github.com/crazy-max) (6 months ago)
 - [ocelotsloth](https://github.com/ocelotsloth) (9 months ago)
 
 #### 💬 Feedback
