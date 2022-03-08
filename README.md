@@ -52,11 +52,11 @@ Want your own self-generating profile page? Check out [readme-scribe](https://gi
 
 #### ⭐ Recent stars
 
+- [ScaleFT/sshkeys](https://github.com/ScaleFT/sshkeys) - sshkeys: utilities for parsing and marshaling OpenSSH Key formats (today)
 - [golang/groupcache](https://github.com/golang/groupcache) - groupcache is a caching and cache-filling library, intended as a replacement for memcached in many cases. (4 days ago)
 - [astrogewgaw/koshka](https://github.com/astrogewgaw/koshka) - Meow-ster of cat-alogs 🐱 ! (6 days ago)
 - [vladimirvivien/go4vl](https://github.com/vladimirvivien/go4vl) - Go4vl is Go library for working with the Video for Linux API (V4L2) natively. (1 week ago)
 - [nakabonne/tstorage](https://github.com/nakabonne/tstorage) - An embedded time-series database (1 week ago)
-- [g8rswimmer/go-twitter](https://github.com/g8rswimmer/go-twitter) - This is a go library for twitter v2 API integration. (1 week ago)
 
 #### ❤️ These awesome people sponsor me (thank you!)
 
