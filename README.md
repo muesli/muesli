@@ -28,11 +28,11 @@ Want your own self-generating profile page? Check out [readme-scribe](https://gi
 
 #### 🔭 Latest releases I've contributed to
 
-- [orlangure/gocovsh](https://github.com/orlangure/gocovsh) ([v0.2.1](https://github.com/orlangure/gocovsh/releases/tag/v0.2.1), today) - Go Coverage in your terminal: a tool for exploring Go Coverage reports from the command line 💻
-- [charmbracelet/charm](https://github.com/charmbracelet/charm) ([v0.10.3](https://github.com/charmbracelet/charm/releases/tag/v0.10.3), 1 day ago) - The Charm Tool and Library 🌟
-- [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) ([v1.6.1](https://github.com/goreleaser/goreleaser/releases/tag/v1.6.1), 2 days ago) - Deliver Go binaries as fast and easily as possible
-- [owncast/owncast](https://github.com/owncast/owncast) ([v0.0.11](https://github.com/owncast/owncast/releases/tag/v0.0.11), 3 days ago) - Take control over your live stream video by running it yourself.  Streaming &#43; chat out of the box.
-- [minio/mc](https://github.com/minio/mc) ([RELEASE.2022-03-03T21-12-24Z](https://github.com/minio/mc/releases/tag/RELEASE.2022-03-03T21-12-24Z), 5 days ago) - MinIO Client is a replacement for ls, cp, mkdir, diff and rsync commands for filesystems and object storage.
+- [orlangure/gocovsh](https://github.com/orlangure/gocovsh) ([v0.2.1](https://github.com/orlangure/gocovsh/releases/tag/v0.2.1), 1 day ago) - Go Coverage in your terminal: a tool for exploring Go Coverage reports from the command line 💻
+- [charmbracelet/charm](https://github.com/charmbracelet/charm) ([v0.10.3](https://github.com/charmbracelet/charm/releases/tag/v0.10.3), 2 days ago) - The Charm Tool and Library 🌟
+- [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) ([v1.6.1](https://github.com/goreleaser/goreleaser/releases/tag/v1.6.1), 3 days ago) - Deliver Go binaries as fast and easily as possible
+- [owncast/owncast](https://github.com/owncast/owncast) ([v0.0.11](https://github.com/owncast/owncast/releases/tag/v0.0.11), 4 days ago) - Take control over your live stream video by running it yourself.  Streaming &#43; chat out of the box.
+- [minio/mc](https://github.com/minio/mc) ([RELEASE.2022-03-03T21-12-24Z](https://github.com/minio/mc/releases/tag/RELEASE.2022-03-03T21-12-24Z), 6 days ago) - MinIO Client is a replacement for ls, cp, mkdir, diff and rsync commands for filesystems and object storage.
 
 #### 🔨 Latest Pull Requests I published
 
@@ -52,9 +52,9 @@ Want your own self-generating profile page? Check out [readme-scribe](https://gi
 
 #### ⭐ Recent stars
 
-- [ScaleFT/sshkeys](https://github.com/ScaleFT/sshkeys) - sshkeys: utilities for parsing and marshaling OpenSSH Key formats (today)
-- [golang/groupcache](https://github.com/golang/groupcache) - groupcache is a caching and cache-filling library, intended as a replacement for memcached in many cases. (4 days ago)
-- [astrogewgaw/koshka](https://github.com/astrogewgaw/koshka) - Meow-ster of cat-alogs 🐱 ! (6 days ago)
+- [ScaleFT/sshkeys](https://github.com/ScaleFT/sshkeys) - sshkeys: utilities for parsing and marshaling OpenSSH Key formats (1 day ago)
+- [golang/groupcache](https://github.com/golang/groupcache) - groupcache is a caching and cache-filling library, intended as a replacement for memcached in many cases. (5 days ago)
+- [astrogewgaw/koshka](https://github.com/astrogewgaw/koshka) - Meow-ster of cat-alogs 🐱 ! (1 week ago)
 - [vladimirvivien/go4vl](https://github.com/vladimirvivien/go4vl) - Go4vl is Go library for working with the Video for Linux API (V4L2) natively. (1 week ago)
 - [nakabonne/tstorage](https://github.com/nakabonne/tstorage) - An embedded time-series database (1 week ago)
 
