@@ -28,11 +28,11 @@ Want your own self-generating profile page? Check out [readme-scribe](https://gi
 
 #### 🔭 Latest releases I've contributed to
 
+- [minio/mc](https://github.com/minio/mc) ([RELEASE.2022-03-09T02-08-36Z](https://github.com/minio/mc/releases/tag/RELEASE.2022-03-09T02-08-36Z), today) - MinIO Client is a replacement for ls, cp, mkdir, diff and rsync commands for filesystems and object storage.
 - [orlangure/gocovsh](https://github.com/orlangure/gocovsh) ([v0.2.1](https://github.com/orlangure/gocovsh/releases/tag/v0.2.1), 1 day ago) - Go Coverage in your terminal: a tool for exploring Go Coverage reports from the command line 💻
 - [charmbracelet/charm](https://github.com/charmbracelet/charm) ([v0.10.3](https://github.com/charmbracelet/charm/releases/tag/v0.10.3), 2 days ago) - The Charm Tool and Library 🌟
 - [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) ([v1.6.1](https://github.com/goreleaser/goreleaser/releases/tag/v1.6.1), 3 days ago) - Deliver Go binaries as fast and easily as possible
 - [owncast/owncast](https://github.com/owncast/owncast) ([v0.0.11](https://github.com/owncast/owncast/releases/tag/v0.0.11), 4 days ago) - Take control over your live stream video by running it yourself.  Streaming &#43; chat out of the box.
-- [minio/mc](https://github.com/minio/mc) ([RELEASE.2022-03-03T21-12-24Z](https://github.com/minio/mc/releases/tag/RELEASE.2022-03-03T21-12-24Z), 6 days ago) - MinIO Client is a replacement for ls, cp, mkdir, diff and rsync commands for filesystems and object storage.
 
 #### 🔨 Latest Pull Requests I published
 
