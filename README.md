@@ -28,19 +28,19 @@ Want your own self-generating profile page? Check out [readme-scribe](https://gi
 
 #### 🔭 Latest releases I've contributed to
 
-- [minio/mc](https://github.com/minio/mc) ([RELEASE.2022-03-09T02-08-36Z](https://github.com/minio/mc/releases/tag/RELEASE.2022-03-09T02-08-36Z), 2 days ago) - MinIO Client is a replacement for ls, cp, mkdir, diff and rsync commands for filesystems and object storage.
-- [orlangure/gocovsh](https://github.com/orlangure/gocovsh) ([v0.2.1](https://github.com/orlangure/gocovsh/releases/tag/v0.2.1), 3 days ago) - Go Coverage in your terminal: a tool for exploring Go Coverage reports from the command line 💻
-- [charmbracelet/charm](https://github.com/charmbracelet/charm) ([v0.10.3](https://github.com/charmbracelet/charm/releases/tag/v0.10.3), 4 days ago) - The Charm Tool and Library 🌟
-- [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) ([v1.6.1](https://github.com/goreleaser/goreleaser/releases/tag/v1.6.1), 5 days ago) - Deliver Go binaries as fast and easily as possible
-- [owncast/owncast](https://github.com/owncast/owncast) ([v0.0.11](https://github.com/owncast/owncast/releases/tag/v0.0.11), 6 days ago) - Take control over your live stream video by running it yourself.  Streaming &#43; chat out of the box.
+- [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) ([v1.6.2](https://github.com/goreleaser/goreleaser/releases/tag/v1.6.2), today) - Deliver Go binaries as fast and easily as possible
+- [minio/mc](https://github.com/minio/mc) ([RELEASE.2022-03-09T02-08-36Z](https://github.com/minio/mc/releases/tag/RELEASE.2022-03-09T02-08-36Z), 3 days ago) - MinIO Client is a replacement for ls, cp, mkdir, diff and rsync commands for filesystems and object storage.
+- [orlangure/gocovsh](https://github.com/orlangure/gocovsh) ([v0.2.1](https://github.com/orlangure/gocovsh/releases/tag/v0.2.1), 4 days ago) - Go Coverage in your terminal: a tool for exploring Go Coverage reports from the command line 💻
+- [charmbracelet/charm](https://github.com/charmbracelet/charm) ([v0.10.3](https://github.com/charmbracelet/charm/releases/tag/v0.10.3), 5 days ago) - The Charm Tool and Library 🌟
+- [owncast/owncast](https://github.com/owncast/owncast) ([v0.0.11](https://github.com/owncast/owncast/releases/tag/v0.0.11), 1 week ago) - Take control over your live stream video by running it yourself.  Streaming &#43; chat out of the box.
 
 #### 🔨 Latest Pull Requests I published
 
+- [Fix typos in root README.md](https://github.com/charmbracelet/bubbletea/pull/255) on [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) (today)
 - [ci: update golangci-lint-action to v3](https://github.com/charmbracelet/bubbletea/pull/242) on [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) (2 weeks ago)
 - [ci: update golangci-lint-action to v3](https://github.com/muesli/deckmaster/pull/90) on [muesli/deckmaster](https://github.com/muesli/deckmaster) (2 weeks ago)
 - [add: program.ReleaseTerminal and RestoreTerminal to re-use input &amp; terminal](https://github.com/charmbracelet/bubbletea/pull/237) on [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) (2 weeks ago)
 - [fix: shims for AIX and Plan9](https://github.com/muesli/termenv/pull/76) on [muesli/termenv](https://github.com/muesli/termenv) (2 weeks ago)
-- [Ci/GitHub actions](https://github.com/bashbunni/project-management/pull/11) on [bashbunni/project-management](https://github.com/bashbunni/project-management) (2 weeks ago)
 
 #### 📜 My recent blog posts
 
@@ -52,7 +52,7 @@ Want your own self-generating profile page? Check out [readme-scribe](https://gi
 
 #### ⭐ Recent stars
 
-- [ScaleFT/sshkeys](https://github.com/ScaleFT/sshkeys) - sshkeys: utilities for parsing and marshaling OpenSSH Key formats (3 days ago)
+- [ScaleFT/sshkeys](https://github.com/ScaleFT/sshkeys) - sshkeys: utilities for parsing and marshaling OpenSSH Key formats (4 days ago)
 - [golang/groupcache](https://github.com/golang/groupcache) - groupcache is a caching and cache-filling library, intended as a replacement for memcached in many cases. (1 week ago)
 - [astrogewgaw/koshka](https://github.com/astrogewgaw/koshka) - Meow-ster of cat-alogs 🐱 ! (1 week ago)
 - [vladimirvivien/go4vl](https://github.com/vladimirvivien/go4vl) - Go4vl is Go library for working with the Video for Linux API (V4L2) natively. (1 week ago)
@@ -62,7 +62,7 @@ Want your own self-generating profile page? Check out [readme-scribe](https://gi
 
 - [twpayne](https://github.com/twpayne) (1 month ago)
 - [nkpremices](https://github.com/nkpremices) (5 months ago)
-- [LuckierDodge](https://github.com/LuckierDodge) (5 months ago)
+- [LuckierDodge](https://github.com/LuckierDodge) (6 months ago)
 - [crazy-max](https://github.com/crazy-max) (6 months ago)
 - [ocelotsloth](https://github.com/ocelotsloth) (9 months ago)
 
