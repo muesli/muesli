@@ -62,9 +62,9 @@ Want your own self-generating profile page? Check out [readme-scribe](https://gi
 
 - [twpayne](https://github.com/twpayne) (1 month ago)
 - [nkpremices](https://github.com/nkpremices) (5 months ago)
-- [LuckierDodge](https://github.com/LuckierDodge) (6 months ago)
 - [crazy-max](https://github.com/crazy-max) (6 months ago)
 - [ocelotsloth](https://github.com/ocelotsloth) (9 months ago)
+- [angristan](https://github.com/angristan) (9 months ago)
 
 #### 💬 Feedback
 
