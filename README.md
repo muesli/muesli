@@ -28,7 +28,7 @@ Want your own self-generating profile page? Check out [readme-scribe](https://gi
 
 #### 🔭 Latest releases I've contributed to
 
-- [minio/mc](https://github.com/minio/mc) ([RELEASE.2022-03-13T22-34-00Z](https://github.com/minio/mc/releases/tag/RELEASE.2022-03-13T22-34-00Z), 4 days ago) - MinIO Client is a replacement for ls, cp, mkdir, diff and rsync commands for filesystems and object storage.
+- [minio/mc](https://github.com/minio/mc) ([RELEASE.2022-03-17T20-25-06Z](https://github.com/minio/mc/releases/tag/RELEASE.2022-03-17T20-25-06Z), today) - MinIO Client is a replacement for ls, cp, mkdir, diff and rsync commands for filesystems and object storage.
 - [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) ([v1.6.3](https://github.com/goreleaser/goreleaser/releases/tag/v1.6.3), 5 days ago) - Deliver Go binaries as fast and easily as possible
 - [orlangure/gocovsh](https://github.com/orlangure/gocovsh) ([v0.2.1](https://github.com/orlangure/gocovsh/releases/tag/v0.2.1), 1 week ago) - Go Coverage in your terminal: a tool for exploring Go Coverage reports from the command line 💻
 - [charmbracelet/charm](https://github.com/charmbracelet/charm) ([v0.10.3](https://github.com/charmbracelet/charm/releases/tag/v0.10.3), 1 week ago) - The Charm Tool and Library 🌟
