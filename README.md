@@ -36,11 +36,11 @@ Want your own self-generating profile page? Check out [readme-scribe](https://gi
 
 #### 🔨 Latest Pull Requests I published
 
+- [fix: fetch latest Go](https://github.com/muesli/gitty/pull/60) on [muesli/gitty](https://github.com/muesli/gitty) (today)
 - [Fix typos in root README.md](https://github.com/charmbracelet/bubbletea/pull/255) on [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) (1 week ago)
 - [ci: update golangci-lint-action to v3](https://github.com/charmbracelet/bubbletea/pull/242) on [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) (3 weeks ago)
 - [ci: update golangci-lint-action to v3](https://github.com/muesli/deckmaster/pull/90) on [muesli/deckmaster](https://github.com/muesli/deckmaster) (3 weeks ago)
 - [add: program.ReleaseTerminal and RestoreTerminal to re-use input &amp; terminal](https://github.com/charmbracelet/bubbletea/pull/237) on [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) (1 month ago)
-- [fix: shims for AIX and Plan9](https://github.com/muesli/termenv/pull/76) on [muesli/termenv](https://github.com/muesli/termenv) (1 month ago)
 
 #### 📜 My recent blog posts
 
