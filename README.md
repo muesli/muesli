@@ -28,11 +28,11 @@ Want your own self-generating profile page? Check out [readme-scribe](https://gi
 
 #### 🔭 Latest releases I've contributed to
 
+- [charmbracelet/charm](https://github.com/charmbracelet/charm) ([v0.11.0](https://github.com/charmbracelet/charm/releases/tag/v0.11.0), today) - The Charm Tool and Library 🌟
 - [caarlos0/org-stats](https://github.com/caarlos0/org-stats) ([v1.11.2](https://github.com/caarlos0/org-stats/releases/tag/v1.11.2), 6 days ago) - Get the contributor stats summary from all repos of any given organization
 - [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) ([v1.7.0](https://github.com/goreleaser/goreleaser/releases/tag/v1.7.0), 1 week ago) - Deliver Go binaries as fast and easily as possible
 - [charmbracelet/wishlist](https://github.com/charmbracelet/wishlist) ([v0.3.0](https://github.com/charmbracelet/wishlist/releases/tag/v0.3.0), 1 week ago) - The SSH directory ✨
 - [minio/mc](https://github.com/minio/mc) ([RELEASE.2022-03-17T20-25-06Z](https://github.com/minio/mc/releases/tag/RELEASE.2022-03-17T20-25-06Z), 1 week ago) - MinIO Client is a replacement for ls, cp, mkdir, diff and rsync commands for filesystems and object storage.
-- [orlangure/gocovsh](https://github.com/orlangure/gocovsh) ([v0.2.1](https://github.com/orlangure/gocovsh/releases/tag/v0.2.1), 3 weeks ago) - Go Coverage in your terminal: a tool for exploring Go Coverage reports from the command line 💻
 
 #### 🔨 Latest Pull Requests I published
 
