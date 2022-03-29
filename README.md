@@ -28,11 +28,11 @@ Want your own self-generating profile page? Check out [readme-scribe](https://gi
 
 #### 🔭 Latest releases I've contributed to
 
+- [charmbracelet/skate](https://github.com/charmbracelet/skate) ([v0.1.5](https://github.com/charmbracelet/skate/releases/tag/v0.1.5), today) - A personal key value store 🛼
 - [charmbracelet/charm](https://github.com/charmbracelet/charm) ([v0.11.0](https://github.com/charmbracelet/charm/releases/tag/v0.11.0), today) - The Charm Tool and Library 🌟
 - [caarlos0/org-stats](https://github.com/caarlos0/org-stats) ([v1.11.2](https://github.com/caarlos0/org-stats/releases/tag/v1.11.2), 6 days ago) - Get the contributor stats summary from all repos of any given organization
 - [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) ([v1.7.0](https://github.com/goreleaser/goreleaser/releases/tag/v1.7.0), 1 week ago) - Deliver Go binaries as fast and easily as possible
 - [charmbracelet/wishlist](https://github.com/charmbracelet/wishlist) ([v0.3.0](https://github.com/charmbracelet/wishlist/releases/tag/v0.3.0), 1 week ago) - The SSH directory ✨
-- [minio/mc](https://github.com/minio/mc) ([RELEASE.2022-03-17T20-25-06Z](https://github.com/minio/mc/releases/tag/RELEASE.2022-03-17T20-25-06Z), 1 week ago) - MinIO Client is a replacement for ls, cp, mkdir, diff and rsync commands for filesystems and object storage.
 
 #### 🔨 Latest Pull Requests I published
 
@@ -52,7 +52,7 @@ Want your own self-generating profile page? Check out [readme-scribe](https://gi
 
 #### ⭐ Recent stars
 
-- [brittonhayes/pillager](https://github.com/brittonhayes/pillager) - Pillage filesystems for sensitive information with Go. (5 days ago)
+- [brittonhayes/pillager](https://github.com/brittonhayes/pillager) - Pillage filesystems for sensitive information with Go 🔍 (5 days ago)
 - [robertkrimen/godocdown](https://github.com/robertkrimen/godocdown) - Format package documentation (godoc) as GitHub friendly Markdown (2 weeks ago)
 - [charmbracelet/melt](https://github.com/charmbracelet/melt) - 🧊 Backup and restore Ed25519 SSH keys with seed words. (2 weeks ago)
 - [ScaleFT/sshkeys](https://github.com/ScaleFT/sshkeys) - sshkeys: utilities for parsing and marshaling OpenSSH Key formats (3 weeks ago)
