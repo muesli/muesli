@@ -12,11 +12,11 @@ Want your own self-generating profile page? Check out [readme-scribe](https://gi
 
 #### 👷 Check out what I'm currently working on
 
-- [muesli/gitty](https://github.com/muesli/gitty) - Contextual information about your git projects, right on the command-line (6 days ago)
+- [muesli/gitty](https://github.com/muesli/gitty) - Contextual information about your git projects, right on the command-line (1 week ago)
 - [charmbracelet/meta](https://github.com/charmbracelet/meta) - Charm&#39;s meta configuration files (1 week ago)
 - [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) - A powerful little TUI framework 🏗 (2 weeks ago)
 - [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) - Deliver Go binaries as fast and easily as possible (2 weeks ago)
-- [charmbracelet/charm](https://github.com/charmbracelet/charm) - The Charm Tool and Library 🌟 (4 weeks ago)
+- [charmbracelet/charm](https://github.com/charmbracelet/charm) - The Charm Tool and Library 🌟 (1 month ago)
 
 #### 🌱 My latest projects
 
@@ -28,15 +28,15 @@ Want your own self-generating profile page? Check out [readme-scribe](https://gi
 
 #### 🔭 Latest releases I've contributed to
 
-- [charmbracelet/skate](https://github.com/charmbracelet/skate) ([v0.1.5](https://github.com/charmbracelet/skate/releases/tag/v0.1.5), today) - A personal key value store 🛼
-- [charmbracelet/charm](https://github.com/charmbracelet/charm) ([v0.11.0](https://github.com/charmbracelet/charm/releases/tag/v0.11.0), today) - The Charm Tool and Library 🌟
-- [caarlos0/org-stats](https://github.com/caarlos0/org-stats) ([v1.11.2](https://github.com/caarlos0/org-stats/releases/tag/v1.11.2), 6 days ago) - Get the contributor stats summary from all repos of any given organization
+- [charmbracelet/skate](https://github.com/charmbracelet/skate) ([v0.1.5](https://github.com/charmbracelet/skate/releases/tag/v0.1.5), 1 day ago) - A personal key value store 🛼
+- [charmbracelet/charm](https://github.com/charmbracelet/charm) ([v0.11.0](https://github.com/charmbracelet/charm/releases/tag/v0.11.0), 1 day ago) - The Charm Tool and Library 🌟
+- [caarlos0/org-stats](https://github.com/caarlos0/org-stats) ([v1.11.2](https://github.com/caarlos0/org-stats/releases/tag/v1.11.2), 1 week ago) - Get the contributor stats summary from all repos of any given organization
 - [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) ([v1.7.0](https://github.com/goreleaser/goreleaser/releases/tag/v1.7.0), 1 week ago) - Deliver Go binaries as fast and easily as possible
 - [charmbracelet/wishlist](https://github.com/charmbracelet/wishlist) ([v0.3.0](https://github.com/charmbracelet/wishlist/releases/tag/v0.3.0), 1 week ago) - The SSH directory ✨
 
 #### 🔨 Latest Pull Requests I published
 
-- [fix: fetch latest Go](https://github.com/muesli/gitty/pull/60) on [muesli/gitty](https://github.com/muesli/gitty) (5 days ago)
+- [fix: fetch latest Go](https://github.com/muesli/gitty/pull/60) on [muesli/gitty](https://github.com/muesli/gitty) (6 days ago)
 - [Fix typos in root README.md](https://github.com/charmbracelet/bubbletea/pull/255) on [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) (2 weeks ago)
 - [ci: update golangci-lint-action to v3](https://github.com/charmbracelet/bubbletea/pull/242) on [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) (1 month ago)
 - [ci: update golangci-lint-action to v3](https://github.com/muesli/deckmaster/pull/90) on [muesli/deckmaster](https://github.com/muesli/deckmaster) (1 month ago)
@@ -52,7 +52,7 @@ Want your own self-generating profile page? Check out [readme-scribe](https://gi
 
 #### ⭐ Recent stars
 
-- [brittonhayes/pillager](https://github.com/brittonhayes/pillager) - Pillage filesystems for sensitive information with Go 🔍 (5 days ago)
+- [brittonhayes/pillager](https://github.com/brittonhayes/pillager) - Pillage filesystems for sensitive information with Go 🔍 (6 days ago)
 - [robertkrimen/godocdown](https://github.com/robertkrimen/godocdown) - Format package documentation (godoc) as GitHub friendly Markdown (2 weeks ago)
 - [charmbracelet/melt](https://github.com/charmbracelet/melt) - 🧊 Backup and restore Ed25519 SSH keys with seed words. (2 weeks ago)
 - [ScaleFT/sshkeys](https://github.com/ScaleFT/sshkeys) - sshkeys: utilities for parsing and marshaling OpenSSH Key formats (3 weeks ago)
@@ -61,7 +61,7 @@ Want your own self-generating profile page? Check out [readme-scribe](https://gi
 #### ❤️ These awesome people sponsor me (thank you!)
 
 - [twpayne](https://github.com/twpayne) (2 months ago)
-- [nkpremices](https://github.com/nkpremices) (5 months ago)
+- [nkpremices](https://github.com/nkpremices) (6 months ago)
 - [crazy-max](https://github.com/crazy-max) (6 months ago)
 - [ocelotsloth](https://github.com/ocelotsloth) (9 months ago)
 - [angristan](https://github.com/angristan) (9 months ago)
