@@ -12,7 +12,7 @@ Want your own self-generating profile page? Check out [readme-scribe](https://gi
 
 #### 👷 Check out what I'm currently working on
 
-- [muesli/gitty](https://github.com/muesli/gitty) - Contextual information about your git projects, right on the command-line (1 day ago)
+- [muesli/gitty](https://github.com/muesli/gitty) - Contextual information about your git projects, right on the command-line (2 days ago)
 - [charmbracelet/meta](https://github.com/charmbracelet/meta) - Charm&#39;s meta configuration files (2 weeks ago)
 - [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) - A powerful little TUI framework 🏗 (3 weeks ago)
 - [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) - Deliver Go binaries as fast and easily as possible (3 weeks ago)
@@ -28,10 +28,10 @@ Want your own self-generating profile page? Check out [readme-scribe](https://gi
 
 #### 🔭 Latest releases I've contributed to
 
-- [orlangure/gocovsh](https://github.com/orlangure/gocovsh) ([v0.3.0](https://github.com/orlangure/gocovsh/releases/tag/v0.3.0), today) - Go Coverage in your terminal: a tool for exploring Go Coverage reports from the command line 💻
-- [minio/mc](https://github.com/minio/mc) ([RELEASE.2022-04-01T23-44-48Z](https://github.com/minio/mc/releases/tag/RELEASE.2022-04-01T23-44-48Z), today) - MinIO Client is a replacement for ls, cp, mkdir, diff and rsync commands for filesystems and object storage.
-- [charmbracelet/skate](https://github.com/charmbracelet/skate) ([v0.1.5](https://github.com/charmbracelet/skate/releases/tag/v0.1.5), 4 days ago) - A personal key value store 🛼
-- [charmbracelet/charm](https://github.com/charmbracelet/charm) ([v0.11.0](https://github.com/charmbracelet/charm/releases/tag/v0.11.0), 4 days ago) - The Charm Tool and Library 🌟
+- [orlangure/gocovsh](https://github.com/orlangure/gocovsh) ([v0.3.0](https://github.com/orlangure/gocovsh/releases/tag/v0.3.0), 1 day ago) - Go Coverage in your terminal: a tool for exploring Go Coverage reports from the command line 💻
+- [minio/mc](https://github.com/minio/mc) ([RELEASE.2022-04-01T23-44-48Z](https://github.com/minio/mc/releases/tag/RELEASE.2022-04-01T23-44-48Z), 1 day ago) - MinIO Client is a replacement for ls, cp, mkdir, diff and rsync commands for filesystems and object storage.
+- [charmbracelet/skate](https://github.com/charmbracelet/skate) ([v0.1.5](https://github.com/charmbracelet/skate/releases/tag/v0.1.5), 5 days ago) - A personal key value store 🛼
+- [charmbracelet/charm](https://github.com/charmbracelet/charm) ([v0.11.0](https://github.com/charmbracelet/charm/releases/tag/v0.11.0), 5 days ago) - The Charm Tool and Library 🌟
 - [caarlos0/org-stats](https://github.com/caarlos0/org-stats) ([v1.11.2](https://github.com/caarlos0/org-stats/releases/tag/v1.11.2), 1 week ago) - Get the contributor stats summary from all repos of any given organization
 
 #### 🔨 Latest Pull Requests I published
@@ -52,8 +52,8 @@ Want your own self-generating profile page? Check out [readme-scribe](https://gi
 
 #### ⭐ Recent stars
 
-- [barthr/redo](https://github.com/barthr/redo) - Redo is the ultimate tool to create reusable functions from your history in an interactive way (today)
-- [liamg/comet](https://github.com/liamg/comet) - :comet: Command line tool to help you use conventional commit messages (https://www.conventionalcommits.org) (2 days ago)
+- [barthr/redo](https://github.com/barthr/redo) - Redo is the ultimate tool to create reusable functions from your history in an interactive way (1 day ago)
+- [liamg/comet](https://github.com/liamg/comet) - :comet: Command line tool to help you use conventional commit messages (https://www.conventionalcommits.org) (3 days ago)
 - [brittonhayes/pillager](https://github.com/brittonhayes/pillager) - Pillage filesystems for sensitive information with Go 🔍 (1 week ago)
 - [robertkrimen/godocdown](https://github.com/robertkrimen/godocdown) - Format package documentation (godoc) as GitHub friendly Markdown (2 weeks ago)
 - [charmbracelet/melt](https://github.com/charmbracelet/melt) - 🧊 Backup and restore Ed25519 SSH keys with seed words. (2 weeks ago)
@@ -63,7 +63,7 @@ Want your own self-generating profile page? Check out [readme-scribe](https://gi
 - [twpayne](https://github.com/twpayne) (2 months ago)
 - [nkpremices](https://github.com/nkpremices) (6 months ago)
 - [crazy-max](https://github.com/crazy-max) (6 months ago)
-- [ocelotsloth](https://github.com/ocelotsloth) (9 months ago)
+- [ocelotsloth](https://github.com/ocelotsloth) (10 months ago)
 - [angristan](https://github.com/angristan) (10 months ago)
 
 #### 💬 Feedback
