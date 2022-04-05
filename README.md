@@ -28,11 +28,11 @@ Want your own self-generating profile page? Check out [readme-scribe](https://gi
 
 #### 🔭 Latest releases I've contributed to
 
+- [charmbracelet/keygen](https://github.com/charmbracelet/keygen) ([v0.3.0](https://github.com/charmbracelet/keygen/releases/tag/v0.3.0), today) - An SSH key pair generator 🗝️
 - [orlangure/gocovsh](https://github.com/orlangure/gocovsh) ([v0.3.0](https://github.com/orlangure/gocovsh/releases/tag/v0.3.0), 3 days ago) - Go Coverage in your terminal: a tool for exploring Go Coverage reports from the command line 💻
 - [minio/mc](https://github.com/minio/mc) ([RELEASE.2022-04-01T23-44-48Z](https://github.com/minio/mc/releases/tag/RELEASE.2022-04-01T23-44-48Z), 3 days ago) - MinIO Client is a replacement for ls, cp, mkdir, diff and rsync commands for filesystems and object storage.
 - [charmbracelet/skate](https://github.com/charmbracelet/skate) ([v0.1.5](https://github.com/charmbracelet/skate/releases/tag/v0.1.5), 1 week ago) - A personal key value store 🛼
 - [charmbracelet/charm](https://github.com/charmbracelet/charm) ([v0.11.0](https://github.com/charmbracelet/charm/releases/tag/v0.11.0), 1 week ago) - The Charm Tool and Library 🌟
-- [caarlos0/org-stats](https://github.com/caarlos0/org-stats) ([v1.11.2](https://github.com/caarlos0/org-stats/releases/tag/v1.11.2), 1 week ago) - Get the contributor stats summary from all repos of any given organization
 
 #### 🔨 Latest Pull Requests I published
 
