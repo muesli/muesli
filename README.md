@@ -49,11 +49,11 @@ Want your own self-generating profile page? Check out [readme-scribe](https://gi
 
 #### ⭐ Recent stars
 
+- [prometheus-community/smartctl_exporter](https://github.com/prometheus-community/smartctl_exporter) - Export smartctl statistics to prometheus (today)
+- [vishvananda/netns](https://github.com/vishvananda/netns) - Simple network namespace handling for go. (today)
+- [docker/go-metrics](https://github.com/docker/go-metrics) - Package for metrics collection in Docker projects (today)
 - [caarlos0/go-gumroad](https://github.com/caarlos0/go-gumroad) - Easily check licenses against Gumroad&#39;s API. (today)
 - [yanc0/musshis-heart](https://github.com/yanc0/musshis-heart) - You drive the heart of a little creature called: Musshi. (1 day ago)
-- [charmbracelet/runway](https://github.com/charmbracelet/runway) - Models 📸 (2 days ago)
-- [barthr/redo](https://github.com/barthr/redo) - Redo is the ultimate tool to create reusable functions from your history in an interactive way (5 days ago)
-- [liamg/comet](https://github.com/liamg/comet) - :comet: Command line tool to help you use conventional commit messages (https://www.conventionalcommits.org) (1 week ago)
 
 #### ❤️ These awesome people sponsor me (thank you!)
 
