@@ -28,11 +28,11 @@ Want your own self-generating profile page? Check out [readme-scribe](https://gi
 
 #### 🔭 Latest releases I've contributed to
 
+- [minio/mc](https://github.com/minio/mc) ([RELEASE.2022-04-07T21-43-27Z](https://github.com/minio/mc/releases/tag/RELEASE.2022-04-07T21-43-27Z), today) - MinIO Client is a replacement for ls, cp, mkdir, diff and rsync commands for filesystems and object storage.
 - [charmbracelet/wish](https://github.com/charmbracelet/wish) ([v0.3.1](https://github.com/charmbracelet/wish/releases/tag/v0.3.1), 1 day ago) - Make SSH apps, just like that! 💫
 - [muesli/cancelreader](https://github.com/muesli/cancelreader) ([v0.2.0](https://github.com/muesli/cancelreader/releases/tag/v0.2.0), 2 days ago) - A cancelable reader for Go
 - [charmbracelet/keygen](https://github.com/charmbracelet/keygen) ([v0.3.0](https://github.com/charmbracelet/keygen/releases/tag/v0.3.0), 2 days ago) - An SSH key pair generator 🗝️
 - [orlangure/gocovsh](https://github.com/orlangure/gocovsh) ([v0.3.0](https://github.com/orlangure/gocovsh/releases/tag/v0.3.0), 5 days ago) - Go Coverage in your terminal: a tool for exploring Go Coverage reports from the command line 💻
-- [minio/mc](https://github.com/minio/mc) ([RELEASE.2022-04-01T23-44-48Z](https://github.com/minio/mc/releases/tag/RELEASE.2022-04-01T23-44-48Z), 5 days ago) - MinIO Client is a replacement for ls, cp, mkdir, diff and rsync commands for filesystems and object storage.
 
 #### 🔨 Latest Pull Requests I published
 
