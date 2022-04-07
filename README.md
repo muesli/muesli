@@ -12,7 +12,7 @@ Want your own self-generating profile page? Check out [readme-scribe](https://gi
 
 #### 👷 Check out what I'm currently working on
 
-- [muesli/gitty](https://github.com/muesli/gitty) - Contextual information about your git projects, right on the command-line (5 days ago)
+- [muesli/gitty](https://github.com/muesli/gitty) - Contextual information about your git projects, right on the command-line (6 days ago)
 - [charmbracelet/meta](https://github.com/charmbracelet/meta) - Charm&#39;s meta configuration files (2 weeks ago)
 - [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) - A powerful little TUI framework 🏗 (3 weeks ago)
 - [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) - Deliver Go binaries as fast and easily as possible (3 weeks ago)
@@ -28,17 +28,17 @@ Want your own self-generating profile page? Check out [readme-scribe](https://gi
 
 #### 🔭 Latest releases I've contributed to
 
-- [charmbracelet/wish](https://github.com/charmbracelet/wish) ([v0.3.1](https://github.com/charmbracelet/wish/releases/tag/v0.3.1), today) - Make SSH apps, just like that! 💫
-- [muesli/cancelreader](https://github.com/muesli/cancelreader) ([v0.2.0](https://github.com/muesli/cancelreader/releases/tag/v0.2.0), 1 day ago) - A cancelable reader for Go
-- [charmbracelet/keygen](https://github.com/charmbracelet/keygen) ([v0.3.0](https://github.com/charmbracelet/keygen/releases/tag/v0.3.0), 1 day ago) - An SSH key pair generator 🗝️
-- [orlangure/gocovsh](https://github.com/orlangure/gocovsh) ([v0.3.0](https://github.com/orlangure/gocovsh/releases/tag/v0.3.0), 4 days ago) - Go Coverage in your terminal: a tool for exploring Go Coverage reports from the command line 💻
-- [minio/mc](https://github.com/minio/mc) ([RELEASE.2022-04-01T23-44-48Z](https://github.com/minio/mc/releases/tag/RELEASE.2022-04-01T23-44-48Z), 4 days ago) - MinIO Client is a replacement for ls, cp, mkdir, diff and rsync commands for filesystems and object storage.
+- [charmbracelet/wish](https://github.com/charmbracelet/wish) ([v0.3.1](https://github.com/charmbracelet/wish/releases/tag/v0.3.1), 1 day ago) - Make SSH apps, just like that! 💫
+- [muesli/cancelreader](https://github.com/muesli/cancelreader) ([v0.2.0](https://github.com/muesli/cancelreader/releases/tag/v0.2.0), 2 days ago) - A cancelable reader for Go
+- [charmbracelet/keygen](https://github.com/charmbracelet/keygen) ([v0.3.0](https://github.com/charmbracelet/keygen/releases/tag/v0.3.0), 2 days ago) - An SSH key pair generator 🗝️
+- [orlangure/gocovsh](https://github.com/orlangure/gocovsh) ([v0.3.0](https://github.com/orlangure/gocovsh/releases/tag/v0.3.0), 5 days ago) - Go Coverage in your terminal: a tool for exploring Go Coverage reports from the command line 💻
+- [minio/mc](https://github.com/minio/mc) ([RELEASE.2022-04-01T23-44-48Z](https://github.com/minio/mc/releases/tag/RELEASE.2022-04-01T23-44-48Z), 5 days ago) - MinIO Client is a replacement for ls, cp, mkdir, diff and rsync commands for filesystems and object storage.
 
 #### 🔨 Latest Pull Requests I published
 
-- [fix: fetch latest Go](https://github.com/muesli/gitty/pull/60) on [muesli/gitty](https://github.com/muesli/gitty) (1 week ago)
+- [ci: add benchmark test for Style.Render](https://github.com/charmbracelet/lipgloss/pull/76) on [charmbracelet/lipgloss](https://github.com/charmbracelet/lipgloss) (today)
+- [fix: fetch latest Go](https://github.com/muesli/gitty/pull/60) on [muesli/gitty](https://github.com/muesli/gitty) (2 weeks ago)
 - [Fix typos in root README.md](https://github.com/charmbracelet/bubbletea/pull/255) on [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) (3 weeks ago)
-- [ci: update golangci-lint-action to v3](https://github.com/charmbracelet/bubbletea/pull/242) on [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) (1 month ago)
 
 #### 📜 My recent blog posts
 
@@ -50,17 +50,17 @@ Want your own self-generating profile page? Check out [readme-scribe](https://gi
 
 #### ⭐ Recent stars
 
-- [yanc0/musshis-heart](https://github.com/yanc0/musshis-heart) - You drive the heart of a little creature called: Musshi. (today)
-- [charmbracelet/runway](https://github.com/charmbracelet/runway) - Models 📸 (1 day ago)
-- [barthr/redo](https://github.com/barthr/redo) - Redo is the ultimate tool to create reusable functions from your history in an interactive way (4 days ago)
-- [liamg/comet](https://github.com/liamg/comet) - :comet: Command line tool to help you use conventional commit messages (https://www.conventionalcommits.org) (6 days ago)
-- [brittonhayes/pillager](https://github.com/brittonhayes/pillager) - Pillage filesystems for sensitive information with Go 🔍 (1 week ago)
+- [yanc0/musshis-heart](https://github.com/yanc0/musshis-heart) - You drive the heart of a little creature called: Musshi. (1 day ago)
+- [charmbracelet/runway](https://github.com/charmbracelet/runway) - Models 📸 (2 days ago)
+- [barthr/redo](https://github.com/barthr/redo) - Redo is the ultimate tool to create reusable functions from your history in an interactive way (5 days ago)
+- [liamg/comet](https://github.com/liamg/comet) - :comet: Command line tool to help you use conventional commit messages (https://www.conventionalcommits.org) (1 week ago)
+- [brittonhayes/pillager](https://github.com/brittonhayes/pillager) - Pillage filesystems for sensitive information with Go 🔍 (2 weeks ago)
 
 #### ❤️ These awesome people sponsor me (thank you!)
 
 - [twpayne](https://github.com/twpayne) (2 months ago)
 - [nkpremices](https://github.com/nkpremices) (6 months ago)
-- [crazy-max](https://github.com/crazy-max) (6 months ago)
+- [crazy-max](https://github.com/crazy-max) (7 months ago)
 - [ocelotsloth](https://github.com/ocelotsloth) (10 months ago)
 - [angristan](https://github.com/angristan) (10 months ago)
 
