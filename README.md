@@ -49,11 +49,11 @@ Want your own self-generating profile page? Check out [readme-scribe](https://gi
 
 #### ⭐ Recent stars
 
+- [Koenkk/zigbee-herdsman-converters](https://github.com/Koenkk/zigbee-herdsman-converters) - Collection of device converters to be used with zigbee-herdsman (today)
 - [ivantsepp/ssh-slides](https://github.com/ivantsepp/ssh-slides) - Terminal-based Presentations Over SSH (2 days ago)
 - [prometheus-community/smartctl_exporter](https://github.com/prometheus-community/smartctl_exporter) - Export smartctl statistics to prometheus (2 days ago)
 - [vishvananda/netns](https://github.com/vishvananda/netns) - Simple network namespace handling for go. (2 days ago)
 - [docker/go-metrics](https://github.com/docker/go-metrics) - Package for metrics collection in Docker projects (2 days ago)
-- [caarlos0/go-gumroad](https://github.com/caarlos0/go-gumroad) - Easily check licenses against Gumroad&#39;s API. (2 days ago)
 
 #### ❤️ These awesome people sponsor me (thank you!)
 
