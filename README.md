@@ -49,11 +49,11 @@ Want your own self-generating profile page? Check out [readme-scribe](https://gi
 
 #### ⭐ Recent stars
 
+- [alecthomas/assert](https://github.com/alecthomas/assert) - A simple assertion library using Go generics (today)
 - [Koenkk/zigbee-herdsman-converters](https://github.com/Koenkk/zigbee-herdsman-converters) - Collection of device converters to be used with zigbee-herdsman (1 day ago)
 - [ivantsepp/ssh-slides](https://github.com/ivantsepp/ssh-slides) - Terminal-based Presentations Over SSH (3 days ago)
 - [prometheus-community/smartctl_exporter](https://github.com/prometheus-community/smartctl_exporter) - Export smartctl statistics to prometheus (3 days ago)
 - [vishvananda/netns](https://github.com/vishvananda/netns) - Simple network namespace handling for go. (3 days ago)
-- [docker/go-metrics](https://github.com/docker/go-metrics) - Package for metrics collection in Docker projects (3 days ago)
 
 #### ❤️ These awesome people sponsor me (thank you!)
 
