@@ -28,11 +28,11 @@ Want your own self-generating profile page? Check out [readme-scribe](https://gi
 
 #### 🔭 Latest releases I've contributed to
 
+- [charmbracelet/soft-serve](https://github.com/charmbracelet/soft-serve) ([v0.3.0](https://github.com/charmbracelet/soft-serve/releases/tag/v0.3.0), today) - A tasty, self-hostable Git server for the command line🍦
 - [minio/mc](https://github.com/minio/mc) ([RELEASE.2022-04-07T21-43-27Z](https://github.com/minio/mc/releases/tag/RELEASE.2022-04-07T21-43-27Z), 4 days ago) - MinIO Client is a replacement for ls, cp, mkdir, diff and rsync commands for filesystems and object storage.
 - [charmbracelet/wish](https://github.com/charmbracelet/wish) ([v0.3.1](https://github.com/charmbracelet/wish/releases/tag/v0.3.1), 5 days ago) - Make SSH apps, just like that! 💫
 - [muesli/cancelreader](https://github.com/muesli/cancelreader) ([v0.2.0](https://github.com/muesli/cancelreader/releases/tag/v0.2.0), 6 days ago) - A cancelable reader for Go
 - [charmbracelet/keygen](https://github.com/charmbracelet/keygen) ([v0.3.0](https://github.com/charmbracelet/keygen/releases/tag/v0.3.0), 6 days ago) - An SSH key pair generator 🗝️
-- [orlangure/gocovsh](https://github.com/orlangure/gocovsh) ([v0.3.0](https://github.com/orlangure/gocovsh/releases/tag/v0.3.0), 1 week ago) - Go Coverage in your terminal: a tool for exploring Go Coverage reports from the command line 💻
 
 #### 🔨 Latest Pull Requests I published
 
@@ -49,11 +49,11 @@ Want your own self-generating profile page? Check out [readme-scribe](https://gi
 
 #### ⭐ Recent stars
 
+- [knipferrc/teacup](https://github.com/knipferrc/teacup) - A collection of bubbles and utilities for bubbletea applications (today)
 - [alecthomas/assert](https://github.com/alecthomas/assert) - A simple assertion library using Go generics (1 day ago)
 - [Koenkk/zigbee-herdsman-converters](https://github.com/Koenkk/zigbee-herdsman-converters) - Collection of device converters to be used with zigbee-herdsman (2 days ago)
 - [ivantsepp/ssh-slides](https://github.com/ivantsepp/ssh-slides) - Terminal-based Presentations Over SSH (4 days ago)
 - [prometheus-community/smartctl_exporter](https://github.com/prometheus-community/smartctl_exporter) - Export smartctl statistics to prometheus (4 days ago)
-- [vishvananda/netns](https://github.com/vishvananda/netns) - Simple network namespace handling for go. (4 days ago)
 
 #### ❤️ These awesome people sponsor me (thank you!)
 
