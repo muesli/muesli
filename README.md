@@ -12,8 +12,8 @@ Want your own self-generating profile page? Check out [readme-scribe](https://gi
 
 #### 👷 Check out what I'm currently working on
 
-- [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) - A powerful little TUI framework 🏗 (1 day ago)
-- [charmbracelet/lipgloss](https://github.com/charmbracelet/lipgloss) - Style definitions for nice terminal layouts 👄 (6 days ago)
+- [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) - A powerful little TUI framework 🏗 (2 days ago)
+- [charmbracelet/lipgloss](https://github.com/charmbracelet/lipgloss) - Style definitions for nice terminal layouts 👄 (1 week ago)
 - [muesli/gitty](https://github.com/muesli/gitty) - Contextual information about your git projects, right on the command-line (1 week ago)
 - [charmbracelet/meta](https://github.com/charmbracelet/meta) - Charm&#39;s meta configuration files 🫥 (3 weeks ago)
 - [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) - Deliver Go binaries as fast and easily as possible (1 month ago)
@@ -28,16 +28,16 @@ Want your own self-generating profile page? Check out [readme-scribe](https://gi
 
 #### 🔭 Latest releases I've contributed to
 
-- [muesli/mango-cobra](https://github.com/muesli/mango-cobra) ([v1.1.0](https://github.com/muesli/mango-cobra/releases/tag/v1.1.0), today) - cobra adapter for mango
-- [charmbracelet/skate](https://github.com/charmbracelet/skate) ([v0.2.0](https://github.com/charmbracelet/skate/releases/tag/v0.2.0), today) - A personal key value store 🛼
-- [charmbracelet/soft-serve](https://github.com/charmbracelet/soft-serve) ([v0.3.0](https://github.com/charmbracelet/soft-serve/releases/tag/v0.3.0), 2 days ago) - A tasty, self-hostable Git server for the command line🍦
-- [minio/mc](https://github.com/minio/mc) ([RELEASE.2022-04-07T21-43-27Z](https://github.com/minio/mc/releases/tag/RELEASE.2022-04-07T21-43-27Z), 6 days ago) - MinIO Client is a replacement for ls, cp, mkdir, diff and rsync commands for filesystems and object storage.
+- [muesli/mango-cobra](https://github.com/muesli/mango-cobra) ([v1.1.0](https://github.com/muesli/mango-cobra/releases/tag/v1.1.0), 1 day ago) - cobra adapter for mango
+- [charmbracelet/skate](https://github.com/charmbracelet/skate) ([v0.2.0](https://github.com/charmbracelet/skate/releases/tag/v0.2.0), 1 day ago) - A personal key value store 🛼
+- [charmbracelet/soft-serve](https://github.com/charmbracelet/soft-serve) ([v0.3.0](https://github.com/charmbracelet/soft-serve/releases/tag/v0.3.0), 3 days ago) - A tasty, self-hostable Git server for the command line🍦
+- [minio/mc](https://github.com/minio/mc) ([RELEASE.2022-04-07T21-43-27Z](https://github.com/minio/mc/releases/tag/RELEASE.2022-04-07T21-43-27Z), 1 week ago) - MinIO Client is a replacement for ls, cp, mkdir, diff and rsync commands for filesystems and object storage.
 - [charmbracelet/wish](https://github.com/charmbracelet/wish) ([v0.3.1](https://github.com/charmbracelet/wish/releases/tag/v0.3.1), 1 week ago) - Make SSH apps, just like that! 💫
 
 #### 🔨 Latest Pull Requests I published
 
-- [ci: add benchmark test for Style.Render](https://github.com/charmbracelet/lipgloss/pull/76) on [charmbracelet/lipgloss](https://github.com/charmbracelet/lipgloss) (6 days ago)
-- [fix: fetch latest Go](https://github.com/muesli/gitty/pull/60) on [muesli/gitty](https://github.com/muesli/gitty) (2 weeks ago)
+- [ci: add benchmark test for Style.Render](https://github.com/charmbracelet/lipgloss/pull/76) on [charmbracelet/lipgloss](https://github.com/charmbracelet/lipgloss) (1 week ago)
+- [fix: fetch latest Go](https://github.com/muesli/gitty/pull/60) on [muesli/gitty](https://github.com/muesli/gitty) (3 weeks ago)
 
 #### 📜 My recent blog posts
 
@@ -49,11 +49,11 @@ Want your own self-generating profile page? Check out [readme-scribe](https://gi
 
 #### ⭐ Recent stars
 
-- [BetaPictoris/wiki](https://github.com/BetaPictoris/wiki) - View Wikipedia articles through the CLI (2 days ago)
-- [knipferrc/teacup](https://github.com/knipferrc/teacup) - A collection of bubbles and utilities for bubbletea applications (2 days ago)
-- [alecthomas/assert](https://github.com/alecthomas/assert) - A simple assertion library using Go generics (3 days ago)
-- [Koenkk/zigbee-herdsman-converters](https://github.com/Koenkk/zigbee-herdsman-converters) - Collection of device converters to be used with zigbee-herdsman (4 days ago)
-- [ivantsepp/ssh-slides](https://github.com/ivantsepp/ssh-slides) - Terminal-based Presentations Over SSH (6 days ago)
+- [BetaPictoris/wiki](https://github.com/BetaPictoris/wiki) - View Wikipedia articles through the CLI (3 days ago)
+- [knipferrc/teacup](https://github.com/knipferrc/teacup) - A collection of bubbles and utilities for bubbletea applications (3 days ago)
+- [alecthomas/assert](https://github.com/alecthomas/assert) - A simple assertion library using Go generics (4 days ago)
+- [Koenkk/zigbee-herdsman-converters](https://github.com/Koenkk/zigbee-herdsman-converters) - Collection of device converters to be used with zigbee-herdsman (5 days ago)
+- [ivantsepp/ssh-slides](https://github.com/ivantsepp/ssh-slides) - Terminal-based Presentations Over SSH (1 week ago)
 
 #### ❤️ These awesome people sponsor me (thank you!)
 
