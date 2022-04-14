@@ -49,11 +49,11 @@ Want your own self-generating profile page? Check out [readme-scribe](https://gi
 
 #### ⭐ Recent stars
 
+- [muesli/mango-cobra](https://github.com/muesli/mango-cobra) - cobra adapter for mango (today)
 - [mastodon/mastodon-android](https://github.com/mastodon/mastodon-android) - Official Android app for Mastodon (today)
 - [maaslalani/draw](https://github.com/maaslalani/draw) - Draw in your terminal (today)
 - [BetaPictoris/wiki](https://github.com/BetaPictoris/wiki) - View Wikipedia articles through the CLI (3 days ago)
 - [knipferrc/teacup](https://github.com/knipferrc/teacup) - A collection of bubbles and utilities for bubbletea applications (3 days ago)
-- [alecthomas/assert](https://github.com/alecthomas/assert) - A simple assertion library using Go generics (4 days ago)
 
 #### ❤️ These awesome people sponsor me (thank you!)
 
