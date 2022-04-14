@@ -49,11 +49,11 @@ Want your own self-generating profile page? Check out [readme-scribe](https://gi
 
 #### ⭐ Recent stars
 
+- [maaslalani/draw](https://github.com/maaslalani/draw) - Draw in your terminal (today)
 - [BetaPictoris/wiki](https://github.com/BetaPictoris/wiki) - View Wikipedia articles through the CLI (3 days ago)
 - [knipferrc/teacup](https://github.com/knipferrc/teacup) - A collection of bubbles and utilities for bubbletea applications (3 days ago)
 - [alecthomas/assert](https://github.com/alecthomas/assert) - A simple assertion library using Go generics (4 days ago)
 - [Koenkk/zigbee-herdsman-converters](https://github.com/Koenkk/zigbee-herdsman-converters) - Collection of device converters to be used with zigbee-herdsman (5 days ago)
-- [ivantsepp/ssh-slides](https://github.com/ivantsepp/ssh-slides) - Terminal-based Presentations Over SSH (1 week ago)
 
 #### ❤️ These awesome people sponsor me (thank you!)
 
