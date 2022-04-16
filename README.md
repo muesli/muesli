@@ -28,11 +28,11 @@ Want your own self-generating profile page? Check out [readme-scribe](https://gi
 
 #### 🔭 Latest releases I've contributed to
 
+- [minio/mc](https://github.com/minio/mc) ([RELEASE.2022-04-16T21-11-21Z](https://github.com/minio/mc/releases/tag/RELEASE.2022-04-16T21-11-21Z), today) - MinIO Client is a replacement for ls, cp, mkdir, diff and rsync commands for filesystems and object storage.
 - [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) ([v1.8.2](https://github.com/goreleaser/goreleaser/releases/tag/v1.8.2), today) - Deliver Go binaries as fast and easily as possible
 - [charmbracelet/wishlist](https://github.com/charmbracelet/wishlist) ([v0.4.0](https://github.com/charmbracelet/wishlist/releases/tag/v0.4.0), 2 days ago) - The SSH directory ✨
 - [muesli/mango-cobra](https://github.com/muesli/mango-cobra) ([v1.1.0](https://github.com/muesli/mango-cobra/releases/tag/v1.1.0), 3 days ago) - cobra adapter for mango
 - [charmbracelet/skate](https://github.com/charmbracelet/skate) ([v0.2.0](https://github.com/charmbracelet/skate/releases/tag/v0.2.0), 3 days ago) - A personal key value store 🛼
-- [charmbracelet/soft-serve](https://github.com/charmbracelet/soft-serve) ([v0.3.0](https://github.com/charmbracelet/soft-serve/releases/tag/v0.3.0), 5 days ago) - A tasty, self-hostable Git server for the command line🍦
 
 #### 🔨 Latest Pull Requests I published
 
