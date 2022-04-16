@@ -12,7 +12,7 @@ Want your own self-generating profile page? Check out [readme-scribe](https://gi
 
 #### 👷 Check out what I'm currently working on
 
-- [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) - A powerful little TUI framework 🏗 (3 days ago)
+- [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) - A powerful little TUI framework 🏗 (4 days ago)
 - [charmbracelet/lipgloss](https://github.com/charmbracelet/lipgloss) - Style definitions for nice terminal layouts 👄 (1 week ago)
 - [muesli/gitty](https://github.com/muesli/gitty) - Contextual information about your git projects, right on the command-line (2 weeks ago)
 - [charmbracelet/meta](https://github.com/charmbracelet/meta) - Charm&#39;s meta configuration files 🫥 (4 weeks ago)
@@ -28,10 +28,10 @@ Want your own self-generating profile page? Check out [readme-scribe](https://gi
 
 #### 🔭 Latest releases I've contributed to
 
-- [charmbracelet/wishlist](https://github.com/charmbracelet/wishlist) ([v0.4.0](https://github.com/charmbracelet/wishlist/releases/tag/v0.4.0), 1 day ago) - The SSH directory ✨
-- [muesli/mango-cobra](https://github.com/muesli/mango-cobra) ([v1.1.0](https://github.com/muesli/mango-cobra/releases/tag/v1.1.0), 2 days ago) - cobra adapter for mango
-- [charmbracelet/skate](https://github.com/charmbracelet/skate) ([v0.2.0](https://github.com/charmbracelet/skate/releases/tag/v0.2.0), 2 days ago) - A personal key value store 🛼
-- [charmbracelet/soft-serve](https://github.com/charmbracelet/soft-serve) ([v0.3.0](https://github.com/charmbracelet/soft-serve/releases/tag/v0.3.0), 4 days ago) - A tasty, self-hostable Git server for the command line🍦
+- [charmbracelet/wishlist](https://github.com/charmbracelet/wishlist) ([v0.4.0](https://github.com/charmbracelet/wishlist/releases/tag/v0.4.0), 2 days ago) - The SSH directory ✨
+- [muesli/mango-cobra](https://github.com/muesli/mango-cobra) ([v1.1.0](https://github.com/muesli/mango-cobra/releases/tag/v1.1.0), 3 days ago) - cobra adapter for mango
+- [charmbracelet/skate](https://github.com/charmbracelet/skate) ([v0.2.0](https://github.com/charmbracelet/skate/releases/tag/v0.2.0), 3 days ago) - A personal key value store 🛼
+- [charmbracelet/soft-serve](https://github.com/charmbracelet/soft-serve) ([v0.3.0](https://github.com/charmbracelet/soft-serve/releases/tag/v0.3.0), 5 days ago) - A tasty, self-hostable Git server for the command line🍦
 - [minio/mc](https://github.com/minio/mc) ([RELEASE.2022-04-07T21-43-27Z](https://github.com/minio/mc/releases/tag/RELEASE.2022-04-07T21-43-27Z), 1 week ago) - MinIO Client is a replacement for ls, cp, mkdir, diff and rsync commands for filesystems and object storage.
 
 #### 🔨 Latest Pull Requests I published
@@ -49,11 +49,11 @@ Want your own self-generating profile page? Check out [readme-scribe](https://gi
 
 #### ⭐ Recent stars
 
-- [elewis787/boa](https://github.com/elewis787/boa) - A Cobra command styled usage and help component powered by bubbletea  (today)
-- [muesli/mango-cobra](https://github.com/muesli/mango-cobra) - cobra adapter for mango (1 day ago)
-- [mastodon/mastodon-android](https://github.com/mastodon/mastodon-android) - Official Android app for Mastodon (1 day ago)
-- [maaslalani/draw](https://github.com/maaslalani/draw) - Draw in your terminal (1 day ago)
-- [BetaPictoris/wiki](https://github.com/BetaPictoris/wiki) - View Wikipedia articles through the CLI (4 days ago)
+- [elewis787/boa](https://github.com/elewis787/boa) - A Cobra command styled usage and help component powered by bubbletea  (1 day ago)
+- [muesli/mango-cobra](https://github.com/muesli/mango-cobra) - cobra adapter for mango (2 days ago)
+- [mastodon/mastodon-android](https://github.com/mastodon/mastodon-android) - Official Android app for Mastodon (2 days ago)
+- [maaslalani/draw](https://github.com/maaslalani/draw) - Draw in your terminal (2 days ago)
+- [BetaPictoris/wiki](https://github.com/BetaPictoris/wiki) - View Wikipedia articles through the CLI (5 days ago)
 
 #### ❤️ These awesome people sponsor me (thank you!)
 
