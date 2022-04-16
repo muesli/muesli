@@ -49,11 +49,11 @@ Want your own self-generating profile page? Check out [readme-scribe](https://gi
 
 #### ⭐ Recent stars
 
+- [antonmedv/fx](https://github.com/antonmedv/fx) - Terminal JSON viewer (today)
 - [calyptia/go-bubble-table](https://github.com/calyptia/go-bubble-table) - TUI table component for Bubbletea. (today)
 - [elewis787/boa](https://github.com/elewis787/boa) - A Cobra command styled usage and help component powered by bubbletea  (1 day ago)
 - [muesli/mango-cobra](https://github.com/muesli/mango-cobra) - cobra adapter for mango (2 days ago)
 - [mastodon/mastodon-android](https://github.com/mastodon/mastodon-android) - Official Android app for Mastodon (2 days ago)
-- [maaslalani/draw](https://github.com/maaslalani/draw) - Draw in your terminal (2 days ago)
 
 #### ❤️ These awesome people sponsor me (thank you!)
 
