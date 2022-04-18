@@ -12,7 +12,7 @@ Want your own self-generating profile page? Check out [readme-scribe](https://gi
 
 #### 👷 Check out what I'm currently working on
 
-- [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) - A powerful little TUI framework 🏗 (5 days ago)
+- [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) - A powerful little TUI framework 🏗 (6 days ago)
 - [charmbracelet/lipgloss](https://github.com/charmbracelet/lipgloss) - Style definitions for nice terminal layouts 👄 (1 week ago)
 - [muesli/gitty](https://github.com/muesli/gitty) - Contextual information about your git projects, right on the command-line (2 weeks ago)
 - [charmbracelet/meta](https://github.com/charmbracelet/meta) - Charm&#39;s meta configuration files 🫥 (1 month ago)
@@ -28,11 +28,11 @@ Want your own self-generating profile page? Check out [readme-scribe](https://gi
 
 #### 🔭 Latest releases I've contributed to
 
-- [minio/mc](https://github.com/minio/mc) ([RELEASE.2022-04-16T21-11-21Z](https://github.com/minio/mc/releases/tag/RELEASE.2022-04-16T21-11-21Z), 1 day ago) - MinIO Client is a replacement for ls, cp, mkdir, diff and rsync commands for filesystems and object storage.
-- [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) ([v1.8.2](https://github.com/goreleaser/goreleaser/releases/tag/v1.8.2), 1 day ago) - Deliver Go binaries as fast and easily as possible
-- [charmbracelet/wishlist](https://github.com/charmbracelet/wishlist) ([v0.4.0](https://github.com/charmbracelet/wishlist/releases/tag/v0.4.0), 3 days ago) - The SSH directory ✨
-- [muesli/mango-cobra](https://github.com/muesli/mango-cobra) ([v1.1.0](https://github.com/muesli/mango-cobra/releases/tag/v1.1.0), 4 days ago) - cobra adapter for mango
-- [charmbracelet/skate](https://github.com/charmbracelet/skate) ([v0.2.0](https://github.com/charmbracelet/skate/releases/tag/v0.2.0), 4 days ago) - A personal key value store 🛼
+- [minio/mc](https://github.com/minio/mc) ([RELEASE.2022-04-16T21-11-21Z](https://github.com/minio/mc/releases/tag/RELEASE.2022-04-16T21-11-21Z), 2 days ago) - MinIO Client is a replacement for ls, cp, mkdir, diff and rsync commands for filesystems and object storage.
+- [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) ([v1.8.2](https://github.com/goreleaser/goreleaser/releases/tag/v1.8.2), 2 days ago) - Deliver Go binaries as fast and easily as possible
+- [charmbracelet/wishlist](https://github.com/charmbracelet/wishlist) ([v0.4.0](https://github.com/charmbracelet/wishlist/releases/tag/v0.4.0), 4 days ago) - The SSH directory ✨
+- [muesli/mango-cobra](https://github.com/muesli/mango-cobra) ([v1.1.0](https://github.com/muesli/mango-cobra/releases/tag/v1.1.0), 5 days ago) - cobra adapter for mango
+- [charmbracelet/skate](https://github.com/charmbracelet/skate) ([v0.2.0](https://github.com/charmbracelet/skate/releases/tag/v0.2.0), 5 days ago) - A personal key value store 🛼
 
 #### 🔨 Latest Pull Requests I published
 
@@ -49,11 +49,11 @@ Want your own self-generating profile page? Check out [readme-scribe](https://gi
 
 #### ⭐ Recent stars
 
-- [antonmedv/fx](https://github.com/antonmedv/fx) - Terminal JSON viewer (1 day ago)
-- [calyptia/go-bubble-table](https://github.com/calyptia/go-bubble-table) - TUI table component for Bubbletea. (1 day ago)
-- [elewis787/boa](https://github.com/elewis787/boa) - A Cobra command styled usage and help component powered by bubbletea  (2 days ago)
-- [muesli/mango-cobra](https://github.com/muesli/mango-cobra) - cobra adapter for mango (3 days ago)
-- [mastodon/mastodon-android](https://github.com/mastodon/mastodon-android) - Official Android app for Mastodon (3 days ago)
+- [antonmedv/fx](https://github.com/antonmedv/fx) - Terminal JSON viewer (2 days ago)
+- [calyptia/go-bubble-table](https://github.com/calyptia/go-bubble-table) - TUI table component for Bubbletea. (2 days ago)
+- [elewis787/boa](https://github.com/elewis787/boa) - A Cobra command styled usage and help component powered by bubbletea  (3 days ago)
+- [muesli/mango-cobra](https://github.com/muesli/mango-cobra) - cobra adapter for mango (4 days ago)
+- [mastodon/mastodon-android](https://github.com/mastodon/mastodon-android) - Official Android app for Mastodon (4 days ago)
 
 #### ❤️ These awesome people sponsor me (thank you!)
 
