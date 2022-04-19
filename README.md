@@ -49,11 +49,11 @@ Want your own self-generating profile page? Check out [readme-scribe](https://gi
 
 #### ⭐ Recent stars
 
+- [wecraftforfun/launch-tui](https://github.com/wecraftforfun/launch-tui) - Launch-tui is a small TUI app to manage launchD (today)
 - [antonmedv/fx](https://github.com/antonmedv/fx) - Terminal JSON viewer (3 days ago)
 - [calyptia/go-bubble-table](https://github.com/calyptia/go-bubble-table) - TUI table component for Bubbletea. (3 days ago)
 - [elewis787/boa](https://github.com/elewis787/boa) - A Cobra command styled usage and help component powered by bubbletea  (4 days ago)
 - [muesli/mango-cobra](https://github.com/muesli/mango-cobra) - cobra adapter for mango (5 days ago)
-- [mastodon/mastodon-android](https://github.com/mastodon/mastodon-android) - Official Android app for Mastodon (5 days ago)
 
 #### ❤️ These awesome people sponsor me (thank you!)
 
