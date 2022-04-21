@@ -49,11 +49,11 @@ Want your own self-generating profile page? Check out [readme-scribe](https://gi
 
 #### ⭐ Recent stars
 
+- [F5OEO/rpitx](https://github.com/F5OEO/rpitx) - RF transmitter for Raspberry Pi (today)
 - [wecraftforfun/launch-tui](https://github.com/wecraftforfun/launch-tui) - Launch-tui is a small TUI app to manage launchD (2 days ago)
 - [antonmedv/fx](https://github.com/antonmedv/fx) - Terminal JSON viewer (5 days ago)
 - [calyptia/go-bubble-table](https://github.com/calyptia/go-bubble-table) - TUI table component for Bubbletea. (5 days ago)
 - [elewis787/boa](https://github.com/elewis787/boa) - A Cobra command styled usage and help component powered by bubbletea  (6 days ago)
-- [muesli/mango-cobra](https://github.com/muesli/mango-cobra) - cobra adapter for mango (1 week ago)
 
 #### ❤️ These awesome people sponsor me (thank you!)
 
