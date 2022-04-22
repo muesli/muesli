@@ -37,7 +37,6 @@ Want your own self-generating profile page? Check out [readme-scribe](https://gi
 #### 🔨 Latest Pull Requests I published
 
 - [ci: add benchmark test for Style.Render](https://github.com/charmbracelet/lipgloss/pull/76) on [charmbracelet/lipgloss](https://github.com/charmbracelet/lipgloss) (2 weeks ago)
-- [fix: fetch latest Go](https://github.com/muesli/gitty/pull/60) on [muesli/gitty](https://github.com/muesli/gitty) (4 weeks ago)
 
 #### 📜 My recent blog posts
 
