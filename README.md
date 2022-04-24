@@ -48,11 +48,11 @@ Want your own self-generating profile page? Check out [readme-scribe](https://gi
 
 #### ⭐ Recent stars
 
+- [rubiojr/go-usbmon](https://github.com/rubiojr/go-usbmon) - Monitor usb hotplug events (Linux) (today)
+- [mowshon/moviego](https://github.com/mowshon/moviego) - MovieGo is a Golang library for video editing. (today)
+- [rubiojr/go-udisks](https://github.com/rubiojr/go-udisks) - Linux UDisks2 (dbus) easy access from Go (today)
 - [F5OEO/rpitx](https://github.com/F5OEO/rpitx) - RF transmitter for Raspberry Pi (3 days ago)
 - [wecraftforfun/launch-tui](https://github.com/wecraftforfun/launch-tui) - Launch-tui is a small TUI app to manage launchD (5 days ago)
-- [antonmedv/fx](https://github.com/antonmedv/fx) - Terminal JSON viewer (1 week ago)
-- [calyptia/go-bubble-table](https://github.com/calyptia/go-bubble-table) - TUI table component for Bubbletea. (1 week ago)
-- [elewis787/boa](https://github.com/elewis787/boa) - A Cobra command styled usage and help component powered by bubbletea  (1 week ago)
 
 #### ❤️ These awesome people sponsor me (thank you!)
 
