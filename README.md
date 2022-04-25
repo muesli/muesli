@@ -28,7 +28,7 @@ Want your own self-generating profile page? Check out [readme-scribe](https://gi
 
 #### 🔭 Latest releases I've contributed to
 
-- [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) ([v1.8.3](https://github.com/goreleaser/goreleaser/releases/tag/v1.8.3), 4 days ago) - Deliver Go binaries as fast and easily as possible
+- [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) ([v1.8.3](https://github.com/goreleaser/goreleaser/releases/tag/v1.8.3), 5 days ago) - Deliver Go binaries as fast and easily as possible
 - [minio/mc](https://github.com/minio/mc) ([RELEASE.2022-04-16T21-11-21Z](https://github.com/minio/mc/releases/tag/RELEASE.2022-04-16T21-11-21Z), 1 week ago) - MinIO Client is a replacement for ls, cp, mkdir, diff and rsync commands for filesystems and object storage.
 - [charmbracelet/wishlist](https://github.com/charmbracelet/wishlist) ([v0.4.0](https://github.com/charmbracelet/wishlist/releases/tag/v0.4.0), 1 week ago) - The SSH directory ✨
 - [muesli/mango-cobra](https://github.com/muesli/mango-cobra) ([v1.1.0](https://github.com/muesli/mango-cobra/releases/tag/v1.1.0), 1 week ago) - cobra adapter for mango
@@ -48,11 +48,11 @@ Want your own self-generating profile page? Check out [readme-scribe](https://gi
 
 #### ⭐ Recent stars
 
-- [rubiojr/go-usbmon](https://github.com/rubiojr/go-usbmon) - Monitor usb hotplug events (Linux) (today)
-- [mowshon/moviego](https://github.com/mowshon/moviego) - MovieGo is a Golang library for video editing. (today)
-- [rubiojr/go-udisks](https://github.com/rubiojr/go-udisks) - Linux UDisks2 (dbus) easy access from Go (today)
-- [F5OEO/rpitx](https://github.com/F5OEO/rpitx) - RF transmitter for Raspberry Pi (3 days ago)
-- [wecraftforfun/launch-tui](https://github.com/wecraftforfun/launch-tui) - Launch-tui is a small TUI app to manage launchD (5 days ago)
+- [rubiojr/go-usbmon](https://github.com/rubiojr/go-usbmon) - Monitor usb hotplug events (Linux) (1 day ago)
+- [mowshon/moviego](https://github.com/mowshon/moviego) - MovieGo is a Golang library for video editing. (1 day ago)
+- [rubiojr/go-udisks](https://github.com/rubiojr/go-udisks) - Linux UDisks2 (dbus) easy access from Go (1 day ago)
+- [F5OEO/rpitx](https://github.com/F5OEO/rpitx) - RF transmitter for Raspberry Pi (4 days ago)
+- [wecraftforfun/launch-tui](https://github.com/wecraftforfun/launch-tui) - Launch-tui is a small TUI app to manage launchD (6 days ago)
 
 #### ❤️ These awesome people sponsor me (thank you!)
 
