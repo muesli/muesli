@@ -48,11 +48,11 @@ Want your own self-generating profile page? Check out [readme-scribe](https://gi
 
 #### ⭐ Recent stars
 
+- [Azure/aztfy](https://github.com/Azure/aztfy) - A tool to bring existing Azure resources under Terraform&#39;s management (today)
 - [rubiojr/go-usbmon](https://github.com/rubiojr/go-usbmon) - Monitor usb hotplug events (Linux) (1 day ago)
 - [mowshon/moviego](https://github.com/mowshon/moviego) - MovieGo is a Golang library for video editing. (1 day ago)
 - [rubiojr/go-udisks](https://github.com/rubiojr/go-udisks) - Linux UDisks2 (dbus) easy access from Go (1 day ago)
 - [F5OEO/rpitx](https://github.com/F5OEO/rpitx) - RF transmitter for Raspberry Pi (4 days ago)
-- [wecraftforfun/launch-tui](https://github.com/wecraftforfun/launch-tui) - Launch-tui is a small TUI app to manage launchD (6 days ago)
 
 #### ❤️ These awesome people sponsor me (thank you!)
 
