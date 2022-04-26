@@ -28,8 +28,8 @@ Want your own self-generating profile page? Check out [readme-scribe](https://gi
 
 #### 🔭 Latest releases I've contributed to
 
+- [minio/mc](https://github.com/minio/mc) ([RELEASE.2022-04-26T18-00-22Z](https://github.com/minio/mc/releases/tag/RELEASE.2022-04-26T18-00-22Z), today) - MinIO Client is a replacement for ls, cp, mkdir, diff and rsync commands for filesystems and object storage.
 - [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) ([v1.8.3](https://github.com/goreleaser/goreleaser/releases/tag/v1.8.3), 6 days ago) - Deliver Go binaries as fast and easily as possible
-- [minio/mc](https://github.com/minio/mc) ([RELEASE.2022-04-16T21-11-21Z](https://github.com/minio/mc/releases/tag/RELEASE.2022-04-16T21-11-21Z), 1 week ago) - MinIO Client is a replacement for ls, cp, mkdir, diff and rsync commands for filesystems and object storage.
 - [charmbracelet/wishlist](https://github.com/charmbracelet/wishlist) ([v0.4.0](https://github.com/charmbracelet/wishlist/releases/tag/v0.4.0), 1 week ago) - The SSH directory ✨
 - [muesli/mango-cobra](https://github.com/muesli/mango-cobra) ([v1.1.0](https://github.com/muesli/mango-cobra/releases/tag/v1.1.0), 1 week ago) - cobra adapter for mango
 - [charmbracelet/skate](https://github.com/charmbracelet/skate) ([v0.2.0](https://github.com/charmbracelet/skate/releases/tag/v0.2.0), 1 week ago) - A personal key value store 🛼
