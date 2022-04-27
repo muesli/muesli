@@ -28,11 +28,11 @@ Want your own self-generating profile page? Check out [readme-scribe](https://gi
 
 #### 🔭 Latest releases I've contributed to
 
-- [minio/mc](https://github.com/minio/mc) ([RELEASE.2022-04-26T18-00-22Z](https://github.com/minio/mc/releases/tag/RELEASE.2022-04-26T18-00-22Z), today) - MinIO Client is a replacement for ls, cp, mkdir, diff and rsync commands for filesystems and object storage.
-- [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) ([v1.8.3](https://github.com/goreleaser/goreleaser/releases/tag/v1.8.3), 6 days ago) - Deliver Go binaries as fast and easily as possible
+- [minio/mc](https://github.com/minio/mc) ([RELEASE.2022-04-26T18-00-22Z](https://github.com/minio/mc/releases/tag/RELEASE.2022-04-26T18-00-22Z), 1 day ago) - MinIO Client is a replacement for ls, cp, mkdir, diff and rsync commands for filesystems and object storage.
+- [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) ([v1.8.3](https://github.com/goreleaser/goreleaser/releases/tag/v1.8.3), 1 week ago) - Deliver Go binaries as fast and easily as possible
 - [charmbracelet/wishlist](https://github.com/charmbracelet/wishlist) ([v0.4.0](https://github.com/charmbracelet/wishlist/releases/tag/v0.4.0), 1 week ago) - The SSH directory ✨
-- [muesli/mango-cobra](https://github.com/muesli/mango-cobra) ([v1.1.0](https://github.com/muesli/mango-cobra/releases/tag/v1.1.0), 1 week ago) - cobra adapter for mango
-- [charmbracelet/skate](https://github.com/charmbracelet/skate) ([v0.2.0](https://github.com/charmbracelet/skate/releases/tag/v0.2.0), 1 week ago) - A personal key value store 🛼
+- [muesli/mango-cobra](https://github.com/muesli/mango-cobra) ([v1.1.0](https://github.com/muesli/mango-cobra/releases/tag/v1.1.0), 2 weeks ago) - cobra adapter for mango
+- [charmbracelet/skate](https://github.com/charmbracelet/skate) ([v0.2.0](https://github.com/charmbracelet/skate/releases/tag/v0.2.0), 2 weeks ago) - A personal key value store 🛼
 
 #### 🔨 Latest Pull Requests I published
 
@@ -48,11 +48,11 @@ Want your own self-generating profile page? Check out [readme-scribe](https://gi
 
 #### ⭐ Recent stars
 
-- [Azure/aztfy](https://github.com/Azure/aztfy) - A tool to bring existing Azure resources under Terraform&#39;s management (1 day ago)
-- [rubiojr/go-usbmon](https://github.com/rubiojr/go-usbmon) - Monitor usb hotplug events (Linux) (2 days ago)
-- [mowshon/moviego](https://github.com/mowshon/moviego) - MovieGo is a Golang library for video editing. (2 days ago)
-- [rubiojr/go-udisks](https://github.com/rubiojr/go-udisks) - Linux UDisks2 (dbus) easy access from Go (2 days ago)
-- [F5OEO/rpitx](https://github.com/F5OEO/rpitx) - RF transmitter for Raspberry Pi (5 days ago)
+- [Azure/aztfy](https://github.com/Azure/aztfy) - A tool to bring existing Azure resources under Terraform&#39;s management (2 days ago)
+- [rubiojr/go-usbmon](https://github.com/rubiojr/go-usbmon) - Monitor usb hotplug events (Linux) (3 days ago)
+- [mowshon/moviego](https://github.com/mowshon/moviego) - MovieGo is a Golang library for video editing. (3 days ago)
+- [rubiojr/go-udisks](https://github.com/rubiojr/go-udisks) - Linux UDisks2 (dbus) easy access from Go (3 days ago)
+- [F5OEO/rpitx](https://github.com/F5OEO/rpitx) - RF transmitter for Raspberry Pi (6 days ago)
 
 #### ❤️ These awesome people sponsor me (thank you!)
 
