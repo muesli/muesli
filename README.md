@@ -48,11 +48,11 @@ Want your own self-generating profile page? Check out [readme-scribe](https://gi
 
 #### ⭐ Recent stars
 
+- [caarlos0/go-sshagent](https://github.com/caarlos0/go-sshagent) - A simple SSH Agent implementation, written in Go, mainly to be used within tests. (today)
 - [Azure/aztfy](https://github.com/Azure/aztfy) - A tool to bring existing Azure resources under Terraform&#39;s management (2 days ago)
 - [rubiojr/go-usbmon](https://github.com/rubiojr/go-usbmon) - Monitor usb hotplug events (Linux) (3 days ago)
 - [mowshon/moviego](https://github.com/mowshon/moviego) - MovieGo is a Golang library for video editing. (3 days ago)
 - [rubiojr/go-udisks](https://github.com/rubiojr/go-udisks) - Linux UDisks2 (dbus) easy access from Go (3 days ago)
-- [F5OEO/rpitx](https://github.com/F5OEO/rpitx) - RF transmitter for Raspberry Pi (6 days ago)
 
 #### ❤️ These awesome people sponsor me (thank you!)
 
