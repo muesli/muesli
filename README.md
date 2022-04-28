@@ -13,7 +13,7 @@ Want your own self-generating profile page? Check out [readme-scribe](https://gi
 #### 👷 Check out what I'm currently working on
 
 - [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) - A powerful little TUI framework 🏗 (2 weeks ago)
-- [charmbracelet/lipgloss](https://github.com/charmbracelet/lipgloss) - Style definitions for nice terminal layouts 👄 (2 weeks ago)
+- [charmbracelet/lipgloss](https://github.com/charmbracelet/lipgloss) - Style definitions for nice terminal layouts 👄 (3 weeks ago)
 - [muesli/gitty](https://github.com/muesli/gitty) - Contextual information about your git projects, right on the command-line (3 weeks ago)
 - [charmbracelet/meta](https://github.com/charmbracelet/meta) - Charm&#39;s meta configuration files 🫥 (1 month ago)
 - [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) - Deliver Go binaries as fast and easily as possible (1 month ago)
@@ -28,15 +28,15 @@ Want your own self-generating profile page? Check out [readme-scribe](https://gi
 
 #### 🔭 Latest releases I've contributed to
 
-- [minio/mc](https://github.com/minio/mc) ([RELEASE.2022-04-26T18-00-22Z](https://github.com/minio/mc/releases/tag/RELEASE.2022-04-26T18-00-22Z), 1 day ago) - MinIO Client is a replacement for ls, cp, mkdir, diff and rsync commands for filesystems and object storage.
+- [minio/mc](https://github.com/minio/mc) ([RELEASE.2022-04-26T18-00-22Z](https://github.com/minio/mc/releases/tag/RELEASE.2022-04-26T18-00-22Z), 2 days ago) - MinIO Client is a replacement for ls, cp, mkdir, diff and rsync commands for filesystems and object storage.
 - [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) ([v1.8.3](https://github.com/goreleaser/goreleaser/releases/tag/v1.8.3), 1 week ago) - Deliver Go binaries as fast and easily as possible
-- [charmbracelet/wishlist](https://github.com/charmbracelet/wishlist) ([v0.4.0](https://github.com/charmbracelet/wishlist/releases/tag/v0.4.0), 1 week ago) - The SSH directory ✨
+- [charmbracelet/wishlist](https://github.com/charmbracelet/wishlist) ([v0.4.0](https://github.com/charmbracelet/wishlist/releases/tag/v0.4.0), 2 weeks ago) - The SSH directory ✨
 - [muesli/mango-cobra](https://github.com/muesli/mango-cobra) ([v1.1.0](https://github.com/muesli/mango-cobra/releases/tag/v1.1.0), 2 weeks ago) - cobra adapter for mango
 - [charmbracelet/skate](https://github.com/charmbracelet/skate) ([v0.2.0](https://github.com/charmbracelet/skate/releases/tag/v0.2.0), 2 weeks ago) - A personal key value store 🛼
 
 #### 🔨 Latest Pull Requests I published
 
-- [ci: add benchmark test for Style.Render](https://github.com/charmbracelet/lipgloss/pull/76) on [charmbracelet/lipgloss](https://github.com/charmbracelet/lipgloss) (2 weeks ago)
+- [ci: add benchmark test for Style.Render](https://github.com/charmbracelet/lipgloss/pull/76) on [charmbracelet/lipgloss](https://github.com/charmbracelet/lipgloss) (3 weeks ago)
 
 #### 📜 My recent blog posts
 
@@ -48,11 +48,11 @@ Want your own self-generating profile page? Check out [readme-scribe](https://gi
 
 #### ⭐ Recent stars
 
-- [neurosnap/lists.sh](https://github.com/neurosnap/lists.sh) - a microblog for lists (today)
-- [caarlos0/go-sshagent](https://github.com/caarlos0/go-sshagent) - A simple SSH Agent implementation, written in Go, mainly to be used within tests. (today)
-- [Azure/aztfy](https://github.com/Azure/aztfy) - A tool to bring existing Azure resources under Terraform&#39;s management (2 days ago)
-- [rubiojr/go-usbmon](https://github.com/rubiojr/go-usbmon) - Monitor usb hotplug events (Linux) (3 days ago)
-- [mowshon/moviego](https://github.com/mowshon/moviego) - MovieGo is a Golang library for video editing. (3 days ago)
+- [neurosnap/lists.sh](https://github.com/neurosnap/lists.sh) - a microblog for lists (1 day ago)
+- [caarlos0/go-sshagent](https://github.com/caarlos0/go-sshagent) - A simple SSH Agent implementation, written in Go, mainly to be used within tests. (1 day ago)
+- [Azure/aztfy](https://github.com/Azure/aztfy) - A tool to bring existing Azure resources under Terraform&#39;s management (3 days ago)
+- [rubiojr/go-usbmon](https://github.com/rubiojr/go-usbmon) - Monitor usb hotplug events (Linux) (4 days ago)
+- [mowshon/moviego](https://github.com/mowshon/moviego) - MovieGo is a Golang library for video editing. (4 days ago)
 
 #### ❤️ These awesome people sponsor me (thank you!)
 
