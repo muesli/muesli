@@ -4,7 +4,7 @@
 
 I'm Chris, an open-source enthusiast and avid contributor. I'm the author of [duf](https://github.com/muesli/duf),
 [gitty](https://github.com/muesli/gitty), [Beehive](https://github.com/muesli/beehive), [Knoxite](https://github.com/knoxite/knoxite)
- nd a bunch of other [projects](https://fribbledom.com/projects/). Curious what I've been working on recently?
+ and a bunch of other [projects](https://fribbledom.com/projects/). Curious what I've been working on recently?
 
 (Love the logo on the right as much as I do? The awesome [Christian Rocha](https://github.com/meowgorithm/) made it!)
 
