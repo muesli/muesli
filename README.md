@@ -48,11 +48,11 @@ Want your own self-generating profile page? Check out [readme-scribe](https://gi
 
 #### ⭐ Recent stars
 
-- [neurosnap/lists.sh](https://github.com/neurosnap/lists.sh) - a microblog for lists (2 days ago)
-- [caarlos0/go-sshagent](https://github.com/caarlos0/go-sshagent) - A simple SSH Agent implementation, written in Go, mainly to be used within tests. (2 days ago)
-- [Azure/aztfy](https://github.com/Azure/aztfy) - A tool to bring existing Azure resources under Terraform&#39;s management (4 days ago)
-- [rubiojr/go-usbmon](https://github.com/rubiojr/go-usbmon) - Monitor usb hotplug events (Linux) (5 days ago)
-- [mowshon/moviego](https://github.com/mowshon/moviego) - MovieGo is a Golang library for video editing. (5 days ago)
+- [crazy-max/undock](https://github.com/crazy-max/undock) - Extract contents of a container image in a local folder (today)
+- [pemistahl/lingua-go](https://github.com/pemistahl/lingua-go) - 👄 The most accurate natural language detection library for Go, suitable for long and short text alike (today)
+- [ory/dockertest](https://github.com/ory/dockertest) - Write better integration tests! Dockertest helps you boot up ephermal docker images for your Go tests with minimal work. (today)
+- [pixiv/go-libjpeg](https://github.com/pixiv/go-libjpeg) - An implementation of Go binding for libjpeg (or libjpeg-turbo). (today)
+- [c-grimshaw/gosniff](https://github.com/c-grimshaw/gosniff) - A fancy-schmancy tcpdump-esque TUI, programmed in Go. (today)
 
 #### ❤️ These awesome people sponsor me (thank you!)
 
