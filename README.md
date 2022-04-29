@@ -48,11 +48,11 @@ Want your own self-generating profile page? Check out [readme-scribe](https://gi
 
 #### ⭐ Recent stars
 
+- [scottbez1/smartknob](https://github.com/scottbez1/smartknob) - Haptic input knob with software-defined endstops and virtual detents (today)
 - [crazy-max/undock](https://github.com/crazy-max/undock) - Extract contents of a container image in a local folder (today)
 - [pemistahl/lingua-go](https://github.com/pemistahl/lingua-go) - 👄 The most accurate natural language detection library for Go, suitable for long and short text alike (today)
 - [ory/dockertest](https://github.com/ory/dockertest) - Write better integration tests! Dockertest helps you boot up ephermal docker images for your Go tests with minimal work. (today)
 - [pixiv/go-libjpeg](https://github.com/pixiv/go-libjpeg) - An implementation of Go binding for libjpeg (or libjpeg-turbo). (today)
-- [c-grimshaw/gosniff](https://github.com/c-grimshaw/gosniff) - A fancy-schmancy tcpdump-esque TUI, programmed in Go. (today)
 
 #### ❤️ These awesome people sponsor me (thank you!)
 
