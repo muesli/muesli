@@ -28,8 +28,8 @@ Want your own self-generating profile page? Check out [readme-scribe](https://gi
 
 #### 🔭 Latest releases I've contributed to
 
-- [charmbracelet/charm](https://github.com/charmbracelet/charm) ([v0.12.0](https://github.com/charmbracelet/charm/releases/tag/v0.12.0), today) - The Charm Tool and Library 🌟
-- [minio/mc](https://github.com/minio/mc) ([RELEASE.2022-04-26T18-00-22Z](https://github.com/minio/mc/releases/tag/RELEASE.2022-04-26T18-00-22Z), 3 days ago) - MinIO Client is a replacement for ls, cp, mkdir, diff and rsync commands for filesystems and object storage.
+- [charmbracelet/charm](https://github.com/charmbracelet/charm) ([v0.12.0](https://github.com/charmbracelet/charm/releases/tag/v0.12.0), 1 day ago) - The Charm Tool and Library 🌟
+- [minio/mc](https://github.com/minio/mc) ([RELEASE.2022-04-26T18-00-22Z](https://github.com/minio/mc/releases/tag/RELEASE.2022-04-26T18-00-22Z), 4 days ago) - MinIO Client is a replacement for ls, cp, mkdir, diff and rsync commands for filesystems and object storage.
 - [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) ([v1.8.3](https://github.com/goreleaser/goreleaser/releases/tag/v1.8.3), 1 week ago) - Deliver Go binaries as fast and easily as possible
 - [charmbracelet/wishlist](https://github.com/charmbracelet/wishlist) ([v0.4.0](https://github.com/charmbracelet/wishlist/releases/tag/v0.4.0), 2 weeks ago) - The SSH directory ✨
 - [muesli/mango-cobra](https://github.com/muesli/mango-cobra) ([v1.1.0](https://github.com/muesli/mango-cobra/releases/tag/v1.1.0), 2 weeks ago) - cobra adapter for mango
@@ -48,11 +48,11 @@ Want your own self-generating profile page? Check out [readme-scribe](https://gi
 
 #### ⭐ Recent stars
 
-- [aymanbagabas/go-osc52](https://github.com/aymanbagabas/go-osc52) - Golang terminal ANSI OSC52 wrapper. Copy text to clipboard from anywhere. (today)
-- [scottbez1/smartknob](https://github.com/scottbez1/smartknob) - Haptic input knob with software-defined endstops and virtual detents (today)
-- [crazy-max/undock](https://github.com/crazy-max/undock) - Extract contents of a container image in a local folder (today)
-- [pemistahl/lingua-go](https://github.com/pemistahl/lingua-go) - 👄 The most accurate natural language detection library for Go, suitable for long and short text alike (today)
-- [ory/dockertest](https://github.com/ory/dockertest) - Write better integration tests! Dockertest helps you boot up ephermal docker images for your Go tests with minimal work. (today)
+- [aymanbagabas/go-osc52](https://github.com/aymanbagabas/go-osc52) - Golang terminal ANSI OSC52 wrapper. Copy text to clipboard from anywhere. (1 day ago)
+- [scottbez1/smartknob](https://github.com/scottbez1/smartknob) - Haptic input knob with software-defined endstops and virtual detents (1 day ago)
+- [crazy-max/undock](https://github.com/crazy-max/undock) - Extract contents of a container image in a local folder (1 day ago)
+- [pemistahl/lingua-go](https://github.com/pemistahl/lingua-go) - 👄 The most accurate natural language detection library for Go, suitable for long and short text alike (1 day ago)
+- [ory/dockertest](https://github.com/ory/dockertest) - Write better integration tests! Dockertest helps you boot up ephermal docker images for your Go tests with minimal work. (1 day ago)
 
 #### ❤️ These awesome people sponsor me (thank you!)
 
@@ -60,7 +60,7 @@ Want your own self-generating profile page? Check out [readme-scribe](https://gi
 - [nkpremices](https://github.com/nkpremices) (7 months ago)
 - [crazy-max](https://github.com/crazy-max) (7 months ago)
 - [ocelotsloth](https://github.com/ocelotsloth) (10 months ago)
-- [angristan](https://github.com/angristan) (10 months ago)
+- [angristan](https://github.com/angristan) (11 months ago)
 
 #### 💬 Feedback
 
