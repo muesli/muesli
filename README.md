@@ -48,11 +48,11 @@ Want your own self-generating profile page? Check out [readme-scribe](https://gi
 
 #### ⭐ Recent stars
 
+- [fedeztk/got](https://github.com/fedeztk/got) - Translating TUI written in go using simplytranslate&#39;s API (today)
 - [blackmann/go-gurl](https://github.com/blackmann/go-gurl) - Curl TUI with Go as Postman replacement (1 day ago)
 - [linuxserver/docker-wireguard](https://github.com/linuxserver/docker-wireguard) (1 day ago)
 - [aymanbagabas/go-osc52](https://github.com/aymanbagabas/go-osc52) - Golang terminal ANSI OSC52 wrapper. Copy text to clipboard from anywhere. (2 days ago)
 - [scottbez1/smartknob](https://github.com/scottbez1/smartknob) - Haptic input knob with software-defined endstops and virtual detents (2 days ago)
-- [crazy-max/undock](https://github.com/crazy-max/undock) - Extract contents of a container image in a local folder (2 days ago)
 
 #### ❤️ These awesome people sponsor me (thank you!)
 
