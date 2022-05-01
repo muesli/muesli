@@ -14,7 +14,7 @@ Want your own self-generating profile page? Check out [readme-scribe](https://gi
 
 - [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) - A powerful little TUI framework 🏗 (2 weeks ago)
 - [charmbracelet/lipgloss](https://github.com/charmbracelet/lipgloss) - Style definitions for nice terminal layouts 👄 (3 weeks ago)
-- [muesli/gitty](https://github.com/muesli/gitty) - Contextual information about your git projects, right on the command-line (4 weeks ago)
+- [muesli/gitty](https://github.com/muesli/gitty) - Contextual information about your git projects, right on the command-line (1 month ago)
 - [charmbracelet/meta](https://github.com/charmbracelet/meta) - Charm&#39;s meta configuration files 🫥 (1 month ago)
 - [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) - Deliver Go binaries as fast and easily as possible (1 month ago)
 
@@ -28,8 +28,8 @@ Want your own self-generating profile page? Check out [readme-scribe](https://gi
 
 #### 🔭 Latest releases I've contributed to
 
-- [charmbracelet/charm](https://github.com/charmbracelet/charm) ([v0.12.0](https://github.com/charmbracelet/charm/releases/tag/v0.12.0), 1 day ago) - The Charm Tool and Library 🌟
-- [minio/mc](https://github.com/minio/mc) ([RELEASE.2022-04-26T18-00-22Z](https://github.com/minio/mc/releases/tag/RELEASE.2022-04-26T18-00-22Z), 4 days ago) - MinIO Client is a replacement for ls, cp, mkdir, diff and rsync commands for filesystems and object storage.
+- [charmbracelet/charm](https://github.com/charmbracelet/charm) ([v0.12.0](https://github.com/charmbracelet/charm/releases/tag/v0.12.0), 2 days ago) - The Charm Tool and Library 🌟
+- [minio/mc](https://github.com/minio/mc) ([RELEASE.2022-04-26T18-00-22Z](https://github.com/minio/mc/releases/tag/RELEASE.2022-04-26T18-00-22Z), 5 days ago) - MinIO Client is a replacement for ls, cp, mkdir, diff and rsync commands for filesystems and object storage.
 - [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) ([v1.8.3](https://github.com/goreleaser/goreleaser/releases/tag/v1.8.3), 1 week ago) - Deliver Go binaries as fast and easily as possible
 - [charmbracelet/wishlist](https://github.com/charmbracelet/wishlist) ([v0.4.0](https://github.com/charmbracelet/wishlist/releases/tag/v0.4.0), 2 weeks ago) - The SSH directory ✨
 - [muesli/mango-cobra](https://github.com/muesli/mango-cobra) ([v1.1.0](https://github.com/muesli/mango-cobra/releases/tag/v1.1.0), 2 weeks ago) - cobra adapter for mango
@@ -48,11 +48,11 @@ Want your own self-generating profile page? Check out [readme-scribe](https://gi
 
 #### ⭐ Recent stars
 
-- [blackmann/go-gurl](https://github.com/blackmann/go-gurl) - Curl TUI with Go as Postman replacement (today)
-- [linuxserver/docker-wireguard](https://github.com/linuxserver/docker-wireguard) (today)
-- [aymanbagabas/go-osc52](https://github.com/aymanbagabas/go-osc52) - Golang terminal ANSI OSC52 wrapper. Copy text to clipboard from anywhere. (1 day ago)
-- [scottbez1/smartknob](https://github.com/scottbez1/smartknob) - Haptic input knob with software-defined endstops and virtual detents (1 day ago)
-- [crazy-max/undock](https://github.com/crazy-max/undock) - Extract contents of a container image in a local folder (1 day ago)
+- [blackmann/go-gurl](https://github.com/blackmann/go-gurl) - Curl TUI with Go as Postman replacement (1 day ago)
+- [linuxserver/docker-wireguard](https://github.com/linuxserver/docker-wireguard) (1 day ago)
+- [aymanbagabas/go-osc52](https://github.com/aymanbagabas/go-osc52) - Golang terminal ANSI OSC52 wrapper. Copy text to clipboard from anywhere. (2 days ago)
+- [scottbez1/smartknob](https://github.com/scottbez1/smartknob) - Haptic input knob with software-defined endstops and virtual detents (2 days ago)
+- [crazy-max/undock](https://github.com/crazy-max/undock) - Extract contents of a container image in a local folder (2 days ago)
 
 #### ❤️ These awesome people sponsor me (thank you!)
 
