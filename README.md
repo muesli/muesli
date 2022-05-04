@@ -48,11 +48,11 @@ Want your own self-generating profile page? Check out [readme-scribe](https://gi
 
 #### ⭐ Recent stars
 
+- [0xRavenBlack/fluffy_mastodon_logo](https://github.com/0xRavenBlack/fluffy_mastodon_logo) - A fluffy 3D version of the Mastodon logo [Blender] (today)
 - [fedeztk/got](https://github.com/fedeztk/got) - Translating TUI written in go using simplytranslate&#39;s API (3 days ago)
 - [blackmann/go-gurl](https://github.com/blackmann/go-gurl) - Curl TUI with Go as Postman replacement (4 days ago)
 - [linuxserver/docker-wireguard](https://github.com/linuxserver/docker-wireguard) (4 days ago)
 - [aymanbagabas/go-osc52](https://github.com/aymanbagabas/go-osc52) - Golang terminal ANSI OSC52 wrapper. Copy text to clipboard from anywhere. (5 days ago)
-- [scottbez1/smartknob](https://github.com/scottbez1/smartknob) - Haptic input knob with software-defined endstops and virtual detents (5 days ago)
 
 #### ❤️ These awesome people sponsor me (thank you!)
 
