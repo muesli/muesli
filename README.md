@@ -36,6 +36,7 @@ Want your own self-generating profile page? Check out [readme-scribe](https://gi
 
 #### 🔨 Latest Pull Requests I published
 
+- [fix: add melt binary to .gitignore](https://github.com/charmbracelet/melt/pull/21) on [charmbracelet/melt](https://github.com/charmbracelet/melt) (today)
 - [ci: add benchmark test for Style.Render](https://github.com/charmbracelet/lipgloss/pull/76) on [charmbracelet/lipgloss](https://github.com/charmbracelet/lipgloss) (4 weeks ago)
 
 #### 📜 My recent blog posts
