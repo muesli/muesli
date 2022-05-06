@@ -50,11 +50,11 @@ Want your own self-generating profile page? Check out [readme-scribe](https://gi
 
 #### ⭐ Recent stars
 
+- [danielgtaylor/restish](https://github.com/danielgtaylor/restish) - Restish is a CLI for interacting with REST-ish HTTP APIs with some nice features built-in (today)
+- [1xyz/pryrite](https://github.com/1xyz/pryrite) - Pryrite, interactively execute shell code blocks in a markdown file (today)
 - [0xRavenBlack/fluffy_mastodon_logo](https://github.com/0xRavenBlack/fluffy_mastodon_logo) - A fluffy 3D version of the Mastodon logo [Blender] (2 days ago)
 - [fedeztk/got](https://github.com/fedeztk/got) - Translating TUI written in go using simplytranslate&#39;s API (5 days ago)
 - [blackmann/go-gurl](https://github.com/blackmann/go-gurl) - Curl TUI with Go as Postman replacement (6 days ago)
-- [linuxserver/docker-wireguard](https://github.com/linuxserver/docker-wireguard) (6 days ago)
-- [aymanbagabas/go-osc52](https://github.com/aymanbagabas/go-osc52) - Golang terminal ANSI OSC52 wrapper. Copy text to clipboard from anywhere. (1 week ago)
 
 #### ❤️ These awesome people sponsor me (thank you!)
 
