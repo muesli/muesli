@@ -12,11 +12,11 @@ Want your own self-generating profile page? Check out [readme-scribe](https://gi
 
 #### 👷 Check out what I'm currently working on
 
+- [charmbracelet/melt](https://github.com/charmbracelet/melt) - 🧊 Backup and restore Ed25519 SSH keys with seed words. (today)
+- [muesli/sasquatch](https://github.com/muesli/sasquatch) - A simple data encryption library (today)
 - [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) - A powerful little TUI framework 🏗 (3 weeks ago)
 - [charmbracelet/lipgloss](https://github.com/charmbracelet/lipgloss) - Style definitions for nice terminal layouts 👄 (4 weeks ago)
 - [muesli/gitty](https://github.com/muesli/gitty) - Contextual information about your git projects, right on the command-line (1 month ago)
-- [charmbracelet/meta](https://github.com/charmbracelet/meta) - Charm&#39;s meta configuration files 🫥 (1 month ago)
-- [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) - Deliver Go binaries as fast and easily as possible (1 month ago)
 
 #### 🌱 My latest projects
 
@@ -36,6 +36,7 @@ Want your own self-generating profile page? Check out [readme-scribe](https://gi
 
 #### 🔨 Latest Pull Requests I published
 
+- [ci: bump deps](https://github.com/muesli/sasquatch/pull/6) on [muesli/sasquatch](https://github.com/muesli/sasquatch) (today)
 - [fix: add melt binary to .gitignore](https://github.com/charmbracelet/melt/pull/21) on [charmbracelet/melt](https://github.com/charmbracelet/melt) (today)
 - [ci: add benchmark test for Style.Render](https://github.com/charmbracelet/lipgloss/pull/76) on [charmbracelet/lipgloss](https://github.com/charmbracelet/lipgloss) (4 weeks ago)
 
