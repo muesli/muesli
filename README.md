@@ -12,9 +12,9 @@ Want your own self-generating profile page? Check out [readme-scribe](https://gi
 
 #### 👷 Check out what I'm currently working on
 
-- [muesli/sasquatch](https://github.com/muesli/sasquatch) - A simple data encryption library (1 day ago)
-- [charmbracelet/melt](https://github.com/charmbracelet/melt) - 🧊 Backup and restore Ed25519 SSH keys with seed words. (1 day ago)
-- [charmbracelet/charm](https://github.com/charmbracelet/charm) - The Charm Tool and Library 🌟 (1 day ago)
+- [muesli/sasquatch](https://github.com/muesli/sasquatch) - A simple data encryption library (2 days ago)
+- [charmbracelet/melt](https://github.com/charmbracelet/melt) - 🧊 Backup and restore Ed25519 SSH keys with seed words. (2 days ago)
+- [charmbracelet/charm](https://github.com/charmbracelet/charm) - The Charm Tool and Library 🌟 (2 days ago)
 - [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) - A powerful little TUI framework 🏗 (3 weeks ago)
 - [charmbracelet/lipgloss](https://github.com/charmbracelet/lipgloss) - Style definitions for nice terminal layouts 👄 (1 month ago)
 
@@ -28,16 +28,16 @@ Want your own self-generating profile page? Check out [readme-scribe](https://gi
 
 #### 🔭 Latest releases I've contributed to
 
-- [charmbracelet/charm](https://github.com/charmbracelet/charm) ([v0.12.1](https://github.com/charmbracelet/charm/releases/tag/v0.12.1), 1 day ago) - The Charm Tool and Library 🌟
-- [minio/mc](https://github.com/minio/mc) ([RELEASE.2022-05-04T06-07-55Z](https://github.com/minio/mc/releases/tag/RELEASE.2022-05-04T06-07-55Z), 3 days ago) - MinIO Client is a replacement for ls, cp, mkdir, diff and rsync commands for filesystems and object storage.
+- [charmbracelet/charm](https://github.com/charmbracelet/charm) ([v0.12.1](https://github.com/charmbracelet/charm/releases/tag/v0.12.1), 2 days ago) - The Charm Tool and Library 🌟
+- [minio/mc](https://github.com/minio/mc) ([RELEASE.2022-05-04T06-07-55Z](https://github.com/minio/mc/releases/tag/RELEASE.2022-05-04T06-07-55Z), 4 days ago) - MinIO Client is a replacement for ls, cp, mkdir, diff and rsync commands for filesystems and object storage.
 - [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) ([v1.8.3](https://github.com/goreleaser/goreleaser/releases/tag/v1.8.3), 2 weeks ago) - Deliver Go binaries as fast and easily as possible
 - [charmbracelet/wishlist](https://github.com/charmbracelet/wishlist) ([v0.4.0](https://github.com/charmbracelet/wishlist/releases/tag/v0.4.0), 3 weeks ago) - The SSH directory ✨
 - [muesli/mango-cobra](https://github.com/muesli/mango-cobra) ([v1.1.0](https://github.com/muesli/mango-cobra/releases/tag/v1.1.0), 3 weeks ago) - cobra adapter for mango
 
 #### 🔨 Latest Pull Requests I published
 
-- [ci: bump deps](https://github.com/muesli/sasquatch/pull/6) on [muesli/sasquatch](https://github.com/muesli/sasquatch) (1 day ago)
-- [fix: add melt binary to .gitignore](https://github.com/charmbracelet/melt/pull/21) on [charmbracelet/melt](https://github.com/charmbracelet/melt) (1 day ago)
+- [ci: bump deps](https://github.com/muesli/sasquatch/pull/6) on [muesli/sasquatch](https://github.com/muesli/sasquatch) (2 days ago)
+- [fix: add melt binary to .gitignore](https://github.com/charmbracelet/melt/pull/21) on [charmbracelet/melt](https://github.com/charmbracelet/melt) (2 days ago)
 - [ci: add benchmark test for Style.Render](https://github.com/charmbracelet/lipgloss/pull/76) on [charmbracelet/lipgloss](https://github.com/charmbracelet/lipgloss) (1 month ago)
 
 #### 📜 My recent blog posts
@@ -46,15 +46,15 @@ Want your own self-generating profile page? Check out [readme-scribe](https://gi
 - [Installing Arch Linux with Full Disk Encryption](https://fribbledom.com/posts/encrypted-arch-install/) (2 years ago)
 - [Remotely Installing a Fully-Encrypted Debian Server](https://fribbledom.com/posts/encrypted-remote-debian-install/) (3 years ago)
 - [Gamut, a Go Package to Manage Color Palettes](https://fribbledom.com/posts/gamut-package-to-handle-color-palettes/) (3 years ago)
-- [An Algorithm to Generate Color Palettes](https://fribbledom.com/posts/an-algorithm-to-generate-color-palettes/) (3 years ago)
+- [An Algorithm to Generate Color Palettes](https://fribbledom.com/posts/an-algorithm-to-generate-color-palettes/) (4 years ago)
 
 #### ⭐ Recent stars
 
-- [rubiojr/rclone-charmfs](https://github.com/rubiojr/rclone-charmfs) - CharmFS backend for Rclone (today)
-- [BetaPictoris/dict](https://github.com/BetaPictoris/dict) - 📔 View the dictionary through the CLI (today)
-- [danielgtaylor/restish](https://github.com/danielgtaylor/restish) - Restish is a CLI for interacting with REST-ish HTTP APIs with some nice features built-in (1 day ago)
-- [1xyz/pryrite](https://github.com/1xyz/pryrite) - Pryrite, interactively execute shell code blocks in a markdown file (1 day ago)
-- [0xRavenBlack/fluffy_mastodon_logo](https://github.com/0xRavenBlack/fluffy_mastodon_logo) - A fluffy 3D version of the Mastodon logo [Blender] (3 days ago)
+- [rubiojr/rclone-charmfs](https://github.com/rubiojr/rclone-charmfs) - CharmFS backend for Rclone (1 day ago)
+- [BetaPictoris/dict](https://github.com/BetaPictoris/dict) - 📔 View the dictionary through the CLI (1 day ago)
+- [danielgtaylor/restish](https://github.com/danielgtaylor/restish) - Restish is a CLI for interacting with REST-ish HTTP APIs with some nice features built-in (2 days ago)
+- [1xyz/pryrite](https://github.com/1xyz/pryrite) - Pryrite, interactively execute shell code blocks in a markdown file (2 days ago)
+- [0xRavenBlack/fluffy_mastodon_logo](https://github.com/0xRavenBlack/fluffy_mastodon_logo) - A fluffy 3D version of the Mastodon logo [Blender] (4 days ago)
 
 #### ❤️ These awesome people sponsor me (thank you!)
 
