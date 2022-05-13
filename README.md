@@ -12,10 +12,10 @@ Want your own self-generating profile page? Check out [readme-scribe](https://gi
 
 #### 👷 Check out what I'm currently working on
 
-- [muesli/gitflux](https://github.com/muesli/gitflux) - Track your GitHub projects in InfluxDB and create beautiful graphs with Grafana (3 days ago)
-- [muesli/sasquatch](https://github.com/muesli/sasquatch) - A simple data encryption library (6 days ago)
-- [charmbracelet/charm](https://github.com/charmbracelet/charm) - The Charm Tool and Library 🌟 (6 days ago)
-- [charmbracelet/melt](https://github.com/charmbracelet/melt) - 🧊 Backup and restore Ed25519 SSH keys with seed words. (6 days ago)
+- [muesli/gitflux](https://github.com/muesli/gitflux) - Track your GitHub projects in InfluxDB and create beautiful graphs with Grafana (4 days ago)
+- [muesli/sasquatch](https://github.com/muesli/sasquatch) - A simple data encryption library (1 week ago)
+- [charmbracelet/charm](https://github.com/charmbracelet/charm) - The Charm Tool and Library 🌟 (1 week ago)
+- [charmbracelet/melt](https://github.com/charmbracelet/melt) - 🧊 Backup and restore Ed25519 SSH keys with seed words. (1 week ago)
 - [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) - A powerful little TUI framework 🏗 (1 month ago)
 
 #### 🌱 My latest projects
@@ -28,16 +28,16 @@ Want your own self-generating profile page? Check out [readme-scribe](https://gi
 
 #### 🔭 Latest releases I've contributed to
 
-- [charmbracelet/melt](https://github.com/charmbracelet/melt) ([v0.4.1](https://github.com/charmbracelet/melt/releases/tag/v0.4.1), 1 day ago) - 🧊 Backup and restore Ed25519 SSH keys with seed words.
-- [charmbracelet/wishlist](https://github.com/charmbracelet/wishlist) ([v0.5.0](https://github.com/charmbracelet/wishlist/releases/tag/v0.5.0), 1 day ago) - The SSH directory ✨
-- [charmbracelet/wish](https://github.com/charmbracelet/wish) ([v0.4.0](https://github.com/charmbracelet/wish/releases/tag/v0.4.0), 1 day ago) - Make SSH apps, just like that! 💫
-- [minio/mc](https://github.com/minio/mc) ([RELEASE.2022-05-09T04-08-26Z](https://github.com/minio/mc/releases/tag/RELEASE.2022-05-09T04-08-26Z), 3 days ago) - MinIO Client is a replacement for ls, cp, mkdir, diff and rsync commands for filesystems and object storage.
-- [charmbracelet/charm](https://github.com/charmbracelet/charm) ([v0.12.1](https://github.com/charmbracelet/charm/releases/tag/v0.12.1), 6 days ago) - The Charm Tool and Library 🌟
+- [charmbracelet/melt](https://github.com/charmbracelet/melt) ([v0.4.1](https://github.com/charmbracelet/melt/releases/tag/v0.4.1), 2 days ago) - 🧊 Backup and restore Ed25519 SSH keys with seed words.
+- [charmbracelet/wishlist](https://github.com/charmbracelet/wishlist) ([v0.5.0](https://github.com/charmbracelet/wishlist/releases/tag/v0.5.0), 2 days ago) - The SSH directory ✨
+- [charmbracelet/wish](https://github.com/charmbracelet/wish) ([v0.4.0](https://github.com/charmbracelet/wish/releases/tag/v0.4.0), 2 days ago) - Make SSH apps, just like that! 💫
+- [minio/mc](https://github.com/minio/mc) ([RELEASE.2022-05-09T04-08-26Z](https://github.com/minio/mc/releases/tag/RELEASE.2022-05-09T04-08-26Z), 4 days ago) - MinIO Client is a replacement for ls, cp, mkdir, diff and rsync commands for filesystems and object storage.
+- [charmbracelet/charm](https://github.com/charmbracelet/charm) ([v0.12.1](https://github.com/charmbracelet/charm/releases/tag/v0.12.1), 1 week ago) - The Charm Tool and Library 🌟
 
 #### 🔨 Latest Pull Requests I published
 
-- [ci: bump deps](https://github.com/muesli/sasquatch/pull/6) on [muesli/sasquatch](https://github.com/muesli/sasquatch) (6 days ago)
-- [fix: add melt binary to .gitignore](https://github.com/charmbracelet/melt/pull/21) on [charmbracelet/melt](https://github.com/charmbracelet/melt) (6 days ago)
+- [ci: bump deps](https://github.com/muesli/sasquatch/pull/6) on [muesli/sasquatch](https://github.com/muesli/sasquatch) (1 week ago)
+- [fix: add melt binary to .gitignore](https://github.com/charmbracelet/melt/pull/21) on [charmbracelet/melt](https://github.com/charmbracelet/melt) (1 week ago)
 - [ci: add benchmark test for Style.Render](https://github.com/charmbracelet/lipgloss/pull/76) on [charmbracelet/lipgloss](https://github.com/charmbracelet/lipgloss) (1 month ago)
 
 #### 📜 My recent blog posts
@@ -50,10 +50,10 @@ Want your own self-generating profile page? Check out [readme-scribe](https://gi
 
 #### ⭐ Recent stars
 
-- [rubiojr/rclone-charmfs](https://github.com/rubiojr/rclone-charmfs) - CharmFS backend for Rclone (5 days ago)
-- [BetaPictoris/dict](https://github.com/BetaPictoris/dict) - 📔 View the dictionary through the CLI (5 days ago)
-- [danielgtaylor/restish](https://github.com/danielgtaylor/restish) - Restish is a CLI for interacting with REST-ish HTTP APIs with some nice features built-in (6 days ago)
-- [1xyz/pryrite](https://github.com/1xyz/pryrite) - Pryrite, interactively execute shell code blocks in a markdown file (6 days ago)
+- [rubiojr/rclone-charmfs](https://github.com/rubiojr/rclone-charmfs) - CharmFS backend for Rclone (6 days ago)
+- [BetaPictoris/dict](https://github.com/BetaPictoris/dict) - 📔 View the dictionary through the CLI (6 days ago)
+- [danielgtaylor/restish](https://github.com/danielgtaylor/restish) - Restish is a CLI for interacting with REST-ish HTTP APIs with some nice features built-in (1 week ago)
+- [1xyz/pryrite](https://github.com/1xyz/pryrite) - Pryrite, interactively execute shell code blocks in a markdown file (1 week ago)
 - [0xRavenBlack/fluffy_mastodon_logo](https://github.com/0xRavenBlack/fluffy_mastodon_logo) - A fluffy 3D version of the Mastodon logo [Blender] (1 week ago)
 
 #### ❤️ These awesome people sponsor me (thank you!)
