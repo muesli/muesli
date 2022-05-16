@@ -12,11 +12,11 @@ Want your own self-generating profile page? Check out [readme-scribe](https://gi
 
 #### 👷 Check out what I'm currently working on
 
+- [muesli/obs-scene-switcher](https://github.com/muesli/obs-scene-switcher) - Tracks your active window and switches OBS scenes accordingly (today)
 - [muesli/gitflux](https://github.com/muesli/gitflux) - Track your GitHub projects in InfluxDB and create beautiful graphs with Grafana (1 week ago)
-- [muesli/sasquatch](https://github.com/muesli/sasquatch) - A simple data encryption library (1 week ago)
 - [charmbracelet/charm](https://github.com/charmbracelet/charm) - The Charm Tool and Library 🌟 (1 week ago)
+- [muesli/sasquatch](https://github.com/muesli/sasquatch) - A simple data encryption library (1 week ago)
 - [charmbracelet/melt](https://github.com/charmbracelet/melt) - 🧊 Backup and restore Ed25519 SSH keys with seed words. (1 week ago)
-- [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) - A powerful little TUI framework 🏗 (1 month ago)
 
 #### 🌱 My latest projects
 
