@@ -28,9 +28,9 @@ Want your own self-generating profile page? Check out [readme-scribe](https://gi
 
 #### 🔭 Latest releases I've contributed to
 
-- [charmbracelet/melt](https://github.com/charmbracelet/melt) ([v0.4.1](https://github.com/charmbracelet/melt/releases/tag/v0.4.1), 5 days ago) - 🧊 Backup and restore Ed25519 SSH keys with seed words.
-- [charmbracelet/wishlist](https://github.com/charmbracelet/wishlist) ([v0.5.0](https://github.com/charmbracelet/wishlist/releases/tag/v0.5.0), 5 days ago) - The SSH directory ✨
-- [charmbracelet/wish](https://github.com/charmbracelet/wish) ([v0.4.0](https://github.com/charmbracelet/wish/releases/tag/v0.4.0), 5 days ago) - Make SSH apps, just like that! 💫
+- [charmbracelet/melt](https://github.com/charmbracelet/melt) ([v0.4.1](https://github.com/charmbracelet/melt/releases/tag/v0.4.1), 6 days ago) - 🧊 Backup and restore Ed25519 SSH keys with seed words.
+- [charmbracelet/wishlist](https://github.com/charmbracelet/wishlist) ([v0.5.0](https://github.com/charmbracelet/wishlist/releases/tag/v0.5.0), 6 days ago) - The SSH directory ✨
+- [charmbracelet/wish](https://github.com/charmbracelet/wish) ([v0.4.0](https://github.com/charmbracelet/wish/releases/tag/v0.4.0), 6 days ago) - Make SSH apps, just like that! 💫
 - [minio/mc](https://github.com/minio/mc) ([RELEASE.2022-05-09T04-08-26Z](https://github.com/minio/mc/releases/tag/RELEASE.2022-05-09T04-08-26Z), 1 week ago) - MinIO Client is a replacement for ls, cp, mkdir, diff and rsync commands for filesystems and object storage.
 - [charmbracelet/charm](https://github.com/charmbracelet/charm) ([v0.12.1](https://github.com/charmbracelet/charm/releases/tag/v0.12.1), 1 week ago) - The Charm Tool and Library 🌟
 
@@ -50,7 +50,7 @@ Want your own self-generating profile page? Check out [readme-scribe](https://gi
 
 #### ⭐ Recent stars
 
-- [benhsm/minesweeper](https://github.com/benhsm/minesweeper) - A simple terminal-based implementation of Minesweeper (2 days ago)
+- [benhsm/minesweeper](https://github.com/benhsm/minesweeper) - A simple terminal-based implementation of Minesweeper (3 days ago)
 - [rubiojr/rclone-charmfs](https://github.com/rubiojr/rclone-charmfs) - CharmFS backend for Rclone (1 week ago)
 - [BetaPictoris/dict](https://github.com/BetaPictoris/dict) - 📔 View the dictionary through the CLI (1 week ago)
 - [danielgtaylor/restish](https://github.com/danielgtaylor/restish) - Restish is a CLI for interacting with REST-ish HTTP APIs with some nice features built-in (1 week ago)
