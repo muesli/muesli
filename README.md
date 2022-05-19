@@ -51,11 +51,11 @@ Want your own self-generating profile page? Check out [readme-scribe](https://gi
 
 #### ⭐ Recent stars
 
+- [taigrr/ssh-wars](https://github.com/taigrr/ssh-wars) - charm / bubbletea version of towel.blinkenlights.nl (today)
 - [zricethezav/gitleaks](https://github.com/zricethezav/gitleaks) - Scan git repos (or files) for secrets using regex and entropy 🔑 (1 day ago)
 - [bloznelis/typioca](https://github.com/bloznelis/typioca) - Cosy typing speed tester (2 days ago)
 - [benhsm/minesweeper](https://github.com/benhsm/minesweeper) - A simple terminal-based implementation of Minesweeper (5 days ago)
 - [rubiojr/rclone-charmfs](https://github.com/rubiojr/rclone-charmfs) - CharmFS backend for Rclone (1 week ago)
-- [BetaPictoris/dict](https://github.com/BetaPictoris/dict) - 📔 View the dictionary through the CLI (1 week ago)
 
 #### ❤️ These awesome people sponsor me (thank you!)
 
