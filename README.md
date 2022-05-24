@@ -39,7 +39,6 @@ Want your own self-generating profile page? Check out [readme-scribe](https://gi
 - [fix: make linter happy](https://github.com/muesli/markscribe/pull/44) on [muesli/markscribe](https://github.com/muesli/markscribe) (6 days ago)
 - [ci: bump deps](https://github.com/muesli/sasquatch/pull/6) on [muesli/sasquatch](https://github.com/muesli/sasquatch) (2 weeks ago)
 - [fix: add melt binary to .gitignore](https://github.com/charmbracelet/melt/pull/21) on [charmbracelet/melt](https://github.com/charmbracelet/melt) (2 weeks ago)
-- [ci: add benchmark test for Style.Render](https://github.com/charmbracelet/lipgloss/pull/76) on [charmbracelet/lipgloss](https://github.com/charmbracelet/lipgloss) (1 month ago)
 
 #### 📜 My recent blog posts
 
