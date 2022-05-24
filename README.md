@@ -37,7 +37,6 @@ Want your own self-generating profile page? Check out [readme-scribe](https://gi
 #### 🔨 Latest Pull Requests I published
 
 - [fix: make linter happy](https://github.com/muesli/markscribe/pull/44) on [muesli/markscribe](https://github.com/muesli/markscribe) (6 days ago)
-- [ci: bump deps](https://github.com/muesli/sasquatch/pull/6) on [muesli/sasquatch](https://github.com/muesli/sasquatch) (2 weeks ago)
 
 #### 📜 My recent blog posts
 
