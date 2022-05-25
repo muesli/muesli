@@ -12,8 +12,8 @@ Want your own self-generating profile page? Check out [readme-scribe](https://gi
 
 #### 👷 Check out what I'm currently working on
 
-- [muesli/elvish-libs](https://github.com/muesli/elvish-libs) - Libs / Themes for elvish (5 days ago)
-- [muesli/markscribe](https://github.com/muesli/markscribe) - Your personal markdown scribe with template-engine and Git(Hub) &amp; RSS powers 📜 (5 days ago)
+- [muesli/elvish-libs](https://github.com/muesli/elvish-libs) - Libs / Themes for elvish (6 days ago)
+- [muesli/markscribe](https://github.com/muesli/markscribe) - Your personal markdown scribe with template-engine and Git(Hub) &amp; RSS powers 📜 (6 days ago)
 - [muesli/obs-scene-switcher](https://github.com/muesli/obs-scene-switcher) - Tracks your active window and switches OBS scenes accordingly (1 week ago)
 - [muesli/gitflux](https://github.com/muesli/gitflux) - Track your GitHub projects in InfluxDB and create beautiful graphs with Grafana (2 weeks ago)
 - [charmbracelet/melt](https://github.com/charmbracelet/melt) - 🧊 Backup and restore Ed25519 SSH keys with seed words. (2 weeks ago)
@@ -28,15 +28,15 @@ Want your own self-generating profile page? Check out [readme-scribe](https://gi
 
 #### 🔭 Latest releases I've contributed to
 
-- [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) ([v1.9.1](https://github.com/goreleaser/goreleaser/releases/tag/v1.9.1), 4 days ago) - Deliver Go binaries as fast and easily as possible
-- [charmbracelet/melt](https://github.com/charmbracelet/melt) ([v0.4.1](https://github.com/charmbracelet/melt/releases/tag/v0.4.1), 1 week ago) - 🧊 Backup and restore Ed25519 SSH keys with seed words.
-- [charmbracelet/wishlist](https://github.com/charmbracelet/wishlist) ([v0.5.0](https://github.com/charmbracelet/wishlist/releases/tag/v0.5.0), 1 week ago) - The SSH directory ✨
-- [charmbracelet/wish](https://github.com/charmbracelet/wish) ([v0.4.0](https://github.com/charmbracelet/wish/releases/tag/v0.4.0), 1 week ago) - Make SSH apps, just like that! 💫
+- [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) ([v1.9.1](https://github.com/goreleaser/goreleaser/releases/tag/v1.9.1), 5 days ago) - Deliver Go binaries as fast and easily as possible
+- [charmbracelet/melt](https://github.com/charmbracelet/melt) ([v0.4.1](https://github.com/charmbracelet/melt/releases/tag/v0.4.1), 2 weeks ago) - 🧊 Backup and restore Ed25519 SSH keys with seed words.
+- [charmbracelet/wishlist](https://github.com/charmbracelet/wishlist) ([v0.5.0](https://github.com/charmbracelet/wishlist/releases/tag/v0.5.0), 2 weeks ago) - The SSH directory ✨
+- [charmbracelet/wish](https://github.com/charmbracelet/wish) ([v0.4.0](https://github.com/charmbracelet/wish/releases/tag/v0.4.0), 2 weeks ago) - Make SSH apps, just like that! 💫
 - [minio/mc](https://github.com/minio/mc) ([RELEASE.2022-05-09T04-08-26Z](https://github.com/minio/mc/releases/tag/RELEASE.2022-05-09T04-08-26Z), 2 weeks ago) - MinIO Client is a replacement for ls, cp, mkdir, diff and rsync commands for filesystems and object storage.
 
 #### 🔨 Latest Pull Requests I published
 
-- [fix: make linter happy](https://github.com/muesli/markscribe/pull/44) on [muesli/markscribe](https://github.com/muesli/markscribe) (6 days ago)
+- [fix: make linter happy](https://github.com/muesli/markscribe/pull/44) on [muesli/markscribe](https://github.com/muesli/markscribe) (1 week ago)
 
 #### 📜 My recent blog posts
 
@@ -48,8 +48,8 @@ Want your own self-generating profile page? Check out [readme-scribe](https://gi
 
 #### ⭐ Recent stars
 
-- [taigrr/ssh-wars](https://github.com/taigrr/ssh-wars) - charm / bubbletea version of towel.blinkenlights.nl (5 days ago)
-- [zricethezav/gitleaks](https://github.com/zricethezav/gitleaks) - Scan git repos (or files) for secrets using regex and entropy 🔑 (6 days ago)
+- [taigrr/ssh-wars](https://github.com/taigrr/ssh-wars) - charm / bubbletea version of towel.blinkenlights.nl (6 days ago)
+- [zricethezav/gitleaks](https://github.com/zricethezav/gitleaks) - Scan git repos (or files) for secrets using regex and entropy 🔑 (1 week ago)
 - [bloznelis/typioca](https://github.com/bloznelis/typioca) - Cosy typing speed tester (1 week ago)
 - [benhsm/minesweeper](https://github.com/benhsm/minesweeper) - A simple terminal-based implementation of Minesweeper (1 week ago)
 - [rubiojr/rclone-charmfs](https://github.com/rubiojr/rclone-charmfs) - CharmFS backend for Rclone (2 weeks ago)
