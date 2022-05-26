@@ -49,7 +49,7 @@ Want your own self-generating profile page? Check out [readme-scribe](https://gi
 #### ⭐ Recent stars
 
 - [taigrr/ssh-wars](https://github.com/taigrr/ssh-wars) - charm / bubbletea version of towel.blinkenlights.nl (1 week ago)
-- [zricethezav/gitleaks](https://github.com/zricethezav/gitleaks) - Scan git repos (or files) for secrets using regex and entropy 🔑 (1 week ago)
+- [zricethezav/gitleaks](https://github.com/zricethezav/gitleaks) - Protect and discover secrets using Gitleaks 🔑 (1 week ago)
 - [bloznelis/typioca](https://github.com/bloznelis/typioca) - Cosy typing speed tester (1 week ago)
 - [benhsm/minesweeper](https://github.com/benhsm/minesweeper) - A simple terminal-based implementation of Minesweeper (1 week ago)
 - [rubiojr/rclone-charmfs](https://github.com/rubiojr/rclone-charmfs) - CharmFS backend for Rclone (2 weeks ago)
