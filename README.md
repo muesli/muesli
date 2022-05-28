@@ -28,7 +28,7 @@ Want your own self-generating profile page? Check out [readme-scribe](https://gi
 
 #### 🔭 Latest releases I've contributed to
 
-- [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) ([v1.9.2](https://github.com/goreleaser/goreleaser/releases/tag/v1.9.2), today) - Deliver Go binaries as fast and easily as possible
+- [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) ([v1.9.2](https://github.com/goreleaser/goreleaser/releases/tag/v1.9.2), 1 day ago) - Deliver Go binaries as fast and easily as possible
 - [charmbracelet/melt](https://github.com/charmbracelet/melt) ([v0.4.1](https://github.com/charmbracelet/melt/releases/tag/v0.4.1), 2 weeks ago) - 🧊 Backup and restore Ed25519 SSH keys with seed words.
 - [charmbracelet/wishlist](https://github.com/charmbracelet/wishlist) ([v0.5.0](https://github.com/charmbracelet/wishlist/releases/tag/v0.5.0), 2 weeks ago) - The SSH directory ✨
 - [charmbracelet/wish](https://github.com/charmbracelet/wish) ([v0.4.0](https://github.com/charmbracelet/wish/releases/tag/v0.4.0), 2 weeks ago) - Make SSH apps, just like that! 💫
@@ -48,11 +48,11 @@ Want your own self-generating profile page? Check out [readme-scribe](https://gi
 
 #### ⭐ Recent stars
 
-- [mfridman/tparse](https://github.com/mfridman/tparse) - CLI tool for summarizing go test output. Pipe friendly. CI/CD friendly. (1 day ago)
+- [mfridman/tparse](https://github.com/mfridman/tparse) - CLI tool for summarizing go test output. Pipe friendly. CI/CD friendly. (2 days ago)
 - [taigrr/ssh-wars](https://github.com/taigrr/ssh-wars) - charm / bubbletea version of towel.blinkenlights.nl (1 week ago)
 - [zricethezav/gitleaks](https://github.com/zricethezav/gitleaks) - Protect and discover secrets using Gitleaks 🔑 (1 week ago)
 - [bloznelis/typioca](https://github.com/bloznelis/typioca) - Cosy typing speed tester (1 week ago)
-- [benhsm/minesweeper](https://github.com/benhsm/minesweeper) - A simple terminal-based implementation of Minesweeper (1 week ago)
+- [benhsm/minesweeper](https://github.com/benhsm/minesweeper) - A simple terminal-based implementation of Minesweeper (2 weeks ago)
 
 #### ❤️ These awesome people sponsor me (thank you!)
 
