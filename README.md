@@ -28,7 +28,7 @@ Want your own self-generating profile page? Check out [readme-scribe](https://gi
 
 #### 🔭 Latest releases I've contributed to
 
-- [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) ([v1.9.2](https://github.com/goreleaser/goreleaser/releases/tag/v1.9.2), 1 day ago) - Deliver Go binaries as fast and easily as possible
+- [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) ([v1.9.2](https://github.com/goreleaser/goreleaser/releases/tag/v1.9.2), 2 days ago) - Deliver Go binaries as fast and easily as possible
 - [charmbracelet/melt](https://github.com/charmbracelet/melt) ([v0.4.1](https://github.com/charmbracelet/melt/releases/tag/v0.4.1), 2 weeks ago) - 🧊 Backup and restore Ed25519 SSH keys with seed words.
 - [charmbracelet/wishlist](https://github.com/charmbracelet/wishlist) ([v0.5.0](https://github.com/charmbracelet/wishlist/releases/tag/v0.5.0), 2 weeks ago) - The SSH directory ✨
 - [charmbracelet/wish](https://github.com/charmbracelet/wish) ([v0.4.0](https://github.com/charmbracelet/wish/releases/tag/v0.4.0), 2 weeks ago) - Make SSH apps, just like that! 💫
@@ -36,7 +36,7 @@ Want your own self-generating profile page? Check out [readme-scribe](https://gi
 
 #### 🔨 Latest Pull Requests I published
 
-- [fix: don&#39;t crash when item&#39;s Author is nil](https://github.com/sheepla/srss/pull/11) on [sheepla/srss](https://github.com/sheepla/srss) (today)
+- [fix: don&#39;t crash when item&#39;s Author is nil](https://github.com/sheepla/srss/pull/11) on [sheepla/srss](https://github.com/sheepla/srss) (1 day ago)
 
 #### 📜 My recent blog posts
 
@@ -48,8 +48,8 @@ Want your own self-generating profile page? Check out [readme-scribe](https://gi
 
 #### ⭐ Recent stars
 
-- [sheepla/srss](https://github.com/sheepla/srss) - 📘 A command line RSS/ATOM/JSON feed reader (today)
-- [mfridman/tparse](https://github.com/mfridman/tparse) - CLI tool for summarizing go test output. Pipe friendly. CI/CD friendly. (2 days ago)
+- [sheepla/srss](https://github.com/sheepla/srss) - 📘 A command line RSS/ATOM/JSON feed reader (1 day ago)
+- [mfridman/tparse](https://github.com/mfridman/tparse) - CLI tool for summarizing go test output. Pipe friendly. CI/CD friendly. (3 days ago)
 - [taigrr/ssh-wars](https://github.com/taigrr/ssh-wars) - charm / bubbletea version of towel.blinkenlights.nl (1 week ago)
 - [zricethezav/gitleaks](https://github.com/zricethezav/gitleaks) - Protect and discover secrets using Gitleaks 🔑 (1 week ago)
 - [bloznelis/typioca](https://github.com/bloznelis/typioca) - Cosy typing speed tester (1 week ago)
@@ -57,7 +57,7 @@ Want your own self-generating profile page? Check out [readme-scribe](https://gi
 #### ❤️ These awesome people sponsor me (thank you!)
 
 - [twpayne](https://github.com/twpayne) (4 months ago)
-- [nkpremices](https://github.com/nkpremices) (7 months ago)
+- [nkpremices](https://github.com/nkpremices) (8 months ago)
 - [crazy-max](https://github.com/crazy-max) (8 months ago)
 - [ocelotsloth](https://github.com/ocelotsloth) (11 months ago)
 - [angristan](https://github.com/angristan) (11 months ago)
