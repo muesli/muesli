@@ -28,11 +28,11 @@ Want your own self-generating profile page? Check out [readme-scribe](https://gi
 
 #### 🔭 Latest releases I've contributed to
 
+- [muesli/termenv](https://github.com/muesli/termenv) ([v0.12.0](https://github.com/muesli/termenv/releases/tag/v0.12.0), today) - Advanced ANSI style &amp; color support for your terminal applications
 - [charmbracelet/bubbles](https://github.com/charmbracelet/bubbles) ([v0.11.0](https://github.com/charmbracelet/bubbles/releases/tag/v0.11.0), today) - TUI components for Bubble Tea 🍡
 - [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) ([v0.21.0](https://github.com/charmbracelet/bubbletea/releases/tag/v0.21.0), today) - A powerful little TUI framework 🏗
 - [charmbracelet/soft-serve](https://github.com/charmbracelet/soft-serve) ([v0.3.1](https://github.com/charmbracelet/soft-serve/releases/tag/v0.3.1), 1 day ago) - A tasty, self-hostable Git server for the command line🍦
 - [sheepla/srss](https://github.com/sheepla/srss) ([v0.0.1](https://github.com/sheepla/srss/releases/tag/v0.0.1), 4 days ago) - 📘 A command line RSS/ATOM/JSON feed reader
-- [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) ([v1.9.2](https://github.com/goreleaser/goreleaser/releases/tag/v1.9.2), 6 days ago) - Deliver Go binaries as fast and easily as possible
 
 #### 🔨 Latest Pull Requests I published
 
