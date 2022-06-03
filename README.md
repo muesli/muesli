@@ -12,7 +12,7 @@ Want your own self-generating profile page? Check out [readme-scribe](https://gi
 
 #### 👷 Check out what I'm currently working on
 
-- [sheepla/srss](https://github.com/sheepla/srss) - 📘 A command line RSS/ATOM/JSON feed reader (4 days ago)
+- [sheepla/srss](https://github.com/sheepla/srss) - 📘 A command line RSS/ATOM/JSON feed reader (5 days ago)
 - [muesli/markscribe](https://github.com/muesli/markscribe) - Your personal markdown scribe with template-engine and Git(Hub) &amp; RSS powers 📜 (2 weeks ago)
 - [muesli/elvish-libs](https://github.com/muesli/elvish-libs) - Libs / Themes for elvish (2 weeks ago)
 - [muesli/obs-scene-switcher](https://github.com/muesli/obs-scene-switcher) - Tracks your active window and switches OBS scenes accordingly (2 weeks ago)
@@ -28,15 +28,15 @@ Want your own self-generating profile page? Check out [readme-scribe](https://gi
 
 #### 🔭 Latest releases I've contributed to
 
-- [muesli/termenv](https://github.com/muesli/termenv) ([v0.12.0](https://github.com/muesli/termenv/releases/tag/v0.12.0), today) - Advanced ANSI style &amp; color support for your terminal applications
-- [charmbracelet/bubbles](https://github.com/charmbracelet/bubbles) ([v0.11.0](https://github.com/charmbracelet/bubbles/releases/tag/v0.11.0), today) - TUI components for Bubble Tea 🍡
-- [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) ([v0.21.0](https://github.com/charmbracelet/bubbletea/releases/tag/v0.21.0), today) - A powerful little TUI framework 🏗
-- [charmbracelet/soft-serve](https://github.com/charmbracelet/soft-serve) ([v0.3.1](https://github.com/charmbracelet/soft-serve/releases/tag/v0.3.1), 1 day ago) - A tasty, self-hostable Git server for the command line🍦
-- [sheepla/srss](https://github.com/sheepla/srss) ([v0.0.1](https://github.com/sheepla/srss/releases/tag/v0.0.1), 4 days ago) - 📘 A command line RSS/ATOM/JSON feed reader
+- [muesli/termenv](https://github.com/muesli/termenv) ([v0.12.0](https://github.com/muesli/termenv/releases/tag/v0.12.0), 1 day ago) - Advanced ANSI style &amp; color support for your terminal applications
+- [charmbracelet/bubbles](https://github.com/charmbracelet/bubbles) ([v0.11.0](https://github.com/charmbracelet/bubbles/releases/tag/v0.11.0), 1 day ago) - TUI components for Bubble Tea 🍡
+- [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) ([v0.21.0](https://github.com/charmbracelet/bubbletea/releases/tag/v0.21.0), 1 day ago) - A powerful little TUI framework 🏗
+- [charmbracelet/soft-serve](https://github.com/charmbracelet/soft-serve) ([v0.3.1](https://github.com/charmbracelet/soft-serve/releases/tag/v0.3.1), 2 days ago) - A tasty, self-hostable Git server for the command line🍦
+- [sheepla/srss](https://github.com/sheepla/srss) ([v0.0.1](https://github.com/sheepla/srss/releases/tag/v0.0.1), 5 days ago) - 📘 A command line RSS/ATOM/JSON feed reader
 
 #### 🔨 Latest Pull Requests I published
 
-- [fix: don&#39;t crash when item&#39;s Author is nil](https://github.com/sheepla/srss/pull/11) on [sheepla/srss](https://github.com/sheepla/srss) (5 days ago)
+- [fix: don&#39;t crash when item&#39;s Author is nil](https://github.com/sheepla/srss/pull/11) on [sheepla/srss](https://github.com/sheepla/srss) (6 days ago)
 
 #### 📜 My recent blog posts
 
@@ -48,7 +48,7 @@ Want your own self-generating profile page? Check out [readme-scribe](https://gi
 
 #### ⭐ Recent stars
 
-- [sheepla/srss](https://github.com/sheepla/srss) - 📘 A command line RSS/ATOM/JSON feed reader (5 days ago)
+- [sheepla/srss](https://github.com/sheepla/srss) - 📘 A command line RSS/ATOM/JSON feed reader (6 days ago)
 - [mfridman/tparse](https://github.com/mfridman/tparse) - CLI tool for summarizing go test output. Pipe friendly. CI/CD friendly. (1 week ago)
 - [taigrr/ssh-wars](https://github.com/taigrr/ssh-wars) - charm / bubbletea version of towel.blinkenlights.nl (2 weeks ago)
 - [zricethezav/gitleaks](https://github.com/zricethezav/gitleaks) - Protect and discover secrets using Gitleaks 🔑 (2 weeks ago)
