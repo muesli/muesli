@@ -36,6 +36,7 @@ Want your own self-generating profile page? Check out [readme-scribe](https://gi
 
 #### 🔨 Latest Pull Requests I published
 
+- [fix: add tutorials dir to dependabot config](https://github.com/charmbracelet/bubbletea/pull/332) on [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) (today)
 - [test: fix error in custom input test](https://github.com/charmbracelet/bubbletea/pull/331) on [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) (today)
 - [ci: run tests on all platforms](https://github.com/charmbracelet/bubbletea/pull/327) on [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) (1 day ago)
 - [fix: handle batched key msgs](https://github.com/charmbracelet/bubbletea/pull/326) on [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) (1 day ago)
