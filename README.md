@@ -12,7 +12,7 @@ Want your own self-generating profile page? Check out [readme-scribe](https://gi
 
 #### 👷 Check out what I'm currently working on
 
-- [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) - A powerful little TUI framework 🏗 (4 days ago)
+- [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) - A powerful little TUI framework 🏗 (today)
 - [sheepla/srss](https://github.com/sheepla/srss) - 📘 A command line RSS/ATOM/JSON feed reader (1 week ago)
 - [muesli/markscribe](https://github.com/muesli/markscribe) - Your personal markdown scribe with template-engine and Git(Hub) &amp; RSS powers 📜 (2 weeks ago)
 - [muesli/elvish-libs](https://github.com/muesli/elvish-libs) - Libs / Themes for elvish (2 weeks ago)
@@ -36,11 +36,11 @@ Want your own self-generating profile page? Check out [readme-scribe](https://gi
 
 #### 🔨 Latest Pull Requests I published
 
+- [docs: fix deprecation notes](https://github.com/charmbracelet/bubbletea/pull/339) on [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) (today)
 - [fix: add tutorials dir to dependabot config](https://github.com/charmbracelet/bubbletea/pull/332) on [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) (4 days ago)
 - [test: fix error in custom input test](https://github.com/charmbracelet/bubbletea/pull/331) on [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) (4 days ago)
 - [ci: run tests on all platforms](https://github.com/charmbracelet/bubbletea/pull/327) on [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) (5 days ago)
 - [fix: handle batched key msgs](https://github.com/charmbracelet/bubbletea/pull/326) on [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) (5 days ago)
-- [fix: don&#39;t crash when item&#39;s Author is nil](https://github.com/sheepla/srss/pull/11) on [sheepla/srss](https://github.com/sheepla/srss) (1 week ago)
 
 #### 📜 My recent blog posts
 
