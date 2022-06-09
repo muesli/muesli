@@ -12,10 +12,10 @@ Want your own self-generating profile page? Check out [readme-scribe](https://gi
 
 #### 👷 Check out what I'm currently working on
 
-- [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) - A powerful little TUI framework 🏗 (today)
+- [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) - A powerful little TUI framework 🏗 (1 day ago)
 - [sheepla/srss](https://github.com/sheepla/srss) - 📘 A command line RSS/ATOM/JSON feed reader (1 week ago)
-- [muesli/markscribe](https://github.com/muesli/markscribe) - Your personal markdown scribe with template-engine and Git(Hub) &amp; RSS powers 📜 (2 weeks ago)
-- [muesli/elvish-libs](https://github.com/muesli/elvish-libs) - Libs / Themes for elvish (2 weeks ago)
+- [muesli/markscribe](https://github.com/muesli/markscribe) - Your personal markdown scribe with template-engine and Git(Hub) &amp; RSS powers 📜 (3 weeks ago)
+- [muesli/elvish-libs](https://github.com/muesli/elvish-libs) - Libs / Themes for elvish (3 weeks ago)
 - [muesli/obs-scene-switcher](https://github.com/muesli/obs-scene-switcher) - Tracks your active window and switches OBS scenes accordingly (3 weeks ago)
 
 #### 🌱 My latest projects
@@ -28,19 +28,19 @@ Want your own self-generating profile page? Check out [readme-scribe](https://gi
 
 #### 🔭 Latest releases I've contributed to
 
-- [orlangure/gocovsh](https://github.com/orlangure/gocovsh) ([v0.4.0](https://github.com/orlangure/gocovsh/releases/tag/v0.4.0), today) - Go Coverage in your terminal: a tool for exploring Go Coverage reports from the command line 💻
-- [sheepla/srss](https://github.com/sheepla/srss) ([v0.0.3-alpha](https://github.com/sheepla/srss/releases/tag/v0.0.3-alpha), 4 days ago) - 📘 A command line RSS/ATOM/JSON feed reader
-- [muesli/termenv](https://github.com/muesli/termenv) ([v0.12.0](https://github.com/muesli/termenv/releases/tag/v0.12.0), 6 days ago) - Advanced ANSI style &amp; color support for your terminal applications
-- [charmbracelet/bubbles](https://github.com/charmbracelet/bubbles) ([v0.11.0](https://github.com/charmbracelet/bubbles/releases/tag/v0.11.0), 6 days ago) - TUI components for Bubble Tea 🍡
-- [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) ([v0.21.0](https://github.com/charmbracelet/bubbletea/releases/tag/v0.21.0), 6 days ago) - A powerful little TUI framework 🏗
+- [orlangure/gocovsh](https://github.com/orlangure/gocovsh) ([v0.4.0](https://github.com/orlangure/gocovsh/releases/tag/v0.4.0), 1 day ago) - Go Coverage in your terminal: a tool for exploring Go Coverage reports from the command line 💻
+- [sheepla/srss](https://github.com/sheepla/srss) ([v0.0.3-alpha](https://github.com/sheepla/srss/releases/tag/v0.0.3-alpha), 5 days ago) - 📘 A command line RSS/ATOM/JSON feed reader
+- [muesli/termenv](https://github.com/muesli/termenv) ([v0.12.0](https://github.com/muesli/termenv/releases/tag/v0.12.0), 1 week ago) - Advanced ANSI style &amp; color support for your terminal applications
+- [charmbracelet/bubbles](https://github.com/charmbracelet/bubbles) ([v0.11.0](https://github.com/charmbracelet/bubbles/releases/tag/v0.11.0), 1 week ago) - TUI components for Bubble Tea 🍡
+- [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) ([v0.21.0](https://github.com/charmbracelet/bubbletea/releases/tag/v0.21.0), 1 week ago) - A powerful little TUI framework 🏗
 
 #### 🔨 Latest Pull Requests I published
 
-- [docs: fix deprecation notes](https://github.com/charmbracelet/bubbletea/pull/339) on [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) (today)
-- [fix: add tutorials dir to dependabot config](https://github.com/charmbracelet/bubbletea/pull/332) on [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) (4 days ago)
-- [test: fix error in custom input test](https://github.com/charmbracelet/bubbletea/pull/331) on [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) (4 days ago)
-- [ci: run tests on all platforms](https://github.com/charmbracelet/bubbletea/pull/327) on [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) (5 days ago)
-- [fix: handle batched key msgs](https://github.com/charmbracelet/bubbletea/pull/326) on [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) (5 days ago)
+- [docs: fix deprecation notes](https://github.com/charmbracelet/bubbletea/pull/339) on [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) (1 day ago)
+- [fix: add tutorials dir to dependabot config](https://github.com/charmbracelet/bubbletea/pull/332) on [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) (5 days ago)
+- [test: fix error in custom input test](https://github.com/charmbracelet/bubbletea/pull/331) on [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) (5 days ago)
+- [ci: run tests on all platforms](https://github.com/charmbracelet/bubbletea/pull/327) on [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) (6 days ago)
+- [fix: handle batched key msgs](https://github.com/charmbracelet/bubbletea/pull/326) on [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) (6 days ago)
 
 #### 📜 My recent blog posts
 
@@ -53,8 +53,8 @@ Want your own self-generating profile page? Check out [readme-scribe](https://gi
 #### ⭐ Recent stars
 
 - [sheepla/srss](https://github.com/sheepla/srss) - 📘 A command line RSS/ATOM/JSON feed reader (1 week ago)
-- [mfridman/tparse](https://github.com/mfridman/tparse) - CLI tool for summarizing go test output. Pipe friendly. CI/CD friendly. (1 week ago)
-- [taigrr/ssh-wars](https://github.com/taigrr/ssh-wars) - charm / bubbletea version of towel.blinkenlights.nl (2 weeks ago)
+- [mfridman/tparse](https://github.com/mfridman/tparse) - CLI tool for summarizing go test output. Pipe friendly. CI/CD friendly. (2 weeks ago)
+- [taigrr/ssh-wars](https://github.com/taigrr/ssh-wars) - charm / bubbletea version of towel.blinkenlights.nl (3 weeks ago)
 - [zricethezav/gitleaks](https://github.com/zricethezav/gitleaks) - Protect and discover secrets using Gitleaks 🔑 (3 weeks ago)
 - [bloznelis/typioca](https://github.com/bloznelis/typioca) - Cosy typing speed tester (3 weeks ago)
 
