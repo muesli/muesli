@@ -28,11 +28,11 @@ Want your own self-generating profile page? Check out [readme-scribe](https://gi
 
 #### 🔭 Latest releases I've contributed to
 
+- [minio/mc](https://github.com/minio/mc) ([RELEASE.2022-06-10T22-29-12Z](https://github.com/minio/mc/releases/tag/RELEASE.2022-06-10T22-29-12Z), today) - MinIO Client is a replacement for ls, cp, mkdir, diff and rsync commands for filesystems and object storage.
 - [orlangure/gocovsh](https://github.com/orlangure/gocovsh) ([v0.4.0](https://github.com/orlangure/gocovsh/releases/tag/v0.4.0), 2 days ago) - Go Coverage in your terminal: a tool for exploring Go Coverage reports from the command line 💻
 - [sheepla/srss](https://github.com/sheepla/srss) ([v0.0.3-alpha](https://github.com/sheepla/srss/releases/tag/v0.0.3-alpha), 6 days ago) - 📘 A command line RSS/ATOM/JSON feed reader
 - [muesli/termenv](https://github.com/muesli/termenv) ([v0.12.0](https://github.com/muesli/termenv/releases/tag/v0.12.0), 1 week ago) - Advanced ANSI style &amp; color support for your terminal applications
 - [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) ([v0.21.0](https://github.com/charmbracelet/bubbletea/releases/tag/v0.21.0), 1 week ago) - A powerful little TUI framework 🏗
-- [charmbracelet/soft-serve](https://github.com/charmbracelet/soft-serve) ([v0.3.1](https://github.com/charmbracelet/soft-serve/releases/tag/v0.3.1), 1 week ago) - A tasty, self-hostable Git server for the command line🍦
 
 #### 🔨 Latest Pull Requests I published
 
