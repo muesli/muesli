@@ -13,7 +13,7 @@ Want your own self-generating profile page? Check out [readme-scribe](https://gi
 #### 👷 Check out what I'm currently working on
 
 - [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) - A powerful little TUI framework 🏗 (1 week ago)
-- [sheepla/srss](https://github.com/sheepla/srss) - 📘 A command line RSS/ATOM/JSON feed reader (2 weeks ago)
+- [sheepla/srss](https://github.com/sheepla/srss) - 📘 A command line RSS/ATOM/JSON feed reader (3 weeks ago)
 - [muesli/markscribe](https://github.com/muesli/markscribe) - Your personal markdown scribe with template-engine and Git(Hub) &amp; RSS powers 📜 (1 month ago)
 - [muesli/elvish-libs](https://github.com/muesli/elvish-libs) - Libs / Themes for elvish (1 month ago)
 - [muesli/obs-scene-switcher](https://github.com/muesli/obs-scene-switcher) - Tracks your active window and switches OBS scenes accordingly (1 month ago)
@@ -28,10 +28,10 @@ Want your own self-generating profile page? Check out [readme-scribe](https://gi
 
 #### 🔭 Latest releases I've contributed to
 
-- [minio/mc](https://github.com/minio/mc) ([RELEASE.2022-06-17T02-52-50Z](https://github.com/minio/mc/releases/tag/RELEASE.2022-06-17T02-52-50Z), 1 day ago) - MinIO Client is a replacement for ls, cp, mkdir, diff and rsync commands for filesystems and object storage.
-- [charmbracelet/wishlist](https://github.com/charmbracelet/wishlist) ([v0.6.0](https://github.com/charmbracelet/wishlist/releases/tag/v0.6.0), 1 day ago) - The SSH directory ✨
-- [charmbracelet/soft-serve](https://github.com/charmbracelet/soft-serve) ([v0.3.2](https://github.com/charmbracelet/soft-serve/releases/tag/v0.3.2), 3 days ago) - A tasty, self-hostable Git server for the command line🍦
-- [charmbracelet/wish](https://github.com/charmbracelet/wish) ([v0.5.0](https://github.com/charmbracelet/wish/releases/tag/v0.5.0), 3 days ago) - Make SSH apps, just like that! 💫
+- [minio/mc](https://github.com/minio/mc) ([RELEASE.2022-06-17T02-52-50Z](https://github.com/minio/mc/releases/tag/RELEASE.2022-06-17T02-52-50Z), 2 days ago) - MinIO Client is a replacement for ls, cp, mkdir, diff and rsync commands for filesystems and object storage.
+- [charmbracelet/wishlist](https://github.com/charmbracelet/wishlist) ([v0.6.0](https://github.com/charmbracelet/wishlist/releases/tag/v0.6.0), 2 days ago) - The SSH directory ✨
+- [charmbracelet/soft-serve](https://github.com/charmbracelet/soft-serve) ([v0.3.2](https://github.com/charmbracelet/soft-serve/releases/tag/v0.3.2), 4 days ago) - A tasty, self-hostable Git server for the command line🍦
+- [charmbracelet/wish](https://github.com/charmbracelet/wish) ([v0.5.0](https://github.com/charmbracelet/wish/releases/tag/v0.5.0), 4 days ago) - Make SSH apps, just like that! 💫
 - [orlangure/gocovsh](https://github.com/orlangure/gocovsh) ([v0.4.1](https://github.com/orlangure/gocovsh/releases/tag/v0.4.1), 1 week ago) - Go Coverage in your terminal: a tool for exploring Go Coverage reports from the command line 💻
 
 #### 🔨 Latest Pull Requests I published
@@ -46,13 +46,13 @@ Want your own self-generating profile page? Check out [readme-scribe](https://gi
 
 - [Self-hosting VSCode](https://fribbledom.com/posts/selfhosting-vscode/) (1 year ago)
 - [Installing Arch Linux with Full Disk Encryption](https://fribbledom.com/posts/encrypted-arch-install/) (3 years ago)
-- [Remotely Installing a Fully-Encrypted Debian Server](https://fribbledom.com/posts/encrypted-remote-debian-install/) (3 years ago)
+- [Remotely Installing a Fully-Encrypted Debian Server](https://fribbledom.com/posts/encrypted-remote-debian-install/) (4 years ago)
 - [Gamut, a Go Package to Manage Color Palettes](https://fribbledom.com/posts/gamut-package-to-handle-color-palettes/) (4 years ago)
 - [An Algorithm to Generate Color Palettes](https://fribbledom.com/posts/an-algorithm-to-generate-color-palettes/) (4 years ago)
 
 #### ⭐ Recent stars
 
-- [mattn/go-localereader](https://github.com/mattn/go-localereader) (today)
+- [mattn/go-localereader](https://github.com/mattn/go-localereader) (1 day ago)
 - [sheepla/srss](https://github.com/sheepla/srss) - 📘 A command line RSS/ATOM/JSON feed reader (3 weeks ago)
 - [mfridman/tparse](https://github.com/mfridman/tparse) - CLI tool for summarizing go test output. Pipe friendly. CI/CD friendly. (3 weeks ago)
 - [taigrr/ssh-wars](https://github.com/taigrr/ssh-wars) - charm / bubbletea version of towel.blinkenlights.nl (1 month ago)
