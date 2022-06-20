@@ -28,10 +28,10 @@ Want your own self-generating profile page? Check out [readme-scribe](https://gi
 
 #### 🔭 Latest releases I've contributed to
 
-- [minio/mc](https://github.com/minio/mc) ([RELEASE.2022-06-17T02-52-50Z](https://github.com/minio/mc/releases/tag/RELEASE.2022-06-17T02-52-50Z), 2 days ago) - MinIO Client is a replacement for ls, cp, mkdir, diff and rsync commands for filesystems and object storage.
-- [charmbracelet/wishlist](https://github.com/charmbracelet/wishlist) ([v0.6.0](https://github.com/charmbracelet/wishlist/releases/tag/v0.6.0), 2 days ago) - The SSH directory ✨
-- [charmbracelet/soft-serve](https://github.com/charmbracelet/soft-serve) ([v0.3.2](https://github.com/charmbracelet/soft-serve/releases/tag/v0.3.2), 4 days ago) - A tasty, self-hostable Git server for the command line🍦
-- [charmbracelet/wish](https://github.com/charmbracelet/wish) ([v0.5.0](https://github.com/charmbracelet/wish/releases/tag/v0.5.0), 4 days ago) - Make SSH apps, just like that! 💫
+- [minio/mc](https://github.com/minio/mc) ([RELEASE.2022-06-17T02-52-50Z](https://github.com/minio/mc/releases/tag/RELEASE.2022-06-17T02-52-50Z), 3 days ago) - MinIO Client is a replacement for ls, cp, mkdir, diff and rsync commands for filesystems and object storage.
+- [charmbracelet/wishlist](https://github.com/charmbracelet/wishlist) ([v0.6.0](https://github.com/charmbracelet/wishlist/releases/tag/v0.6.0), 3 days ago) - The SSH directory ✨
+- [charmbracelet/soft-serve](https://github.com/charmbracelet/soft-serve) ([v0.3.2](https://github.com/charmbracelet/soft-serve/releases/tag/v0.3.2), 5 days ago) - A tasty, self-hostable Git server for the command line🍦
+- [charmbracelet/wish](https://github.com/charmbracelet/wish) ([v0.5.0](https://github.com/charmbracelet/wish/releases/tag/v0.5.0), 5 days ago) - Make SSH apps, just like that! 💫
 - [orlangure/gocovsh](https://github.com/orlangure/gocovsh) ([v0.4.1](https://github.com/orlangure/gocovsh/releases/tag/v0.4.1), 1 week ago) - Go Coverage in your terminal: a tool for exploring Go Coverage reports from the command line 💻
 
 #### 🔨 Latest Pull Requests I published
@@ -52,7 +52,7 @@ Want your own self-generating profile page? Check out [readme-scribe](https://gi
 
 #### ⭐ Recent stars
 
-- [mattn/go-localereader](https://github.com/mattn/go-localereader) (1 day ago)
+- [mattn/go-localereader](https://github.com/mattn/go-localereader) (2 days ago)
 - [sheepla/srss](https://github.com/sheepla/srss) - 📘 A command line RSS/ATOM/JSON feed reader (3 weeks ago)
 - [mfridman/tparse](https://github.com/mfridman/tparse) - CLI tool for summarizing go test output. Pipe friendly. CI/CD friendly. (3 weeks ago)
 - [taigrr/ssh-wars](https://github.com/taigrr/ssh-wars) - charm / bubbletea version of towel.blinkenlights.nl (1 month ago)
@@ -60,7 +60,7 @@ Want your own self-generating profile page? Check out [readme-scribe](https://gi
 
 #### ❤️ These awesome people sponsor me (thank you!)
 
-- [twpayne](https://github.com/twpayne) (4 months ago)
+- [twpayne](https://github.com/twpayne) (5 months ago)
 - [nkpremices](https://github.com/nkpremices) (8 months ago)
 - [crazy-max](https://github.com/crazy-max) (9 months ago)
 - [ocelotsloth](https://github.com/ocelotsloth) (1 year ago)
