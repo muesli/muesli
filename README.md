@@ -13,10 +13,10 @@ Want your own self-generating profile page? Check out [readme-scribe](https://gi
 #### 👷 Check out what I'm currently working on
 
 - [muesli/mango-cobra](https://github.com/muesli/mango-cobra) - cobra adapter for mango (today)
+- [muesli/cancelreader](https://github.com/muesli/cancelreader) - A cancelable reader for Go (today)
 - [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) - A powerful little TUI framework 🏗 (2 weeks ago)
 - [sheepla/srss](https://github.com/sheepla/srss) - 📘 A command line RSS/ATOM/JSON feed reader (3 weeks ago)
 - [muesli/elvish-libs](https://github.com/muesli/elvish-libs) - Libs / Themes for elvish (1 month ago)
-- [muesli/markscribe](https://github.com/muesli/markscribe) - Your personal markdown scribe with template-engine and Git(Hub) &amp; RSS powers 📜 (1 month ago)
 
 #### 🌱 My latest projects
 
@@ -28,8 +28,8 @@ Want your own self-generating profile page? Check out [readme-scribe](https://gi
 
 #### 🔭 Latest releases I've contributed to
 
+- [muesli/cancelreader](https://github.com/muesli/cancelreader) ([v0.2.2](https://github.com/muesli/cancelreader/releases/tag/v0.2.2), today) - A cancelable reader for Go
 - [muesli/mango-cobra](https://github.com/muesli/mango-cobra) ([v1.2.0](https://github.com/muesli/mango-cobra/releases/tag/v1.2.0), today) - cobra adapter for mango
-- [muesli/cancelreader](https://github.com/muesli/cancelreader) ([v0.2.1](https://github.com/muesli/cancelreader/releases/tag/v0.2.1), 1 day ago) - A cancelable reader for Go
 - [minio/mc](https://github.com/minio/mc) ([RELEASE.2022-06-17T02-52-50Z](https://github.com/minio/mc/releases/tag/RELEASE.2022-06-17T02-52-50Z), 5 days ago) - MinIO Client is a replacement for ls, cp, mkdir, diff and rsync commands for filesystems and object storage.
 - [charmbracelet/wishlist](https://github.com/charmbracelet/wishlist) ([v0.6.0](https://github.com/charmbracelet/wishlist/releases/tag/v0.6.0), 5 days ago) - The SSH directory ✨
 - [charmbracelet/soft-serve](https://github.com/charmbracelet/soft-serve) ([v0.3.2](https://github.com/charmbracelet/soft-serve/releases/tag/v0.3.2), 1 week ago) - A tasty, self-hostable Git server for the command line🍦
