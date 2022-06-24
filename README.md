@@ -60,11 +60,11 @@ Want your own self-generating profile page? Check out [readme-scribe](https://gi
 
 #### ❤️ These awesome people sponsor me (thank you!)
 
+- [github](https://github.com/github) (today)
 - [twpayne](https://github.com/twpayne) (5 months ago)
 - [nkpremices](https://github.com/nkpremices) (8 months ago)
 - [crazy-max](https://github.com/crazy-max) (9 months ago)
 - [ocelotsloth](https://github.com/ocelotsloth) (1 year ago)
-- [angristan](https://github.com/angristan) (1 year ago)
 
 #### 💬 Feedback
 
