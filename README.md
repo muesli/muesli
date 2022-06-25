@@ -12,19 +12,19 @@ Want your own self-generating profile page? Check out [readme-scribe](https://gi
 
 #### 👷 Check out what I'm currently working on
 
+- [muesli/asciicam](https://github.com/muesli/asciicam) - Displays your webcam... on the terminal (today)
 - [muesli/mango-cobra](https://github.com/muesli/mango-cobra) - cobra adapter for mango (3 days ago)
 - [muesli/cancelreader](https://github.com/muesli/cancelreader) - A cancelable reader for Go (3 days ago)
 - [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) - A powerful little TUI framework 🏗 (2 weeks ago)
 - [sheepla/srss](https://github.com/sheepla/srss) - 📘 A command line RSS/ATOM/JSON feed reader (3 weeks ago)
-- [muesli/elvish-libs](https://github.com/muesli/elvish-libs) - Libs / Themes for elvish (1 month ago)
 
 #### 🌱 My latest projects
 
+- [muesli/asciicam](https://github.com/muesli/asciicam) - Displays your webcam... on the terminal
 - [muesli/ydl](https://github.com/muesli/ydl) - A simple youtube-dl library for Go
 - [muesli/cancelreader](https://github.com/muesli/cancelreader) - A cancelable reader for Go
 - [muesli/mango-coral](https://github.com/muesli/mango-coral) - coral adapter for mango
 - [muesli/mango-pflag](https://github.com/muesli/mango-pflag) - pflag adapter for mango
-- [muesli/mango-cobra](https://github.com/muesli/mango-cobra) - cobra adapter for mango
 
 #### 🔭 Latest releases I've contributed to
 
