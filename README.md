@@ -12,11 +12,11 @@ Want your own self-generating profile page? Check out [readme-scribe](https://gi
 
 #### 👷 Check out what I'm currently working on
 
-- [muesli/asciicam](https://github.com/muesli/asciicam) - Displays your webcam... on the terminal (today)
-- [muesli/mango-cobra](https://github.com/muesli/mango-cobra) - cobra adapter for mango (3 days ago)
-- [muesli/cancelreader](https://github.com/muesli/cancelreader) - A cancelable reader for Go (3 days ago)
+- [muesli/asciicam](https://github.com/muesli/asciicam) - Displays your webcam... on the terminal (1 day ago)
+- [muesli/mango-cobra](https://github.com/muesli/mango-cobra) - cobra adapter for mango (4 days ago)
+- [muesli/cancelreader](https://github.com/muesli/cancelreader) - A cancelable reader for Go (4 days ago)
 - [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) - A powerful little TUI framework 🏗 (2 weeks ago)
-- [sheepla/srss](https://github.com/sheepla/srss) - 📘 A command line RSS/ATOM/JSON feed reader (3 weeks ago)
+- [sheepla/srss](https://github.com/sheepla/srss) - 📘 A command line RSS/ATOM/JSON feed reader (4 weeks ago)
 
 #### 🌱 My latest projects
 
@@ -28,15 +28,15 @@ Want your own self-generating profile page? Check out [readme-scribe](https://gi
 
 #### 🔭 Latest releases I've contributed to
 
-- [muesli/cancelreader](https://github.com/muesli/cancelreader) ([v0.2.2](https://github.com/muesli/cancelreader/releases/tag/v0.2.2), 3 days ago) - A cancelable reader for Go
-- [muesli/mango-cobra](https://github.com/muesli/mango-cobra) ([v1.2.0](https://github.com/muesli/mango-cobra/releases/tag/v1.2.0), 3 days ago) - cobra adapter for mango
+- [muesli/cancelreader](https://github.com/muesli/cancelreader) ([v0.2.2](https://github.com/muesli/cancelreader/releases/tag/v0.2.2), 4 days ago) - A cancelable reader for Go
+- [muesli/mango-cobra](https://github.com/muesli/mango-cobra) ([v1.2.0](https://github.com/muesli/mango-cobra/releases/tag/v1.2.0), 4 days ago) - cobra adapter for mango
 - [minio/mc](https://github.com/minio/mc) ([RELEASE.2022-06-17T02-52-50Z](https://github.com/minio/mc/releases/tag/RELEASE.2022-06-17T02-52-50Z), 1 week ago) - MinIO Client is a replacement for ls, cp, mkdir, diff and rsync commands for filesystems and object storage.
 - [charmbracelet/wishlist](https://github.com/charmbracelet/wishlist) ([v0.6.0](https://github.com/charmbracelet/wishlist/releases/tag/v0.6.0), 1 week ago) - The SSH directory ✨
 - [charmbracelet/soft-serve](https://github.com/charmbracelet/soft-serve) ([v0.3.2](https://github.com/charmbracelet/soft-serve/releases/tag/v0.3.2), 1 week ago) - A tasty, self-hostable Git server for the command line🍦
 
 #### 🔨 Latest Pull Requests I published
 
-- [fix: bump Go dep to 1.15](https://github.com/muesli/mango-cobra/pull/6) on [muesli/mango-cobra](https://github.com/muesli/mango-cobra) (3 days ago)
+- [fix: bump Go dep to 1.15](https://github.com/muesli/mango-cobra/pull/6) on [muesli/mango-cobra](https://github.com/muesli/mango-cobra) (4 days ago)
 - [docs: fix deprecation notes](https://github.com/charmbracelet/bubbletea/pull/339) on [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) (2 weeks ago)
 - [fix: add tutorials dir to dependabot config](https://github.com/charmbracelet/bubbletea/pull/332) on [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) (3 weeks ago)
 - [test: fix error in custom input test](https://github.com/charmbracelet/bubbletea/pull/331) on [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) (3 weeks ago)
@@ -52,7 +52,7 @@ Want your own self-generating profile page? Check out [readme-scribe](https://gi
 
 #### ⭐ Recent stars
 
-- [muesli/asciicam](https://github.com/muesli/asciicam) - Displays your webcam... on the terminal (today)
+- [muesli/asciicam](https://github.com/muesli/asciicam) - Displays your webcam... on the terminal (1 day ago)
 - [mattn/go-localereader](https://github.com/mattn/go-localereader) (1 week ago)
 - [sheepla/srss](https://github.com/sheepla/srss) - 📘 A command line RSS/ATOM/JSON feed reader (4 weeks ago)
 - [mfridman/tparse](https://github.com/mfridman/tparse) - CLI tool for summarizing go test output. Pipe friendly. CI/CD friendly. (1 month ago)
@@ -60,7 +60,7 @@ Want your own self-generating profile page? Check out [readme-scribe](https://gi
 
 #### ❤️ These awesome people sponsor me (thank you!)
 
-- [github](https://github.com/github) (1 day ago)
+- [github](https://github.com/github) (2 days ago)
 - [twpayne](https://github.com/twpayne) (5 months ago)
 - [nkpremices](https://github.com/nkpremices) (8 months ago)
 - [crazy-max](https://github.com/crazy-max) (9 months ago)
