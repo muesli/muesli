@@ -28,9 +28,9 @@ Want your own self-generating profile page? Check out [readme-scribe](https://gi
 
 #### 🔭 Latest releases I've contributed to
 
+- [minio/mc](https://github.com/minio/mc) ([RELEASE.2022-06-26T18-51-48Z](https://github.com/minio/mc/releases/tag/RELEASE.2022-06-26T18-51-48Z), today) - MinIO Client is a replacement for ls, cp, mkdir, diff and rsync commands for filesystems and object storage.
 - [muesli/cancelreader](https://github.com/muesli/cancelreader) ([v0.2.2](https://github.com/muesli/cancelreader/releases/tag/v0.2.2), 4 days ago) - A cancelable reader for Go
 - [muesli/mango-cobra](https://github.com/muesli/mango-cobra) ([v1.2.0](https://github.com/muesli/mango-cobra/releases/tag/v1.2.0), 4 days ago) - cobra adapter for mango
-- [minio/mc](https://github.com/minio/mc) ([RELEASE.2022-06-17T02-52-50Z](https://github.com/minio/mc/releases/tag/RELEASE.2022-06-17T02-52-50Z), 1 week ago) - MinIO Client is a replacement for ls, cp, mkdir, diff and rsync commands for filesystems and object storage.
 - [charmbracelet/wishlist](https://github.com/charmbracelet/wishlist) ([v0.6.0](https://github.com/charmbracelet/wishlist/releases/tag/v0.6.0), 1 week ago) - The SSH directory ✨
 - [charmbracelet/soft-serve](https://github.com/charmbracelet/soft-serve) ([v0.3.2](https://github.com/charmbracelet/soft-serve/releases/tag/v0.3.2), 1 week ago) - A tasty, self-hostable Git server for the command line🍦
 
