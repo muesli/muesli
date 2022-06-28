@@ -12,11 +12,11 @@ Want your own self-generating profile page? Check out [readme-scribe](https://gi
 
 #### 👷 Check out what I'm currently working on
 
-- [muesli/asciicam](https://github.com/muesli/asciicam) - Displays your webcam... on the terminal (2 days ago)
-- [muesli/cancelreader](https://github.com/muesli/cancelreader) - A cancelable reader for Go (5 days ago)
-- [muesli/mango-cobra](https://github.com/muesli/mango-cobra) - cobra adapter for mango (5 days ago)
+- [muesli/asciicam](https://github.com/muesli/asciicam) - Displays your webcam... on the terminal (3 days ago)
+- [muesli/cancelreader](https://github.com/muesli/cancelreader) - A cancelable reader for Go (6 days ago)
+- [muesli/mango-cobra](https://github.com/muesli/mango-cobra) - cobra adapter for mango (6 days ago)
 - [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) - A powerful little TUI framework 🏗 (2 weeks ago)
-- [sheepla/srss](https://github.com/sheepla/srss) - 📘 A command line RSS/ATOM/JSON feed reader (4 weeks ago)
+- [sheepla/srss](https://github.com/sheepla/srss) - 📘 A command line RSS/ATOM/JSON feed reader (1 month ago)
 
 #### 🌱 My latest projects
 
@@ -28,15 +28,15 @@ Want your own self-generating profile page? Check out [readme-scribe](https://gi
 
 #### 🔭 Latest releases I've contributed to
 
-- [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) ([v0.22.0](https://github.com/charmbracelet/bubbletea/releases/tag/v0.22.0), today) - A powerful little TUI framework 🏗
-- [charmbracelet/bubbles](https://github.com/charmbracelet/bubbles) ([v0.12.0](https://github.com/charmbracelet/bubbles/releases/tag/v0.12.0), today) - TUI components for Bubble Tea 🍡
-- [minio/mc](https://github.com/minio/mc) ([RELEASE.2022-06-26T18-51-48Z](https://github.com/minio/mc/releases/tag/RELEASE.2022-06-26T18-51-48Z), 1 day ago) - MinIO Client is a replacement for ls, cp, mkdir, diff and rsync commands for filesystems and object storage.
-- [muesli/cancelreader](https://github.com/muesli/cancelreader) ([v0.2.2](https://github.com/muesli/cancelreader/releases/tag/v0.2.2), 5 days ago) - A cancelable reader for Go
-- [muesli/mango-cobra](https://github.com/muesli/mango-cobra) ([v1.2.0](https://github.com/muesli/mango-cobra/releases/tag/v1.2.0), 5 days ago) - cobra adapter for mango
+- [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) ([v0.22.0](https://github.com/charmbracelet/bubbletea/releases/tag/v0.22.0), 1 day ago) - A powerful little TUI framework 🏗
+- [charmbracelet/bubbles](https://github.com/charmbracelet/bubbles) ([v0.12.0](https://github.com/charmbracelet/bubbles/releases/tag/v0.12.0), 1 day ago) - TUI components for Bubble Tea 🍡
+- [minio/mc](https://github.com/minio/mc) ([RELEASE.2022-06-26T18-51-48Z](https://github.com/minio/mc/releases/tag/RELEASE.2022-06-26T18-51-48Z), 2 days ago) - MinIO Client is a replacement for ls, cp, mkdir, diff and rsync commands for filesystems and object storage.
+- [muesli/cancelreader](https://github.com/muesli/cancelreader) ([v0.2.2](https://github.com/muesli/cancelreader/releases/tag/v0.2.2), 6 days ago) - A cancelable reader for Go
+- [muesli/mango-cobra](https://github.com/muesli/mango-cobra) ([v1.2.0](https://github.com/muesli/mango-cobra/releases/tag/v1.2.0), 6 days ago) - cobra adapter for mango
 
 #### 🔨 Latest Pull Requests I published
 
-- [fix: bump Go dep to 1.15](https://github.com/muesli/mango-cobra/pull/6) on [muesli/mango-cobra](https://github.com/muesli/mango-cobra) (5 days ago)
+- [fix: bump Go dep to 1.15](https://github.com/muesli/mango-cobra/pull/6) on [muesli/mango-cobra](https://github.com/muesli/mango-cobra) (6 days ago)
 - [docs: fix deprecation notes](https://github.com/charmbracelet/bubbletea/pull/339) on [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) (2 weeks ago)
 - [fix: add tutorials dir to dependabot config](https://github.com/charmbracelet/bubbletea/pull/332) on [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) (3 weeks ago)
 - [test: fix error in custom input test](https://github.com/charmbracelet/bubbletea/pull/331) on [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) (3 weeks ago)
@@ -52,17 +52,17 @@ Want your own self-generating profile page? Check out [readme-scribe](https://gi
 
 #### ⭐ Recent stars
 
-- [rsc/tmplfunc](https://github.com/rsc/tmplfunc) - Go templates invoked as functions (1 day ago)
-- [muesli/asciicam](https://github.com/muesli/asciicam) - Displays your webcam... on the terminal (2 days ago)
+- [rsc/tmplfunc](https://github.com/rsc/tmplfunc) - Go templates invoked as functions (2 days ago)
+- [muesli/asciicam](https://github.com/muesli/asciicam) - Displays your webcam... on the terminal (3 days ago)
 - [mattn/go-localereader](https://github.com/mattn/go-localereader) (1 week ago)
 - [sheepla/srss](https://github.com/sheepla/srss) - 📘 A command line RSS/ATOM/JSON feed reader (1 month ago)
 - [mfridman/tparse](https://github.com/mfridman/tparse) - CLI tool for summarizing go test output. Pipe friendly. CI/CD friendly. (1 month ago)
 
 #### ❤️ These awesome people sponsor me (thank you!)
 
-- [github](https://github.com/github) (3 days ago)
+- [github](https://github.com/github) (4 days ago)
 - [twpayne](https://github.com/twpayne) (5 months ago)
-- [nkpremices](https://github.com/nkpremices) (8 months ago)
+- [nkpremices](https://github.com/nkpremices) (9 months ago)
 - [crazy-max](https://github.com/crazy-max) (9 months ago)
 - [ocelotsloth](https://github.com/ocelotsloth) (1 year ago)
 
