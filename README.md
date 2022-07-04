@@ -28,8 +28,8 @@ Want your own self-generating profile page? Check out [readme-scribe](https://gi
 
 #### 🔭 Latest releases I've contributed to
 
-- [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) ([v0.22.0](https://github.com/charmbracelet/bubbletea/releases/tag/v0.22.0), 6 days ago) - A powerful little TUI framework 🏗
-- [charmbracelet/bubbles](https://github.com/charmbracelet/bubbles) ([v0.12.0](https://github.com/charmbracelet/bubbles/releases/tag/v0.12.0), 6 days ago) - TUI components for Bubble Tea 🍡
+- [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) ([v0.22.0](https://github.com/charmbracelet/bubbletea/releases/tag/v0.22.0), 1 week ago) - A powerful little TUI framework 🏗
+- [charmbracelet/bubbles](https://github.com/charmbracelet/bubbles) ([v0.12.0](https://github.com/charmbracelet/bubbles/releases/tag/v0.12.0), 1 week ago) - TUI components for Bubble Tea 🍡
 - [minio/mc](https://github.com/minio/mc) ([RELEASE.2022-06-26T18-51-48Z](https://github.com/minio/mc/releases/tag/RELEASE.2022-06-26T18-51-48Z), 1 week ago) - MinIO Client is a replacement for ls, cp, mkdir, diff and rsync commands for filesystems and object storage.
 - [muesli/cancelreader](https://github.com/muesli/cancelreader) ([v0.2.2](https://github.com/muesli/cancelreader/releases/tag/v0.2.2), 1 week ago) - A cancelable reader for Go
 - [muesli/mango-cobra](https://github.com/muesli/mango-cobra) ([v1.2.0](https://github.com/muesli/mango-cobra/releases/tag/v1.2.0), 1 week ago) - cobra adapter for mango
@@ -38,8 +38,8 @@ Want your own self-generating profile page? Check out [readme-scribe](https://gi
 
 - [fix: bump Go dep to 1.15](https://github.com/muesli/mango-cobra/pull/6) on [muesli/mango-cobra](https://github.com/muesli/mango-cobra) (1 week ago)
 - [docs: fix deprecation notes](https://github.com/charmbracelet/bubbletea/pull/339) on [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) (3 weeks ago)
-- [fix: add tutorials dir to dependabot config](https://github.com/charmbracelet/bubbletea/pull/332) on [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) (4 weeks ago)
-- [test: fix error in custom input test](https://github.com/charmbracelet/bubbletea/pull/331) on [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) (4 weeks ago)
+- [fix: add tutorials dir to dependabot config](https://github.com/charmbracelet/bubbletea/pull/332) on [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) (1 month ago)
+- [test: fix error in custom input test](https://github.com/charmbracelet/bubbletea/pull/331) on [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) (1 month ago)
 - [ci: run tests on all platforms](https://github.com/charmbracelet/bubbletea/pull/327) on [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) (1 month ago)
 
 #### 📜 My recent blog posts
@@ -52,7 +52,7 @@ Want your own self-generating profile page? Check out [readme-scribe](https://gi
 
 #### ⭐ Recent stars
 
-- [samuelyuan/Civ5MapImage](https://github.com/samuelyuan/Civ5MapImage) - Convert Civ 5 map to an image (2 days ago)
+- [samuelyuan/Civ5MapImage](https://github.com/samuelyuan/Civ5MapImage) - Convert Civ 5 map to an image (3 days ago)
 - [rsc/tmplfunc](https://github.com/rsc/tmplfunc) - Go templates invoked as functions (1 week ago)
 - [muesli/asciicam](https://github.com/muesli/asciicam) - Displays your webcam... on the terminal (1 week ago)
 - [mattn/go-localereader](https://github.com/mattn/go-localereader) (2 weeks ago)
