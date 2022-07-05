@@ -28,9 +28,9 @@ Want your own self-generating profile page? Check out [readme-scribe](https://gi
 
 #### 🔭 Latest releases I've contributed to
 
+- [charmbracelet/bubbles](https://github.com/charmbracelet/bubbles) ([v0.13.0](https://github.com/charmbracelet/bubbles/releases/tag/v0.13.0), today) - TUI components for Bubble Tea 🍡
 - [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) ([v1.10.1](https://github.com/goreleaser/goreleaser/releases/tag/v1.10.1), today) - Deliver Go binaries as fast and easily as possible
 - [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) ([v0.22.0](https://github.com/charmbracelet/bubbletea/releases/tag/v0.22.0), 1 week ago) - A powerful little TUI framework 🏗
-- [charmbracelet/bubbles](https://github.com/charmbracelet/bubbles) ([v0.12.0](https://github.com/charmbracelet/bubbles/releases/tag/v0.12.0), 1 week ago) - TUI components for Bubble Tea 🍡
 - [minio/mc](https://github.com/minio/mc) ([RELEASE.2022-06-26T18-51-48Z](https://github.com/minio/mc/releases/tag/RELEASE.2022-06-26T18-51-48Z), 1 week ago) - MinIO Client is a replacement for ls, cp, mkdir, diff and rsync commands for filesystems and object storage.
 - [muesli/cancelreader](https://github.com/muesli/cancelreader) ([v0.2.2](https://github.com/muesli/cancelreader/releases/tag/v0.2.2), 1 week ago) - A cancelable reader for Go
 
