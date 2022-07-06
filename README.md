@@ -13,9 +13,9 @@ Want your own self-generating profile page? Check out [readme-scribe](https://gi
 #### 👷 Check out what I'm currently working on
 
 - [muesli/asciicam](https://github.com/muesli/asciicam) - Displays your webcam... on the terminal (1 week ago)
-- [muesli/mango-cobra](https://github.com/muesli/mango-cobra) - cobra adapter for mango (1 week ago)
-- [muesli/cancelreader](https://github.com/muesli/cancelreader) - A cancelable reader for Go (1 week ago)
-- [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) - A powerful little TUI framework 🏗 (3 weeks ago)
+- [muesli/mango-cobra](https://github.com/muesli/mango-cobra) - cobra adapter for mango (2 weeks ago)
+- [muesli/cancelreader](https://github.com/muesli/cancelreader) - A cancelable reader for Go (2 weeks ago)
+- [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) - A powerful little TUI framework 🏗 (4 weeks ago)
 - [sheepla/srss](https://github.com/sheepla/srss) - 📘 A command line RSS/ATOM/JSON feed reader (1 month ago)
 
 #### 🌱 My latest projects
@@ -28,16 +28,16 @@ Want your own self-generating profile page? Check out [readme-scribe](https://gi
 
 #### 🔭 Latest releases I've contributed to
 
-- [charmbracelet/bubbles](https://github.com/charmbracelet/bubbles) ([v0.13.0](https://github.com/charmbracelet/bubbles/releases/tag/v0.13.0), today) - TUI components for Bubble Tea 🍡
-- [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) ([v1.10.1](https://github.com/goreleaser/goreleaser/releases/tag/v1.10.1), today) - Deliver Go binaries as fast and easily as possible
+- [charmbracelet/bubbles](https://github.com/charmbracelet/bubbles) ([v0.13.0](https://github.com/charmbracelet/bubbles/releases/tag/v0.13.0), 1 day ago) - TUI components for Bubble Tea 🍡
+- [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) ([v1.10.1](https://github.com/goreleaser/goreleaser/releases/tag/v1.10.1), 1 day ago) - Deliver Go binaries as fast and easily as possible
 - [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) ([v0.22.0](https://github.com/charmbracelet/bubbletea/releases/tag/v0.22.0), 1 week ago) - A powerful little TUI framework 🏗
 - [minio/mc](https://github.com/minio/mc) ([RELEASE.2022-06-26T18-51-48Z](https://github.com/minio/mc/releases/tag/RELEASE.2022-06-26T18-51-48Z), 1 week ago) - MinIO Client is a replacement for ls, cp, mkdir, diff and rsync commands for filesystems and object storage.
-- [muesli/cancelreader](https://github.com/muesli/cancelreader) ([v0.2.2](https://github.com/muesli/cancelreader/releases/tag/v0.2.2), 1 week ago) - A cancelable reader for Go
+- [muesli/cancelreader](https://github.com/muesli/cancelreader) ([v0.2.2](https://github.com/muesli/cancelreader/releases/tag/v0.2.2), 2 weeks ago) - A cancelable reader for Go
 
 #### 🔨 Latest Pull Requests I published
 
-- [fix: bump Go dep to 1.15](https://github.com/muesli/mango-cobra/pull/6) on [muesli/mango-cobra](https://github.com/muesli/mango-cobra) (1 week ago)
-- [docs: fix deprecation notes](https://github.com/charmbracelet/bubbletea/pull/339) on [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) (3 weeks ago)
+- [fix: bump Go dep to 1.15](https://github.com/muesli/mango-cobra/pull/6) on [muesli/mango-cobra](https://github.com/muesli/mango-cobra) (2 weeks ago)
+- [docs: fix deprecation notes](https://github.com/charmbracelet/bubbletea/pull/339) on [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) (4 weeks ago)
 - [fix: add tutorials dir to dependabot config](https://github.com/charmbracelet/bubbletea/pull/332) on [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) (1 month ago)
 - [test: fix error in custom input test](https://github.com/charmbracelet/bubbletea/pull/331) on [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) (1 month ago)
 - [ci: run tests on all platforms](https://github.com/charmbracelet/bubbletea/pull/327) on [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) (1 month ago)
@@ -52,7 +52,7 @@ Want your own self-generating profile page? Check out [readme-scribe](https://gi
 
 #### ⭐ Recent stars
 
-- [samuelyuan/Civ5MapImage](https://github.com/samuelyuan/Civ5MapImage) - Convert Civ 5 map to an image (4 days ago)
+- [samuelyuan/Civ5MapImage](https://github.com/samuelyuan/Civ5MapImage) - Convert Civ 5 map to an image (5 days ago)
 - [rsc/tmplfunc](https://github.com/rsc/tmplfunc) - Go templates invoked as functions (1 week ago)
 - [muesli/asciicam](https://github.com/muesli/asciicam) - Displays your webcam... on the terminal (1 week ago)
 - [mattn/go-localereader](https://github.com/mattn/go-localereader) (2 weeks ago)
@@ -63,7 +63,7 @@ Want your own self-generating profile page? Check out [readme-scribe](https://gi
 - [github](https://github.com/github) (1 week ago)
 - [twpayne](https://github.com/twpayne) (5 months ago)
 - [nkpremices](https://github.com/nkpremices) (9 months ago)
-- [crazy-max](https://github.com/crazy-max) (9 months ago)
+- [crazy-max](https://github.com/crazy-max) (10 months ago)
 - [ocelotsloth](https://github.com/ocelotsloth) (1 year ago)
 
 #### 💬 Feedback
