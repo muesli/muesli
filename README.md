@@ -14,8 +14,8 @@ Want your own self-generating profile page? Check out [readme-scribe](https://gi
 
 - [charmbracelet/glamour](https://github.com/charmbracelet/glamour) - Stylesheet-based markdown rendering for your CLI apps 💇🏻‍♀️ (3 days ago)
 - [muesli/asciicam](https://github.com/muesli/asciicam) - Displays your webcam... on the terminal (2 weeks ago)
-- [muesli/cancelreader](https://github.com/muesli/cancelreader) - A cancelable reader for Go (2 weeks ago)
 - [muesli/mango-cobra](https://github.com/muesli/mango-cobra) - cobra adapter for mango (2 weeks ago)
+- [muesli/cancelreader](https://github.com/muesli/cancelreader) - A cancelable reader for Go (2 weeks ago)
 - [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) - A powerful little TUI framework 🏗 (1 month ago)
 
 #### 🌱 My latest projects
