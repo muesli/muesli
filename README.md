@@ -52,11 +52,11 @@ Want your own self-generating profile page? Check out [readme-scribe](https://gi
 
 #### ⭐ Recent stars
 
+- [go-playground/universal-translator](https://github.com/go-playground/universal-translator) - :speech_balloon: i18n Translator for Go/Golang using CLDR data &#43; pluralization rules (today)
+- [spf13/cast](https://github.com/spf13/cast) - safe and easy casting from one type to another in Go  (today)
+- [hyperreal64/distrobox-tui](https://github.com/hyperreal64/distrobox-tui) - A TUI for DistroBox (today)
 - [samuelyuan/Civ5MapImage](https://github.com/samuelyuan/Civ5MapImage) - Convert Civ 5 map to an image (1 week ago)
 - [rsc/tmplfunc](https://github.com/rsc/tmplfunc) - Go templates invoked as functions (2 weeks ago)
-- [muesli/asciicam](https://github.com/muesli/asciicam) - Displays your webcam... on the terminal (2 weeks ago)
-- [mattn/go-localereader](https://github.com/mattn/go-localereader) (3 weeks ago)
-- [sheepla/srss](https://github.com/sheepla/srss) - 📘 A command line RSS/ATOM/JSON feed reader (1 month ago)
 
 #### ❤️ These awesome people sponsor me (thank you!)
 
