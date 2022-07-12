@@ -12,7 +12,7 @@ Want your own self-generating profile page? Check out [readme-scribe](https://gi
 
 #### 👷 Check out what I'm currently working on
 
-- [charmbracelet/glamour](https://github.com/charmbracelet/glamour) - Stylesheet-based markdown rendering for your CLI apps 💇🏻‍♀️ (4 days ago)
+- [charmbracelet/glamour](https://github.com/charmbracelet/glamour) - Stylesheet-based markdown rendering for your CLI apps 💇🏻‍♀️ (5 days ago)
 - [muesli/asciicam](https://github.com/muesli/asciicam) - Displays your webcam... on the terminal (2 weeks ago)
 - [muesli/mango-cobra](https://github.com/muesli/mango-cobra) - cobra adapter for mango (2 weeks ago)
 - [muesli/cancelreader](https://github.com/muesli/cancelreader) - A cancelable reader for Go (2 weeks ago)
@@ -28,15 +28,15 @@ Want your own self-generating profile page? Check out [readme-scribe](https://gi
 
 #### 🔭 Latest releases I've contributed to
 
-- [owncast/owncast](https://github.com/owncast/owncast) ([v0.0.12](https://github.com/owncast/owncast/releases/tag/v0.0.12), 2 days ago) - Take control over your live stream video by running it yourself.  Streaming &#43; chat out of the box.
-- [orlangure/gocovsh](https://github.com/orlangure/gocovsh) ([v0.5.1](https://github.com/orlangure/gocovsh/releases/tag/v0.5.1), 2 days ago) - Go Coverage in your terminal: a tool for exploring Go Coverage reports from the command line 💻
-- [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) ([v1.10.2](https://github.com/goreleaser/goreleaser/releases/tag/v1.10.2), 3 days ago) - Deliver Go binaries as fast and easily as possible
-- [minio/mc](https://github.com/minio/mc) ([RELEASE.2022-07-06T14-54-36Z](https://github.com/minio/mc/releases/tag/RELEASE.2022-07-06T14-54-36Z), 5 days ago) - MinIO Client is a replacement for ls, cp, mkdir, diff and rsync commands for filesystems and object storage.
-- [charmbracelet/bubbles](https://github.com/charmbracelet/bubbles) ([v0.13.0](https://github.com/charmbracelet/bubbles/releases/tag/v0.13.0), 6 days ago) - TUI components for Bubble Tea 🍡
+- [owncast/owncast](https://github.com/owncast/owncast) ([v0.0.12](https://github.com/owncast/owncast/releases/tag/v0.0.12), 3 days ago) - Take control over your live stream video by running it yourself.  Streaming &#43; chat out of the box.
+- [orlangure/gocovsh](https://github.com/orlangure/gocovsh) ([v0.5.1](https://github.com/orlangure/gocovsh/releases/tag/v0.5.1), 3 days ago) - Go Coverage in your terminal: a tool for exploring Go Coverage reports from the command line 💻
+- [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) ([v1.10.2](https://github.com/goreleaser/goreleaser/releases/tag/v1.10.2), 4 days ago) - Deliver Go binaries as fast and easily as possible
+- [minio/mc](https://github.com/minio/mc) ([RELEASE.2022-07-06T14-54-36Z](https://github.com/minio/mc/releases/tag/RELEASE.2022-07-06T14-54-36Z), 6 days ago) - MinIO Client is a replacement for ls, cp, mkdir, diff and rsync commands for filesystems and object storage.
+- [charmbracelet/bubbles](https://github.com/charmbracelet/bubbles) ([v0.13.0](https://github.com/charmbracelet/bubbles/releases/tag/v0.13.0), 1 week ago) - TUI components for Bubble Tea 🍡
 
 #### 🔨 Latest Pull Requests I published
 
-- [ci: update lint workflow](https://github.com/charmbracelet/glamour/pull/157) on [charmbracelet/glamour](https://github.com/charmbracelet/glamour) (4 days ago)
+- [ci: update lint workflow](https://github.com/charmbracelet/glamour/pull/157) on [charmbracelet/glamour](https://github.com/charmbracelet/glamour) (5 days ago)
 - [fix: bump Go dep to 1.15](https://github.com/muesli/mango-cobra/pull/6) on [muesli/mango-cobra](https://github.com/muesli/mango-cobra) (2 weeks ago)
 - [docs: fix deprecation notes](https://github.com/charmbracelet/bubbletea/pull/339) on [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) (1 month ago)
 - [fix: add tutorials dir to dependabot config](https://github.com/charmbracelet/bubbletea/pull/332) on [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) (1 month ago)
@@ -52,10 +52,10 @@ Want your own self-generating profile page? Check out [readme-scribe](https://gi
 
 #### ⭐ Recent stars
 
-- [pranavnt/whack](https://github.com/pranavnt/whack) (today)
-- [go-playground/universal-translator](https://github.com/go-playground/universal-translator) - :speech_balloon: i18n Translator for Go/Golang using CLDR data &#43; pluralization rules (1 day ago)
-- [spf13/cast](https://github.com/spf13/cast) - safe and easy casting from one type to another in Go  (1 day ago)
-- [hyperreal64/distrobox-tui](https://github.com/hyperreal64/distrobox-tui) - A TUI for DistroBox (1 day ago)
+- [pranavnt/whack](https://github.com/pranavnt/whack) (1 day ago)
+- [go-playground/universal-translator](https://github.com/go-playground/universal-translator) - :speech_balloon: i18n Translator for Go/Golang using CLDR data &#43; pluralization rules (2 days ago)
+- [spf13/cast](https://github.com/spf13/cast) - safe and easy casting from one type to another in Go  (2 days ago)
+- [hyperreal64/distrobox-tui](https://github.com/hyperreal64/distrobox-tui) - A TUI for DistroBox (2 days ago)
 - [samuelyuan/Civ5MapImage](https://github.com/samuelyuan/Civ5MapImage) - Convert Civ 5 map to an image (1 week ago)
 
 #### ❤️ These awesome people sponsor me (thank you!)
