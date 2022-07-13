@@ -28,11 +28,11 @@ Want your own self-generating profile page? Check out [readme-scribe](https://gi
 
 #### 🔭 Latest releases I've contributed to
 
+- [charmbracelet/wishlist](https://github.com/charmbracelet/wishlist) ([v0.7.0](https://github.com/charmbracelet/wishlist/releases/tag/v0.7.0), today) - The SSH directory ✨
 - [owncast/owncast](https://github.com/owncast/owncast) ([v0.0.12](https://github.com/owncast/owncast/releases/tag/v0.0.12), 4 days ago) - Take control over your live stream video by running it yourself.  Streaming &#43; chat out of the box.
 - [orlangure/gocovsh](https://github.com/orlangure/gocovsh) ([v0.5.1](https://github.com/orlangure/gocovsh/releases/tag/v0.5.1), 4 days ago) - Go Coverage in your terminal: a tool for exploring Go Coverage reports from the command line 💻
 - [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) ([v1.10.2](https://github.com/goreleaser/goreleaser/releases/tag/v1.10.2), 5 days ago) - Deliver Go binaries as fast and easily as possible
 - [minio/mc](https://github.com/minio/mc) ([RELEASE.2022-07-06T14-54-36Z](https://github.com/minio/mc/releases/tag/RELEASE.2022-07-06T14-54-36Z), 1 week ago) - MinIO Client is a replacement for ls, cp, mkdir, diff and rsync commands for filesystems and object storage.
-- [charmbracelet/bubbles](https://github.com/charmbracelet/bubbles) ([v0.13.0](https://github.com/charmbracelet/bubbles/releases/tag/v0.13.0), 1 week ago) - TUI components for Bubble Tea 🍡
 
 #### 🔨 Latest Pull Requests I published
 
