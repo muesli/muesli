@@ -28,11 +28,11 @@ Want your own self-generating profile page? Check out [readme-scribe](https://gi
 
 #### 🔭 Latest releases I've contributed to
 
+- [charmbracelet/confettysh](https://github.com/charmbracelet/confettysh) ([v1.0.3](https://github.com/charmbracelet/confettysh/releases/tag/v1.0.3), today) - confetti over ssh
 - [minio/mc](https://github.com/minio/mc) ([RELEASE.2022-07-24T02-25-13Z](https://github.com/minio/mc/releases/tag/RELEASE.2022-07-24T02-25-13Z), 1 day ago) - MinIO Client is a replacement for ls, cp, mkdir, diff and rsync commands for filesystems and object storage.
 - [muesli/gamut](https://github.com/muesli/gamut) ([v0.3.1](https://github.com/muesli/gamut/releases/tag/v0.3.1), 3 days ago) - Go package to generate and manage color palettes &amp; schemes 🎨
 - [muesli/kmeans](https://github.com/muesli/kmeans) ([v0.3.1](https://github.com/muesli/kmeans/releases/tag/v0.3.1), 3 days ago) - k-means clustering algorithm implementation written in Go
 - [charmbracelet/wishlist](https://github.com/charmbracelet/wishlist) ([v0.7.0](https://github.com/charmbracelet/wishlist/releases/tag/v0.7.0), 1 week ago) - The SSH directory ✨
-- [owncast/owncast](https://github.com/owncast/owncast) ([v0.0.12](https://github.com/owncast/owncast/releases/tag/v0.0.12), 2 weeks ago) - Take control over your live stream video by running it yourself.  Streaming &#43; chat out of the box.
 
 #### 🔨 Latest Pull Requests I published
 
