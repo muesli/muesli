@@ -28,11 +28,11 @@ Want your own self-generating profile page? Check out [readme-scribe](https://gi
 
 #### 🔭 Latest releases I've contributed to
 
+- [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) ([v1.10.3](https://github.com/goreleaser/goreleaser/releases/tag/v1.10.3), today) - Deliver Go binaries as fast and easily as possible
 - [charmbracelet/confettysh](https://github.com/charmbracelet/confettysh) ([v1.0.3](https://github.com/charmbracelet/confettysh/releases/tag/v1.0.3), 2 days ago) - confetti over ssh
 - [minio/mc](https://github.com/minio/mc) ([RELEASE.2022-07-24T02-25-13Z](https://github.com/minio/mc/releases/tag/RELEASE.2022-07-24T02-25-13Z), 3 days ago) - MinIO Client is a replacement for ls, cp, mkdir, diff and rsync commands for filesystems and object storage.
 - [muesli/gamut](https://github.com/muesli/gamut) ([v0.3.1](https://github.com/muesli/gamut/releases/tag/v0.3.1), 5 days ago) - Go package to generate and manage color palettes &amp; schemes 🎨
 - [muesli/kmeans](https://github.com/muesli/kmeans) ([v0.3.1](https://github.com/muesli/kmeans/releases/tag/v0.3.1), 5 days ago) - k-means clustering algorithm implementation written in Go
-- [charmbracelet/wishlist](https://github.com/charmbracelet/wishlist) ([v0.7.0](https://github.com/charmbracelet/wishlist/releases/tag/v0.7.0), 2 weeks ago) - The SSH directory ✨
 
 #### 🔨 Latest Pull Requests I published
 
