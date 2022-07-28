@@ -52,11 +52,11 @@ Want your own self-generating profile page? Check out [readme-scribe](https://gi
 
 #### ⭐ Recent stars
 
+- [charmbracelet/gum](https://github.com/charmbracelet/gum) - A tool for glamorous shell scripts 🎀 (today)
 - [pranavnt/whack](https://github.com/pranavnt/whack) (2 weeks ago)
 - [go-playground/universal-translator](https://github.com/go-playground/universal-translator) - :speech_balloon: i18n Translator for Go/Golang using CLDR data &#43; pluralization rules (2 weeks ago)
 - [spf13/cast](https://github.com/spf13/cast) - safe and easy casting from one type to another in Go  (2 weeks ago)
 - [hyperreal64/distrobox-tui](https://github.com/hyperreal64/distrobox-tui) - A TUI for DistroBox (2 weeks ago)
-- [samuelyuan/Civ5MapImage](https://github.com/samuelyuan/Civ5MapImage) - Convert Civ 5 map to an image (3 weeks ago)
 
 #### ❤️ These awesome people sponsor me (thank you!)
 
