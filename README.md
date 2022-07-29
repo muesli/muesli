@@ -28,9 +28,9 @@ Want your own self-generating profile page? Check out [readme-scribe](https://gi
 
 #### 🔭 Latest releases I've contributed to
 
+- [minio/mc](https://github.com/minio/mc) ([RELEASE.2022-07-29T19-17-16Z](https://github.com/minio/mc/releases/tag/RELEASE.2022-07-29T19-17-16Z), today) - MinIO Client is a replacement for ls, cp, mkdir, diff and rsync commands for filesystems and object storage.
 - [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) ([v1.10.3](https://github.com/goreleaser/goreleaser/releases/tag/v1.10.3), 2 days ago) - Deliver Go binaries as fast and easily as possible
 - [charmbracelet/confettysh](https://github.com/charmbracelet/confettysh) ([v1.0.3](https://github.com/charmbracelet/confettysh/releases/tag/v1.0.3), 4 days ago) - confetti over ssh
-- [minio/mc](https://github.com/minio/mc) ([RELEASE.2022-07-24T02-25-13Z](https://github.com/minio/mc/releases/tag/RELEASE.2022-07-24T02-25-13Z), 5 days ago) - MinIO Client is a replacement for ls, cp, mkdir, diff and rsync commands for filesystems and object storage.
 - [muesli/gamut](https://github.com/muesli/gamut) ([v0.3.1](https://github.com/muesli/gamut/releases/tag/v0.3.1), 1 week ago) - Go package to generate and manage color palettes &amp; schemes 🎨
 - [muesli/kmeans](https://github.com/muesli/kmeans) ([v0.3.1](https://github.com/muesli/kmeans/releases/tag/v0.3.1), 1 week ago) - k-means clustering algorithm implementation written in Go
 
