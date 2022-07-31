@@ -28,15 +28,15 @@ Want your own self-generating profile page? Check out [readme-scribe](https://gi
 
 #### 🔭 Latest releases I've contributed to
 
-- [minio/mc](https://github.com/minio/mc) ([RELEASE.2022-07-29T19-17-16Z](https://github.com/minio/mc/releases/tag/RELEASE.2022-07-29T19-17-16Z), 1 day ago) - MinIO Client is a replacement for ls, cp, mkdir, diff and rsync commands for filesystems and object storage.
-- [charmbracelet/gum](https://github.com/charmbracelet/gum) ([v0.1.0](https://github.com/charmbracelet/gum/releases/tag/v0.1.0), 2 days ago) - A tool for glamorous shell scripts 🎀
-- [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) ([v1.10.3](https://github.com/goreleaser/goreleaser/releases/tag/v1.10.3), 3 days ago) - Deliver Go binaries as fast and easily as possible
-- [charmbracelet/confettysh](https://github.com/charmbracelet/confettysh) ([v1.0.3](https://github.com/charmbracelet/confettysh/releases/tag/v1.0.3), 5 days ago) - confetti over ssh
+- [minio/mc](https://github.com/minio/mc) ([RELEASE.2022-07-29T19-17-16Z](https://github.com/minio/mc/releases/tag/RELEASE.2022-07-29T19-17-16Z), 2 days ago) - MinIO Client is a replacement for ls, cp, mkdir, diff and rsync commands for filesystems and object storage.
+- [charmbracelet/gum](https://github.com/charmbracelet/gum) ([v0.1.0](https://github.com/charmbracelet/gum/releases/tag/v0.1.0), 3 days ago) - A tool for glamorous shell scripts 🎀
+- [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) ([v1.10.3](https://github.com/goreleaser/goreleaser/releases/tag/v1.10.3), 4 days ago) - Deliver Go binaries as fast and easily as possible
+- [charmbracelet/confettysh](https://github.com/charmbracelet/confettysh) ([v1.0.3](https://github.com/charmbracelet/confettysh/releases/tag/v1.0.3), 6 days ago) - confetti over ssh
 - [muesli/gamut](https://github.com/muesli/gamut) ([v0.3.1](https://github.com/muesli/gamut/releases/tag/v0.3.1), 1 week ago) - Go package to generate and manage color palettes &amp; schemes 🎨
 
 #### 🔨 Latest Pull Requests I published
 
-- [Add soft &amp; hard linter configs &amp; workflows](https://github.com/charmbracelet/gum/pull/44) on [charmbracelet/gum](https://github.com/charmbracelet/gum) (today)
+- [Add soft &amp; hard linter configs &amp; workflows](https://github.com/charmbracelet/gum/pull/44) on [charmbracelet/gum](https://github.com/charmbracelet/gum) (1 day ago)
 - [ci: update lint workflows](https://github.com/muesli/kmeans/pull/23) on [muesli/kmeans](https://github.com/muesli/kmeans) (1 week ago)
 - [ci: update lint workflow](https://github.com/charmbracelet/glamour/pull/157) on [charmbracelet/glamour](https://github.com/charmbracelet/glamour) (3 weeks ago)
 - [fix: bump Go dep to 1.15](https://github.com/muesli/mango-cobra/pull/6) on [muesli/mango-cobra](https://github.com/muesli/mango-cobra) (1 month ago)
@@ -52,11 +52,11 @@ Want your own self-generating profile page? Check out [readme-scribe](https://gi
 
 #### ⭐ Recent stars
 
-- [charmbracelet/gum](https://github.com/charmbracelet/gum) - A tool for glamorous shell scripts 🎀 (2 days ago)
+- [charmbracelet/gum](https://github.com/charmbracelet/gum) - A tool for glamorous shell scripts 🎀 (3 days ago)
 - [pranavnt/whack](https://github.com/pranavnt/whack) (2 weeks ago)
-- [go-playground/universal-translator](https://github.com/go-playground/universal-translator) - :speech_balloon: i18n Translator for Go/Golang using CLDR data &#43; pluralization rules (2 weeks ago)
-- [spf13/cast](https://github.com/spf13/cast) - safe and easy casting from one type to another in Go  (2 weeks ago)
-- [hyperreal64/distrobox-tui](https://github.com/hyperreal64/distrobox-tui) - A TUI for DistroBox (2 weeks ago)
+- [go-playground/universal-translator](https://github.com/go-playground/universal-translator) - :speech_balloon: i18n Translator for Go/Golang using CLDR data &#43; pluralization rules (3 weeks ago)
+- [spf13/cast](https://github.com/spf13/cast) - safe and easy casting from one type to another in Go  (3 weeks ago)
+- [hyperreal64/distrobox-tui](https://github.com/hyperreal64/distrobox-tui) - A TUI for DistroBox (3 weeks ago)
 
 #### ❤️ These awesome people sponsor me (thank you!)
 
