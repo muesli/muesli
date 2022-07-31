@@ -36,11 +36,11 @@ Want your own self-generating profile page? Check out [readme-scribe](https://gi
 
 #### 🔨 Latest Pull Requests I published
 
+- [Remove dupe Arch dependency from README](https://github.com/sn4k3/UVtools/pull/529) on [sn4k3/UVtools](https://github.com/sn4k3/UVtools) (today)
 - [Add soft &amp; hard linter configs &amp; workflows](https://github.com/charmbracelet/gum/pull/44) on [charmbracelet/gum](https://github.com/charmbracelet/gum) (1 day ago)
 - [ci: update lint workflows](https://github.com/muesli/kmeans/pull/23) on [muesli/kmeans](https://github.com/muesli/kmeans) (1 week ago)
 - [ci: update lint workflow](https://github.com/charmbracelet/glamour/pull/157) on [charmbracelet/glamour](https://github.com/charmbracelet/glamour) (3 weeks ago)
 - [fix: bump Go dep to 1.15](https://github.com/muesli/mango-cobra/pull/6) on [muesli/mango-cobra](https://github.com/muesli/mango-cobra) (1 month ago)
-- [docs: fix deprecation notes](https://github.com/charmbracelet/bubbletea/pull/339) on [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) (1 month ago)
 
 #### 📜 My recent blog posts
 
