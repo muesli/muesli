@@ -28,11 +28,11 @@ Want your own self-generating profile page? Check out [readme-scribe](https://gi
 
 #### 🔭 Latest releases I've contributed to
 
+- [charmbracelet/soft-serve](https://github.com/charmbracelet/soft-serve) ([v0.3.3](https://github.com/charmbracelet/soft-serve/releases/tag/v0.3.3), today) - A tasty, self-hostable Git server for the command line🍦
 - [charmbracelet/gum](https://github.com/charmbracelet/gum) ([v0.3.0](https://github.com/charmbracelet/gum/releases/tag/v0.3.0), 1 day ago) - A tool for glamorous shell scripts 🎀
 - [minio/mc](https://github.com/minio/mc) ([RELEASE.2022-07-29T19-17-16Z](https://github.com/minio/mc/releases/tag/RELEASE.2022-07-29T19-17-16Z), 5 days ago) - MinIO Client is a replacement for ls, cp, mkdir, diff and rsync commands for filesystems and object storage.
 - [sn4k3/UVtools](https://github.com/sn4k3/UVtools) ([v3.5.6](https://github.com/sn4k3/UVtools/releases/tag/v3.5.6), 5 days ago) - MSLA/DLP, file analysis, calibration, repair, conversion and manipulation
 - [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) ([v1.10.3](https://github.com/goreleaser/goreleaser/releases/tag/v1.10.3), 1 week ago) - Deliver Go binaries as fast and easily as possible
-- [charmbracelet/confettysh](https://github.com/charmbracelet/confettysh) ([v1.0.3](https://github.com/charmbracelet/confettysh/releases/tag/v1.0.3), 1 week ago) - confetti over ssh
 
 #### 🔨 Latest Pull Requests I published
 
