@@ -28,8 +28,8 @@ Want your own self-generating profile page? Check out [readme-scribe](https://gi
 
 #### 🔭 Latest releases I've contributed to
 
+- [charmbracelet/gum](https://github.com/charmbracelet/gum) ([v0.4.0](https://github.com/charmbracelet/gum/releases/tag/v0.4.0), today) - A tool for glamorous shell scripts 🎀
 - [charmbracelet/soft-serve](https://github.com/charmbracelet/soft-serve) ([v0.3.3](https://github.com/charmbracelet/soft-serve/releases/tag/v0.3.3), 1 day ago) - A tasty, self-hostable Git server for the command line🍦
-- [charmbracelet/gum](https://github.com/charmbracelet/gum) ([v0.3.0](https://github.com/charmbracelet/gum/releases/tag/v0.3.0), 2 days ago) - A tool for glamorous shell scripts 🎀
 - [minio/mc](https://github.com/minio/mc) ([RELEASE.2022-07-29T19-17-16Z](https://github.com/minio/mc/releases/tag/RELEASE.2022-07-29T19-17-16Z), 6 days ago) - MinIO Client is a replacement for ls, cp, mkdir, diff and rsync commands for filesystems and object storage.
 - [sn4k3/UVtools](https://github.com/sn4k3/UVtools) ([v3.5.6](https://github.com/sn4k3/UVtools/releases/tag/v3.5.6), 6 days ago) - MSLA/DLP, file analysis, calibration, repair, conversion and manipulation
 - [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) ([v1.10.3](https://github.com/goreleaser/goreleaser/releases/tag/v1.10.3), 1 week ago) - Deliver Go binaries as fast and easily as possible
