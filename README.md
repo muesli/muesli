@@ -12,10 +12,10 @@ Want your own self-generating profile page? Check out [readme-scribe](https://gi
 
 #### 👷 Check out what I'm currently working on
 
-- [charmbracelet/gum](https://github.com/charmbracelet/gum) - A tool for glamorous shell scripts 🎀 (2 days ago)
-- [sn4k3/UVtools](https://github.com/sn4k3/UVtools) - MSLA/DLP, file analysis, calibration, repair, conversion and manipulation (4 days ago)
-- [muesli/gamut](https://github.com/muesli/gamut) - Go package to generate and manage color palettes &amp; schemes 🎨 (1 week ago)
-- [muesli/kmeans](https://github.com/muesli/kmeans) - k-means clustering algorithm implementation written in Go (1 week ago)
+- [charmbracelet/gum](https://github.com/charmbracelet/gum) - A tool for glamorous shell scripts 🎀 (3 days ago)
+- [sn4k3/UVtools](https://github.com/sn4k3/UVtools) - MSLA/DLP, file analysis, calibration, repair, conversion and manipulation (5 days ago)
+- [muesli/gamut](https://github.com/muesli/gamut) - Go package to generate and manage color palettes &amp; schemes 🎨 (2 weeks ago)
+- [muesli/kmeans](https://github.com/muesli/kmeans) - k-means clustering algorithm implementation written in Go (2 weeks ago)
 - [charmbracelet/glamour](https://github.com/charmbracelet/glamour) - Stylesheet-based markdown rendering for your CLI apps 💇🏻‍♀️ (4 weeks ago)
 
 #### 🌱 My latest projects
@@ -28,19 +28,19 @@ Want your own self-generating profile page? Check out [readme-scribe](https://gi
 
 #### 🔭 Latest releases I've contributed to
 
-- [charmbracelet/gum](https://github.com/charmbracelet/gum) ([v0.4.0](https://github.com/charmbracelet/gum/releases/tag/v0.4.0), today) - A tool for glamorous shell scripts 🎀
-- [charmbracelet/soft-serve](https://github.com/charmbracelet/soft-serve) ([v0.3.3](https://github.com/charmbracelet/soft-serve/releases/tag/v0.3.3), 1 day ago) - A tasty, self-hostable Git server for the command line🍦
-- [minio/mc](https://github.com/minio/mc) ([RELEASE.2022-07-29T19-17-16Z](https://github.com/minio/mc/releases/tag/RELEASE.2022-07-29T19-17-16Z), 6 days ago) - MinIO Client is a replacement for ls, cp, mkdir, diff and rsync commands for filesystems and object storage.
-- [sn4k3/UVtools](https://github.com/sn4k3/UVtools) ([v3.5.6](https://github.com/sn4k3/UVtools/releases/tag/v3.5.6), 6 days ago) - MSLA/DLP, file analysis, calibration, repair, conversion and manipulation
+- [charmbracelet/gum](https://github.com/charmbracelet/gum) ([v0.4.0](https://github.com/charmbracelet/gum/releases/tag/v0.4.0), 1 day ago) - A tool for glamorous shell scripts 🎀
+- [charmbracelet/soft-serve](https://github.com/charmbracelet/soft-serve) ([v0.3.3](https://github.com/charmbracelet/soft-serve/releases/tag/v0.3.3), 2 days ago) - A tasty, self-hostable Git server for the command line🍦
+- [minio/mc](https://github.com/minio/mc) ([RELEASE.2022-07-29T19-17-16Z](https://github.com/minio/mc/releases/tag/RELEASE.2022-07-29T19-17-16Z), 1 week ago) - MinIO Client is a replacement for ls, cp, mkdir, diff and rsync commands for filesystems and object storage.
+- [sn4k3/UVtools](https://github.com/sn4k3/UVtools) ([v3.5.6](https://github.com/sn4k3/UVtools/releases/tag/v3.5.6), 1 week ago) - MSLA/DLP, file analysis, calibration, repair, conversion and manipulation
 - [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) ([v1.10.3](https://github.com/goreleaser/goreleaser/releases/tag/v1.10.3), 1 week ago) - Deliver Go binaries as fast and easily as possible
 
 #### 🔨 Latest Pull Requests I published
 
-- [chore: nicer PR example in README](https://github.com/charmbracelet/gum/pull/84) on [charmbracelet/gum](https://github.com/charmbracelet/gum) (2 days ago)
-- [fix: AUR package description](https://github.com/charmbracelet/gum/pull/53) on [charmbracelet/gum](https://github.com/charmbracelet/gum) (4 days ago)
-- [Remove dupe Arch dependency from README](https://github.com/sn4k3/UVtools/pull/529) on [sn4k3/UVtools](https://github.com/sn4k3/UVtools) (4 days ago)
-- [Add soft &amp; hard linter configs &amp; workflows](https://github.com/charmbracelet/gum/pull/44) on [charmbracelet/gum](https://github.com/charmbracelet/gum) (5 days ago)
-- [ci: update lint workflows](https://github.com/muesli/kmeans/pull/23) on [muesli/kmeans](https://github.com/muesli/kmeans) (1 week ago)
+- [chore: nicer PR example in README](https://github.com/charmbracelet/gum/pull/84) on [charmbracelet/gum](https://github.com/charmbracelet/gum) (3 days ago)
+- [fix: AUR package description](https://github.com/charmbracelet/gum/pull/53) on [charmbracelet/gum](https://github.com/charmbracelet/gum) (5 days ago)
+- [Remove dupe Arch dependency from README](https://github.com/sn4k3/UVtools/pull/529) on [sn4k3/UVtools](https://github.com/sn4k3/UVtools) (5 days ago)
+- [Add soft &amp; hard linter configs &amp; workflows](https://github.com/charmbracelet/gum/pull/44) on [charmbracelet/gum](https://github.com/charmbracelet/gum) (6 days ago)
+- [ci: update lint workflows](https://github.com/muesli/kmeans/pull/23) on [muesli/kmeans](https://github.com/muesli/kmeans) (2 weeks ago)
 
 #### 📜 My recent blog posts
 
@@ -63,7 +63,7 @@ Want your own self-generating profile page? Check out [readme-scribe](https://gi
 - [teamusec-krause](https://github.com/teamusec-krause) (2 weeks ago)
 - [twpayne](https://github.com/twpayne) (6 months ago)
 - [nkpremices](https://github.com/nkpremices) (10 months ago)
-- [crazy-max](https://github.com/crazy-max) (10 months ago)
+- [crazy-max](https://github.com/crazy-max) (11 months ago)
 - [ocelotsloth](https://github.com/ocelotsloth) (1 year ago)
 
 #### 💬 Feedback
