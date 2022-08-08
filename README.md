@@ -12,7 +12,7 @@ Want your own self-generating profile page? Check out [readme-scribe](https://gi
 
 #### 👷 Check out what I'm currently working on
 
-- [charmbracelet/gum](https://github.com/charmbracelet/gum) - A tool for glamorous shell scripts 🎀 (5 days ago)
+- [charmbracelet/gum](https://github.com/charmbracelet/gum) - A tool for glamorous shell scripts 🎀 (6 days ago)
 - [sn4k3/UVtools](https://github.com/sn4k3/UVtools) - MSLA/DLP, file analysis, calibration, repair, conversion and manipulation (1 week ago)
 - [muesli/gamut](https://github.com/muesli/gamut) - Go package to generate and manage color palettes &amp; schemes 🎨 (2 weeks ago)
 - [muesli/kmeans](https://github.com/muesli/kmeans) - k-means clustering algorithm implementation written in Go (2 weeks ago)
@@ -28,15 +28,15 @@ Want your own self-generating profile page? Check out [readme-scribe](https://gi
 
 #### 🔭 Latest releases I've contributed to
 
-- [minio/mc](https://github.com/minio/mc) ([RELEASE.2022-08-05T08-01-28Z](https://github.com/minio/mc/releases/tag/RELEASE.2022-08-05T08-01-28Z), 1 day ago) - MinIO Client is a replacement for ls, cp, mkdir, diff and rsync commands for filesystems and object storage.
-- [charmbracelet/gum](https://github.com/charmbracelet/gum) ([v0.4.0](https://github.com/charmbracelet/gum/releases/tag/v0.4.0), 3 days ago) - A tool for glamorous shell scripts 🎀
-- [charmbracelet/soft-serve](https://github.com/charmbracelet/soft-serve) ([v0.3.3](https://github.com/charmbracelet/soft-serve/releases/tag/v0.3.3), 4 days ago) - A tasty, self-hostable Git server for the command line🍦
+- [minio/mc](https://github.com/minio/mc) ([RELEASE.2022-08-05T08-01-28Z](https://github.com/minio/mc/releases/tag/RELEASE.2022-08-05T08-01-28Z), 2 days ago) - MinIO Client is a replacement for ls, cp, mkdir, diff and rsync commands for filesystems and object storage.
+- [charmbracelet/gum](https://github.com/charmbracelet/gum) ([v0.4.0](https://github.com/charmbracelet/gum/releases/tag/v0.4.0), 4 days ago) - A tool for glamorous shell scripts 🎀
+- [charmbracelet/soft-serve](https://github.com/charmbracelet/soft-serve) ([v0.3.3](https://github.com/charmbracelet/soft-serve/releases/tag/v0.3.3), 5 days ago) - A tasty, self-hostable Git server for the command line🍦
 - [sn4k3/UVtools](https://github.com/sn4k3/UVtools) ([v3.5.6](https://github.com/sn4k3/UVtools/releases/tag/v3.5.6), 1 week ago) - MSLA/DLP, file analysis, calibration, repair, conversion and manipulation
 - [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) ([v1.10.3](https://github.com/goreleaser/goreleaser/releases/tag/v1.10.3), 1 week ago) - Deliver Go binaries as fast and easily as possible
 
 #### 🔨 Latest Pull Requests I published
 
-- [chore: nicer PR example in README](https://github.com/charmbracelet/gum/pull/84) on [charmbracelet/gum](https://github.com/charmbracelet/gum) (5 days ago)
+- [chore: nicer PR example in README](https://github.com/charmbracelet/gum/pull/84) on [charmbracelet/gum](https://github.com/charmbracelet/gum) (6 days ago)
 - [fix: AUR package description](https://github.com/charmbracelet/gum/pull/53) on [charmbracelet/gum](https://github.com/charmbracelet/gum) (1 week ago)
 - [Remove dupe Arch dependency from README](https://github.com/sn4k3/UVtools/pull/529) on [sn4k3/UVtools](https://github.com/sn4k3/UVtools) (1 week ago)
 - [Add soft &amp; hard linter configs &amp; workflows](https://github.com/charmbracelet/gum/pull/44) on [charmbracelet/gum](https://github.com/charmbracelet/gum) (1 week ago)
@@ -52,10 +52,10 @@ Want your own self-generating profile page? Check out [readme-scribe](https://gi
 
 #### ⭐ Recent stars
 
-- [tidbyt/pixlet](https://github.com/tidbyt/pixlet) - Build apps for pixel-based displays ✨ (1 day ago)
-- [nathan-osman/go-sunrise](https://github.com/nathan-osman/go-sunrise) - Go package for calculating the sunrise and sunset times for a given location (1 day ago)
+- [tidbyt/pixlet](https://github.com/tidbyt/pixlet) - Build apps for pixel-based displays ✨ (2 days ago)
+- [nathan-osman/go-sunrise](https://github.com/nathan-osman/go-sunrise) - Go package for calculating the sunrise and sunset times for a given location (2 days ago)
 - [charmbracelet/gum](https://github.com/charmbracelet/gum) - A tool for glamorous shell scripts 🎀 (1 week ago)
-- [pranavnt/whack](https://github.com/pranavnt/whack) (3 weeks ago)
+- [pranavnt/whack](https://github.com/pranavnt/whack) (4 weeks ago)
 - [go-playground/universal-translator](https://github.com/go-playground/universal-translator) - :speech_balloon: i18n Translator for Go/Golang using CLDR data &#43; pluralization rules (4 weeks ago)
 
 #### ❤️ These awesome people sponsor me (thank you!)
