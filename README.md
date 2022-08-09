@@ -60,11 +60,11 @@ Want your own self-generating profile page? Check out [readme-scribe](https://gi
 
 #### ❤️ These awesome people sponsor me (thank you!)
 
+- [SimonWaldherr](https://github.com/SimonWaldherr) (today)
 - [teamusec-krause](https://github.com/teamusec-krause) (2 weeks ago)
 - [twpayne](https://github.com/twpayne) (6 months ago)
 - [nkpremices](https://github.com/nkpremices) (10 months ago)
 - [crazy-max](https://github.com/crazy-max) (11 months ago)
-- [ocelotsloth](https://github.com/ocelotsloth) (1 year ago)
 
 #### 💬 Feedback
 
