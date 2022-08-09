@@ -28,11 +28,11 @@ Want your own self-generating profile page? Check out [readme-scribe](https://gi
 
 #### 🔭 Latest releases I've contributed to
 
-- [charmbracelet/charm](https://github.com/charmbracelet/charm) ([v0.12.2](https://github.com/charmbracelet/charm/releases/tag/v0.12.2), today) - The Charm Tool and Library 🌟
+- [charmbracelet/skate](https://github.com/charmbracelet/skate) ([v0.2.1](https://github.com/charmbracelet/skate/releases/tag/v0.2.1), today) - A personal key value store 🛼
+- [charmbracelet/charm](https://github.com/charmbracelet/charm) ([v0.12.3](https://github.com/charmbracelet/charm/releases/tag/v0.12.3), today) - The Charm Tool and Library 🌟
 - [charmbracelet/soft-serve](https://github.com/charmbracelet/soft-serve) ([v0.4.0](https://github.com/charmbracelet/soft-serve/releases/tag/v0.4.0), 1 day ago) - A tasty, self-hostable Git server for the command line🍦
 - [minio/mc](https://github.com/minio/mc) ([RELEASE.2022-08-05T08-01-28Z](https://github.com/minio/mc/releases/tag/RELEASE.2022-08-05T08-01-28Z), 3 days ago) - MinIO Client is a replacement for ls, cp, mkdir, diff and rsync commands for filesystems and object storage.
 - [charmbracelet/gum](https://github.com/charmbracelet/gum) ([v0.4.0](https://github.com/charmbracelet/gum/releases/tag/v0.4.0), 5 days ago) - A tool for glamorous shell scripts 🎀
-- [sn4k3/UVtools](https://github.com/sn4k3/UVtools) ([v3.5.6](https://github.com/sn4k3/UVtools/releases/tag/v3.5.6), 1 week ago) - MSLA/DLP, file analysis, calibration, repair, conversion and manipulation
 
 #### 🔨 Latest Pull Requests I published
 
