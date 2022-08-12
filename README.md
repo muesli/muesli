@@ -14,8 +14,8 @@ Want your own self-generating profile page? Check out [readme-scribe](https://gi
 
 - [charmbracelet/gum](https://github.com/charmbracelet/gum) - A tool for glamorous shell scripts 🎀 (1 week ago)
 - [sn4k3/UVtools](https://github.com/sn4k3/UVtools) - MSLA/DLP, file analysis, calibration, repair, conversion and manipulation (1 week ago)
-- [muesli/gamut](https://github.com/muesli/gamut) - Go package to generate and manage color palettes &amp; schemes 🎨 (2 weeks ago)
-- [muesli/kmeans](https://github.com/muesli/kmeans) - k-means clustering algorithm implementation written in Go (2 weeks ago)
+- [muesli/gamut](https://github.com/muesli/gamut) - Go package to generate and manage color palettes &amp; schemes 🎨 (3 weeks ago)
+- [muesli/kmeans](https://github.com/muesli/kmeans) - k-means clustering algorithm implementation written in Go (3 weeks ago)
 - [charmbracelet/glamour](https://github.com/charmbracelet/glamour) - Stylesheet-based markdown rendering for your CLI apps 💇🏻‍♀️ (1 month ago)
 
 #### 🌱 My latest projects
@@ -28,10 +28,10 @@ Want your own self-generating profile page? Check out [readme-scribe](https://gi
 
 #### 🔭 Latest releases I've contributed to
 
-- [charmbracelet/skate](https://github.com/charmbracelet/skate) ([v0.2.1](https://github.com/charmbracelet/skate/releases/tag/v0.2.1), 2 days ago) - A personal key value store 🛼
-- [charmbracelet/charm](https://github.com/charmbracelet/charm) ([v0.12.3](https://github.com/charmbracelet/charm/releases/tag/v0.12.3), 2 days ago) - The Charm Tool and Library 🌟
-- [charmbracelet/soft-serve](https://github.com/charmbracelet/soft-serve) ([v0.4.0](https://github.com/charmbracelet/soft-serve/releases/tag/v0.4.0), 3 days ago) - A tasty, self-hostable Git server for the command line🍦
-- [minio/mc](https://github.com/minio/mc) ([RELEASE.2022-08-05T08-01-28Z](https://github.com/minio/mc/releases/tag/RELEASE.2022-08-05T08-01-28Z), 5 days ago) - MinIO Client is a replacement for ls, cp, mkdir, diff and rsync commands for filesystems and object storage.
+- [charmbracelet/skate](https://github.com/charmbracelet/skate) ([v0.2.1](https://github.com/charmbracelet/skate/releases/tag/v0.2.1), 3 days ago) - A personal key value store 🛼
+- [charmbracelet/charm](https://github.com/charmbracelet/charm) ([v0.12.3](https://github.com/charmbracelet/charm/releases/tag/v0.12.3), 3 days ago) - The Charm Tool and Library 🌟
+- [charmbracelet/soft-serve](https://github.com/charmbracelet/soft-serve) ([v0.4.0](https://github.com/charmbracelet/soft-serve/releases/tag/v0.4.0), 4 days ago) - A tasty, self-hostable Git server for the command line🍦
+- [minio/mc](https://github.com/minio/mc) ([RELEASE.2022-08-05T08-01-28Z](https://github.com/minio/mc/releases/tag/RELEASE.2022-08-05T08-01-28Z), 6 days ago) - MinIO Client is a replacement for ls, cp, mkdir, diff and rsync commands for filesystems and object storage.
 - [charmbracelet/gum](https://github.com/charmbracelet/gum) ([v0.4.0](https://github.com/charmbracelet/gum/releases/tag/v0.4.0), 1 week ago) - A tool for glamorous shell scripts 🎀
 
 #### 🔨 Latest Pull Requests I published
@@ -40,7 +40,7 @@ Want your own self-generating profile page? Check out [readme-scribe](https://gi
 - [fix: AUR package description](https://github.com/charmbracelet/gum/pull/53) on [charmbracelet/gum](https://github.com/charmbracelet/gum) (1 week ago)
 - [Remove dupe Arch dependency from README](https://github.com/sn4k3/UVtools/pull/529) on [sn4k3/UVtools](https://github.com/sn4k3/UVtools) (1 week ago)
 - [Add soft &amp; hard linter configs &amp; workflows](https://github.com/charmbracelet/gum/pull/44) on [charmbracelet/gum](https://github.com/charmbracelet/gum) (1 week ago)
-- [ci: update lint workflows](https://github.com/muesli/kmeans/pull/23) on [muesli/kmeans](https://github.com/muesli/kmeans) (2 weeks ago)
+- [ci: update lint workflows](https://github.com/muesli/kmeans/pull/23) on [muesli/kmeans](https://github.com/muesli/kmeans) (3 weeks ago)
 
 #### 📜 My recent blog posts
 
@@ -52,15 +52,15 @@ Want your own self-generating profile page? Check out [readme-scribe](https://gi
 
 #### ⭐ Recent stars
 
-- [tidbyt/pixlet](https://github.com/tidbyt/pixlet) - Build apps for pixel-based displays ✨ (5 days ago)
-- [nathan-osman/go-sunrise](https://github.com/nathan-osman/go-sunrise) - Go package for calculating the sunrise and sunset times for a given location (5 days ago)
+- [tidbyt/pixlet](https://github.com/tidbyt/pixlet) - Build apps for pixel-based displays ✨ (6 days ago)
+- [nathan-osman/go-sunrise](https://github.com/nathan-osman/go-sunrise) - Go package for calculating the sunrise and sunset times for a given location (6 days ago)
 - [charmbracelet/gum](https://github.com/charmbracelet/gum) - A tool for glamorous shell scripts 🎀 (2 weeks ago)
 - [pranavnt/whack](https://github.com/pranavnt/whack) (1 month ago)
 - [go-playground/universal-translator](https://github.com/go-playground/universal-translator) - :speech_balloon: i18n Translator for Go/Golang using CLDR data &#43; pluralization rules (1 month ago)
 
 #### ❤️ These awesome people sponsor me (thank you!)
 
-- [SimonWaldherr](https://github.com/SimonWaldherr) (2 days ago)
+- [SimonWaldherr](https://github.com/SimonWaldherr) (3 days ago)
 - [teamusec-krause](https://github.com/teamusec-krause) (3 weeks ago)
 - [twpayne](https://github.com/twpayne) (6 months ago)
 - [nkpremices](https://github.com/nkpremices) (10 months ago)
