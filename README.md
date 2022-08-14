@@ -13,7 +13,7 @@ Want your own self-generating profile page? Check out [readme-scribe](https://gi
 #### 👷 Check out what I'm currently working on
 
 - [charmbracelet/gum](https://github.com/charmbracelet/gum) - A tool for glamorous shell scripts 🎀 (1 week ago)
-- [sn4k3/UVtools](https://github.com/sn4k3/UVtools) - MSLA/DLP, file analysis, calibration, repair, conversion and manipulation (1 week ago)
+- [sn4k3/UVtools](https://github.com/sn4k3/UVtools) - MSLA/DLP, file analysis, calibration, repair, conversion and manipulation (2 weeks ago)
 - [muesli/gamut](https://github.com/muesli/gamut) - Go package to generate and manage color palettes &amp; schemes 🎨 (3 weeks ago)
 - [muesli/kmeans](https://github.com/muesli/kmeans) - k-means clustering algorithm implementation written in Go (3 weeks ago)
 - [charmbracelet/glamour](https://github.com/charmbracelet/glamour) - Stylesheet-based markdown rendering for your CLI apps 💇🏻‍♀️ (1 month ago)
@@ -28,17 +28,17 @@ Want your own self-generating profile page? Check out [readme-scribe](https://gi
 
 #### 🔭 Latest releases I've contributed to
 
-- [minio/mc](https://github.com/minio/mc) ([RELEASE.2022-08-11T00-30-48Z](https://github.com/minio/mc/releases/tag/RELEASE.2022-08-11T00-30-48Z), 1 day ago) - MinIO Client is a replacement for ls, cp, mkdir, diff and rsync commands for filesystems and object storage.
-- [charmbracelet/skate](https://github.com/charmbracelet/skate) ([v0.2.1](https://github.com/charmbracelet/skate/releases/tag/v0.2.1), 4 days ago) - A personal key value store 🛼
-- [charmbracelet/charm](https://github.com/charmbracelet/charm) ([v0.12.3](https://github.com/charmbracelet/charm/releases/tag/v0.12.3), 4 days ago) - The Charm Tool and Library 🌟
-- [charmbracelet/soft-serve](https://github.com/charmbracelet/soft-serve) ([v0.4.0](https://github.com/charmbracelet/soft-serve/releases/tag/v0.4.0), 5 days ago) - A tasty, self-hostable Git server for the command line🍦
+- [minio/mc](https://github.com/minio/mc) ([RELEASE.2022-08-11T00-30-48Z](https://github.com/minio/mc/releases/tag/RELEASE.2022-08-11T00-30-48Z), 2 days ago) - MinIO Client is a replacement for ls, cp, mkdir, diff and rsync commands for filesystems and object storage.
+- [charmbracelet/skate](https://github.com/charmbracelet/skate) ([v0.2.1](https://github.com/charmbracelet/skate/releases/tag/v0.2.1), 5 days ago) - A personal key value store 🛼
+- [charmbracelet/charm](https://github.com/charmbracelet/charm) ([v0.12.3](https://github.com/charmbracelet/charm/releases/tag/v0.12.3), 5 days ago) - The Charm Tool and Library 🌟
+- [charmbracelet/soft-serve](https://github.com/charmbracelet/soft-serve) ([v0.4.0](https://github.com/charmbracelet/soft-serve/releases/tag/v0.4.0), 6 days ago) - A tasty, self-hostable Git server for the command line🍦
 - [charmbracelet/gum](https://github.com/charmbracelet/gum) ([v0.4.0](https://github.com/charmbracelet/gum/releases/tag/v0.4.0), 1 week ago) - A tool for glamorous shell scripts 🎀
 
 #### 🔨 Latest Pull Requests I published
 
 - [chore: nicer PR example in README](https://github.com/charmbracelet/gum/pull/84) on [charmbracelet/gum](https://github.com/charmbracelet/gum) (1 week ago)
-- [fix: AUR package description](https://github.com/charmbracelet/gum/pull/53) on [charmbracelet/gum](https://github.com/charmbracelet/gum) (1 week ago)
-- [Remove dupe Arch dependency from README](https://github.com/sn4k3/UVtools/pull/529) on [sn4k3/UVtools](https://github.com/sn4k3/UVtools) (1 week ago)
+- [fix: AUR package description](https://github.com/charmbracelet/gum/pull/53) on [charmbracelet/gum](https://github.com/charmbracelet/gum) (2 weeks ago)
+- [Remove dupe Arch dependency from README](https://github.com/sn4k3/UVtools/pull/529) on [sn4k3/UVtools](https://github.com/sn4k3/UVtools) (2 weeks ago)
 - [Add soft &amp; hard linter configs &amp; workflows](https://github.com/charmbracelet/gum/pull/44) on [charmbracelet/gum](https://github.com/charmbracelet/gum) (2 weeks ago)
 - [ci: update lint workflows](https://github.com/muesli/kmeans/pull/23) on [muesli/kmeans](https://github.com/muesli/kmeans) (3 weeks ago)
 
@@ -60,7 +60,7 @@ Want your own self-generating profile page? Check out [readme-scribe](https://gi
 
 #### ❤️ These awesome people sponsor me (thank you!)
 
-- [SimonWaldherr](https://github.com/SimonWaldherr) (4 days ago)
+- [SimonWaldherr](https://github.com/SimonWaldherr) (5 days ago)
 - [teamusec-krause](https://github.com/teamusec-krause) (3 weeks ago)
 - [twpayne](https://github.com/twpayne) (6 months ago)
 - [nkpremices](https://github.com/nkpremices) (10 months ago)
