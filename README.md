@@ -12,7 +12,7 @@ Want your own self-generating profile page? Check out [readme-scribe](https://gi
 
 #### 👷 Check out what I'm currently working on
 
-- [muesli/elvish-libs](https://github.com/muesli/elvish-libs) - Libs / Themes for elvish (today)
+- [muesli/elvish-libs](https://github.com/muesli/elvish-libs) - Libs / Themes for elvish (1 day ago)
 - [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) - A powerful little TUI framework 🏗 (1 week ago)
 - [charmbracelet/gum](https://github.com/charmbracelet/gum) - A tool for glamorous shell scripts 🎀 (3 weeks ago)
 - [sn4k3/UVtools](https://github.com/sn4k3/UVtools) - MSLA/DLP, file analysis, calibration, repair, conversion and manipulation (3 weeks ago)
@@ -28,8 +28,8 @@ Want your own self-generating profile page? Check out [readme-scribe](https://gi
 
 #### 🔭 Latest releases I've contributed to
 
-- [minio/mc](https://github.com/minio/mc) ([RELEASE.2022-08-23T05-45-20Z](https://github.com/minio/mc/releases/tag/RELEASE.2022-08-23T05-45-20Z), 3 days ago) - MinIO Client is a replacement for ls, cp, mkdir, diff and rsync commands for filesystems and object storage.
-- [sn4k3/UVtools](https://github.com/sn4k3/UVtools) ([v3.6.2](https://github.com/sn4k3/UVtools/releases/tag/v3.6.2), 5 days ago) - MSLA/DLP, file analysis, calibration, repair, conversion and manipulation
+- [minio/mc](https://github.com/minio/mc) ([RELEASE.2022-08-23T05-45-20Z](https://github.com/minio/mc/releases/tag/RELEASE.2022-08-23T05-45-20Z), 4 days ago) - MinIO Client is a replacement for ls, cp, mkdir, diff and rsync commands for filesystems and object storage.
+- [sn4k3/UVtools](https://github.com/sn4k3/UVtools) ([v3.6.2](https://github.com/sn4k3/UVtools/releases/tag/v3.6.2), 6 days ago) - MSLA/DLP, file analysis, calibration, repair, conversion and manipulation
 - [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) ([v0.22.1](https://github.com/charmbracelet/bubbletea/releases/tag/v0.22.1), 1 week ago) - A powerful little TUI framework 🏗
 - [charmbracelet/charm](https://github.com/charmbracelet/charm) ([v0.12.4](https://github.com/charmbracelet/charm/releases/tag/v0.12.4), 1 week ago) - The Charm Tool and Library 🌟
 - [sheepla/srss](https://github.com/sheepla/srss) ([v0.1.0](https://github.com/sheepla/srss/releases/tag/v0.1.0), 1 week ago) - 📘 A command line RSS/ATOM/JSON feed reader
@@ -52,18 +52,18 @@ Want your own self-generating profile page? Check out [readme-scribe](https://gi
 
 #### ⭐ Recent stars
 
-- [tidbyt/pixlet](https://github.com/tidbyt/pixlet) - Build apps for pixel-based displays ✨ (2 weeks ago)
-- [nathan-osman/go-sunrise](https://github.com/nathan-osman/go-sunrise) - Go package for calculating the sunrise and sunset times for a given location (2 weeks ago)
-- [charmbracelet/gum](https://github.com/charmbracelet/gum) - A tool for glamorous shell scripts 🎀 (4 weeks ago)
+- [tidbyt/pixlet](https://github.com/tidbyt/pixlet) - Build apps for pixel-based displays ✨ (3 weeks ago)
+- [nathan-osman/go-sunrise](https://github.com/nathan-osman/go-sunrise) - Go package for calculating the sunrise and sunset times for a given location (3 weeks ago)
+- [charmbracelet/gum](https://github.com/charmbracelet/gum) - A tool for glamorous shell scripts 🎀 (1 month ago)
 - [pranavnt/whack](https://github.com/pranavnt/whack) (1 month ago)
 - [go-playground/universal-translator](https://github.com/go-playground/universal-translator) - :speech_balloon: i18n Translator for Go/Golang using CLDR data &#43; pluralization rules (1 month ago)
 
 #### ❤️ These awesome people sponsor me (thank you!)
 
-- [icco](https://github.com/icco) (3 days ago)
+- [icco](https://github.com/icco) (4 days ago)
 - [SimonWaldherr](https://github.com/SimonWaldherr) (2 weeks ago)
 - [twpayne](https://github.com/twpayne) (7 months ago)
-- [nkpremices](https://github.com/nkpremices) (10 months ago)
+- [nkpremices](https://github.com/nkpremices) (11 months ago)
 - [crazy-max](https://github.com/crazy-max) (11 months ago)
 
 #### 💬 Feedback
