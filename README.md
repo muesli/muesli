@@ -52,11 +52,11 @@ Want your own self-generating profile page? Check out [readme-scribe](https://gi
 
 #### ⭐ Recent stars
 
+- [charmbracelet/glow](https://github.com/charmbracelet/glow) - Render markdown on the CLI, with pizzazz! 💅🏻 (today)
 - [tidbyt/pixlet](https://github.com/tidbyt/pixlet) - Build apps for pixel-based displays ✨ (3 weeks ago)
 - [nathan-osman/go-sunrise](https://github.com/nathan-osman/go-sunrise) - Go package for calculating the sunrise and sunset times for a given location (3 weeks ago)
 - [charmbracelet/gum](https://github.com/charmbracelet/gum) - A tool for glamorous shell scripts 🎀 (1 month ago)
 - [pranavnt/whack](https://github.com/pranavnt/whack) (1 month ago)
-- [go-playground/universal-translator](https://github.com/go-playground/universal-translator) - :speech_balloon: i18n Translator for Go/Golang using CLDR data &#43; pluralization rules (1 month ago)
 
 #### ❤️ These awesome people sponsor me (thank you!)
 
