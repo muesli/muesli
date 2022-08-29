@@ -12,8 +12,8 @@ Want your own self-generating profile page? Check out [readme-scribe](https://gi
 
 #### 👷 Check out what I'm currently working on
 
-- [muesli/elvish-libs](https://github.com/muesli/elvish-libs) - Libs / Themes for elvish (2 days ago)
-- [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) - A powerful little TUI framework 🏗 (1 week ago)
+- [muesli/elvish-libs](https://github.com/muesli/elvish-libs) - Libs / Themes for elvish (3 days ago)
+- [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) - A powerful little TUI framework 🏗 (2 weeks ago)
 - [charmbracelet/gum](https://github.com/charmbracelet/gum) - A tool for glamorous shell scripts 🎀 (3 weeks ago)
 - [sn4k3/UVtools](https://github.com/sn4k3/UVtools) - MSLA/DLP, file analysis, calibration, repair, conversion and manipulation (4 weeks ago)
 - [muesli/kmeans](https://github.com/muesli/kmeans) - k-means clustering algorithm implementation written in Go (1 month ago)
@@ -28,16 +28,16 @@ Want your own self-generating profile page? Check out [readme-scribe](https://gi
 
 #### 🔭 Latest releases I've contributed to
 
-- [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) ([v1.11.0](https://github.com/goreleaser/goreleaser/releases/tag/v1.11.0), today) - Deliver Go binaries as fast and easily as possible
-- [minio/mc](https://github.com/minio/mc) ([RELEASE.2022-08-23T05-45-20Z](https://github.com/minio/mc/releases/tag/RELEASE.2022-08-23T05-45-20Z), 5 days ago) - MinIO Client is a replacement for ls, cp, mkdir, diff and rsync commands for filesystems and object storage.
+- [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) ([v1.11.0](https://github.com/goreleaser/goreleaser/releases/tag/v1.11.0), 1 day ago) - Deliver Go binaries as fast and easily as possible
+- [minio/mc](https://github.com/minio/mc) ([RELEASE.2022-08-23T05-45-20Z](https://github.com/minio/mc/releases/tag/RELEASE.2022-08-23T05-45-20Z), 6 days ago) - MinIO Client is a replacement for ls, cp, mkdir, diff and rsync commands for filesystems and object storage.
 - [sn4k3/UVtools](https://github.com/sn4k3/UVtools) ([v3.6.2](https://github.com/sn4k3/UVtools/releases/tag/v3.6.2), 1 week ago) - MSLA/DLP, file analysis, calibration, repair, conversion and manipulation
 - [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) ([v0.22.1](https://github.com/charmbracelet/bubbletea/releases/tag/v0.22.1), 1 week ago) - A powerful little TUI framework 🏗
-- [charmbracelet/charm](https://github.com/charmbracelet/charm) ([v0.12.4](https://github.com/charmbracelet/charm/releases/tag/v0.12.4), 1 week ago) - The Charm Tool and Library 🌟
+- [charmbracelet/charm](https://github.com/charmbracelet/charm) ([v0.12.4](https://github.com/charmbracelet/charm/releases/tag/v0.12.4), 2 weeks ago) - The Charm Tool and Library 🌟
 
 #### 🔨 Latest Pull Requests I published
 
-- [chore: gofmt sources](https://github.com/charmbracelet/bubbletea/pull/401) on [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) (1 week ago)
-- [chore: bump go-isatty dep](https://github.com/charmbracelet/bubbletea/pull/400) on [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) (1 week ago)
+- [chore: gofmt sources](https://github.com/charmbracelet/bubbletea/pull/401) on [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) (2 weeks ago)
+- [chore: bump go-isatty dep](https://github.com/charmbracelet/bubbletea/pull/400) on [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) (2 weeks ago)
 - [chore: nicer PR example in README](https://github.com/charmbracelet/gum/pull/84) on [charmbracelet/gum](https://github.com/charmbracelet/gum) (3 weeks ago)
 - [fix: AUR package description](https://github.com/charmbracelet/gum/pull/53) on [charmbracelet/gum](https://github.com/charmbracelet/gum) (4 weeks ago)
 - [Remove dupe Arch dependency from README](https://github.com/sn4k3/UVtools/pull/529) on [sn4k3/UVtools](https://github.com/sn4k3/UVtools) (4 weeks ago)
@@ -60,7 +60,7 @@ Want your own self-generating profile page? Check out [readme-scribe](https://gi
 
 #### ❤️ These awesome people sponsor me (thank you!)
 
-- [icco](https://github.com/icco) (5 days ago)
+- [icco](https://github.com/icco) (6 days ago)
 - [SimonWaldherr](https://github.com/SimonWaldherr) (2 weeks ago)
 - [twpayne](https://github.com/twpayne) (7 months ago)
 - [nkpremices](https://github.com/nkpremices) (11 months ago)
