@@ -28,11 +28,11 @@ Want your own self-generating profile page? Check out [readme-scribe](https://gi
 
 #### 🔭 Latest releases I've contributed to
 
+- [charmbracelet/gum](https://github.com/charmbracelet/gum) ([v0.5.0](https://github.com/charmbracelet/gum/releases/tag/v0.5.0), today) - A tool for glamorous shell scripts 🎀
 - [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) ([v1.11.0](https://github.com/goreleaser/goreleaser/releases/tag/v1.11.0), 1 day ago) - Deliver Go binaries as fast and easily as possible
 - [minio/mc](https://github.com/minio/mc) ([RELEASE.2022-08-23T05-45-20Z](https://github.com/minio/mc/releases/tag/RELEASE.2022-08-23T05-45-20Z), 6 days ago) - MinIO Client is a replacement for ls, cp, mkdir, diff and rsync commands for filesystems and object storage.
 - [sn4k3/UVtools](https://github.com/sn4k3/UVtools) ([v3.6.2](https://github.com/sn4k3/UVtools/releases/tag/v3.6.2), 1 week ago) - MSLA/DLP, file analysis, calibration, repair, conversion and manipulation
 - [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) ([v0.22.1](https://github.com/charmbracelet/bubbletea/releases/tag/v0.22.1), 1 week ago) - A powerful little TUI framework 🏗
-- [charmbracelet/charm](https://github.com/charmbracelet/charm) ([v0.12.4](https://github.com/charmbracelet/charm/releases/tag/v0.12.4), 2 weeks ago) - The Charm Tool and Library 🌟
 
 #### 🔨 Latest Pull Requests I published
 
