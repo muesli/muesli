@@ -36,11 +36,11 @@ Want your own self-generating profile page? Check out [readme-scribe](https://gi
 
 #### 🔨 Latest Pull Requests I published
 
+- [Add termenv.Output](https://github.com/muesli/termenv/pull/86) on [muesli/termenv](https://github.com/muesli/termenv) (today)
 - [chore: gofmt sources](https://github.com/charmbracelet/bubbletea/pull/401) on [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) (2 weeks ago)
 - [chore: bump go-isatty dep](https://github.com/charmbracelet/bubbletea/pull/400) on [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) (2 weeks ago)
 - [chore: nicer PR example in README](https://github.com/charmbracelet/gum/pull/84) on [charmbracelet/gum](https://github.com/charmbracelet/gum) (4 weeks ago)
 - [fix: AUR package description](https://github.com/charmbracelet/gum/pull/53) on [charmbracelet/gum](https://github.com/charmbracelet/gum) (1 month ago)
-- [Remove dupe Arch dependency from README](https://github.com/sn4k3/UVtools/pull/529) on [sn4k3/UVtools](https://github.com/sn4k3/UVtools) (1 month ago)
 
 #### 📜 My recent blog posts
 
