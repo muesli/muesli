@@ -12,10 +12,10 @@ Want your own self-generating profile page? Check out [readme-scribe](https://gi
 
 #### 👷 Check out what I'm currently working on
 
-- [muesli/elvish-libs](https://github.com/muesli/elvish-libs) - Libs / Themes for elvish (3 days ago)
+- [muesli/elvish-libs](https://github.com/muesli/elvish-libs) - Libs / Themes for elvish (4 days ago)
 - [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) - A powerful little TUI framework 🏗 (2 weeks ago)
-- [charmbracelet/gum](https://github.com/charmbracelet/gum) - A tool for glamorous shell scripts 🎀 (3 weeks ago)
-- [sn4k3/UVtools](https://github.com/sn4k3/UVtools) - MSLA/DLP, file analysis, calibration, repair, conversion and manipulation (4 weeks ago)
+- [charmbracelet/gum](https://github.com/charmbracelet/gum) - A tool for glamorous shell scripts 🎀 (4 weeks ago)
+- [sn4k3/UVtools](https://github.com/sn4k3/UVtools) - MSLA/DLP, file analysis, calibration, repair, conversion and manipulation (1 month ago)
 - [muesli/kmeans](https://github.com/muesli/kmeans) - k-means clustering algorithm implementation written in Go (1 month ago)
 
 #### 🌱 My latest projects
@@ -28,9 +28,9 @@ Want your own self-generating profile page? Check out [readme-scribe](https://gi
 
 #### 🔭 Latest releases I've contributed to
 
-- [minio/mc](https://github.com/minio/mc) ([RELEASE.2022-08-28T20-08-11Z](https://github.com/minio/mc/releases/tag/RELEASE.2022-08-28T20-08-11Z), today) - MinIO Client is a replacement for ls, cp, mkdir, diff and rsync commands for filesystems and object storage.
-- [charmbracelet/gum](https://github.com/charmbracelet/gum) ([v0.5.0](https://github.com/charmbracelet/gum/releases/tag/v0.5.0), today) - A tool for glamorous shell scripts 🎀
-- [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) ([v1.11.0](https://github.com/goreleaser/goreleaser/releases/tag/v1.11.0), 1 day ago) - Deliver Go binaries as fast and easily as possible
+- [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) ([v1.11.1](https://github.com/goreleaser/goreleaser/releases/tag/v1.11.1), today) - Deliver Go binaries as fast and easily as possible
+- [minio/mc](https://github.com/minio/mc) ([RELEASE.2022-08-28T20-08-11Z](https://github.com/minio/mc/releases/tag/RELEASE.2022-08-28T20-08-11Z), 1 day ago) - MinIO Client is a replacement for ls, cp, mkdir, diff and rsync commands for filesystems and object storage.
+- [charmbracelet/gum](https://github.com/charmbracelet/gum) ([v0.5.0](https://github.com/charmbracelet/gum/releases/tag/v0.5.0), 1 day ago) - A tool for glamorous shell scripts 🎀
 - [sn4k3/UVtools](https://github.com/sn4k3/UVtools) ([v3.6.2](https://github.com/sn4k3/UVtools/releases/tag/v3.6.2), 1 week ago) - MSLA/DLP, file analysis, calibration, repair, conversion and manipulation
 - [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) ([v0.22.1](https://github.com/charmbracelet/bubbletea/releases/tag/v0.22.1), 1 week ago) - A powerful little TUI framework 🏗
 
@@ -38,9 +38,9 @@ Want your own self-generating profile page? Check out [readme-scribe](https://gi
 
 - [chore: gofmt sources](https://github.com/charmbracelet/bubbletea/pull/401) on [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) (2 weeks ago)
 - [chore: bump go-isatty dep](https://github.com/charmbracelet/bubbletea/pull/400) on [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) (2 weeks ago)
-- [chore: nicer PR example in README](https://github.com/charmbracelet/gum/pull/84) on [charmbracelet/gum](https://github.com/charmbracelet/gum) (3 weeks ago)
-- [fix: AUR package description](https://github.com/charmbracelet/gum/pull/53) on [charmbracelet/gum](https://github.com/charmbracelet/gum) (4 weeks ago)
-- [Remove dupe Arch dependency from README](https://github.com/sn4k3/UVtools/pull/529) on [sn4k3/UVtools](https://github.com/sn4k3/UVtools) (4 weeks ago)
+- [chore: nicer PR example in README](https://github.com/charmbracelet/gum/pull/84) on [charmbracelet/gum](https://github.com/charmbracelet/gum) (4 weeks ago)
+- [fix: AUR package description](https://github.com/charmbracelet/gum/pull/53) on [charmbracelet/gum](https://github.com/charmbracelet/gum) (1 month ago)
+- [Remove dupe Arch dependency from README](https://github.com/sn4k3/UVtools/pull/529) on [sn4k3/UVtools](https://github.com/sn4k3/UVtools) (1 month ago)
 
 #### 📜 My recent blog posts
 
@@ -52,7 +52,7 @@ Want your own self-generating profile page? Check out [readme-scribe](https://gi
 
 #### ⭐ Recent stars
 
-- [charmbracelet/glow](https://github.com/charmbracelet/glow) - Render markdown on the CLI, with pizzazz! 💅🏻 (today)
+- [charmbracelet/glow](https://github.com/charmbracelet/glow) - Render markdown on the CLI, with pizzazz! 💅🏻 (1 day ago)
 - [tidbyt/pixlet](https://github.com/tidbyt/pixlet) - Build apps for pixel-based displays ✨ (3 weeks ago)
 - [nathan-osman/go-sunrise](https://github.com/nathan-osman/go-sunrise) - Go package for calculating the sunrise and sunset times for a given location (3 weeks ago)
 - [charmbracelet/gum](https://github.com/charmbracelet/gum) - A tool for glamorous shell scripts 🎀 (1 month ago)
@@ -60,8 +60,8 @@ Want your own self-generating profile page? Check out [readme-scribe](https://gi
 
 #### ❤️ These awesome people sponsor me (thank you!)
 
-- [icco](https://github.com/icco) (6 days ago)
-- [SimonWaldherr](https://github.com/SimonWaldherr) (2 weeks ago)
+- [icco](https://github.com/icco) (1 week ago)
+- [SimonWaldherr](https://github.com/SimonWaldherr) (3 weeks ago)
 - [twpayne](https://github.com/twpayne) (7 months ago)
 - [nkpremices](https://github.com/nkpremices) (11 months ago)
 - [crazy-max](https://github.com/crazy-max) (11 months ago)
