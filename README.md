@@ -28,11 +28,11 @@ Want your own self-generating profile page? Check out [readme-scribe](https://gi
 
 #### 🔭 Latest releases I've contributed to
 
+- [charmbracelet/bubbles](https://github.com/charmbracelet/bubbles) ([v0.14.0](https://github.com/charmbracelet/bubbles/releases/tag/v0.14.0), today) - TUI components for Bubble Tea 🫧
 - [charmbracelet/gum](https://github.com/charmbracelet/gum) ([v0.6.0](https://github.com/charmbracelet/gum/releases/tag/v0.6.0), 1 day ago) - A tool for glamorous shell scripts 🎀
 - [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) ([v1.11.2](https://github.com/goreleaser/goreleaser/releases/tag/v1.11.2), 6 days ago) - Deliver Go binaries as fast and easily as possible
 - [sn4k3/UVtools](https://github.com/sn4k3/UVtools) ([v3.6.3](https://github.com/sn4k3/UVtools/releases/tag/v3.6.3), 1 week ago) - MSLA/DLP, file analysis, calibration, repair, conversion and manipulation
 - [minio/mc](https://github.com/minio/mc) ([RELEASE.2022-08-28T20-08-11Z](https://github.com/minio/mc/releases/tag/RELEASE.2022-08-28T20-08-11Z), 1 week ago) - MinIO Client is a replacement for ls, cp, mkdir, diff and rsync commands for filesystems and object storage.
-- [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) ([v0.22.1](https://github.com/charmbracelet/bubbletea/releases/tag/v0.22.1), 2 weeks ago) - A powerful little TUI framework 🏗
 
 #### 🔨 Latest Pull Requests I published
 
