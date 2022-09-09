@@ -12,7 +12,7 @@ Want your own self-generating profile page? Check out [readme-scribe](https://gi
 
 #### 👷 Check out what I'm currently working on
 
-- [muesli/elvish-libs](https://github.com/muesli/elvish-libs) - Libs / Themes for elvish (1 week ago)
+- [muesli/elvish-libs](https://github.com/muesli/elvish-libs) - Libs / Themes for elvish (2 weeks ago)
 - [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) - A powerful little TUI framework 🏗 (3 weeks ago)
 - [charmbracelet/gum](https://github.com/charmbracelet/gum) - A tool for glamorous shell scripts 🎀 (1 month ago)
 - [sn4k3/UVtools](https://github.com/sn4k3/UVtools) - MSLA/DLP, file analysis, calibration, repair, conversion and manipulation (1 month ago)
@@ -28,9 +28,9 @@ Want your own self-generating profile page? Check out [readme-scribe](https://gi
 
 #### 🔭 Latest releases I've contributed to
 
-- [charmbracelet/lipgloss](https://github.com/charmbracelet/lipgloss) ([v0.6.0](https://github.com/charmbracelet/lipgloss/releases/tag/v0.6.0), 2 days ago) - Style definitions for nice terminal layouts 👄
-- [charmbracelet/bubbles](https://github.com/charmbracelet/bubbles) ([v0.14.0](https://github.com/charmbracelet/bubbles/releases/tag/v0.14.0), 2 days ago) - TUI components for Bubble Tea 🫧
-- [charmbracelet/gum](https://github.com/charmbracelet/gum) ([v0.6.0](https://github.com/charmbracelet/gum/releases/tag/v0.6.0), 3 days ago) - A tool for glamorous shell scripts 🎀
+- [charmbracelet/lipgloss](https://github.com/charmbracelet/lipgloss) ([v0.6.0](https://github.com/charmbracelet/lipgloss/releases/tag/v0.6.0), 3 days ago) - Style definitions for nice terminal layouts 👄
+- [charmbracelet/bubbles](https://github.com/charmbracelet/bubbles) ([v0.14.0](https://github.com/charmbracelet/bubbles/releases/tag/v0.14.0), 3 days ago) - TUI components for Bubble Tea 🫧
+- [charmbracelet/gum](https://github.com/charmbracelet/gum) ([v0.6.0](https://github.com/charmbracelet/gum/releases/tag/v0.6.0), 4 days ago) - A tool for glamorous shell scripts 🎀
 - [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) ([v1.11.2](https://github.com/goreleaser/goreleaser/releases/tag/v1.11.2), 1 week ago) - Deliver Go binaries as fast and easily as possible
 - [sn4k3/UVtools](https://github.com/sn4k3/UVtools) ([v3.6.3](https://github.com/sn4k3/UVtools/releases/tag/v3.6.3), 1 week ago) - MSLA/DLP, file analysis, calibration, repair, conversion and manipulation
 
@@ -56,7 +56,7 @@ Want your own self-generating profile page? Check out [readme-scribe](https://gi
 - [tidbyt/pixlet](https://github.com/tidbyt/pixlet) - Build apps for pixel-based displays ✨ (1 month ago)
 - [nathan-osman/go-sunrise](https://github.com/nathan-osman/go-sunrise) - Go package for calculating the sunrise and sunset times for a given location (1 month ago)
 - [charmbracelet/gum](https://github.com/charmbracelet/gum) - A tool for glamorous shell scripts 🎀 (1 month ago)
-- [pranavnt/whack](https://github.com/pranavnt/whack) (1 month ago)
+- [pranavnt/whack](https://github.com/pranavnt/whack) (2 months ago)
 
 #### ❤️ These awesome people sponsor me (thank you!)
 
