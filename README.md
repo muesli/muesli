@@ -12,7 +12,7 @@ Want your own self-generating profile page? Check out [readme-scribe](https://gi
 
 #### 👷 Check out what I'm currently working on
 
-- [charmbracelet/glow](https://github.com/charmbracelet/glow) - Render markdown on the CLI, with pizzazz! 💅🏻 (2 days ago)
+- [charmbracelet/glow](https://github.com/charmbracelet/glow) - Render markdown on the CLI, with pizzazz! 💅🏻 (3 days ago)
 - [muesli/elvish-libs](https://github.com/muesli/elvish-libs) - Libs / Themes for elvish (2 weeks ago)
 - [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) - A powerful little TUI framework 🏗 (4 weeks ago)
 - [charmbracelet/gum](https://github.com/charmbracelet/gum) - A tool for glamorous shell scripts 🎀 (1 month ago)
@@ -28,15 +28,15 @@ Want your own self-generating profile page? Check out [readme-scribe](https://gi
 
 #### 🔭 Latest releases I've contributed to
 
-- [charmbracelet/lipgloss](https://github.com/charmbracelet/lipgloss) ([v0.6.0](https://github.com/charmbracelet/lipgloss/releases/tag/v0.6.0), 6 days ago) - Style definitions for nice terminal layouts 👄
-- [charmbracelet/bubbles](https://github.com/charmbracelet/bubbles) ([v0.14.0](https://github.com/charmbracelet/bubbles/releases/tag/v0.14.0), 6 days ago) - TUI components for Bubble Tea 🫧
+- [charmbracelet/lipgloss](https://github.com/charmbracelet/lipgloss) ([v0.6.0](https://github.com/charmbracelet/lipgloss/releases/tag/v0.6.0), 1 week ago) - Style definitions for nice terminal layouts 👄
+- [charmbracelet/bubbles](https://github.com/charmbracelet/bubbles) ([v0.14.0](https://github.com/charmbracelet/bubbles/releases/tag/v0.14.0), 1 week ago) - TUI components for Bubble Tea 🫧
 - [charmbracelet/gum](https://github.com/charmbracelet/gum) ([v0.6.0](https://github.com/charmbracelet/gum/releases/tag/v0.6.0), 1 week ago) - A tool for glamorous shell scripts 🎀
 - [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) ([v1.11.2](https://github.com/goreleaser/goreleaser/releases/tag/v1.11.2), 1 week ago) - Deliver Go binaries as fast and easily as possible
-- [sn4k3/UVtools](https://github.com/sn4k3/UVtools) ([v3.6.3](https://github.com/sn4k3/UVtools/releases/tag/v3.6.3), 1 week ago) - MSLA/DLP, file analysis, calibration, repair, conversion and manipulation
+- [sn4k3/UVtools](https://github.com/sn4k3/UVtools) ([v3.6.3](https://github.com/sn4k3/UVtools/releases/tag/v3.6.3), 2 weeks ago) - MSLA/DLP, file analysis, calibration, repair, conversion and manipulation
 
 #### 🔨 Latest Pull Requests I published
 
-- [Add termenv.Output](https://github.com/muesli/termenv/pull/86) on [muesli/termenv](https://github.com/muesli/termenv) (1 week ago)
+- [Add termenv.Output](https://github.com/muesli/termenv/pull/86) on [muesli/termenv](https://github.com/muesli/termenv) (2 weeks ago)
 - [chore: gofmt sources](https://github.com/charmbracelet/bubbletea/pull/401) on [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) (4 weeks ago)
 - [chore: bump go-isatty dep](https://github.com/charmbracelet/bubbletea/pull/400) on [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) (4 weeks ago)
 - [chore: nicer PR example in README](https://github.com/charmbracelet/gum/pull/84) on [charmbracelet/gum](https://github.com/charmbracelet/gum) (1 month ago)
@@ -60,7 +60,7 @@ Want your own self-generating profile page? Check out [readme-scribe](https://gi
 
 #### ❤️ These awesome people sponsor me (thank you!)
 
-- [icco](https://github.com/icco) (2 weeks ago)
+- [icco](https://github.com/icco) (3 weeks ago)
 - [SimonWaldherr](https://github.com/SimonWaldherr) (1 month ago)
 - [twpayne](https://github.com/twpayne) (7 months ago)
 - [nkpremices](https://github.com/nkpremices) (11 months ago)
