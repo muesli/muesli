@@ -28,15 +28,15 @@ Want your own self-generating profile page? Check out [readme-scribe](https://gi
 
 #### 🔭 Latest releases I've contributed to
 
-- [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) ([v1.11.4](https://github.com/goreleaser/goreleaser/releases/tag/v1.11.4), today) - Deliver Go binaries as fast and easily as possible
-- [sn4k3/UVtools](https://github.com/sn4k3/UVtools) ([v3.6.5](https://github.com/sn4k3/UVtools/releases/tag/v3.6.5), 1 day ago) - MSLA/DLP, file analysis, calibration, repair, conversion and manipulation
-- [minio/mc](https://github.com/minio/mc) ([RELEASE.2022-09-16T09-16-47Z](https://github.com/minio/mc/releases/tag/RELEASE.2022-09-16T09-16-47Z), 2 days ago) - MinIO Client is a replacement for ls, cp, mkdir, diff and rsync commands for filesystems and object storage.
-- [charmbracelet/lipgloss](https://github.com/charmbracelet/lipgloss) ([v0.6.0](https://github.com/charmbracelet/lipgloss/releases/tag/v0.6.0), 1 week ago) - Style definitions for nice terminal layouts 👄
-- [charmbracelet/bubbles](https://github.com/charmbracelet/bubbles) ([v0.14.0](https://github.com/charmbracelet/bubbles/releases/tag/v0.14.0), 1 week ago) - TUI components for Bubble Tea 🫧
+- [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) ([v1.11.4](https://github.com/goreleaser/goreleaser/releases/tag/v1.11.4), 1 day ago) - Deliver Go binaries as fast and easily as possible
+- [sn4k3/UVtools](https://github.com/sn4k3/UVtools) ([v3.6.5](https://github.com/sn4k3/UVtools/releases/tag/v3.6.5), 2 days ago) - MSLA/DLP, file analysis, calibration, repair, conversion and manipulation
+- [minio/mc](https://github.com/minio/mc) ([RELEASE.2022-09-16T09-16-47Z](https://github.com/minio/mc/releases/tag/RELEASE.2022-09-16T09-16-47Z), 3 days ago) - MinIO Client is a replacement for ls, cp, mkdir, diff and rsync commands for filesystems and object storage.
+- [charmbracelet/lipgloss](https://github.com/charmbracelet/lipgloss) ([v0.6.0](https://github.com/charmbracelet/lipgloss/releases/tag/v0.6.0), 2 weeks ago) - Style definitions for nice terminal layouts 👄
+- [charmbracelet/bubbles](https://github.com/charmbracelet/bubbles) ([v0.14.0](https://github.com/charmbracelet/bubbles/releases/tag/v0.14.0), 2 weeks ago) - TUI components for Bubble Tea 🫧
 
 #### 🔨 Latest Pull Requests I published
 
-- [Add termenv.Output](https://github.com/muesli/termenv/pull/86) on [muesli/termenv](https://github.com/muesli/termenv) (2 weeks ago)
+- [Add termenv.Output](https://github.com/muesli/termenv/pull/86) on [muesli/termenv](https://github.com/muesli/termenv) (3 weeks ago)
 - [chore: gofmt sources](https://github.com/charmbracelet/bubbletea/pull/401) on [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) (1 month ago)
 - [chore: bump go-isatty dep](https://github.com/charmbracelet/bubbletea/pull/400) on [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) (1 month ago)
 - [chore: nicer PR example in README](https://github.com/charmbracelet/gum/pull/84) on [charmbracelet/gum](https://github.com/charmbracelet/gum) (1 month ago)
@@ -52,7 +52,7 @@ Want your own self-generating profile page? Check out [readme-scribe](https://gi
 
 #### ⭐ Recent stars
 
-- [jamesthesken/pixel](https://github.com/jamesthesken/pixel) - Pixel is a Matrix client for the terminal. (6 days ago)
+- [jamesthesken/pixel](https://github.com/jamesthesken/pixel) - Pixel is a Matrix client for the terminal. (1 week ago)
 - [charmbracelet/glow](https://github.com/charmbracelet/glow) - Render markdown on the CLI, with pizzazz! 💅🏻 (3 weeks ago)
 - [tidbyt/pixlet](https://github.com/tidbyt/pixlet) - Build apps for pixel-based displays ✨ (1 month ago)
 - [nathan-osman/go-sunrise](https://github.com/nathan-osman/go-sunrise) - Go package for calculating the sunrise and sunset times for a given location (1 month ago)
@@ -60,7 +60,7 @@ Want your own self-generating profile page? Check out [readme-scribe](https://gi
 
 #### ❤️ These awesome people sponsor me (thank you!)
 
-- [icco](https://github.com/icco) (3 weeks ago)
+- [icco](https://github.com/icco) (4 weeks ago)
 - [SimonWaldherr](https://github.com/SimonWaldherr) (1 month ago)
 - [twpayne](https://github.com/twpayne) (8 months ago)
 - [nkpremices](https://github.com/nkpremices) (11 months ago)
