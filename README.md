@@ -36,11 +36,11 @@ Want your own self-generating profile page? Check out [readme-scribe](https://gi
 
 #### 🔨 Latest Pull Requests I published
 
+- [feat: use Termenv.Output to write to tty](https://github.com/charmbracelet/bubbletea/pull/455) on [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) (today)
 - [Add termenv.Output](https://github.com/muesli/termenv/pull/86) on [muesli/termenv](https://github.com/muesli/termenv) (3 weeks ago)
 - [chore: gofmt sources](https://github.com/charmbracelet/bubbletea/pull/401) on [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) (1 month ago)
 - [chore: bump go-isatty dep](https://github.com/charmbracelet/bubbletea/pull/400) on [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) (1 month ago)
 - [chore: nicer PR example in README](https://github.com/charmbracelet/gum/pull/84) on [charmbracelet/gum](https://github.com/charmbracelet/gum) (1 month ago)
-- [fix: AUR package description](https://github.com/charmbracelet/gum/pull/53) on [charmbracelet/gum](https://github.com/charmbracelet/gum) (1 month ago)
 
 #### 📜 My recent blog posts
 
