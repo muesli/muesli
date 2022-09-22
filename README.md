@@ -28,11 +28,11 @@ Want your own self-generating profile page? Check out [readme-scribe](https://gi
 
 #### 🔭 Latest releases I've contributed to
 
+- [muesli/mango](https://github.com/muesli/mango) ([v0.2.0](https://github.com/muesli/mango/releases/tag/v0.2.0), today) - mango is a man-page generator for the Go flag, pflag, cobra, coral, and kong packages
 - [sn4k3/UVtools](https://github.com/sn4k3/UVtools) ([v3.6.6](https://github.com/sn4k3/UVtools/releases/tag/v3.6.6), 2 days ago) - MSLA/DLP, file analysis, calibration, repair, conversion and manipulation
 - [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) ([v1.11.4](https://github.com/goreleaser/goreleaser/releases/tag/v1.11.4), 3 days ago) - Deliver Go binaries as fast and easily as possible
 - [minio/mc](https://github.com/minio/mc) ([RELEASE.2022-09-16T09-16-47Z](https://github.com/minio/mc/releases/tag/RELEASE.2022-09-16T09-16-47Z), 5 days ago) - MinIO Client is a replacement for ls, cp, mkdir, diff and rsync commands for filesystems and object storage.
 - [charmbracelet/lipgloss](https://github.com/charmbracelet/lipgloss) ([v0.6.0](https://github.com/charmbracelet/lipgloss/releases/tag/v0.6.0), 2 weeks ago) - Style definitions for nice terminal layouts 👄
-- [charmbracelet/bubbles](https://github.com/charmbracelet/bubbles) ([v0.14.0](https://github.com/charmbracelet/bubbles/releases/tag/v0.14.0), 2 weeks ago) - TUI components for Bubble Tea 🫧
 
 #### 🔨 Latest Pull Requests I published
 
