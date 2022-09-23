@@ -12,10 +12,10 @@ Want your own self-generating profile page? Check out [readme-scribe](https://gi
 
 #### 👷 Check out what I'm currently working on
 
-- [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) - A powerful little TUI framework 🏗 (today)
-- [muesli/termenv](https://github.com/muesli/termenv) - Advanced ANSI style &amp; color support for your terminal applications (today)
+- [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) - A powerful little TUI framework 🏗 (1 day ago)
+- [muesli/termenv](https://github.com/muesli/termenv) - Advanced ANSI style &amp; color support for your terminal applications (1 day ago)
 - [charmbracelet/glow](https://github.com/charmbracelet/glow) - Render markdown on the CLI, with pizzazz! 💅🏻 (1 week ago)
-- [muesli/elvish-libs](https://github.com/muesli/elvish-libs) - Libs / Themes for elvish (3 weeks ago)
+- [muesli/elvish-libs](https://github.com/muesli/elvish-libs) - Libs / Themes for elvish (4 weeks ago)
 - [charmbracelet/gum](https://github.com/charmbracelet/gum) - A tool for glamorous shell scripts 🎀 (1 month ago)
 
 #### 🌱 My latest projects
@@ -28,19 +28,19 @@ Want your own self-generating profile page? Check out [readme-scribe](https://gi
 
 #### 🔭 Latest releases I've contributed to
 
-- [muesli/mango](https://github.com/muesli/mango) ([v0.2.0](https://github.com/muesli/mango/releases/tag/v0.2.0), today) - mango is a man-page generator for the Go flag, pflag, cobra, coral, and kong packages
-- [sn4k3/UVtools](https://github.com/sn4k3/UVtools) ([v3.6.6](https://github.com/sn4k3/UVtools/releases/tag/v3.6.6), 2 days ago) - MSLA/DLP, file analysis, calibration, repair, conversion and manipulation
-- [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) ([v1.11.4](https://github.com/goreleaser/goreleaser/releases/tag/v1.11.4), 3 days ago) - Deliver Go binaries as fast and easily as possible
-- [minio/mc](https://github.com/minio/mc) ([RELEASE.2022-09-16T09-16-47Z](https://github.com/minio/mc/releases/tag/RELEASE.2022-09-16T09-16-47Z), 5 days ago) - MinIO Client is a replacement for ls, cp, mkdir, diff and rsync commands for filesystems and object storage.
-- [charmbracelet/lipgloss](https://github.com/charmbracelet/lipgloss) ([v0.6.0](https://github.com/charmbracelet/lipgloss/releases/tag/v0.6.0), 2 weeks ago) - Style definitions for nice terminal layouts 👄
+- [muesli/termenv](https://github.com/muesli/termenv) ([v0.13.0](https://github.com/muesli/termenv/releases/tag/v0.13.0), today) - Advanced ANSI style &amp; color support for your terminal applications
+- [muesli/mango](https://github.com/muesli/mango) ([v0.2.0](https://github.com/muesli/mango/releases/tag/v0.2.0), 1 day ago) - mango is a man-page generator for the Go flag, pflag, cobra, coral, and kong packages
+- [sn4k3/UVtools](https://github.com/sn4k3/UVtools) ([v3.6.6](https://github.com/sn4k3/UVtools/releases/tag/v3.6.6), 3 days ago) - MSLA/DLP, file analysis, calibration, repair, conversion and manipulation
+- [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) ([v1.11.4](https://github.com/goreleaser/goreleaser/releases/tag/v1.11.4), 4 days ago) - Deliver Go binaries as fast and easily as possible
+- [minio/mc](https://github.com/minio/mc) ([RELEASE.2022-09-16T09-16-47Z](https://github.com/minio/mc/releases/tag/RELEASE.2022-09-16T09-16-47Z), 6 days ago) - MinIO Client is a replacement for ls, cp, mkdir, diff and rsync commands for filesystems and object storage.
 
 #### 🔨 Latest Pull Requests I published
 
-- [test: run model with provided input and check output](https://github.com/charmbracelet/bubbletea/pull/456) on [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) (today)
-- [feat: conveniently access an Output&#39;s template func map](https://github.com/muesli/termenv/pull/95) on [muesli/termenv](https://github.com/muesli/termenv) (today)
-- [feat: use Termenv.Output to write to tty](https://github.com/charmbracelet/bubbletea/pull/455) on [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) (today)
-- [Add termenv.Output](https://github.com/muesli/termenv/pull/86) on [muesli/termenv](https://github.com/muesli/termenv) (3 weeks ago)
-- [chore: gofmt sources](https://github.com/charmbracelet/bubbletea/pull/401) on [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) (1 month ago)
+- [test: exec binary from within tea.Program](https://github.com/charmbracelet/bubbletea/pull/458) on [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) (1 day ago)
+- [test: quit/kill model after the first render](https://github.com/charmbracelet/bubbletea/pull/457) on [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) (1 day ago)
+- [test: run model with provided input and check output](https://github.com/charmbracelet/bubbletea/pull/456) on [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) (1 day ago)
+- [feat: conveniently access an Output&#39;s template func map](https://github.com/muesli/termenv/pull/95) on [muesli/termenv](https://github.com/muesli/termenv) (1 day ago)
+- [feat: use Termenv.Output to write to tty](https://github.com/charmbracelet/bubbletea/pull/455) on [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) (1 day ago)
 
 #### 📜 My recent blog posts
 
@@ -52,7 +52,7 @@ Want your own self-generating profile page? Check out [readme-scribe](https://gi
 
 #### ⭐ Recent stars
 
-- [noahgorstein/jqp](https://github.com/noahgorstein/jqp) - A TUI playground to experiment with jq (today)
+- [noahgorstein/jqp](https://github.com/noahgorstein/jqp) - A TUI playground to experiment with jq (1 day ago)
 - [jamesthesken/pixel](https://github.com/jamesthesken/pixel) - Pixel is a Matrix client for the terminal. (1 week ago)
 - [charmbracelet/glow](https://github.com/charmbracelet/glow) - Render markdown on the CLI, with pizzazz! 💅🏻 (3 weeks ago)
 - [tidbyt/pixlet](https://github.com/tidbyt/pixlet) - Build apps for pixel-based displays ✨ (1 month ago)
