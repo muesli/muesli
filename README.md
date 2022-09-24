@@ -52,11 +52,11 @@ Want your own self-generating profile page? Check out [readme-scribe](https://gi
 
 #### ⭐ Recent stars
 
+- [dennwc/btrfs](https://github.com/dennwc/btrfs) - Btrfs library in a pure Go (today)
 - [knz/bubbline](https://github.com/knz/bubbline) - Line editor based on the Bubbletea library. (today)
 - [noahgorstein/jqp](https://github.com/noahgorstein/jqp) - A TUI playground to experiment with jq (2 days ago)
 - [jamesthesken/pixel](https://github.com/jamesthesken/pixel) - Pixel is a Matrix client for the terminal. (1 week ago)
 - [charmbracelet/glow](https://github.com/charmbracelet/glow) - Render markdown on the CLI, with pizzazz! 💅🏻 (3 weeks ago)
-- [tidbyt/pixlet](https://github.com/tidbyt/pixlet) - Build apps for pixel-based displays ✨ (1 month ago)
 
 #### ❤️ These awesome people sponsor me (thank you!)
 
