@@ -12,11 +12,11 @@ Want your own self-generating profile page? Check out [readme-scribe](https://gi
 
 #### 👷 Check out what I'm currently working on
 
+- [charmbracelet/bubbles](https://github.com/charmbracelet/bubbles) - TUI components for Bubble Tea 🫧 (today)
 - [muesli/duf](https://github.com/muesli/duf) - Disk Usage/Free Utility - a better &#39;df&#39; alternative (3 days ago)
 - [muesli/termenv](https://github.com/muesli/termenv) - Advanced ANSI style &amp; color support for your terminal applications (4 days ago)
 - [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) - A powerful little TUI framework 🏗 (4 days ago)
 - [charmbracelet/glow](https://github.com/charmbracelet/glow) - Render markdown on the CLI, with pizzazz! 💅🏻 (2 weeks ago)
-- [muesli/elvish-libs](https://github.com/muesli/elvish-libs) - Libs / Themes for elvish (1 month ago)
 
 #### 🌱 My latest projects
 
@@ -36,11 +36,11 @@ Want your own self-generating profile page? Check out [readme-scribe](https://gi
 
 #### 🔨 Latest Pull Requests I published
 
+- [ci: add separate sets of hard- and soft-enforced linters](https://github.com/charmbracelet/bubbles/pull/258) on [charmbracelet/bubbles](https://github.com/charmbracelet/bubbles) (today)
+- [chore: add dependabot config](https://github.com/charmbracelet/gum/pull/158) on [charmbracelet/gum](https://github.com/charmbracelet/gum) (today)
+- [chore: add dependabot config](https://github.com/charmbracelet/bubbles/pull/251) on [charmbracelet/bubbles](https://github.com/charmbracelet/bubbles) (today)
 - [test: exec binary from within tea.Program](https://github.com/charmbracelet/bubbletea/pull/458) on [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) (4 days ago)
 - [test: quit/kill model after the first render](https://github.com/charmbracelet/bubbletea/pull/457) on [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) (4 days ago)
-- [test: run model with provided input and check output](https://github.com/charmbracelet/bubbletea/pull/456) on [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) (4 days ago)
-- [feat: conveniently access an Output&#39;s template func map](https://github.com/muesli/termenv/pull/95) on [muesli/termenv](https://github.com/muesli/termenv) (4 days ago)
-- [feat: use Termenv.Output to write to tty](https://github.com/charmbracelet/bubbletea/pull/455) on [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) (4 days ago)
 
 #### 📜 My recent blog posts
 
