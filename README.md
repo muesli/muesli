@@ -36,11 +36,11 @@ Want your own self-generating profile page? Check out [readme-scribe](https://gi
 
 #### 🔨 Latest Pull Requests I published
 
+- [chore: remove incorrect space before nolint directives](https://github.com/charmbracelet/bubbletea/pull/465) on [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) (today)
 - [fix: wait for read-loop to finish before spawning child process](https://github.com/charmbracelet/bubbletea/pull/464) on [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) (today)
 - [docs: clean up and re-order &#39;Bubble Tea in the Wild&#39;](https://github.com/charmbracelet/bubbletea/pull/463) on [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) (today)
 - [fix: visible cursor in altscreen (#190)](https://github.com/charmbracelet/bubbletea/pull/462) on [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) (today)
 - [ci: add separate sets of hard- and soft-enforced linters](https://github.com/charmbracelet/bubbles/pull/258) on [charmbracelet/bubbles](https://github.com/charmbracelet/bubbles) (1 day ago)
-- [chore: add dependabot config](https://github.com/charmbracelet/gum/pull/158) on [charmbracelet/gum](https://github.com/charmbracelet/gum) (1 day ago)
 
 #### 📜 My recent blog posts
 
