@@ -12,11 +12,11 @@ Want your own self-generating profile page? Check out [readme-scribe](https://gi
 
 #### 👷 Check out what I'm currently working on
 
-- [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) - A powerful little TUI framework 🏗 (today)
-- [charmbracelet/gum](https://github.com/charmbracelet/gum) - A tool for glamorous shell scripts 🎀 (1 day ago)
-- [charmbracelet/bubbles](https://github.com/charmbracelet/bubbles) - TUI components for Bubble Tea 🫧 (1 day ago)
-- [muesli/duf](https://github.com/muesli/duf) - Disk Usage/Free Utility - a better &#39;df&#39; alternative (4 days ago)
-- [muesli/termenv](https://github.com/muesli/termenv) - Advanced ANSI style &amp; color support for your terminal applications (5 days ago)
+- [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) - A powerful little TUI framework 🏗 (1 day ago)
+- [charmbracelet/gum](https://github.com/charmbracelet/gum) - A tool for glamorous shell scripts 🎀 (2 days ago)
+- [charmbracelet/bubbles](https://github.com/charmbracelet/bubbles) - TUI components for Bubble Tea 🫧 (2 days ago)
+- [muesli/duf](https://github.com/muesli/duf) - Disk Usage/Free Utility - a better &#39;df&#39; alternative (5 days ago)
+- [muesli/termenv](https://github.com/muesli/termenv) - Advanced ANSI style &amp; color support for your terminal applications (6 days ago)
 
 #### 🌱 My latest projects
 
@@ -28,19 +28,19 @@ Want your own self-generating profile page? Check out [readme-scribe](https://gi
 
 #### 🔭 Latest releases I've contributed to
 
-- [muesli/termenv](https://github.com/muesli/termenv) ([v0.13.0](https://github.com/muesli/termenv/releases/tag/v0.13.0), 4 days ago) - Advanced ANSI style &amp; color support for your terminal applications
-- [muesli/mango](https://github.com/muesli/mango) ([v0.2.0](https://github.com/muesli/mango/releases/tag/v0.2.0), 5 days ago) - mango is a man-page generator for the Go flag, pflag, cobra, coral, and kong packages
+- [muesli/termenv](https://github.com/muesli/termenv) ([v0.13.0](https://github.com/muesli/termenv/releases/tag/v0.13.0), 5 days ago) - Advanced ANSI style &amp; color support for your terminal applications
+- [muesli/mango](https://github.com/muesli/mango) ([v0.2.0](https://github.com/muesli/mango/releases/tag/v0.2.0), 6 days ago) - mango is a man-page generator for the Go flag, pflag, cobra, coral, and kong packages
 - [sn4k3/UVtools](https://github.com/sn4k3/UVtools) ([v3.6.6](https://github.com/sn4k3/UVtools/releases/tag/v3.6.6), 1 week ago) - MSLA/DLP, file analysis, calibration, repair, conversion and manipulation
 - [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) ([v1.11.4](https://github.com/goreleaser/goreleaser/releases/tag/v1.11.4), 1 week ago) - Deliver Go binaries as fast and easily as possible
 - [minio/mc](https://github.com/minio/mc) ([RELEASE.2022-09-16T09-16-47Z](https://github.com/minio/mc/releases/tag/RELEASE.2022-09-16T09-16-47Z), 1 week ago) - MinIO Client is a replacement for ls, cp, mkdir, diff and rsync commands for filesystems and object storage.
 
 #### 🔨 Latest Pull Requests I published
 
-- [chore: remove incorrect space before nolint directives](https://github.com/charmbracelet/bubbletea/pull/465) on [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) (today)
-- [fix: wait for read-loop to finish before spawning child process](https://github.com/charmbracelet/bubbletea/pull/464) on [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) (today)
-- [docs: clean up and re-order &#39;Bubble Tea in the Wild&#39;](https://github.com/charmbracelet/bubbletea/pull/463) on [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) (today)
-- [fix: visible cursor in altscreen (#190)](https://github.com/charmbracelet/bubbletea/pull/462) on [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) (today)
-- [ci: add separate sets of hard- and soft-enforced linters](https://github.com/charmbracelet/bubbles/pull/258) on [charmbracelet/bubbles](https://github.com/charmbracelet/bubbles) (1 day ago)
+- [chore: remove incorrect space before nolint directives](https://github.com/charmbracelet/bubbletea/pull/465) on [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) (1 day ago)
+- [fix: wait for read-loop to finish before spawning child process](https://github.com/charmbracelet/bubbletea/pull/464) on [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) (1 day ago)
+- [docs: clean up and re-order &#39;Bubble Tea in the Wild&#39;](https://github.com/charmbracelet/bubbletea/pull/463) on [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) (1 day ago)
+- [fix: visible cursor in altscreen (#190)](https://github.com/charmbracelet/bubbletea/pull/462) on [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) (1 day ago)
+- [ci: add separate sets of hard- and soft-enforced linters](https://github.com/charmbracelet/bubbles/pull/258) on [charmbracelet/bubbles](https://github.com/charmbracelet/bubbles) (2 days ago)
 
 #### 📜 My recent blog posts
 
@@ -52,11 +52,11 @@ Want your own self-generating profile page? Check out [readme-scribe](https://gi
 
 #### ⭐ Recent stars
 
-- [dennwc/btrfs](https://github.com/dennwc/btrfs) - Btrfs library in a pure Go (3 days ago)
-- [knz/bubbline](https://github.com/knz/bubbline) - Line editor based on the Bubbletea library. (3 days ago)
-- [noahgorstein/jqp](https://github.com/noahgorstein/jqp) - A TUI playground to experiment with jq (5 days ago)
+- [dennwc/btrfs](https://github.com/dennwc/btrfs) - Btrfs library in a pure Go (4 days ago)
+- [knz/bubbline](https://github.com/knz/bubbline) - Line editor based on the Bubbletea library. (4 days ago)
+- [noahgorstein/jqp](https://github.com/noahgorstein/jqp) - A TUI playground to experiment with jq (6 days ago)
 - [jamesthesken/pixel](https://github.com/jamesthesken/pixel) - Pixel is a Matrix client for the terminal. (2 weeks ago)
-- [charmbracelet/glow](https://github.com/charmbracelet/glow) - Render markdown on the CLI, with pizzazz! 💅🏻 (4 weeks ago)
+- [charmbracelet/glow](https://github.com/charmbracelet/glow) - Render markdown on the CLI, with pizzazz! 💅🏻 (1 month ago)
 
 #### ❤️ These awesome people sponsor me (thank you!)
 
