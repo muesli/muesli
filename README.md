@@ -36,11 +36,11 @@ Want your own self-generating profile page? Check out [readme-scribe](https://gi
 
 #### 🔨 Latest Pull Requests I published
 
+- [test: simplify &amp; improve output](https://github.com/charmbracelet/lipgloss/pull/129) on [charmbracelet/lipgloss](https://github.com/charmbracelet/lipgloss) (today)
+- [test: add Style tests](https://github.com/charmbracelet/lipgloss/pull/128) on [charmbracelet/lipgloss](https://github.com/charmbracelet/lipgloss) (today)
+- [docs: fix RGBA godocs](https://github.com/charmbracelet/lipgloss/pull/127) on [charmbracelet/lipgloss](https://github.com/charmbracelet/lipgloss) (today)
 - [fix: RGBA implementations for non-hex color values](https://github.com/charmbracelet/lipgloss/pull/126) on [charmbracelet/lipgloss](https://github.com/charmbracelet/lipgloss) (today)
 - [test: fix argument order](https://github.com/charmbracelet/lipgloss/pull/125) on [charmbracelet/lipgloss](https://github.com/charmbracelet/lipgloss) (today)
-- [chore: remove incorrect space before nolint directives](https://github.com/charmbracelet/bubbletea/pull/465) on [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) (3 days ago)
-- [fix: wait for read-loop to finish before spawning child process](https://github.com/charmbracelet/bubbletea/pull/464) on [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) (3 days ago)
-- [docs: clean up and re-order &#39;Bubble Tea in the Wild&#39;](https://github.com/charmbracelet/bubbletea/pull/463) on [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) (3 days ago)
 
 #### 📜 My recent blog posts
 
