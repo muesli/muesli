@@ -36,11 +36,11 @@ Want your own self-generating profile page? Check out [readme-scribe](https://gi
 
 #### 🔨 Latest Pull Requests I published
 
+- [ci: bump linter workflow](https://github.com/charmbracelet/lipgloss/pull/138) on [charmbracelet/lipgloss](https://github.com/charmbracelet/lipgloss) (today)
+- [ci: add coverage workflow](https://github.com/charmbracelet/lipgloss/pull/132) on [charmbracelet/lipgloss](https://github.com/charmbracelet/lipgloss) (today)
+- [chore: add dependabot config](https://github.com/charmbracelet/lipgloss/pull/131) on [charmbracelet/lipgloss](https://github.com/charmbracelet/lipgloss) (today)
+- [docs: update readme footer](https://github.com/charmbracelet/lipgloss/pull/130) on [charmbracelet/lipgloss](https://github.com/charmbracelet/lipgloss) (today)
 - [test: simplify &amp; improve output](https://github.com/charmbracelet/lipgloss/pull/129) on [charmbracelet/lipgloss](https://github.com/charmbracelet/lipgloss) (today)
-- [test: add Style tests](https://github.com/charmbracelet/lipgloss/pull/128) on [charmbracelet/lipgloss](https://github.com/charmbracelet/lipgloss) (today)
-- [docs: fix RGBA godocs](https://github.com/charmbracelet/lipgloss/pull/127) on [charmbracelet/lipgloss](https://github.com/charmbracelet/lipgloss) (today)
-- [fix: RGBA implementations for non-hex color values](https://github.com/charmbracelet/lipgloss/pull/126) on [charmbracelet/lipgloss](https://github.com/charmbracelet/lipgloss) (today)
-- [test: fix argument order](https://github.com/charmbracelet/lipgloss/pull/125) on [charmbracelet/lipgloss](https://github.com/charmbracelet/lipgloss) (today)
 
 #### 📜 My recent blog posts
 
