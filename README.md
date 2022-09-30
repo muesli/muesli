@@ -12,11 +12,11 @@ Want your own self-generating profile page? Check out [readme-scribe](https://gi
 
 #### 👷 Check out what I'm currently working on
 
-- [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) - A powerful little TUI framework 🏗 (2 days ago)
-- [charmbracelet/gum](https://github.com/charmbracelet/gum) - A tool for glamorous shell scripts 🎀 (3 days ago)
-- [charmbracelet/bubbles](https://github.com/charmbracelet/bubbles) - TUI components for Bubble Tea 🫧 (3 days ago)
-- [muesli/duf](https://github.com/muesli/duf) - Disk Usage/Free Utility - a better &#39;df&#39; alternative (6 days ago)
-- [muesli/termenv](https://github.com/muesli/termenv) - Advanced ANSI style &amp; color support for your terminal applications (1 week ago)
+- [charmbracelet/lipgloss](https://github.com/charmbracelet/lipgloss) - Style definitions for nice terminal layouts 👄 (today)
+- [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) - A powerful little TUI framework 🏗 (3 days ago)
+- [charmbracelet/gum](https://github.com/charmbracelet/gum) - A tool for glamorous shell scripts 🎀 (4 days ago)
+- [charmbracelet/bubbles](https://github.com/charmbracelet/bubbles) - TUI components for Bubble Tea 🫧 (4 days ago)
+- [muesli/duf](https://github.com/muesli/duf) - Disk Usage/Free Utility - a better &#39;df&#39; alternative (1 week ago)
 
 #### 🌱 My latest projects
 
@@ -28,7 +28,7 @@ Want your own self-generating profile page? Check out [readme-scribe](https://gi
 
 #### 🔭 Latest releases I've contributed to
 
-- [muesli/termenv](https://github.com/muesli/termenv) ([v0.13.0](https://github.com/muesli/termenv/releases/tag/v0.13.0), 6 days ago) - Advanced ANSI style &amp; color support for your terminal applications
+- [muesli/termenv](https://github.com/muesli/termenv) ([v0.13.0](https://github.com/muesli/termenv/releases/tag/v0.13.0), 1 week ago) - Advanced ANSI style &amp; color support for your terminal applications
 - [muesli/mango](https://github.com/muesli/mango) ([v0.2.0](https://github.com/muesli/mango/releases/tag/v0.2.0), 1 week ago) - mango is a man-page generator for the Go flag, pflag, cobra, coral, and kong packages
 - [sn4k3/UVtools](https://github.com/sn4k3/UVtools) ([v3.6.6](https://github.com/sn4k3/UVtools/releases/tag/v3.6.6), 1 week ago) - MSLA/DLP, file analysis, calibration, repair, conversion and manipulation
 - [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) ([v1.11.4](https://github.com/goreleaser/goreleaser/releases/tag/v1.11.4), 1 week ago) - Deliver Go binaries as fast and easily as possible
@@ -36,11 +36,11 @@ Want your own self-generating profile page? Check out [readme-scribe](https://gi
 
 #### 🔨 Latest Pull Requests I published
 
-- [chore: remove incorrect space before nolint directives](https://github.com/charmbracelet/bubbletea/pull/465) on [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) (2 days ago)
-- [fix: wait for read-loop to finish before spawning child process](https://github.com/charmbracelet/bubbletea/pull/464) on [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) (2 days ago)
-- [docs: clean up and re-order &#39;Bubble Tea in the Wild&#39;](https://github.com/charmbracelet/bubbletea/pull/463) on [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) (2 days ago)
-- [fix: visible cursor in altscreen (#190)](https://github.com/charmbracelet/bubbletea/pull/462) on [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) (2 days ago)
-- [ci: add separate sets of hard- and soft-enforced linters](https://github.com/charmbracelet/bubbles/pull/258) on [charmbracelet/bubbles](https://github.com/charmbracelet/bubbles) (3 days ago)
+- [fix: RGBA implementations for non-hex color values](https://github.com/charmbracelet/lipgloss/pull/126) on [charmbracelet/lipgloss](https://github.com/charmbracelet/lipgloss) (today)
+- [test: fix argument order](https://github.com/charmbracelet/lipgloss/pull/125) on [charmbracelet/lipgloss](https://github.com/charmbracelet/lipgloss) (today)
+- [chore: remove incorrect space before nolint directives](https://github.com/charmbracelet/bubbletea/pull/465) on [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) (3 days ago)
+- [fix: wait for read-loop to finish before spawning child process](https://github.com/charmbracelet/bubbletea/pull/464) on [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) (3 days ago)
+- [docs: clean up and re-order &#39;Bubble Tea in the Wild&#39;](https://github.com/charmbracelet/bubbletea/pull/463) on [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) (3 days ago)
 
 #### 📜 My recent blog posts
 
@@ -52,10 +52,10 @@ Want your own self-generating profile page? Check out [readme-scribe](https://gi
 
 #### ⭐ Recent stars
 
-- [robinovitch61/wander](https://github.com/robinovitch61/wander) - A terminal app/TUI for HashiCorp Nomad (today)
-- [knadh/koanf](https://github.com/knadh/koanf) - Simple, lightweight, extensible, configuration management library for Go. Support for JSON, TOML, YAML, env, command line, file, S3 etc. Alternative to viper. (today)
-- [dennwc/btrfs](https://github.com/dennwc/btrfs) - Btrfs library in a pure Go (5 days ago)
-- [knz/bubbline](https://github.com/knz/bubbline) - Line editor based on the Bubbletea library. (5 days ago)
+- [robinovitch61/wander](https://github.com/robinovitch61/wander) - A terminal app/TUI for HashiCorp Nomad (1 day ago)
+- [knadh/koanf](https://github.com/knadh/koanf) - Simple, lightweight, extensible, configuration management library for Go. Support for JSON, TOML, YAML, env, command line, file, S3 etc. Alternative to viper. (1 day ago)
+- [dennwc/btrfs](https://github.com/dennwc/btrfs) - Btrfs library in a pure Go (6 days ago)
+- [knz/bubbline](https://github.com/knz/bubbline) - Line editor based on the Bubbletea library. (6 days ago)
 - [noahgorstein/jqp](https://github.com/noahgorstein/jqp) - A TUI playground to experiment with jq (1 week ago)
 
 #### ❤️ These awesome people sponsor me (thank you!)
