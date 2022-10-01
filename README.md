@@ -12,10 +12,10 @@ Want your own self-generating profile page? Check out [readme-scribe](https://gi
 
 #### 👷 Check out what I'm currently working on
 
-- [charmbracelet/lipgloss](https://github.com/charmbracelet/lipgloss) - Style definitions for nice terminal layouts 👄 (today)
-- [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) - A powerful little TUI framework 🏗 (3 days ago)
-- [charmbracelet/gum](https://github.com/charmbracelet/gum) - A tool for glamorous shell scripts 🎀 (4 days ago)
-- [charmbracelet/bubbles](https://github.com/charmbracelet/bubbles) - TUI components for Bubble Tea 🫧 (4 days ago)
+- [charmbracelet/lipgloss](https://github.com/charmbracelet/lipgloss) - Style definitions for nice terminal layouts 👄 (1 day ago)
+- [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) - A powerful little TUI framework 🏗 (4 days ago)
+- [charmbracelet/gum](https://github.com/charmbracelet/gum) - A tool for glamorous shell scripts 🎀 (5 days ago)
+- [charmbracelet/bubbles](https://github.com/charmbracelet/bubbles) - TUI components for Bubble Tea 🫧 (5 days ago)
 - [muesli/duf](https://github.com/muesli/duf) - Disk Usage/Free Utility - a better &#39;df&#39; alternative (1 week ago)
 
 #### 🌱 My latest projects
@@ -32,15 +32,15 @@ Want your own self-generating profile page? Check out [readme-scribe](https://gi
 - [muesli/mango](https://github.com/muesli/mango) ([v0.2.0](https://github.com/muesli/mango/releases/tag/v0.2.0), 1 week ago) - mango is a man-page generator for the Go flag, pflag, cobra, coral, and kong packages
 - [sn4k3/UVtools](https://github.com/sn4k3/UVtools) ([v3.6.6](https://github.com/sn4k3/UVtools/releases/tag/v3.6.6), 1 week ago) - MSLA/DLP, file analysis, calibration, repair, conversion and manipulation
 - [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) ([v1.11.4](https://github.com/goreleaser/goreleaser/releases/tag/v1.11.4), 1 week ago) - Deliver Go binaries as fast and easily as possible
-- [minio/mc](https://github.com/minio/mc) ([RELEASE.2022-09-16T09-16-47Z](https://github.com/minio/mc/releases/tag/RELEASE.2022-09-16T09-16-47Z), 1 week ago) - MinIO Client is a replacement for ls, cp, mkdir, diff and rsync commands for filesystems and object storage.
+- [minio/mc](https://github.com/minio/mc) ([RELEASE.2022-09-16T09-16-47Z](https://github.com/minio/mc/releases/tag/RELEASE.2022-09-16T09-16-47Z), 2 weeks ago) - MinIO Client is a replacement for ls, cp, mkdir, diff and rsync commands for filesystems and object storage.
 
 #### 🔨 Latest Pull Requests I published
 
-- [ci: bump linter workflow](https://github.com/charmbracelet/lipgloss/pull/138) on [charmbracelet/lipgloss](https://github.com/charmbracelet/lipgloss) (today)
-- [ci: add coverage workflow](https://github.com/charmbracelet/lipgloss/pull/132) on [charmbracelet/lipgloss](https://github.com/charmbracelet/lipgloss) (today)
-- [chore: add dependabot config](https://github.com/charmbracelet/lipgloss/pull/131) on [charmbracelet/lipgloss](https://github.com/charmbracelet/lipgloss) (today)
-- [docs: update readme footer](https://github.com/charmbracelet/lipgloss/pull/130) on [charmbracelet/lipgloss](https://github.com/charmbracelet/lipgloss) (today)
-- [test: simplify &amp; improve output](https://github.com/charmbracelet/lipgloss/pull/129) on [charmbracelet/lipgloss](https://github.com/charmbracelet/lipgloss) (today)
+- [ci: bump linter workflow](https://github.com/charmbracelet/lipgloss/pull/138) on [charmbracelet/lipgloss](https://github.com/charmbracelet/lipgloss) (1 day ago)
+- [ci: add coverage workflow](https://github.com/charmbracelet/lipgloss/pull/132) on [charmbracelet/lipgloss](https://github.com/charmbracelet/lipgloss) (1 day ago)
+- [chore: add dependabot config](https://github.com/charmbracelet/lipgloss/pull/131) on [charmbracelet/lipgloss](https://github.com/charmbracelet/lipgloss) (1 day ago)
+- [docs: update readme footer](https://github.com/charmbracelet/lipgloss/pull/130) on [charmbracelet/lipgloss](https://github.com/charmbracelet/lipgloss) (1 day ago)
+- [test: simplify &amp; improve output](https://github.com/charmbracelet/lipgloss/pull/129) on [charmbracelet/lipgloss](https://github.com/charmbracelet/lipgloss) (1 day ago)
 
 #### 📜 My recent blog posts
 
@@ -52,10 +52,10 @@ Want your own self-generating profile page? Check out [readme-scribe](https://gi
 
 #### ⭐ Recent stars
 
-- [robinovitch61/wander](https://github.com/robinovitch61/wander) - A terminal app/TUI for HashiCorp Nomad (1 day ago)
-- [knadh/koanf](https://github.com/knadh/koanf) - Simple, lightweight, extensible, configuration management library for Go. Support for JSON, TOML, YAML, env, command line, file, S3 etc. Alternative to viper. (1 day ago)
-- [dennwc/btrfs](https://github.com/dennwc/btrfs) - Btrfs library in a pure Go (6 days ago)
-- [knz/bubbline](https://github.com/knz/bubbline) - Line editor based on the Bubbletea library. (6 days ago)
+- [robinovitch61/wander](https://github.com/robinovitch61/wander) - A terminal app/TUI for HashiCorp Nomad (2 days ago)
+- [knadh/koanf](https://github.com/knadh/koanf) - Simple, lightweight, extensible, configuration management library for Go. Support for JSON, TOML, YAML, env, command line, file, S3 etc. Alternative to viper. (2 days ago)
+- [dennwc/btrfs](https://github.com/dennwc/btrfs) - Btrfs library in a pure Go (1 week ago)
+- [knz/bubbline](https://github.com/knz/bubbline) - Line editor based on the Bubbletea library. (1 week ago)
 - [noahgorstein/jqp](https://github.com/noahgorstein/jqp) - A TUI playground to experiment with jq (1 week ago)
 
 #### ❤️ These awesome people sponsor me (thank you!)
