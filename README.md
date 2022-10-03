@@ -52,11 +52,11 @@ Want your own self-generating profile page? Check out [readme-scribe](https://gi
 
 #### ⭐ Recent stars
 
+- [nore-dev/fman](https://github.com/nore-dev/fman) - TUI File Manager (today)
 - [robinovitch61/wander](https://github.com/robinovitch61/wander) - A terminal app/TUI for HashiCorp Nomad (4 days ago)
 - [knadh/koanf](https://github.com/knadh/koanf) - Simple, lightweight, extensible, configuration management library for Go. Support for JSON, TOML, YAML, env, command line, file, S3 etc. Alternative to viper. (4 days ago)
 - [dennwc/btrfs](https://github.com/dennwc/btrfs) - Btrfs library in a pure Go (1 week ago)
 - [knz/bubbline](https://github.com/knz/bubbline) - Line editor based on the Bubbletea library. (1 week ago)
-- [noahgorstein/jqp](https://github.com/noahgorstein/jqp) - A TUI playground to experiment with jq (1 week ago)
 
 #### ❤️ These awesome people sponsor me (thank you!)
 
