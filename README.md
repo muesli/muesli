@@ -12,8 +12,8 @@ Want your own self-generating profile page? Check out [readme-scribe](https://gi
 
 #### 👷 Check out what I'm currently working on
 
+- [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) - A powerful little TUI framework 🏗 (today)
 - [charmbracelet/lipgloss](https://github.com/charmbracelet/lipgloss) - Style definitions for nice terminal layouts 👄 (4 days ago)
-- [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) - A powerful little TUI framework 🏗 (1 week ago)
 - [charmbracelet/gum](https://github.com/charmbracelet/gum) - A tool for glamorous shell scripts 🎀 (1 week ago)
 - [charmbracelet/bubbles](https://github.com/charmbracelet/bubbles) - TUI components for Bubble Tea 🫧 (1 week ago)
 - [muesli/duf](https://github.com/muesli/duf) - Disk Usage/Free Utility - a better &#39;df&#39; alternative (1 week ago)
@@ -36,11 +36,11 @@ Want your own self-generating profile page? Check out [readme-scribe](https://gi
 
 #### 🔨 Latest Pull Requests I published
 
+- [fix: don&#39;t access output from outside renderer](https://github.com/charmbracelet/bubbletea/pull/483) on [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) (today)
+- [feat: add tea.ShowCursor, complementing tea.HideCursor](https://github.com/charmbracelet/bubbletea/pull/482) on [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) (today)
+- [chore: reorganize command helpers](https://github.com/charmbracelet/bubbletea/pull/481) on [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) (today)
+- [chore: reorganize screen commands &amp; messages](https://github.com/charmbracelet/bubbletea/pull/480) on [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) (today)
 - [fix: move output handling to renderer](https://github.com/charmbracelet/bubbletea/pull/478) on [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) (today)
-- [ci: bump linter workflow](https://github.com/charmbracelet/lipgloss/pull/138) on [charmbracelet/lipgloss](https://github.com/charmbracelet/lipgloss) (4 days ago)
-- [ci: add coverage workflow](https://github.com/charmbracelet/lipgloss/pull/132) on [charmbracelet/lipgloss](https://github.com/charmbracelet/lipgloss) (4 days ago)
-- [chore: add dependabot config](https://github.com/charmbracelet/lipgloss/pull/131) on [charmbracelet/lipgloss](https://github.com/charmbracelet/lipgloss) (4 days ago)
-- [docs: update readme footer](https://github.com/charmbracelet/lipgloss/pull/130) on [charmbracelet/lipgloss](https://github.com/charmbracelet/lipgloss) (4 days ago)
 
 #### 📜 My recent blog posts
 
