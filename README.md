@@ -36,11 +36,11 @@ Want your own self-generating profile page? Check out [readme-scribe](https://gi
 
 #### 🔨 Latest Pull Requests I published
 
+- [fix: force repaint after clearing the screen](https://github.com/charmbracelet/bubbletea/pull/487) on [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) (today)
 - [fix: don&#39;t access output from outside renderer](https://github.com/charmbracelet/bubbletea/pull/483) on [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) (today)
 - [feat: add tea.ShowCursor, complementing tea.HideCursor](https://github.com/charmbracelet/bubbletea/pull/482) on [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) (today)
 - [chore: reorganize command helpers](https://github.com/charmbracelet/bubbletea/pull/481) on [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) (today)
 - [chore: reorganize screen commands &amp; messages](https://github.com/charmbracelet/bubbletea/pull/480) on [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) (today)
-- [fix: move output handling to renderer](https://github.com/charmbracelet/bubbletea/pull/478) on [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) (today)
 
 #### 📜 My recent blog posts
 
