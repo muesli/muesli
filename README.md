@@ -12,8 +12,8 @@ Want your own self-generating profile page? Check out [readme-scribe](https://gi
 
 #### 👷 Check out what I'm currently working on
 
-- [charmbracelet/lipgloss](https://github.com/charmbracelet/lipgloss) - Style definitions for nice terminal layouts 👄 (3 days ago)
-- [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) - A powerful little TUI framework 🏗 (6 days ago)
+- [charmbracelet/lipgloss](https://github.com/charmbracelet/lipgloss) - Style definitions for nice terminal layouts 👄 (4 days ago)
+- [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) - A powerful little TUI framework 🏗 (1 week ago)
 - [charmbracelet/gum](https://github.com/charmbracelet/gum) - A tool for glamorous shell scripts 🎀 (1 week ago)
 - [charmbracelet/bubbles](https://github.com/charmbracelet/bubbles) - TUI components for Bubble Tea 🫧 (1 week ago)
 - [muesli/duf](https://github.com/muesli/duf) - Disk Usage/Free Utility - a better &#39;df&#39; alternative (1 week ago)
@@ -28,19 +28,19 @@ Want your own self-generating profile page? Check out [readme-scribe](https://gi
 
 #### 🔭 Latest releases I've contributed to
 
-- [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) ([v1.11.5](https://github.com/goreleaser/goreleaser/releases/tag/v1.11.5), today) - Deliver Go binaries as fast and easily as possible
-- [charmbracelet/gum](https://github.com/charmbracelet/gum) ([v0.7.0](https://github.com/charmbracelet/gum/releases/tag/v0.7.0), today) - A tool for glamorous shell scripts 🎀
-- [minio/mc](https://github.com/minio/mc) ([RELEASE.2022-10-01T07-56-14Z](https://github.com/minio/mc/releases/tag/RELEASE.2022-10-01T07-56-14Z), today) - MinIO Client is a replacement for ls, cp, mkdir, diff and rsync commands for filesystems and object storage.
-- [sn4k3/UVtools](https://github.com/sn4k3/UVtools) ([v3.6.7](https://github.com/sn4k3/UVtools/releases/tag/v3.6.7), 2 days ago) - MSLA/DLP, file analysis, calibration, repair, conversion and manipulation
+- [sn4k3/UVtools](https://github.com/sn4k3/UVtools) ([v3.6.8](https://github.com/sn4k3/UVtools/releases/tag/v3.6.8), today) - MSLA/DLP, file analysis, calibration, repair, conversion and manipulation
+- [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) ([v1.11.5](https://github.com/goreleaser/goreleaser/releases/tag/v1.11.5), 1 day ago) - Deliver Go binaries as fast and easily as possible
+- [charmbracelet/gum](https://github.com/charmbracelet/gum) ([v0.7.0](https://github.com/charmbracelet/gum/releases/tag/v0.7.0), 1 day ago) - A tool for glamorous shell scripts 🎀
+- [minio/mc](https://github.com/minio/mc) ([RELEASE.2022-10-01T07-56-14Z](https://github.com/minio/mc/releases/tag/RELEASE.2022-10-01T07-56-14Z), 1 day ago) - MinIO Client is a replacement for ls, cp, mkdir, diff and rsync commands for filesystems and object storage.
 - [muesli/termenv](https://github.com/muesli/termenv) ([v0.13.0](https://github.com/muesli/termenv/releases/tag/v0.13.0), 1 week ago) - Advanced ANSI style &amp; color support for your terminal applications
 
 #### 🔨 Latest Pull Requests I published
 
-- [ci: bump linter workflow](https://github.com/charmbracelet/lipgloss/pull/138) on [charmbracelet/lipgloss](https://github.com/charmbracelet/lipgloss) (3 days ago)
-- [ci: add coverage workflow](https://github.com/charmbracelet/lipgloss/pull/132) on [charmbracelet/lipgloss](https://github.com/charmbracelet/lipgloss) (3 days ago)
-- [chore: add dependabot config](https://github.com/charmbracelet/lipgloss/pull/131) on [charmbracelet/lipgloss](https://github.com/charmbracelet/lipgloss) (3 days ago)
-- [docs: update readme footer](https://github.com/charmbracelet/lipgloss/pull/130) on [charmbracelet/lipgloss](https://github.com/charmbracelet/lipgloss) (3 days ago)
-- [test: simplify &amp; improve output](https://github.com/charmbracelet/lipgloss/pull/129) on [charmbracelet/lipgloss](https://github.com/charmbracelet/lipgloss) (3 days ago)
+- [fix: move output handling to renderer](https://github.com/charmbracelet/bubbletea/pull/478) on [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) (today)
+- [ci: bump linter workflow](https://github.com/charmbracelet/lipgloss/pull/138) on [charmbracelet/lipgloss](https://github.com/charmbracelet/lipgloss) (4 days ago)
+- [ci: add coverage workflow](https://github.com/charmbracelet/lipgloss/pull/132) on [charmbracelet/lipgloss](https://github.com/charmbracelet/lipgloss) (4 days ago)
+- [chore: add dependabot config](https://github.com/charmbracelet/lipgloss/pull/131) on [charmbracelet/lipgloss](https://github.com/charmbracelet/lipgloss) (4 days ago)
+- [docs: update readme footer](https://github.com/charmbracelet/lipgloss/pull/130) on [charmbracelet/lipgloss](https://github.com/charmbracelet/lipgloss) (4 days ago)
 
 #### 📜 My recent blog posts
 
@@ -52,10 +52,10 @@ Want your own self-generating profile page? Check out [readme-scribe](https://gi
 
 #### ⭐ Recent stars
 
-- [pion/opus](https://github.com/pion/opus) - Pure Go implementation of Opus (today)
-- [nore-dev/fman](https://github.com/nore-dev/fman) - TUI File Manager (today)
-- [robinovitch61/wander](https://github.com/robinovitch61/wander) - A terminal app/TUI for HashiCorp Nomad (4 days ago)
-- [knadh/koanf](https://github.com/knadh/koanf) - Simple, lightweight, extensible, configuration management library for Go. Support for JSON, TOML, YAML, env, command line, file, S3 etc. Alternative to viper. (4 days ago)
+- [pion/opus](https://github.com/pion/opus) - Pure Go implementation of Opus (1 day ago)
+- [nore-dev/fman](https://github.com/nore-dev/fman) - TUI File Manager (1 day ago)
+- [robinovitch61/wander](https://github.com/robinovitch61/wander) - A terminal app/TUI for HashiCorp Nomad (5 days ago)
+- [knadh/koanf](https://github.com/knadh/koanf) - Simple, lightweight, extensible, configuration management library for Go. Support for JSON, TOML, YAML, env, command line, file, S3 etc. Alternative to viper. (5 days ago)
 - [dennwc/btrfs](https://github.com/dennwc/btrfs) - Btrfs library in a pure Go (1 week ago)
 
 #### ❤️ These awesome people sponsor me (thank you!)
