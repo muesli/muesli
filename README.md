@@ -52,11 +52,11 @@ Want your own self-generating profile page? Check out [readme-scribe](https://gi
 
 #### ⭐ Recent stars
 
+- [rhysd/actionlint](https://github.com/rhysd/actionlint) - :octocat: Static checker for GitHub Actions workflow files (today)
 - [pion/opus](https://github.com/pion/opus) - Pure Go implementation of Opus (1 day ago)
 - [nore-dev/fman](https://github.com/nore-dev/fman) - TUI File Manager (1 day ago)
 - [robinovitch61/wander](https://github.com/robinovitch61/wander) - A terminal app/TUI for HashiCorp Nomad (5 days ago)
 - [knadh/koanf](https://github.com/knadh/koanf) - Simple, lightweight, extensible, configuration management library for Go. Support for JSON, TOML, YAML, env, command line, file, S3 etc. Alternative to viper. (5 days ago)
-- [dennwc/btrfs](https://github.com/dennwc/btrfs) - Btrfs library in a pure Go (1 week ago)
 
 #### ❤️ These awesome people sponsor me (thank you!)
 
