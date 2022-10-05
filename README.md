@@ -36,11 +36,11 @@ Want your own self-generating profile page? Check out [readme-scribe](https://gi
 
 #### 🔨 Latest Pull Requests I published
 
+- [feat: make Lipgloss Style thread-safe (mutex)](https://github.com/charmbracelet/lipgloss/pull/141) on [charmbracelet/lipgloss](https://github.com/charmbracelet/lipgloss) (today)
 - [feat: make Lipgloss Style thread-safe](https://github.com/charmbracelet/lipgloss/pull/139) on [charmbracelet/lipgloss](https://github.com/charmbracelet/lipgloss) (today)
 - [fix: force repaint after clearing the screen](https://github.com/charmbracelet/bubbletea/pull/487) on [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) (1 day ago)
 - [fix: don&#39;t access output from outside renderer](https://github.com/charmbracelet/bubbletea/pull/483) on [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) (1 day ago)
 - [feat: add tea.ShowCursor, complementing tea.HideCursor](https://github.com/charmbracelet/bubbletea/pull/482) on [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) (1 day ago)
-- [chore: reorganize command helpers](https://github.com/charmbracelet/bubbletea/pull/481) on [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) (1 day ago)
 
 #### 📜 My recent blog posts
 
