@@ -36,11 +36,11 @@ Want your own self-generating profile page? Check out [readme-scribe](https://gi
 
 #### 🔨 Latest Pull Requests I published
 
+- [chore: break up Start into several, more maintainable methods](https://github.com/charmbracelet/bubbletea/pull/489) on [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) (today)
 - [fix: don&#39;t try to set alt screen when already in desired mode](https://github.com/charmbracelet/bubbletea/pull/488) on [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) (today)
 - [chore: go mod tidy in example](https://github.com/charmbracelet/lipgloss/pull/142) on [charmbracelet/lipgloss](https://github.com/charmbracelet/lipgloss) (today)
 - [feat: make Lipgloss Style thread-safe (mutex)](https://github.com/charmbracelet/lipgloss/pull/141) on [charmbracelet/lipgloss](https://github.com/charmbracelet/lipgloss) (1 day ago)
 - [feat: make Lipgloss Style thread-safe](https://github.com/charmbracelet/lipgloss/pull/139) on [charmbracelet/lipgloss](https://github.com/charmbracelet/lipgloss) (1 day ago)
-- [fix: force repaint after clearing the screen](https://github.com/charmbracelet/bubbletea/pull/487) on [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) (2 days ago)
 
 #### 📜 My recent blog posts
 
