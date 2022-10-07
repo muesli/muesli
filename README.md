@@ -12,11 +12,11 @@ Want your own self-generating profile page? Check out [readme-scribe](https://gi
 
 #### 👷 Check out what I'm currently working on
 
-- [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) - A powerful little TUI framework 🏗 (today)
-- [charmbracelet/lipgloss](https://github.com/charmbracelet/lipgloss) - Style definitions for nice terminal layouts 👄 (today)
+- [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) - A powerful little TUI framework 🏗 (1 day ago)
+- [charmbracelet/lipgloss](https://github.com/charmbracelet/lipgloss) - Style definitions for nice terminal layouts 👄 (1 day ago)
 - [charmbracelet/gum](https://github.com/charmbracelet/gum) - A tool for glamorous shell scripts 🎀 (1 week ago)
 - [charmbracelet/bubbles](https://github.com/charmbracelet/bubbles) - TUI components for Bubble Tea 🫧 (1 week ago)
-- [muesli/duf](https://github.com/muesli/duf) - Disk Usage/Free Utility - a better &#39;df&#39; alternative (1 week ago)
+- [muesli/duf](https://github.com/muesli/duf) - Disk Usage/Free Utility - a better &#39;df&#39; alternative (2 weeks ago)
 
 #### 🌱 My latest projects
 
@@ -28,19 +28,19 @@ Want your own self-generating profile page? Check out [readme-scribe](https://gi
 
 #### 🔭 Latest releases I've contributed to
 
-- [minio/mc](https://github.com/minio/mc) ([RELEASE.2022-10-06T01-20-06Z](https://github.com/minio/mc/releases/tag/RELEASE.2022-10-06T01-20-06Z), today) - MinIO Client is a replacement for ls, cp, mkdir, diff and rsync commands for filesystems and object storage.
-- [sn4k3/UVtools](https://github.com/sn4k3/UVtools) ([v3.6.8](https://github.com/sn4k3/UVtools/releases/tag/v3.6.8), 2 days ago) - MSLA/DLP, file analysis, calibration, repair, conversion and manipulation
-- [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) ([v1.11.5](https://github.com/goreleaser/goreleaser/releases/tag/v1.11.5), 3 days ago) - Deliver Go binaries as fast and easily as possible
-- [charmbracelet/gum](https://github.com/charmbracelet/gum) ([v0.7.0](https://github.com/charmbracelet/gum/releases/tag/v0.7.0), 3 days ago) - A tool for glamorous shell scripts 🎀
-- [muesli/termenv](https://github.com/muesli/termenv) ([v0.13.0](https://github.com/muesli/termenv/releases/tag/v0.13.0), 1 week ago) - Advanced ANSI style &amp; color support for your terminal applications
+- [minio/mc](https://github.com/minio/mc) ([RELEASE.2022-10-06T01-20-06Z](https://github.com/minio/mc/releases/tag/RELEASE.2022-10-06T01-20-06Z), 1 day ago) - MinIO Client is a replacement for ls, cp, mkdir, diff and rsync commands for filesystems and object storage.
+- [sn4k3/UVtools](https://github.com/sn4k3/UVtools) ([v3.6.8](https://github.com/sn4k3/UVtools/releases/tag/v3.6.8), 3 days ago) - MSLA/DLP, file analysis, calibration, repair, conversion and manipulation
+- [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) ([v1.11.5](https://github.com/goreleaser/goreleaser/releases/tag/v1.11.5), 4 days ago) - Deliver Go binaries as fast and easily as possible
+- [charmbracelet/gum](https://github.com/charmbracelet/gum) ([v0.7.0](https://github.com/charmbracelet/gum/releases/tag/v0.7.0), 4 days ago) - A tool for glamorous shell scripts 🎀
+- [muesli/termenv](https://github.com/muesli/termenv) ([v0.13.0](https://github.com/muesli/termenv/releases/tag/v0.13.0), 2 weeks ago) - Advanced ANSI style &amp; color support for your terminal applications
 
 #### 🔨 Latest Pull Requests I published
 
-- [chore: break up Start into several, more maintainable methods](https://github.com/charmbracelet/bubbletea/pull/489) on [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) (today)
-- [fix: don&#39;t try to set alt screen when already in desired mode](https://github.com/charmbracelet/bubbletea/pull/488) on [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) (today)
-- [chore: go mod tidy in example](https://github.com/charmbracelet/lipgloss/pull/142) on [charmbracelet/lipgloss](https://github.com/charmbracelet/lipgloss) (today)
-- [feat: make Lipgloss Style thread-safe (mutex)](https://github.com/charmbracelet/lipgloss/pull/141) on [charmbracelet/lipgloss](https://github.com/charmbracelet/lipgloss) (1 day ago)
-- [feat: make Lipgloss Style thread-safe](https://github.com/charmbracelet/lipgloss/pull/139) on [charmbracelet/lipgloss](https://github.com/charmbracelet/lipgloss) (1 day ago)
+- [chore: break up Start into several, more maintainable methods](https://github.com/charmbracelet/bubbletea/pull/489) on [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) (1 day ago)
+- [fix: don&#39;t try to set alt screen when already in desired mode](https://github.com/charmbracelet/bubbletea/pull/488) on [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) (1 day ago)
+- [chore: go mod tidy in example](https://github.com/charmbracelet/lipgloss/pull/142) on [charmbracelet/lipgloss](https://github.com/charmbracelet/lipgloss) (1 day ago)
+- [feat: make Lipgloss Style thread-safe (mutex)](https://github.com/charmbracelet/lipgloss/pull/141) on [charmbracelet/lipgloss](https://github.com/charmbracelet/lipgloss) (2 days ago)
+- [feat: make Lipgloss Style thread-safe](https://github.com/charmbracelet/lipgloss/pull/139) on [charmbracelet/lipgloss](https://github.com/charmbracelet/lipgloss) (2 days ago)
 
 #### 📜 My recent blog posts
 
@@ -52,9 +52,9 @@ Want your own self-generating profile page? Check out [readme-scribe](https://gi
 
 #### ⭐ Recent stars
 
-- [rhysd/actionlint](https://github.com/rhysd/actionlint) - :octocat: Static checker for GitHub Actions workflow files (2 days ago)
-- [pion/opus](https://github.com/pion/opus) - Pure Go implementation of Opus (3 days ago)
-- [nore-dev/fman](https://github.com/nore-dev/fman) - TUI File Manager (3 days ago)
+- [rhysd/actionlint](https://github.com/rhysd/actionlint) - :octocat: Static checker for GitHub Actions workflow files (3 days ago)
+- [pion/opus](https://github.com/pion/opus) - Pure Go implementation of Opus (4 days ago)
+- [nore-dev/fman](https://github.com/nore-dev/fman) - TUI File Manager (4 days ago)
 - [robinovitch61/wander](https://github.com/robinovitch61/wander) - A terminal app/TUI for HashiCorp Nomad (1 week ago)
 - [knadh/koanf](https://github.com/knadh/koanf) - Simple, lightweight, extensible, configuration management library for Go. Support for JSON, TOML, YAML, env, command line, file, S3 etc. Alternative to viper. (1 week ago)
 
