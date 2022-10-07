@@ -12,7 +12,7 @@ Want your own self-generating profile page? Check out [readme-scribe](https://gi
 
 #### 👷 Check out what I'm currently working on
 
-- [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) - A powerful little TUI framework 🏗 (1 day ago)
+- [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) - A powerful little TUI framework 🏗 (today)
 - [charmbracelet/lipgloss](https://github.com/charmbracelet/lipgloss) - Style definitions for nice terminal layouts 👄 (1 day ago)
 - [charmbracelet/gum](https://github.com/charmbracelet/gum) - A tool for glamorous shell scripts 🎀 (1 week ago)
 - [charmbracelet/bubbles](https://github.com/charmbracelet/bubbles) - TUI components for Bubble Tea 🫧 (1 week ago)
@@ -36,11 +36,11 @@ Want your own self-generating profile page? Check out [readme-scribe](https://gi
 
 #### 🔨 Latest Pull Requests I published
 
+- [chore: make CatchPanics an option flag](https://github.com/charmbracelet/bubbletea/pull/504) on [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) (today)
 - [feat: make signal handler optional](https://github.com/charmbracelet/bubbletea/pull/503) on [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) (today)
 - [chore: break up Start into several, more maintainable methods](https://github.com/charmbracelet/bubbletea/pull/489) on [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) (1 day ago)
 - [fix: don&#39;t try to set alt screen when already in desired mode](https://github.com/charmbracelet/bubbletea/pull/488) on [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) (1 day ago)
 - [chore: go mod tidy in example](https://github.com/charmbracelet/lipgloss/pull/142) on [charmbracelet/lipgloss](https://github.com/charmbracelet/lipgloss) (1 day ago)
-- [feat: make Lipgloss Style thread-safe (mutex)](https://github.com/charmbracelet/lipgloss/pull/141) on [charmbracelet/lipgloss](https://github.com/charmbracelet/lipgloss) (2 days ago)
 
 #### 📜 My recent blog posts
 
