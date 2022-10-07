@@ -36,11 +36,11 @@ Want your own self-generating profile page? Check out [readme-scribe](https://gi
 
 #### 🔨 Latest Pull Requests I published
 
+- [fix: kill should result in Start returning an error](https://github.com/charmbracelet/bubbletea/pull/506) on [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) (today)
+- [chore: store handlers and simplify teardown](https://github.com/charmbracelet/bubbletea/pull/505) on [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) (today)
 - [chore: make CatchPanics an option flag](https://github.com/charmbracelet/bubbletea/pull/504) on [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) (today)
 - [feat: make signal handler optional](https://github.com/charmbracelet/bubbletea/pull/503) on [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) (today)
 - [chore: break up Start into several, more maintainable methods](https://github.com/charmbracelet/bubbletea/pull/489) on [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) (1 day ago)
-- [fix: don&#39;t try to set alt screen when already in desired mode](https://github.com/charmbracelet/bubbletea/pull/488) on [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) (1 day ago)
-- [chore: go mod tidy in example](https://github.com/charmbracelet/lipgloss/pull/142) on [charmbracelet/lipgloss](https://github.com/charmbracelet/lipgloss) (1 day ago)
 
 #### 📜 My recent blog posts
 
