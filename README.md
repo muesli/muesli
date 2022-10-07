@@ -36,11 +36,11 @@ Want your own self-generating profile page? Check out [readme-scribe](https://gi
 
 #### 🔨 Latest Pull Requests I published
 
+- [chore: clean up linter errors in examples](https://github.com/charmbracelet/bubbletea/pull/510) on [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) (today)
 - [chore: rename StartReturningModel to Run](https://github.com/charmbracelet/bubbletea/pull/509) on [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) (today)
 - [chore: reorganize Program struct](https://github.com/charmbracelet/bubbletea/pull/508) on [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) (today)
 - [fix: close input on shutdown whenever possible](https://github.com/charmbracelet/bubbletea/pull/507) on [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) (today)
 - [fix: kill should result in Start returning an error](https://github.com/charmbracelet/bubbletea/pull/506) on [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) (today)
-- [chore: store handlers and simplify teardown](https://github.com/charmbracelet/bubbletea/pull/505) on [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) (today)
 
 #### 📜 My recent blog posts
 
