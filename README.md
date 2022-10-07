@@ -36,11 +36,11 @@ Want your own self-generating profile page? Check out [readme-scribe](https://gi
 
 #### 🔨 Latest Pull Requests I published
 
+- [chore: rename StartReturningModel to Run](https://github.com/charmbracelet/bubbletea/pull/509) on [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) (today)
+- [chore: reorganize Program struct](https://github.com/charmbracelet/bubbletea/pull/508) on [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) (today)
+- [fix: close input on shutdown whenever possible](https://github.com/charmbracelet/bubbletea/pull/507) on [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) (today)
 - [fix: kill should result in Start returning an error](https://github.com/charmbracelet/bubbletea/pull/506) on [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) (today)
 - [chore: store handlers and simplify teardown](https://github.com/charmbracelet/bubbletea/pull/505) on [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) (today)
-- [chore: make CatchPanics an option flag](https://github.com/charmbracelet/bubbletea/pull/504) on [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) (today)
-- [feat: make signal handler optional](https://github.com/charmbracelet/bubbletea/pull/503) on [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) (today)
-- [chore: break up Start into several, more maintainable methods](https://github.com/charmbracelet/bubbletea/pull/489) on [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) (1 day ago)
 
 #### 📜 My recent blog posts
 
