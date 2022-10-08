@@ -36,11 +36,11 @@ Want your own self-generating profile page? Check out [readme-scribe](https://gi
 
 #### 🔨 Latest Pull Requests I published
 
+- [test: add sequenceMsg test](https://github.com/charmbracelet/bubbletea/pull/513) on [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) (today)
+- [test: add batchMsg test](https://github.com/charmbracelet/bubbletea/pull/512) on [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) (today)
 - [perf: speed up filter rendering](https://github.com/charmbracelet/gum/pull/180) on [charmbracelet/gum](https://github.com/charmbracelet/gum) (today)
 - [chore: clean up linter errors in examples](https://github.com/charmbracelet/bubbletea/pull/510) on [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) (1 day ago)
 - [chore: rename StartReturningModel to Run](https://github.com/charmbracelet/bubbletea/pull/509) on [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) (1 day ago)
-- [chore: reorganize Program struct](https://github.com/charmbracelet/bubbletea/pull/508) on [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) (1 day ago)
-- [fix: close input on shutdown whenever possible](https://github.com/charmbracelet/bubbletea/pull/507) on [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) (1 day ago)
 
 #### 📜 My recent blog posts
 
