@@ -13,8 +13,8 @@ Want your own self-generating profile page? Check out [readme-scribe](https://gi
 #### 👷 Check out what I'm currently working on
 
 - [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) - A powerful little TUI framework 🏗 (today)
-- [charmbracelet/gum](https://github.com/charmbracelet/gum) - A tool for glamorous shell scripts 🎀 (today)
-- [charmbracelet/lipgloss](https://github.com/charmbracelet/lipgloss) - Style definitions for nice terminal layouts 👄 (2 days ago)
+- [charmbracelet/gum](https://github.com/charmbracelet/gum) - A tool for glamorous shell scripts 🎀 (1 day ago)
+- [charmbracelet/lipgloss](https://github.com/charmbracelet/lipgloss) - Style definitions for nice terminal layouts 👄 (3 days ago)
 - [charmbracelet/bubbles](https://github.com/charmbracelet/bubbles) - TUI components for Bubble Tea 🫧 (1 week ago)
 - [muesli/duf](https://github.com/muesli/duf) - Disk Usage/Free Utility - a better &#39;df&#39; alternative (2 weeks ago)
 
@@ -28,19 +28,19 @@ Want your own self-generating profile page? Check out [readme-scribe](https://gi
 
 #### 🔭 Latest releases I've contributed to
 
-- [minio/mc](https://github.com/minio/mc) ([RELEASE.2022-10-06T01-20-06Z](https://github.com/minio/mc/releases/tag/RELEASE.2022-10-06T01-20-06Z), 2 days ago) - MinIO Client is a replacement for ls, cp, mkdir, diff and rsync commands for filesystems and object storage.
-- [sn4k3/UVtools](https://github.com/sn4k3/UVtools) ([v3.6.8](https://github.com/sn4k3/UVtools/releases/tag/v3.6.8), 4 days ago) - MSLA/DLP, file analysis, calibration, repair, conversion and manipulation
-- [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) ([v1.11.5](https://github.com/goreleaser/goreleaser/releases/tag/v1.11.5), 5 days ago) - Deliver Go binaries as fast and easily as possible
-- [charmbracelet/gum](https://github.com/charmbracelet/gum) ([v0.7.0](https://github.com/charmbracelet/gum/releases/tag/v0.7.0), 5 days ago) - A tool for glamorous shell scripts 🎀
+- [minio/mc](https://github.com/minio/mc) ([RELEASE.2022-10-06T01-20-06Z](https://github.com/minio/mc/releases/tag/RELEASE.2022-10-06T01-20-06Z), 3 days ago) - MinIO Client is a replacement for ls, cp, mkdir, diff and rsync commands for filesystems and object storage.
+- [sn4k3/UVtools](https://github.com/sn4k3/UVtools) ([v3.6.8](https://github.com/sn4k3/UVtools/releases/tag/v3.6.8), 5 days ago) - MSLA/DLP, file analysis, calibration, repair, conversion and manipulation
+- [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) ([v1.11.5](https://github.com/goreleaser/goreleaser/releases/tag/v1.11.5), 6 days ago) - Deliver Go binaries as fast and easily as possible
+- [charmbracelet/gum](https://github.com/charmbracelet/gum) ([v0.7.0](https://github.com/charmbracelet/gum/releases/tag/v0.7.0), 6 days ago) - A tool for glamorous shell scripts 🎀
 - [muesli/termenv](https://github.com/muesli/termenv) ([v0.13.0](https://github.com/muesli/termenv/releases/tag/v0.13.0), 2 weeks ago) - Advanced ANSI style &amp; color support for your terminal applications
 
 #### 🔨 Latest Pull Requests I published
 
-- [test: add sequenceMsg test](https://github.com/charmbracelet/bubbletea/pull/513) on [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) (today)
-- [test: add batchMsg test](https://github.com/charmbracelet/bubbletea/pull/512) on [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) (today)
-- [perf: speed up filter rendering](https://github.com/charmbracelet/gum/pull/180) on [charmbracelet/gum](https://github.com/charmbracelet/gum) (today)
-- [chore: clean up linter errors in examples](https://github.com/charmbracelet/bubbletea/pull/510) on [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) (1 day ago)
-- [chore: rename StartReturningModel to Run](https://github.com/charmbracelet/bubbletea/pull/509) on [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) (1 day ago)
+- [test: complete nil renderer test](https://github.com/charmbracelet/bubbletea/pull/516) on [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) (today)
+- [test: add screen manipulation tests](https://github.com/charmbracelet/bubbletea/pull/515) on [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) (today)
+- [test: exec returning an error for invalid and failing commands](https://github.com/charmbracelet/bubbletea/pull/514) on [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) (today)
+- [test: add sequenceMsg test](https://github.com/charmbracelet/bubbletea/pull/513) on [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) (1 day ago)
+- [test: add batchMsg test](https://github.com/charmbracelet/bubbletea/pull/512) on [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) (1 day ago)
 
 #### 📜 My recent blog posts
 
@@ -52,11 +52,11 @@ Want your own self-generating profile page? Check out [readme-scribe](https://gi
 
 #### ⭐ Recent stars
 
-- [rhysd/actionlint](https://github.com/rhysd/actionlint) - :octocat: Static checker for GitHub Actions workflow files (4 days ago)
-- [pion/opus](https://github.com/pion/opus) - Pure Go implementation of Opus (5 days ago)
-- [nore-dev/fman](https://github.com/nore-dev/fman) - TUI File Manager (5 days ago)
+- [nfx/go-htmltable](https://github.com/nfx/go-htmltable) - Structured HTML table data extraction from URLs in Go that has almost no external dependencies (today)
+- [rhysd/actionlint](https://github.com/rhysd/actionlint) - :octocat: Static checker for GitHub Actions workflow files (5 days ago)
+- [pion/opus](https://github.com/pion/opus) - Pure Go implementation of Opus (6 days ago)
+- [nore-dev/fman](https://github.com/nore-dev/fman) - TUI File Manager (6 days ago)
 - [robinovitch61/wander](https://github.com/robinovitch61/wander) - A terminal app/TUI for HashiCorp Nomad (1 week ago)
-- [knadh/koanf](https://github.com/knadh/koanf) - Simple, lightweight, extensible, configuration management library for Go. Support for JSON, TOML, YAML, env, command line, file, S3 etc. Alternative to viper. (1 week ago)
 
 #### ❤️ These awesome people sponsor me (thank you!)
 
