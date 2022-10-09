@@ -36,11 +36,11 @@ Want your own self-generating profile page? Check out [readme-scribe](https://gi
 
 #### 🔨 Latest Pull Requests I published
 
+- [fix: lock renderer during stop/kill](https://github.com/charmbracelet/bubbletea/pull/520) on [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) (today)
+- [fix: prevent double repaint when restoring terminal](https://github.com/charmbracelet/bubbletea/pull/519) on [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) (today)
+- [chore: don&#39;t use deprecated methods internally](https://github.com/charmbracelet/bubbletea/pull/518) on [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) (today)
+- [fix: restoreTerminalState resets mouse handling state](https://github.com/charmbracelet/bubbletea/pull/517) on [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) (today)
 - [test: complete nil renderer test](https://github.com/charmbracelet/bubbletea/pull/516) on [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) (today)
-- [test: add screen manipulation tests](https://github.com/charmbracelet/bubbletea/pull/515) on [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) (today)
-- [test: exec returning an error for invalid and failing commands](https://github.com/charmbracelet/bubbletea/pull/514) on [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) (today)
-- [test: add sequenceMsg test](https://github.com/charmbracelet/bubbletea/pull/513) on [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) (1 day ago)
-- [test: add batchMsg test](https://github.com/charmbracelet/bubbletea/pull/512) on [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) (1 day ago)
 
 #### 📜 My recent blog posts
 
