@@ -12,9 +12,9 @@ Want your own self-generating profile page? Check out [readme-scribe](https://gi
 
 #### 👷 Check out what I'm currently working on
 
-- [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) - A powerful little TUI framework 🏗 (1 day ago)
-- [charmbracelet/gum](https://github.com/charmbracelet/gum) - A tool for glamorous shell scripts 🎀 (2 days ago)
-- [charmbracelet/lipgloss](https://github.com/charmbracelet/lipgloss) - Style definitions for nice terminal layouts 👄 (4 days ago)
+- [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) - A powerful little TUI framework 🏗 (2 days ago)
+- [charmbracelet/gum](https://github.com/charmbracelet/gum) - A tool for glamorous shell scripts 🎀 (3 days ago)
+- [charmbracelet/lipgloss](https://github.com/charmbracelet/lipgloss) - Style definitions for nice terminal layouts 👄 (5 days ago)
 - [charmbracelet/bubbles](https://github.com/charmbracelet/bubbles) - TUI components for Bubble Tea 🫧 (2 weeks ago)
 - [muesli/duf](https://github.com/muesli/duf) - Disk Usage/Free Utility - a better &#39;df&#39; alternative (2 weeks ago)
 
@@ -28,19 +28,19 @@ Want your own self-generating profile page? Check out [readme-scribe](https://gi
 
 #### 🔭 Latest releases I've contributed to
 
-- [minio/mc](https://github.com/minio/mc) ([RELEASE.2022-10-09T21-10-59Z](https://github.com/minio/mc/releases/tag/RELEASE.2022-10-09T21-10-59Z), 1 day ago) - MinIO Client is a replacement for ls, cp, mkdir, diff and rsync commands for filesystems and object storage.
-- [sn4k3/UVtools](https://github.com/sn4k3/UVtools) ([v3.6.8](https://github.com/sn4k3/UVtools/releases/tag/v3.6.8), 6 days ago) - MSLA/DLP, file analysis, calibration, repair, conversion and manipulation
+- [minio/mc](https://github.com/minio/mc) ([RELEASE.2022-10-09T21-10-59Z](https://github.com/minio/mc/releases/tag/RELEASE.2022-10-09T21-10-59Z), 2 days ago) - MinIO Client is a replacement for ls, cp, mkdir, diff and rsync commands for filesystems and object storage.
+- [sn4k3/UVtools](https://github.com/sn4k3/UVtools) ([v3.6.8](https://github.com/sn4k3/UVtools/releases/tag/v3.6.8), 1 week ago) - MSLA/DLP, file analysis, calibration, repair, conversion and manipulation
 - [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) ([v1.11.5](https://github.com/goreleaser/goreleaser/releases/tag/v1.11.5), 1 week ago) - Deliver Go binaries as fast and easily as possible
 - [charmbracelet/gum](https://github.com/charmbracelet/gum) ([v0.7.0](https://github.com/charmbracelet/gum/releases/tag/v0.7.0), 1 week ago) - A tool for glamorous shell scripts 🎀
 - [muesli/termenv](https://github.com/muesli/termenv) ([v0.13.0](https://github.com/muesli/termenv/releases/tag/v0.13.0), 2 weeks ago) - Advanced ANSI style &amp; color support for your terminal applications
 
 #### 🔨 Latest Pull Requests I published
 
-- [fix: lock renderer during stop/kill](https://github.com/charmbracelet/bubbletea/pull/520) on [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) (1 day ago)
-- [fix: prevent double repaint when restoring terminal](https://github.com/charmbracelet/bubbletea/pull/519) on [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) (1 day ago)
-- [chore: don&#39;t use deprecated methods internally](https://github.com/charmbracelet/bubbletea/pull/518) on [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) (1 day ago)
-- [fix: restoreTerminalState resets mouse handling state](https://github.com/charmbracelet/bubbletea/pull/517) on [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) (1 day ago)
-- [test: complete nil renderer test](https://github.com/charmbracelet/bubbletea/pull/516) on [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) (1 day ago)
+- [fix: lock renderer during stop/kill](https://github.com/charmbracelet/bubbletea/pull/520) on [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) (2 days ago)
+- [fix: prevent double repaint when restoring terminal](https://github.com/charmbracelet/bubbletea/pull/519) on [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) (2 days ago)
+- [chore: don&#39;t use deprecated methods internally](https://github.com/charmbracelet/bubbletea/pull/518) on [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) (2 days ago)
+- [fix: restoreTerminalState resets mouse handling state](https://github.com/charmbracelet/bubbletea/pull/517) on [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) (2 days ago)
+- [test: complete nil renderer test](https://github.com/charmbracelet/bubbletea/pull/516) on [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) (2 days ago)
 
 #### 📜 My recent blog posts
 
@@ -52,8 +52,8 @@ Want your own self-generating profile page? Check out [readme-scribe](https://gi
 
 #### ⭐ Recent stars
 
-- [nfx/go-htmltable](https://github.com/nfx/go-htmltable) - Structured HTML table data extraction from URLs in Go that has almost no external dependencies (1 day ago)
-- [rhysd/actionlint](https://github.com/rhysd/actionlint) - :octocat: Static checker for GitHub Actions workflow files (6 days ago)
+- [nfx/go-htmltable](https://github.com/nfx/go-htmltable) - Structured HTML table data extraction from URLs in Go that has almost no external dependencies (2 days ago)
+- [rhysd/actionlint](https://github.com/rhysd/actionlint) - :octocat: Static checker for GitHub Actions workflow files (1 week ago)
 - [pion/opus](https://github.com/pion/opus) - Pure Go implementation of Opus (1 week ago)
 - [nore-dev/fman](https://github.com/nore-dev/fman) - TUI File Manager (1 week ago)
 - [robinovitch61/wander](https://github.com/robinovitch61/wander) - A terminal app/TUI for HashiCorp Nomad (1 week ago)
