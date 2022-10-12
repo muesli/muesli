@@ -36,11 +36,11 @@ Want your own self-generating profile page? Check out [readme-scribe](https://gi
 
 #### 🔨 Latest Pull Requests I published
 
+- [feat: support ctrl&#43;page up/down keys](https://github.com/charmbracelet/bubbletea/pull/531) on [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) (today)
+- [fix: ensure a final render before a clean shutdown](https://github.com/charmbracelet/bubbletea/pull/530) on [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) (today)
 - [fix: timeout when waiting for CancelReader](https://github.com/charmbracelet/bubbletea/pull/525) on [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) (1 day ago)
 - [fix: lock renderer during stop/kill](https://github.com/charmbracelet/bubbletea/pull/520) on [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) (3 days ago)
 - [fix: prevent double repaint when restoring terminal](https://github.com/charmbracelet/bubbletea/pull/519) on [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) (3 days ago)
-- [chore: don&#39;t use deprecated methods internally](https://github.com/charmbracelet/bubbletea/pull/518) on [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) (3 days ago)
-- [fix: restoreTerminalState resets mouse handling state](https://github.com/charmbracelet/bubbletea/pull/517) on [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) (3 days ago)
 
 #### 📜 My recent blog posts
 
