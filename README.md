@@ -56,7 +56,7 @@ Want your own self-generating profile page? Check out [readme-scribe](https://gi
 - [nfx/go-htmltable](https://github.com/nfx/go-htmltable) - Structured HTML table data extraction from URLs in Go that has almost no external dependencies (3 days ago)
 - [rhysd/actionlint](https://github.com/rhysd/actionlint) - :octocat: Static checker for GitHub Actions workflow files (1 week ago)
 - [pion/opus](https://github.com/pion/opus) - Pure Go implementation of Opus (1 week ago)
-- [nore-dev/fman](https://github.com/nore-dev/fman) - Awesome TUI File Manager (1 week ago)
+- [nore-dev/fman](https://github.com/nore-dev/fman) - TUI File Manager (1 week ago)
 
 #### ❤️ These awesome people sponsor me (thank you!)
 
