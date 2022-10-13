@@ -12,7 +12,7 @@ Want your own self-generating profile page? Check out [readme-scribe](https://gi
 
 #### 👷 Check out what I'm currently working on
 
-- [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) - A powerful little TUI framework 🏗 (1 day ago)
+- [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) - A powerful little TUI framework 🏗 (today)
 - [charmbracelet/gum](https://github.com/charmbracelet/gum) - A tool for glamorous shell scripts 🎀 (5 days ago)
 - [charmbracelet/lipgloss](https://github.com/charmbracelet/lipgloss) - Style definitions for nice terminal layouts 👄 (1 week ago)
 - [charmbracelet/bubbles](https://github.com/charmbracelet/bubbles) - TUI components for Bubble Tea 🫧 (2 weeks ago)
@@ -36,11 +36,11 @@ Want your own self-generating profile page? Check out [readme-scribe](https://gi
 
 #### 🔨 Latest Pull Requests I published
 
+- [fix: also lock mutex when accessing state read-only](https://github.com/charmbracelet/bubbletea/pull/535) on [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) (today)
 - [fix: lock mutex before checking altscreen state](https://github.com/charmbracelet/bubbletea/pull/534) on [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) (today)
 - [fix: prevent renderer from overflowing available height](https://github.com/charmbracelet/bubbletea/pull/533) on [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) (today)
 - [feat: add event-logger example](https://github.com/charmbracelet/bubbletea/pull/532) on [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) (1 day ago)
 - [feat: support ctrl&#43;page up/down keys](https://github.com/charmbracelet/bubbletea/pull/531) on [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) (1 day ago)
-- [fix: ensure a final render before a clean shutdown](https://github.com/charmbracelet/bubbletea/pull/530) on [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) (1 day ago)
 
 #### 📜 My recent blog posts
 
