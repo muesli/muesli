@@ -36,11 +36,11 @@ Want your own self-generating profile page? Check out [readme-scribe](https://gi
 
 #### 🔨 Latest Pull Requests I published
 
+- [feat: add generic event filter](https://github.com/charmbracelet/bubbletea/pull/536) on [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) (today)
 - [fix: also lock mutex when accessing state read-only](https://github.com/charmbracelet/bubbletea/pull/535) on [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) (today)
 - [fix: lock mutex before checking altscreen state](https://github.com/charmbracelet/bubbletea/pull/534) on [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) (today)
 - [fix: prevent renderer from overflowing available height](https://github.com/charmbracelet/bubbletea/pull/533) on [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) (today)
 - [feat: add event-logger example](https://github.com/charmbracelet/bubbletea/pull/532) on [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) (1 day ago)
-- [feat: support ctrl&#43;page up/down keys](https://github.com/charmbracelet/bubbletea/pull/531) on [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) (1 day ago)
 
 #### 📜 My recent blog posts
 
