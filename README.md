@@ -52,11 +52,11 @@ Want your own self-generating profile page? Check out [readme-scribe](https://gi
 
 #### ⭐ Recent stars
 
+- [bensadeh/tailspin](https://github.com/bensadeh/tailspin) - 🌀 A log file highlighter and a drop-in replacement for `tail -f` (today)
+- [bensadeh/circumflex](https://github.com/bensadeh/circumflex) - 🌿 It&#39;s Hacker News in your terminal (today)
 - [cristofercruz/gbp-esp-shield-pcb](https://github.com/cristofercruz/gbp-esp-shield-pcb) - Game Boy Printer interface shield for D1 mini/mini Pro ESP8266 boards. (today)
 - [lrstanley/bubblezone](https://github.com/lrstanley/bubblezone) - helper utility for BubbleTea, allowing easy mouse event tracking (3 days ago)
 - [nfx/go-htmltable](https://github.com/nfx/go-htmltable) - Structured HTML table data extraction from URLs in Go that has almost no external dependencies (5 days ago)
-- [rhysd/actionlint](https://github.com/rhysd/actionlint) - :octocat: Static checker for GitHub Actions workflow files (1 week ago)
-- [pion/opus](https://github.com/pion/opus) - Pure Go implementation of Opus (1 week ago)
 
 #### ❤️ These awesome people sponsor me (thank you!)
 
