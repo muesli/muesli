@@ -12,8 +12,8 @@ Want your own self-generating profile page? Check out [readme-scribe](https://gi
 
 #### 👷 Check out what I'm currently working on
 
-- [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) - A powerful little TUI framework 🏗 (1 day ago)
-- [charmbracelet/gum](https://github.com/charmbracelet/gum) - A tool for glamorous shell scripts 🎀 (6 days ago)
+- [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) - A powerful little TUI framework 🏗 (today)
+- [charmbracelet/gum](https://github.com/charmbracelet/gum) - A tool for glamorous shell scripts 🎀 (1 week ago)
 - [charmbracelet/lipgloss](https://github.com/charmbracelet/lipgloss) - Style definitions for nice terminal layouts 👄 (1 week ago)
 - [charmbracelet/bubbles](https://github.com/charmbracelet/bubbles) - TUI components for Bubble Tea 🫧 (2 weeks ago)
 - [muesli/duf](https://github.com/muesli/duf) - Disk Usage/Free Utility - a better &#39;df&#39; alternative (3 weeks ago)
@@ -28,19 +28,19 @@ Want your own self-generating profile page? Check out [readme-scribe](https://gi
 
 #### 🔭 Latest releases I've contributed to
 
-- [sn4k3/UVtools](https://github.com/sn4k3/UVtools) ([v3.7.0](https://github.com/sn4k3/UVtools/releases/tag/v3.7.0), 2 days ago) - MSLA/DLP, file analysis, calibration, repair, conversion and manipulation
-- [charmbracelet/gum](https://github.com/charmbracelet/gum) ([v0.8.0](https://github.com/charmbracelet/gum/releases/tag/v0.8.0), 3 days ago) - A tool for glamorous shell scripts 🎀
-- [minio/mc](https://github.com/minio/mc) ([RELEASE.2022-10-09T21-10-59Z](https://github.com/minio/mc/releases/tag/RELEASE.2022-10-09T21-10-59Z), 5 days ago) - MinIO Client is a replacement for ls, cp, mkdir, diff and rsync commands for filesystems and object storage.
+- [sn4k3/UVtools](https://github.com/sn4k3/UVtools) ([v3.7.0](https://github.com/sn4k3/UVtools/releases/tag/v3.7.0), 3 days ago) - MSLA/DLP, file analysis, calibration, repair, conversion and manipulation
+- [charmbracelet/gum](https://github.com/charmbracelet/gum) ([v0.8.0](https://github.com/charmbracelet/gum/releases/tag/v0.8.0), 4 days ago) - A tool for glamorous shell scripts 🎀
+- [minio/mc](https://github.com/minio/mc) ([RELEASE.2022-10-09T21-10-59Z](https://github.com/minio/mc/releases/tag/RELEASE.2022-10-09T21-10-59Z), 6 days ago) - MinIO Client is a replacement for ls, cp, mkdir, diff and rsync commands for filesystems and object storage.
 - [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) ([v1.11.5](https://github.com/goreleaser/goreleaser/releases/tag/v1.11.5), 1 week ago) - Deliver Go binaries as fast and easily as possible
 - [muesli/termenv](https://github.com/muesli/termenv) ([v0.13.0](https://github.com/muesli/termenv/releases/tag/v0.13.0), 3 weeks ago) - Advanced ANSI style &amp; color support for your terminal applications
 
 #### 🔨 Latest Pull Requests I published
 
-- [fix: maintain cursor visibility across altscreen state switch](https://github.com/charmbracelet/bubbletea/pull/537) on [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) (1 day ago)
-- [feat: add generic event filter](https://github.com/charmbracelet/bubbletea/pull/536) on [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) (1 day ago)
-- [fix: also lock mutex when accessing state read-only](https://github.com/charmbracelet/bubbletea/pull/535) on [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) (1 day ago)
-- [fix: lock mutex before checking altscreen state](https://github.com/charmbracelet/bubbletea/pull/534) on [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) (1 day ago)
-- [fix: prevent renderer from overflowing available height](https://github.com/charmbracelet/bubbletea/pull/533) on [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) (1 day ago)
+- [fix: don&#39;t block in Send after shutdown](https://github.com/charmbracelet/bubbletea/pull/539) on [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) (today)
+- [fix: maintain cursor visibility across altscreen state switch](https://github.com/charmbracelet/bubbletea/pull/537) on [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) (2 days ago)
+- [feat: add generic event filter](https://github.com/charmbracelet/bubbletea/pull/536) on [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) (2 days ago)
+- [fix: also lock mutex when accessing state read-only](https://github.com/charmbracelet/bubbletea/pull/535) on [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) (2 days ago)
+- [fix: lock mutex before checking altscreen state](https://github.com/charmbracelet/bubbletea/pull/534) on [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) (2 days ago)
 
 #### 📜 My recent blog posts
 
@@ -52,11 +52,11 @@ Want your own self-generating profile page? Check out [readme-scribe](https://gi
 
 #### ⭐ Recent stars
 
-- [bensadeh/tailspin](https://github.com/bensadeh/tailspin) - 🌀 A log file highlighter and a drop-in replacement for `tail -f` (today)
-- [bensadeh/circumflex](https://github.com/bensadeh/circumflex) - 🌿 It&#39;s Hacker News in your terminal (today)
-- [cristofercruz/gbp-esp-shield-pcb](https://github.com/cristofercruz/gbp-esp-shield-pcb) - Game Boy Printer interface shield for D1 mini/mini Pro ESP8266 boards. (today)
-- [lrstanley/bubblezone](https://github.com/lrstanley/bubblezone) - helper utility for BubbleTea, allowing easy mouse event tracking (3 days ago)
-- [nfx/go-htmltable](https://github.com/nfx/go-htmltable) - Structured HTML table data extraction from URLs in Go that has almost no external dependencies (5 days ago)
+- [bensadeh/tailspin](https://github.com/bensadeh/tailspin) - 🌀 A log file highlighter and a drop-in replacement for `tail -f` (1 day ago)
+- [bensadeh/circumflex](https://github.com/bensadeh/circumflex) - 🌿 It&#39;s Hacker News in your terminal (1 day ago)
+- [cristofercruz/gbp-esp-shield-pcb](https://github.com/cristofercruz/gbp-esp-shield-pcb) - Game Boy Printer interface shield for D1 mini/mini Pro ESP8266 boards. (1 day ago)
+- [lrstanley/bubblezone](https://github.com/lrstanley/bubblezone) - helper utility for BubbleTea, allowing easy mouse event tracking (4 days ago)
+- [nfx/go-htmltable](https://github.com/nfx/go-htmltable) - Structured HTML table data extraction from URLs in Go that has almost no external dependencies (6 days ago)
 
 #### ❤️ These awesome people sponsor me (thank you!)
 
