@@ -36,11 +36,11 @@ Want your own self-generating profile page? Check out [readme-scribe](https://gi
 
 #### 🔨 Latest Pull Requests I published
 
+- [chore: add dependabot config](https://github.com/charmbracelet/glamour/pull/190) on [charmbracelet/glamour](https://github.com/charmbracelet/glamour) (today)
+- [fix: detect terminal size after exec](https://github.com/charmbracelet/bubbletea/pull/541) on [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) (today)
+- [test: add goleak to detect goroutine leaks during testing](https://github.com/charmbracelet/bubbletea/pull/540) on [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) (today)
 - [fix: don&#39;t block in Send after shutdown](https://github.com/charmbracelet/bubbletea/pull/539) on [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) (today)
 - [fix: maintain cursor visibility across altscreen state switch](https://github.com/charmbracelet/bubbletea/pull/537) on [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) (2 days ago)
-- [feat: add generic event filter](https://github.com/charmbracelet/bubbletea/pull/536) on [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) (2 days ago)
-- [fix: also lock mutex when accessing state read-only](https://github.com/charmbracelet/bubbletea/pull/535) on [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) (2 days ago)
-- [fix: lock mutex before checking altscreen state](https://github.com/charmbracelet/bubbletea/pull/534) on [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) (2 days ago)
 
 #### 📜 My recent blog posts
 
