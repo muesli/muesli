@@ -28,8 +28,8 @@ Want your own self-generating profile page? Check out [readme-scribe](https://gi
 
 #### 🔭 Latest releases I've contributed to
 
+- [sn4k3/UVtools](https://github.com/sn4k3/UVtools) ([v3.7.1](https://github.com/sn4k3/UVtools/releases/tag/v3.7.1), today) - MSLA/DLP, file analysis, calibration, repair, conversion and manipulation
 - [minio/mc](https://github.com/minio/mc) ([RELEASE.2022-10-12T18-12-50Z](https://github.com/minio/mc/releases/tag/RELEASE.2022-10-12T18-12-50Z), 1 day ago) - MinIO Client is a replacement for ls, cp, mkdir, diff and rsync commands for filesystems and object storage.
-- [sn4k3/UVtools](https://github.com/sn4k3/UVtools) ([v3.7.0](https://github.com/sn4k3/UVtools/releases/tag/v3.7.0), 5 days ago) - MSLA/DLP, file analysis, calibration, repair, conversion and manipulation
 - [charmbracelet/gum](https://github.com/charmbracelet/gum) ([v0.8.0](https://github.com/charmbracelet/gum/releases/tag/v0.8.0), 6 days ago) - A tool for glamorous shell scripts 🎀
 - [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) ([v1.11.5](https://github.com/goreleaser/goreleaser/releases/tag/v1.11.5), 2 weeks ago) - Deliver Go binaries as fast and easily as possible
 - [muesli/termenv](https://github.com/muesli/termenv) ([v0.13.0](https://github.com/muesli/termenv/releases/tag/v0.13.0), 3 weeks ago) - Advanced ANSI style &amp; color support for your terminal applications
