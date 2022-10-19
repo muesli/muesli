@@ -12,8 +12,8 @@ Want your own self-generating profile page? Check out [readme-scribe](https://gi
 
 #### 👷 Check out what I'm currently working on
 
-- [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) - A powerful little TUI framework 🏗 (3 days ago)
-- [charmbracelet/glamour](https://github.com/charmbracelet/glamour) - Stylesheet-based markdown rendering for your CLI apps 💇🏻‍♀️ (3 days ago)
+- [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) - A powerful little TUI framework 🏗 (4 days ago)
+- [charmbracelet/glamour](https://github.com/charmbracelet/glamour) - Stylesheet-based markdown rendering for your CLI apps 💇🏻‍♀️ (4 days ago)
 - [charmbracelet/gum](https://github.com/charmbracelet/gum) - A tool for glamorous shell scripts 🎀 (1 week ago)
 - [charmbracelet/lipgloss](https://github.com/charmbracelet/lipgloss) - Style definitions for nice terminal layouts 👄 (1 week ago)
 - [charmbracelet/bubbles](https://github.com/charmbracelet/bubbles) - TUI components for Bubble Tea 🫧 (3 weeks ago)
@@ -28,19 +28,19 @@ Want your own self-generating profile page? Check out [readme-scribe](https://gi
 
 #### 🔭 Latest releases I've contributed to
 
-- [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) ([v1.12.1](https://github.com/goreleaser/goreleaser/releases/tag/v1.12.1), today) - Deliver Go binaries as fast and easily as possible
-- [sn4k3/UVtools](https://github.com/sn4k3/UVtools) ([v3.7.1](https://github.com/sn4k3/UVtools/releases/tag/v3.7.1), 1 day ago) - MSLA/DLP, file analysis, calibration, repair, conversion and manipulation
-- [minio/mc](https://github.com/minio/mc) ([RELEASE.2022-10-12T18-12-50Z](https://github.com/minio/mc/releases/tag/RELEASE.2022-10-12T18-12-50Z), 2 days ago) - MinIO Client is a replacement for ls, cp, mkdir, diff and rsync commands for filesystems and object storage.
+- [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) ([v1.12.1](https://github.com/goreleaser/goreleaser/releases/tag/v1.12.1), 1 day ago) - Deliver Go binaries as fast and easily as possible
+- [sn4k3/UVtools](https://github.com/sn4k3/UVtools) ([v3.7.1](https://github.com/sn4k3/UVtools/releases/tag/v3.7.1), 2 days ago) - MSLA/DLP, file analysis, calibration, repair, conversion and manipulation
+- [minio/mc](https://github.com/minio/mc) ([RELEASE.2022-10-12T18-12-50Z](https://github.com/minio/mc/releases/tag/RELEASE.2022-10-12T18-12-50Z), 3 days ago) - MinIO Client is a replacement for ls, cp, mkdir, diff and rsync commands for filesystems and object storage.
 - [charmbracelet/gum](https://github.com/charmbracelet/gum) ([v0.8.0](https://github.com/charmbracelet/gum/releases/tag/v0.8.0), 1 week ago) - A tool for glamorous shell scripts 🎀
 - [muesli/termenv](https://github.com/muesli/termenv) ([v0.13.0](https://github.com/muesli/termenv/releases/tag/v0.13.0), 3 weeks ago) - Advanced ANSI style &amp; color support for your terminal applications
 
 #### 🔨 Latest Pull Requests I published
 
-- [chore: add dependabot config](https://github.com/charmbracelet/glamour/pull/190) on [charmbracelet/glamour](https://github.com/charmbracelet/glamour) (3 days ago)
-- [fix: detect terminal size after exec](https://github.com/charmbracelet/bubbletea/pull/541) on [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) (3 days ago)
-- [test: add goleak to detect goroutine leaks during testing](https://github.com/charmbracelet/bubbletea/pull/540) on [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) (3 days ago)
-- [fix: don&#39;t block in Send after shutdown](https://github.com/charmbracelet/bubbletea/pull/539) on [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) (3 days ago)
-- [fix: maintain cursor visibility across altscreen state switch](https://github.com/charmbracelet/bubbletea/pull/537) on [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) (5 days ago)
+- [chore: add dependabot config](https://github.com/charmbracelet/glamour/pull/190) on [charmbracelet/glamour](https://github.com/charmbracelet/glamour) (4 days ago)
+- [fix: detect terminal size after exec](https://github.com/charmbracelet/bubbletea/pull/541) on [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) (4 days ago)
+- [test: add goleak to detect goroutine leaks during testing](https://github.com/charmbracelet/bubbletea/pull/540) on [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) (4 days ago)
+- [fix: don&#39;t block in Send after shutdown](https://github.com/charmbracelet/bubbletea/pull/539) on [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) (4 days ago)
+- [fix: maintain cursor visibility across altscreen state switch](https://github.com/charmbracelet/bubbletea/pull/537) on [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) (6 days ago)
 
 #### 📜 My recent blog posts
 
@@ -52,11 +52,11 @@ Want your own self-generating profile page? Check out [readme-scribe](https://gi
 
 #### ⭐ Recent stars
 
-- [dylanaraps/pure-sh-bible](https://github.com/dylanaraps/pure-sh-bible) - 📖 A collection of pure POSIX sh alternatives to external processes. (today)
-- [prusa3d/Original-Prusa-i3](https://github.com/prusa3d/Original-Prusa-i3) - Original Prusa i3 MK2 3D printer printed parts (today)
-- [bensadeh/tailspin](https://github.com/bensadeh/tailspin) - 🌀 A log file highlighter and a drop-in replacement for `tail -f` (4 days ago)
-- [bensadeh/circumflex](https://github.com/bensadeh/circumflex) - 🌿 It&#39;s Hacker News in your terminal (4 days ago)
-- [cristofercruz/gbp-esp-shield-pcb](https://github.com/cristofercruz/gbp-esp-shield-pcb) - Game Boy Printer interface shield for D1 mini/mini Pro ESP8266 boards. (4 days ago)
+- [dylanaraps/pure-sh-bible](https://github.com/dylanaraps/pure-sh-bible) - 📖 A collection of pure POSIX sh alternatives to external processes. (1 day ago)
+- [prusa3d/Original-Prusa-i3](https://github.com/prusa3d/Original-Prusa-i3) - Original Prusa i3 MK2 3D printer printed parts (1 day ago)
+- [bensadeh/tailspin](https://github.com/bensadeh/tailspin) - 🌀 A log file highlighter and a drop-in replacement for `tail -f` (5 days ago)
+- [bensadeh/circumflex](https://github.com/bensadeh/circumflex) - 🌿 It&#39;s Hacker News in your terminal (5 days ago)
+- [cristofercruz/gbp-esp-shield-pcb](https://github.com/cristofercruz/gbp-esp-shield-pcb) - Game Boy Printer interface shield for D1 mini/mini Pro ESP8266 boards. (5 days ago)
 
 #### ❤️ These awesome people sponsor me (thank you!)
 
