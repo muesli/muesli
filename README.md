@@ -36,11 +36,11 @@ Want your own self-generating profile page? Check out [readme-scribe](https://gi
 
 #### 🔨 Latest Pull Requests I published
 
+- [fix: restore Windows console mode on shutdown](https://github.com/charmbracelet/bubbletea/pull/565) on [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) (today)
 - [chore: add dependabot config](https://github.com/charmbracelet/glamour/pull/190) on [charmbracelet/glamour](https://github.com/charmbracelet/glamour) (5 days ago)
 - [fix: detect terminal size after exec](https://github.com/charmbracelet/bubbletea/pull/541) on [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) (5 days ago)
 - [test: add goleak to detect goroutine leaks during testing](https://github.com/charmbracelet/bubbletea/pull/540) on [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) (5 days ago)
 - [fix: don&#39;t block in Send after shutdown](https://github.com/charmbracelet/bubbletea/pull/539) on [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) (5 days ago)
-- [fix: maintain cursor visibility across altscreen state switch](https://github.com/charmbracelet/bubbletea/pull/537) on [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) (1 week ago)
 
 #### 📜 My recent blog posts
 
