@@ -12,9 +12,9 @@ Want your own self-generating profile page? Check out [readme-scribe](https://gi
 
 #### 👷 Check out what I'm currently working on
 
-- [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) - A powerful little TUI framework 🏗 (3 days ago)
+- [charmbracelet/gum](https://github.com/charmbracelet/gum) - A tool for glamorous shell scripts 🎀 (today)
+- [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) - A powerful little TUI framework 🏗 (today)
 - [charmbracelet/glamour](https://github.com/charmbracelet/glamour) - Stylesheet-based markdown rendering for your CLI apps 💇🏻‍♀️ (1 week ago)
-- [charmbracelet/gum](https://github.com/charmbracelet/gum) - A tool for glamorous shell scripts 🎀 (2 weeks ago)
 - [charmbracelet/lipgloss](https://github.com/charmbracelet/lipgloss) - Style definitions for nice terminal layouts 👄 (2 weeks ago)
 - [charmbracelet/bubbles](https://github.com/charmbracelet/bubbles) - TUI components for Bubble Tea 🫧 (3 weeks ago)
 
@@ -36,11 +36,10 @@ Want your own self-generating profile page? Check out [readme-scribe](https://gi
 
 #### 🔨 Latest Pull Requests I published
 
+- [docs: update template footer](https://github.com/charmbracelet/meta/pull/54) on [charmbracelet/meta](https://github.com/charmbracelet/meta) (today)
+- [docs: mention BSD releases](https://github.com/charmbracelet/gum/pull/220) on [charmbracelet/gum](https://github.com/charmbracelet/gum) (today)
 - [docs: add Alpine &amp; termux install instructions](https://github.com/charmbracelet/gum/pull/219) on [charmbracelet/gum](https://github.com/charmbracelet/gum) (today)
 - [feat: tea.WithContext ProgramOption to supply a context](https://github.com/charmbracelet/bubbletea/pull/571) on [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) (today)
-- [fix: don&#39;t abort on first encountered error when resetting Windows console](https://github.com/containerd/console/pull/67) on [containerd/console](https://github.com/containerd/console) (2 days ago)
-- [fix: don&#39;t print to stdout when initializing console fails on Windows](https://github.com/containerd/console/pull/66) on [containerd/console](https://github.com/containerd/console) (2 days ago)
-- [fix: restore Windows console mode on shutdown](https://github.com/charmbracelet/bubbletea/pull/565) on [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) (3 days ago)
 
 #### 📜 My recent blog posts
 
