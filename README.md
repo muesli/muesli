@@ -28,9 +28,9 @@ Want your own self-generating profile page? Check out [readme-scribe](https://gi
 
 #### 🔭 Latest releases I've contributed to
 
+- [minio/mc](https://github.com/minio/mc) ([RELEASE.2022-10-22T03-39-29Z](https://github.com/minio/mc/releases/tag/RELEASE.2022-10-22T03-39-29Z), today) - MinIO Client is a replacement for ls, cp, mkdir, diff and rsync commands for filesystems and object storage.
 - [charmbracelet/wishlist](https://github.com/charmbracelet/wishlist) ([v0.8.0](https://github.com/charmbracelet/wishlist/releases/tag/v0.8.0), today) - The SSH directory ✨
 - [charmbracelet/wish](https://github.com/charmbracelet/wish) ([v0.6.0](https://github.com/charmbracelet/wish/releases/tag/v0.6.0), today) - Make SSH apps, just like that! 💫
-- [minio/mc](https://github.com/minio/mc) ([RELEASE.2022-10-20T23-26-33Z](https://github.com/minio/mc/releases/tag/RELEASE.2022-10-20T23-26-33Z), 3 days ago) - MinIO Client is a replacement for ls, cp, mkdir, diff and rsync commands for filesystems and object storage.
 - [sn4k3/UVtools](https://github.com/sn4k3/UVtools) ([v3.7.2](https://github.com/sn4k3/UVtools/releases/tag/v3.7.2), 4 days ago) - MSLA/DLP, file analysis, calibration, repair, conversion and manipulation
 - [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) ([v1.12.3](https://github.com/goreleaser/goreleaser/releases/tag/v1.12.3), 4 days ago) - Deliver Go binaries as fast and easily as possible
 
