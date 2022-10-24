@@ -36,11 +36,11 @@ Want your own self-generating profile page? Check out [readme-scribe](https://gi
 
 #### 🔨 Latest Pull Requests I published
 
+- [docs: picture tag is causing display issues](https://github.com/charmbracelet/meta/pull/57) on [charmbracelet/meta](https://github.com/charmbracelet/meta) (today)
+- [docs: picture tag is causing display issues](https://github.com/charmbracelet/gum/pull/222) on [charmbracelet/gum](https://github.com/charmbracelet/gum) (today)
+- [docs: picture tag is causing display issues](https://github.com/charmbracelet/bubbles/pull/282) on [charmbracelet/bubbles](https://github.com/charmbracelet/bubbles) (today)
+- [docs: picture tag is causing display issues](https://github.com/charmbracelet/bubbletea/pull/575) on [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) (today)
 - [docs: new readme footer](https://github.com/charmbracelet/glamour/pull/199) on [charmbracelet/glamour](https://github.com/charmbracelet/glamour) (today)
-- [docs: new readme footer](https://github.com/charmbracelet/catwalk/pull/3) on [charmbracelet/catwalk](https://github.com/charmbracelet/catwalk) (today)
-- [docs: new readme footer](https://github.com/charmbracelet/confettysh/pull/7) on [charmbracelet/confettysh](https://github.com/charmbracelet/confettysh) (today)
-- [docs: new readme footer](https://github.com/charmbracelet/kancli/pull/5) on [charmbracelet/kancli](https://github.com/charmbracelet/kancli) (today)
-- [docs: new readme footer](https://github.com/charmbracelet/soft-serve/pull/174) on [charmbracelet/soft-serve](https://github.com/charmbracelet/soft-serve) (today)
 
 #### 📜 My recent blog posts
 
