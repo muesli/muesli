@@ -12,9 +12,9 @@ Want your own self-generating profile page? Check out [readme-scribe](https://gi
 
 #### 👷 Check out what I'm currently working on
 
-- [charmbracelet/meta](https://github.com/charmbracelet/meta) - Charm&#39;s meta configuration files 🫥 (today)
-- [charmbracelet/gum](https://github.com/charmbracelet/gum) - A tool for glamorous shell scripts 🎀 (today)
-- [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) - A powerful little TUI framework 🏗 (today)
+- [charmbracelet/meta](https://github.com/charmbracelet/meta) - Charm&#39;s meta configuration files 🫥 (1 day ago)
+- [charmbracelet/gum](https://github.com/charmbracelet/gum) - A tool for glamorous shell scripts 🎀 (1 day ago)
+- [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) - A powerful little TUI framework 🏗 (1 day ago)
 - [charmbracelet/glamour](https://github.com/charmbracelet/glamour) - Stylesheet-based markdown rendering for your CLI apps 💇🏻‍♀️ (1 week ago)
 - [charmbracelet/lipgloss](https://github.com/charmbracelet/lipgloss) - Style definitions for nice terminal layouts 👄 (2 weeks ago)
 
@@ -28,18 +28,18 @@ Want your own self-generating profile page? Check out [readme-scribe](https://gi
 
 #### 🔭 Latest releases I've contributed to
 
-- [minio/mc](https://github.com/minio/mc) ([RELEASE.2022-10-20T23-26-33Z](https://github.com/minio/mc/releases/tag/RELEASE.2022-10-20T23-26-33Z), 2 days ago) - MinIO Client is a replacement for ls, cp, mkdir, diff and rsync commands for filesystems and object storage.
-- [sn4k3/UVtools](https://github.com/sn4k3/UVtools) ([v3.7.2](https://github.com/sn4k3/UVtools/releases/tag/v3.7.2), 3 days ago) - MSLA/DLP, file analysis, calibration, repair, conversion and manipulation
-- [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) ([v1.12.3](https://github.com/goreleaser/goreleaser/releases/tag/v1.12.3), 3 days ago) - Deliver Go binaries as fast and easily as possible
+- [minio/mc](https://github.com/minio/mc) ([RELEASE.2022-10-20T23-26-33Z](https://github.com/minio/mc/releases/tag/RELEASE.2022-10-20T23-26-33Z), 3 days ago) - MinIO Client is a replacement for ls, cp, mkdir, diff and rsync commands for filesystems and object storage.
+- [sn4k3/UVtools](https://github.com/sn4k3/UVtools) ([v3.7.2](https://github.com/sn4k3/UVtools/releases/tag/v3.7.2), 4 days ago) - MSLA/DLP, file analysis, calibration, repair, conversion and manipulation
+- [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) ([v1.12.3](https://github.com/goreleaser/goreleaser/releases/tag/v1.12.3), 4 days ago) - Deliver Go binaries as fast and easily as possible
 - [charmbracelet/gum](https://github.com/charmbracelet/gum) ([v0.8.0](https://github.com/charmbracelet/gum/releases/tag/v0.8.0), 1 week ago) - A tool for glamorous shell scripts 🎀
 - [muesli/termenv](https://github.com/muesli/termenv) ([v0.13.0](https://github.com/muesli/termenv/releases/tag/v0.13.0), 1 month ago) - Advanced ANSI style &amp; color support for your terminal applications
 
 #### 🔨 Latest Pull Requests I published
 
-- [docs: clean up discord link](https://github.com/charmbracelet/meta/pull/55) on [charmbracelet/meta](https://github.com/charmbracelet/meta) (today)
-- [docs: update template footer](https://github.com/charmbracelet/meta/pull/54) on [charmbracelet/meta](https://github.com/charmbracelet/meta) (today)
-- [docs: mention BSD releases](https://github.com/charmbracelet/gum/pull/220) on [charmbracelet/gum](https://github.com/charmbracelet/gum) (today)
-- [docs: add Alpine &amp; termux install instructions](https://github.com/charmbracelet/gum/pull/219) on [charmbracelet/gum](https://github.com/charmbracelet/gum) (today)
+- [docs: clean up discord link](https://github.com/charmbracelet/meta/pull/55) on [charmbracelet/meta](https://github.com/charmbracelet/meta) (1 day ago)
+- [docs: update template footer](https://github.com/charmbracelet/meta/pull/54) on [charmbracelet/meta](https://github.com/charmbracelet/meta) (1 day ago)
+- [docs: mention BSD releases](https://github.com/charmbracelet/gum/pull/220) on [charmbracelet/gum](https://github.com/charmbracelet/gum) (1 day ago)
+- [docs: add Alpine &amp; termux install instructions](https://github.com/charmbracelet/gum/pull/219) on [charmbracelet/gum](https://github.com/charmbracelet/gum) (1 day ago)
 
 #### 📜 My recent blog posts
 
@@ -51,8 +51,8 @@ Want your own self-generating profile page? Check out [readme-scribe](https://gi
 
 #### ⭐ Recent stars
 
-- [dylanaraps/pure-sh-bible](https://github.com/dylanaraps/pure-sh-bible) - 📖 A collection of pure POSIX sh alternatives to external processes. (5 days ago)
-- [prusa3d/Original-Prusa-i3](https://github.com/prusa3d/Original-Prusa-i3) - Original Prusa i3 MK2 3D printer printed parts (5 days ago)
+- [dylanaraps/pure-sh-bible](https://github.com/dylanaraps/pure-sh-bible) - 📖 A collection of pure POSIX sh alternatives to external processes. (6 days ago)
+- [prusa3d/Original-Prusa-i3](https://github.com/prusa3d/Original-Prusa-i3) - Original Prusa i3 MK2 3D printer printed parts (6 days ago)
 - [bensadeh/tailspin](https://github.com/bensadeh/tailspin) - 🌀 A log file highlighter and a drop-in replacement for `tail -f` (1 week ago)
 - [bensadeh/circumflex](https://github.com/bensadeh/circumflex) - 🌿 It&#39;s Hacker News in your terminal (1 week ago)
 - [cristofercruz/gbp-esp-shield-pcb](https://github.com/cristofercruz/gbp-esp-shield-pcb) - Game Boy Printer interface shield for D1 mini/mini Pro ESP8266 boards. (1 week ago)
