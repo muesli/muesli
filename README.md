@@ -12,11 +12,11 @@ Want your own self-generating profile page? Check out [readme-scribe](https://gi
 
 #### 👷 Check out what I'm currently working on
 
-- [charmbracelet/gum](https://github.com/charmbracelet/gum) - A tool for glamorous shell scripts 🎀 (today)
-- [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) - A powerful little TUI framework 🏗 (1 day ago)
-- [charmbracelet/meta](https://github.com/charmbracelet/meta) - Charm&#39;s meta configuration files 🫥 (1 day ago)
-- [charmbracelet/glamour](https://github.com/charmbracelet/glamour) - Stylesheet-based markdown rendering for your CLI apps 💇🏻‍♀️ (1 week ago)
-- [charmbracelet/lipgloss](https://github.com/charmbracelet/lipgloss) - Style definitions for nice terminal layouts 👄 (2 weeks ago)
+- [charmbracelet/harmonica](https://github.com/charmbracelet/harmonica) - A simple, physics-based animation library 🎼 (today)
+- [charmbracelet/wish](https://github.com/charmbracelet/wish) - Make SSH apps, just like that! 💫 (today)
+- [charmbracelet/bubbles](https://github.com/charmbracelet/bubbles) - TUI components for Bubble Tea 🫧 (today)
+- [charmbracelet/keygen](https://github.com/charmbracelet/keygen) - An SSH key pair generator 🗝️ (today)
+- [charmbracelet/wishlist](https://github.com/charmbracelet/wishlist) - The SSH directory ✨ (today)
 
 #### 🌱 My latest projects
 
@@ -36,11 +36,11 @@ Want your own self-generating profile page? Check out [readme-scribe](https://gi
 
 #### 🔨 Latest Pull Requests I published
 
-- [docs: new readme footer](https://github.com/charmbracelet/keygen/pull/6) on [charmbracelet/keygen](https://github.com/charmbracelet/keygen) (today)
-- [docs: new readme footer](https://github.com/charmbracelet/glow/pull/396) on [charmbracelet/glow](https://github.com/charmbracelet/glow) (today)
-- [docs: new readme footer](https://github.com/charmbracelet/lipgloss/pull/152) on [charmbracelet/lipgloss](https://github.com/charmbracelet/lipgloss) (today)
-- [docs: new readme footer](https://github.com/charmbracelet/skate/pull/56) on [charmbracelet/skate](https://github.com/charmbracelet/skate) (today)
-- [docs: new readme footer](https://github.com/charmbracelet/melt/pull/34) on [charmbracelet/melt](https://github.com/charmbracelet/melt) (today)
+- [docs: new readme footer](https://github.com/charmbracelet/glamour/pull/199) on [charmbracelet/glamour](https://github.com/charmbracelet/glamour) (today)
+- [docs: new readme footer](https://github.com/charmbracelet/catwalk/pull/3) on [charmbracelet/catwalk](https://github.com/charmbracelet/catwalk) (today)
+- [docs: new readme footer](https://github.com/charmbracelet/confettysh/pull/7) on [charmbracelet/confettysh](https://github.com/charmbracelet/confettysh) (today)
+- [docs: new readme footer](https://github.com/charmbracelet/kancli/pull/5) on [charmbracelet/kancli](https://github.com/charmbracelet/kancli) (today)
+- [docs: new readme footer](https://github.com/charmbracelet/soft-serve/pull/174) on [charmbracelet/soft-serve](https://github.com/charmbracelet/soft-serve) (today)
 
 #### 📜 My recent blog posts
 
