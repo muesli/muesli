@@ -12,11 +12,11 @@ Want your own self-generating profile page? Check out [readme-scribe](https://gi
 
 #### 👷 Check out what I'm currently working on
 
-- [charmbracelet/harmonica](https://github.com/charmbracelet/harmonica) - A simple, physics-based animation library 🎼 (today)
-- [charmbracelet/wish](https://github.com/charmbracelet/wish) - Make SSH apps, just like that! 💫 (today)
+- [charmbracelet/meta](https://github.com/charmbracelet/meta) - Charm&#39;s meta configuration files 🫥 (today)
 - [charmbracelet/bubbles](https://github.com/charmbracelet/bubbles) - TUI components for Bubble Tea 🫧 (today)
-- [charmbracelet/catwalk](https://github.com/charmbracelet/catwalk) - Open source 3D models from Charm 🧸 (today)
-- [charmbracelet/wishlist](https://github.com/charmbracelet/wishlist) - The SSH directory ✨ (today)
+- [charmbracelet/gum](https://github.com/charmbracelet/gum) - A tool for glamorous shell scripts 🎀 (today)
+- [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) - A powerful little TUI framework 🏗 (today)
+- [charmbracelet/soft-serve](https://github.com/charmbracelet/soft-serve) - A tasty, self-hostable Git server for the command line🍦 (1 day ago)
 
 #### 🌱 My latest projects
 
@@ -28,19 +28,18 @@ Want your own self-generating profile page? Check out [readme-scribe](https://gi
 
 #### 🔭 Latest releases I've contributed to
 
-- [minio/mc](https://github.com/minio/mc) ([RELEASE.2022-10-22T03-39-29Z](https://github.com/minio/mc/releases/tag/RELEASE.2022-10-22T03-39-29Z), today) - MinIO Client is a replacement for ls, cp, mkdir, diff and rsync commands for filesystems and object storage.
-- [charmbracelet/wishlist](https://github.com/charmbracelet/wishlist) ([v0.8.0](https://github.com/charmbracelet/wishlist/releases/tag/v0.8.0), today) - The SSH directory ✨
-- [charmbracelet/wish](https://github.com/charmbracelet/wish) ([v0.6.0](https://github.com/charmbracelet/wish/releases/tag/v0.6.0), today) - Make SSH apps, just like that! 💫
-- [sn4k3/UVtools](https://github.com/sn4k3/UVtools) ([v3.7.2](https://github.com/sn4k3/UVtools/releases/tag/v3.7.2), 4 days ago) - MSLA/DLP, file analysis, calibration, repair, conversion and manipulation
-- [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) ([v1.12.3](https://github.com/goreleaser/goreleaser/releases/tag/v1.12.3), 4 days ago) - Deliver Go binaries as fast and easily as possible
+- [minio/mc](https://github.com/minio/mc) ([RELEASE.2022-10-22T03-39-29Z](https://github.com/minio/mc/releases/tag/RELEASE.2022-10-22T03-39-29Z), 1 day ago) - MinIO Client is a replacement for ls, cp, mkdir, diff and rsync commands for filesystems and object storage.
+- [charmbracelet/wishlist](https://github.com/charmbracelet/wishlist) ([v0.8.0](https://github.com/charmbracelet/wishlist/releases/tag/v0.8.0), 1 day ago) - The SSH directory ✨
+- [charmbracelet/wish](https://github.com/charmbracelet/wish) ([v0.6.0](https://github.com/charmbracelet/wish/releases/tag/v0.6.0), 1 day ago) - Make SSH apps, just like that! 💫
+- [sn4k3/UVtools](https://github.com/sn4k3/UVtools) ([v3.7.2](https://github.com/sn4k3/UVtools/releases/tag/v3.7.2), 5 days ago) - MSLA/DLP, file analysis, calibration, repair, conversion and manipulation
+- [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) ([v1.12.3](https://github.com/goreleaser/goreleaser/releases/tag/v1.12.3), 5 days ago) - Deliver Go binaries as fast and easily as possible
 
 #### 🔨 Latest Pull Requests I published
 
-- [docs: picture tag is causing display issues](https://github.com/charmbracelet/meta/pull/57) on [charmbracelet/meta](https://github.com/charmbracelet/meta) (today)
-- [docs: picture tag is causing display issues](https://github.com/charmbracelet/gum/pull/222) on [charmbracelet/gum](https://github.com/charmbracelet/gum) (today)
-- [docs: picture tag is causing display issues](https://github.com/charmbracelet/bubbles/pull/282) on [charmbracelet/bubbles](https://github.com/charmbracelet/bubbles) (today)
-- [docs: picture tag is causing display issues](https://github.com/charmbracelet/bubbletea/pull/575) on [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) (today)
-- [docs: new readme footer](https://github.com/charmbracelet/glamour/pull/199) on [charmbracelet/glamour](https://github.com/charmbracelet/glamour) (today)
+- [docs: clean up readme](https://github.com/charmbracelet/bubbletea/pull/576) on [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) (today)
+- [docs: picture tag is causing display issues](https://github.com/charmbracelet/meta/pull/57) on [charmbracelet/meta](https://github.com/charmbracelet/meta) (1 day ago)
+- [docs: picture tag is causing display issues](https://github.com/charmbracelet/gum/pull/222) on [charmbracelet/gum](https://github.com/charmbracelet/gum) (1 day ago)
+- [docs: picture tag is causing display issues](https://github.com/charmbracelet/bubbles/pull/282) on [charmbracelet/bubbles](https://github.com/charmbracelet/bubbles) (1 day ago)
 
 #### 📜 My recent blog posts
 
@@ -52,8 +51,8 @@ Want your own self-generating profile page? Check out [readme-scribe](https://gi
 
 #### ⭐ Recent stars
 
-- [dylanaraps/pure-sh-bible](https://github.com/dylanaraps/pure-sh-bible) - 📖 A collection of pure POSIX sh alternatives to external processes. (6 days ago)
-- [prusa3d/Original-Prusa-i3](https://github.com/prusa3d/Original-Prusa-i3) - Original Prusa i3 MK2 3D printer printed parts (6 days ago)
+- [dylanaraps/pure-sh-bible](https://github.com/dylanaraps/pure-sh-bible) - 📖 A collection of pure POSIX sh alternatives to external processes. (1 week ago)
+- [prusa3d/Original-Prusa-i3](https://github.com/prusa3d/Original-Prusa-i3) - Original Prusa i3 MK2 3D printer printed parts (1 week ago)
 - [bensadeh/tailspin](https://github.com/bensadeh/tailspin) - 🌀 A log file highlighter and a drop-in replacement for `tail -f` (1 week ago)
 - [bensadeh/circumflex](https://github.com/bensadeh/circumflex) - 🌿 It&#39;s Hacker News in your terminal (1 week ago)
 - [cristofercruz/gbp-esp-shield-pcb](https://github.com/cristofercruz/gbp-esp-shield-pcb) - Game Boy Printer interface shield for D1 mini/mini Pro ESP8266 boards. (1 week ago)
