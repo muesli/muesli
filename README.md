@@ -28,7 +28,7 @@ Want your own self-generating profile page? Check out [readme-scribe](https://gi
 
 #### 🔭 Latest releases I've contributed to
 
-- [charmbracelet/vhs](https://github.com/charmbracelet/vhs) ([v0.0.1](https://github.com/charmbracelet/vhs/releases/tag/v0.0.1), 2 days ago) - Terminal GIFs as code 📼
+- [charmbracelet/vhs](https://github.com/charmbracelet/vhs) ([v0.1.0](https://github.com/charmbracelet/vhs/releases/tag/v0.1.0), today) - Your CLI home video recorder 📼
 - [minio/mc](https://github.com/minio/mc) ([RELEASE.2022-10-22T03-39-29Z](https://github.com/minio/mc/releases/tag/RELEASE.2022-10-22T03-39-29Z), 3 days ago) - MinIO Client is a replacement for ls, cp, mkdir, diff and rsync commands for filesystems and object storage.
 - [charmbracelet/wishlist](https://github.com/charmbracelet/wishlist) ([v0.8.0](https://github.com/charmbracelet/wishlist/releases/tag/v0.8.0), 3 days ago) - The SSH directory ✨
 - [charmbracelet/wish](https://github.com/charmbracelet/wish) ([v0.6.0](https://github.com/charmbracelet/wish/releases/tag/v0.6.0), 3 days ago) - Make SSH apps, just like that! 💫
@@ -52,7 +52,7 @@ Want your own self-generating profile page? Check out [readme-scribe](https://gi
 
 #### ⭐ Recent stars
 
-- [charmbracelet/vhs](https://github.com/charmbracelet/vhs) - Terminal GIFs as code 📼 (today)
+- [charmbracelet/vhs](https://github.com/charmbracelet/vhs) - Your CLI home video recorder 📼 (today)
 - [dylanaraps/pure-sh-bible](https://github.com/dylanaraps/pure-sh-bible) - 📖 A collection of pure POSIX sh alternatives to external processes. (1 week ago)
 - [prusa3d/Original-Prusa-i3](https://github.com/prusa3d/Original-Prusa-i3) - Original Prusa i3 MK2 3D printer printed parts (1 week ago)
 - [bensadeh/tailspin](https://github.com/bensadeh/tailspin) - 🌀 A log file highlighter and a drop-in replacement for `tail -f` (1 week ago)
