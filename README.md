@@ -12,9 +12,9 @@ Want your own self-generating profile page? Check out [readme-scribe](https://gi
 
 #### 👷 Check out what I'm currently working on
 
+- [charmbracelet/vhs](https://github.com/charmbracelet/vhs) - Your CLI home video recorder 📼 (today)
 - [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) - A powerful little TUI framework 🏗 (3 days ago)
 - [charmbracelet/bubbles](https://github.com/charmbracelet/bubbles) - TUI components for Bubble Tea 🫧 (3 days ago)
-- [charmbracelet/glow](https://github.com/charmbracelet/glow) - Render markdown on the CLI, with pizzazz! 💅🏻 (3 days ago)
 - [charmbracelet/meta](https://github.com/charmbracelet/meta) - Charm&#39;s meta configuration files 🫥 (3 days ago)
 - [charmbracelet/gum](https://github.com/charmbracelet/gum) - A tool for glamorous shell scripts 🎀 (3 days ago)
 
@@ -36,11 +36,11 @@ Want your own self-generating profile page? Check out [readme-scribe](https://gi
 
 #### 🔨 Latest Pull Requests I published
 
+- [docs: fix arch install instructions](https://github.com/charmbracelet/vhs/pull/58) on [charmbracelet/vhs](https://github.com/charmbracelet/vhs) (today)
 - [docs: update img alt attributes](https://github.com/charmbracelet/vhs/pull/29) on [charmbracelet/vhs](https://github.com/charmbracelet/vhs) (3 days ago)
 - [docs: update readme footer](https://github.com/charmbracelet/vhs/pull/28) on [charmbracelet/vhs](https://github.com/charmbracelet/vhs) (3 days ago)
 - [docs: clean up readme](https://github.com/charmbracelet/bubbletea/pull/576) on [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) (3 days ago)
 - [docs: picture tag is causing display issues](https://github.com/charmbracelet/meta/pull/57) on [charmbracelet/meta](https://github.com/charmbracelet/meta) (4 days ago)
-- [docs: picture tag is causing display issues](https://github.com/charmbracelet/gum/pull/222) on [charmbracelet/gum](https://github.com/charmbracelet/gum) (4 days ago)
 
 #### 📜 My recent blog posts
 
