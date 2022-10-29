@@ -12,11 +12,11 @@ Want your own self-generating profile page? Check out [readme-scribe](https://gi
 
 #### 👷 Check out what I'm currently working on
 
+- [catppuccin/fzf](https://github.com/catppuccin/fzf) - 🧨 Soothing pastel theme for fzf (today)
 - [charmbracelet/vhs](https://github.com/charmbracelet/vhs) - Your CLI home video recorder 📼 (today)
-- [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) - A powerful little TUI framework 🏗 (4 days ago)
-- [charmbracelet/meta](https://github.com/charmbracelet/meta) - Charm&#39;s meta configuration files 🫥 (4 days ago)
-- [charmbracelet/gum](https://github.com/charmbracelet/gum) - A tool for glamorous shell scripts 🎀 (4 days ago)
 - [charmbracelet/bubbles](https://github.com/charmbracelet/bubbles) - TUI components for Bubble Tea 🫧 (4 days ago)
+- [charmbracelet/glow](https://github.com/charmbracelet/glow) - Render markdown on the CLI, with pizzazz! 💅🏻 (4 days ago)
+- [charmbracelet/meta](https://github.com/charmbracelet/meta) - Charm&#39;s meta configuration files 🫥 (4 days ago)
 
 #### 🌱 My latest projects
 
@@ -36,11 +36,11 @@ Want your own self-generating profile page? Check out [readme-scribe](https://gi
 
 #### 🔨 Latest Pull Requests I published
 
+- [docs: fix asset URLs](https://github.com/catppuccin/fzf/pull/3) on [catppuccin/fzf](https://github.com/catppuccin/fzf) (today)
 - [fix: require ttyd 1.7.2](https://github.com/charmbracelet/vhs/pull/92) on [charmbracelet/vhs](https://github.com/charmbracelet/vhs) (today)
 - [fix: bump minimum required Go version to 1.18](https://github.com/charmbracelet/vhs/pull/84) on [charmbracelet/vhs](https://github.com/charmbracelet/vhs) (1 day ago)
 - [docs: fix arch install instructions](https://github.com/charmbracelet/vhs/pull/58) on [charmbracelet/vhs](https://github.com/charmbracelet/vhs) (1 day ago)
 - [docs: update img alt attributes](https://github.com/charmbracelet/vhs/pull/29) on [charmbracelet/vhs](https://github.com/charmbracelet/vhs) (4 days ago)
-- [docs: update readme footer](https://github.com/charmbracelet/vhs/pull/28) on [charmbracelet/vhs](https://github.com/charmbracelet/vhs) (4 days ago)
 
 #### 📜 My recent blog posts
 
@@ -52,11 +52,11 @@ Want your own self-generating profile page? Check out [readme-scribe](https://gi
 
 #### ⭐ Recent stars
 
+- [catppuccin/sddm](https://github.com/catppuccin/sddm) -  🔒 Soothing pastel theme for SDDM (today)
 - [catppuccin/micro](https://github.com/catppuccin/micro) - 📝 Soothing pastel theme for Micro (today)
 - [catppuccin/catppuccin](https://github.com/catppuccin/catppuccin) - 😸 Soothing pastel theme for the high-spirited! (today)
 - [catppuccin/fish](https://github.com/catppuccin/fish) - 🐟 Soothing pastel theme for the Fish Shell (1 day ago)
 - [catppuccin/konsole](https://github.com/catppuccin/konsole) - 🦚 Soothing pastel theme for Konsole (1 day ago)
-- [catppuccin/kde](https://github.com/catppuccin/kde) - 🌻 Soothing pastel theme for KDE (1 day ago)
 
 #### ❤️ These awesome people sponsor me (thank you!)
 
