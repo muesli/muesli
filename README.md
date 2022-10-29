@@ -12,11 +12,11 @@ Want your own self-generating profile page? Check out [readme-scribe](https://gi
 
 #### 👷 Check out what I'm currently working on
 
-- [charmbracelet/vhs](https://github.com/charmbracelet/vhs) - Your CLI home video recorder 📼 (today)
-- [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) - A powerful little TUI framework 🏗 (3 days ago)
-- [charmbracelet/meta](https://github.com/charmbracelet/meta) - Charm&#39;s meta configuration files 🫥 (3 days ago)
-- [charmbracelet/gum](https://github.com/charmbracelet/gum) - A tool for glamorous shell scripts 🎀 (3 days ago)
-- [charmbracelet/bubbles](https://github.com/charmbracelet/bubbles) - TUI components for Bubble Tea 🫧 (3 days ago)
+- [charmbracelet/vhs](https://github.com/charmbracelet/vhs) - Your CLI home video recorder 📼 (1 day ago)
+- [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) - A powerful little TUI framework 🏗 (4 days ago)
+- [charmbracelet/meta](https://github.com/charmbracelet/meta) - Charm&#39;s meta configuration files 🫥 (4 days ago)
+- [charmbracelet/gum](https://github.com/charmbracelet/gum) - A tool for glamorous shell scripts 🎀 (4 days ago)
+- [charmbracelet/bubbles](https://github.com/charmbracelet/bubbles) - TUI components for Bubble Tea 🫧 (4 days ago)
 
 #### 🌱 My latest projects
 
@@ -28,19 +28,19 @@ Want your own self-generating profile page? Check out [readme-scribe](https://gi
 
 #### 🔭 Latest releases I've contributed to
 
-- [charmbracelet/vhs](https://github.com/charmbracelet/vhs) ([v0.1.1](https://github.com/charmbracelet/vhs/releases/tag/v0.1.1), today) - Your CLI home video recorder 📼
-- [minio/mc](https://github.com/minio/mc) ([RELEASE.2022-10-22T03-39-29Z](https://github.com/minio/mc/releases/tag/RELEASE.2022-10-22T03-39-29Z), 4 days ago) - MinIO Client is a replacement for ls, cp, mkdir, diff and rsync commands for filesystems and object storage.
-- [charmbracelet/wishlist](https://github.com/charmbracelet/wishlist) ([v0.8.0](https://github.com/charmbracelet/wishlist/releases/tag/v0.8.0), 4 days ago) - The SSH directory ✨
-- [charmbracelet/wish](https://github.com/charmbracelet/wish) ([v0.6.0](https://github.com/charmbracelet/wish/releases/tag/v0.6.0), 4 days ago) - Make SSH apps, just like that! 💫
+- [charmbracelet/vhs](https://github.com/charmbracelet/vhs) ([v0.1.1](https://github.com/charmbracelet/vhs/releases/tag/v0.1.1), 1 day ago) - Your CLI home video recorder 📼
+- [minio/mc](https://github.com/minio/mc) ([RELEASE.2022-10-22T03-39-29Z](https://github.com/minio/mc/releases/tag/RELEASE.2022-10-22T03-39-29Z), 5 days ago) - MinIO Client is a replacement for ls, cp, mkdir, diff and rsync commands for filesystems and object storage.
+- [charmbracelet/wishlist](https://github.com/charmbracelet/wishlist) ([v0.8.0](https://github.com/charmbracelet/wishlist/releases/tag/v0.8.0), 5 days ago) - The SSH directory ✨
+- [charmbracelet/wish](https://github.com/charmbracelet/wish) ([v0.6.0](https://github.com/charmbracelet/wish/releases/tag/v0.6.0), 5 days ago) - Make SSH apps, just like that! 💫
 - [sn4k3/UVtools](https://github.com/sn4k3/UVtools) ([v3.7.2](https://github.com/sn4k3/UVtools/releases/tag/v3.7.2), 1 week ago) - MSLA/DLP, file analysis, calibration, repair, conversion and manipulation
 
 #### 🔨 Latest Pull Requests I published
 
-- [fix: bump minimum required Go version to 1.18](https://github.com/charmbracelet/vhs/pull/84) on [charmbracelet/vhs](https://github.com/charmbracelet/vhs) (today)
-- [docs: fix arch install instructions](https://github.com/charmbracelet/vhs/pull/58) on [charmbracelet/vhs](https://github.com/charmbracelet/vhs) (today)
-- [docs: update img alt attributes](https://github.com/charmbracelet/vhs/pull/29) on [charmbracelet/vhs](https://github.com/charmbracelet/vhs) (3 days ago)
-- [docs: update readme footer](https://github.com/charmbracelet/vhs/pull/28) on [charmbracelet/vhs](https://github.com/charmbracelet/vhs) (3 days ago)
-- [docs: clean up readme](https://github.com/charmbracelet/bubbletea/pull/576) on [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) (3 days ago)
+- [fix: bump minimum required Go version to 1.18](https://github.com/charmbracelet/vhs/pull/84) on [charmbracelet/vhs](https://github.com/charmbracelet/vhs) (1 day ago)
+- [docs: fix arch install instructions](https://github.com/charmbracelet/vhs/pull/58) on [charmbracelet/vhs](https://github.com/charmbracelet/vhs) (1 day ago)
+- [docs: update img alt attributes](https://github.com/charmbracelet/vhs/pull/29) on [charmbracelet/vhs](https://github.com/charmbracelet/vhs) (4 days ago)
+- [docs: update readme footer](https://github.com/charmbracelet/vhs/pull/28) on [charmbracelet/vhs](https://github.com/charmbracelet/vhs) (4 days ago)
+- [docs: clean up readme](https://github.com/charmbracelet/bubbletea/pull/576) on [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) (4 days ago)
 
 #### 📜 My recent blog posts
 
@@ -52,11 +52,11 @@ Want your own self-generating profile page? Check out [readme-scribe](https://gi
 
 #### ⭐ Recent stars
 
-- [charmbracelet/vhs](https://github.com/charmbracelet/vhs) - Your CLI home video recorder 📼 (1 day ago)
+- [catppuccin/fish](https://github.com/catppuccin/fish) - 🐟 Soothing pastel theme for the Fish Shell (1 day ago)
+- [catppuccin/konsole](https://github.com/catppuccin/konsole) - 🦚 Soothing pastel theme for Konsole (1 day ago)
+- [catppuccin/kde](https://github.com/catppuccin/kde) - 🌻 Soothing pastel theme for KDE (1 day ago)
+- [charmbracelet/vhs](https://github.com/charmbracelet/vhs) - Your CLI home video recorder 📼 (2 days ago)
 - [dylanaraps/pure-sh-bible](https://github.com/dylanaraps/pure-sh-bible) - 📖 A collection of pure POSIX sh alternatives to external processes. (1 week ago)
-- [prusa3d/Original-Prusa-i3](https://github.com/prusa3d/Original-Prusa-i3) - Original Prusa i3 MK2 3D printer printed parts (1 week ago)
-- [bensadeh/tailspin](https://github.com/bensadeh/tailspin) - 🌀 A log file highlighter and a drop-in replacement for `tail -f` (2 weeks ago)
-- [bensadeh/circumflex](https://github.com/bensadeh/circumflex) - 🌿 It&#39;s Hacker News in your terminal (2 weeks ago)
 
 #### ❤️ These awesome people sponsor me (thank you!)
 
