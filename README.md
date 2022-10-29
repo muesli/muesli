@@ -28,8 +28,8 @@ Want your own self-generating profile page? Check out [readme-scribe](https://gi
 
 #### 🔭 Latest releases I've contributed to
 
+- [minio/mc](https://github.com/minio/mc) ([RELEASE.2022-10-29T10-09-23Z](https://github.com/minio/mc/releases/tag/RELEASE.2022-10-29T10-09-23Z), today) - MinIO Client is a replacement for ls, cp, mkdir, diff and rsync commands for filesystems and object storage.
 - [charmbracelet/vhs](https://github.com/charmbracelet/vhs) ([v0.1.1](https://github.com/charmbracelet/vhs/releases/tag/v0.1.1), 1 day ago) - Your CLI home video recorder 📼
-- [minio/mc](https://github.com/minio/mc) ([RELEASE.2022-10-22T03-39-29Z](https://github.com/minio/mc/releases/tag/RELEASE.2022-10-22T03-39-29Z), 5 days ago) - MinIO Client is a replacement for ls, cp, mkdir, diff and rsync commands for filesystems and object storage.
 - [charmbracelet/wishlist](https://github.com/charmbracelet/wishlist) ([v0.8.0](https://github.com/charmbracelet/wishlist/releases/tag/v0.8.0), 5 days ago) - The SSH directory ✨
 - [charmbracelet/wish](https://github.com/charmbracelet/wish) ([v0.6.0](https://github.com/charmbracelet/wish/releases/tag/v0.6.0), 5 days ago) - Make SSH apps, just like that! 💫
 - [sn4k3/UVtools](https://github.com/sn4k3/UVtools) ([v3.7.2](https://github.com/sn4k3/UVtools/releases/tag/v3.7.2), 1 week ago) - MSLA/DLP, file analysis, calibration, repair, conversion and manipulation
