@@ -12,7 +12,7 @@ Want your own self-generating profile page? Check out [readme-scribe](https://gi
 
 #### 👷 Check out what I'm currently working on
 
-- [charmbracelet/vhs](https://github.com/charmbracelet/vhs) - Your CLI home video recorder 📼 (1 day ago)
+- [charmbracelet/vhs](https://github.com/charmbracelet/vhs) - Your CLI home video recorder 📼 (today)
 - [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) - A powerful little TUI framework 🏗 (4 days ago)
 - [charmbracelet/meta](https://github.com/charmbracelet/meta) - Charm&#39;s meta configuration files 🫥 (4 days ago)
 - [charmbracelet/gum](https://github.com/charmbracelet/gum) - A tool for glamorous shell scripts 🎀 (4 days ago)
@@ -36,11 +36,11 @@ Want your own self-generating profile page? Check out [readme-scribe](https://gi
 
 #### 🔨 Latest Pull Requests I published
 
+- [fix: require ttyd 1.7.2](https://github.com/charmbracelet/vhs/pull/92) on [charmbracelet/vhs](https://github.com/charmbracelet/vhs) (today)
 - [fix: bump minimum required Go version to 1.18](https://github.com/charmbracelet/vhs/pull/84) on [charmbracelet/vhs](https://github.com/charmbracelet/vhs) (1 day ago)
 - [docs: fix arch install instructions](https://github.com/charmbracelet/vhs/pull/58) on [charmbracelet/vhs](https://github.com/charmbracelet/vhs) (1 day ago)
 - [docs: update img alt attributes](https://github.com/charmbracelet/vhs/pull/29) on [charmbracelet/vhs](https://github.com/charmbracelet/vhs) (4 days ago)
 - [docs: update readme footer](https://github.com/charmbracelet/vhs/pull/28) on [charmbracelet/vhs](https://github.com/charmbracelet/vhs) (4 days ago)
-- [docs: clean up readme](https://github.com/charmbracelet/bubbletea/pull/576) on [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) (4 days ago)
 
 #### 📜 My recent blog posts
 
