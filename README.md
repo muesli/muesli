@@ -12,10 +12,10 @@ Want your own self-generating profile page? Check out [readme-scribe](https://gi
 
 #### 👷 Check out what I'm currently working on
 
-- [charmbracelet/vhs](https://github.com/charmbracelet/vhs) - Your CLI home video recorder 📼 (1 day ago)
+- [charmbracelet/vhs](https://github.com/charmbracelet/vhs) - Your CLI home video recorder 📼 (today)
 - [catppuccin/fzf](https://github.com/catppuccin/fzf) - 🧨 Soothing pastel theme for fzf (1 day ago)
-- [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) - A powerful little TUI framework 🏗 (5 days ago)
 - [charmbracelet/meta](https://github.com/charmbracelet/meta) - Charm&#39;s meta configuration files 🫥 (5 days ago)
+- [charmbracelet/bubbles](https://github.com/charmbracelet/bubbles) - TUI components for Bubble Tea 🫧 (5 days ago)
 - [charmbracelet/gum](https://github.com/charmbracelet/gum) - A tool for glamorous shell scripts 🎀 (5 days ago)
 
 #### 🌱 My latest projects
@@ -36,11 +36,11 @@ Want your own self-generating profile page? Check out [readme-scribe](https://gi
 
 #### 🔨 Latest Pull Requests I published
 
+- [chore: add dependabot config](https://github.com/charmbracelet/vhs/pull/101) on [charmbracelet/vhs](https://github.com/charmbracelet/vhs) (today)
+- [fix: don&#39;t print errors twice](https://github.com/charmbracelet/vhs/pull/100) on [charmbracelet/vhs](https://github.com/charmbracelet/vhs) (today)
 - [chore: use a context to control the recording process](https://github.com/charmbracelet/vhs/pull/99) on [charmbracelet/vhs](https://github.com/charmbracelet/vhs) (today)
 - [docs: fix asset URLs](https://github.com/catppuccin/fzf/pull/3) on [catppuccin/fzf](https://github.com/catppuccin/fzf) (1 day ago)
 - [fix: require ttyd 1.7.2](https://github.com/charmbracelet/vhs/pull/92) on [charmbracelet/vhs](https://github.com/charmbracelet/vhs) (1 day ago)
-- [fix: bump minimum required Go version to 1.18](https://github.com/charmbracelet/vhs/pull/84) on [charmbracelet/vhs](https://github.com/charmbracelet/vhs) (2 days ago)
-- [docs: fix arch install instructions](https://github.com/charmbracelet/vhs/pull/58) on [charmbracelet/vhs](https://github.com/charmbracelet/vhs) (2 days ago)
 
 #### 📜 My recent blog posts
 
