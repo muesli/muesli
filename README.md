@@ -12,8 +12,8 @@ Want your own self-generating profile page? Check out [readme-scribe](https://gi
 
 #### 👷 Check out what I'm currently working on
 
+- [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) - A powerful little TUI framework 🏗 (today)
 - [charmbracelet/vhs](https://github.com/charmbracelet/vhs) - Your CLI home video recorder 📼 (1 day ago)
-- [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) - A powerful little TUI framework 🏗 (1 day ago)
 - [Delta456/box-cli-maker](https://github.com/Delta456/box-cli-maker) - Make Highly Customized Boxes for your CLI (1 day ago)
 - [catppuccin/fzf](https://github.com/catppuccin/fzf) - 🧨 Soothing pastel theme for fzf (2 days ago)
 - [charmbracelet/gum](https://github.com/charmbracelet/gum) - A tool for glamorous shell scripts 🎀 (6 days ago)
@@ -36,11 +36,11 @@ Want your own self-generating profile page? Check out [readme-scribe](https://gi
 
 #### 🔨 Latest Pull Requests I published
 
+- [fix: pass actual stdout&#39;s fd to command](https://github.com/charmbracelet/bubbletea/pull/586) on [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) (today)
 - [chore: apply ProgramOptions before checking context](https://github.com/charmbracelet/bubbletea/pull/583) on [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) (1 day ago)
 - [chore: add dependabot config](https://github.com/charmbracelet/vhs/pull/101) on [charmbracelet/vhs](https://github.com/charmbracelet/vhs) (1 day ago)
 - [fix: don&#39;t print errors twice](https://github.com/charmbracelet/vhs/pull/100) on [charmbracelet/vhs](https://github.com/charmbracelet/vhs) (1 day ago)
 - [chore: use a context to control the recording process](https://github.com/charmbracelet/vhs/pull/99) on [charmbracelet/vhs](https://github.com/charmbracelet/vhs) (1 day ago)
-- [docs: fix asset URLs](https://github.com/catppuccin/fzf/pull/3) on [catppuccin/fzf](https://github.com/catppuccin/fzf) (2 days ago)
 
 #### 📜 My recent blog posts
 
