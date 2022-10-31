@@ -52,11 +52,11 @@ Want your own self-generating profile page? Check out [readme-scribe](https://gi
 
 #### ⭐ Recent stars
 
+- [charmbracelet/vhs-action](https://github.com/charmbracelet/vhs-action) - VHS Github Action (today)
 - [catppuccin/sddm](https://github.com/catppuccin/sddm) -  🔒 Soothing pastel theme for SDDM (2 days ago)
 - [catppuccin/micro](https://github.com/catppuccin/micro) - 📝 Soothing pastel theme for Micro (2 days ago)
 - [catppuccin/catppuccin](https://github.com/catppuccin/catppuccin) - 😸 Soothing pastel theme for the high-spirited! (2 days ago)
 - [catppuccin/fish](https://github.com/catppuccin/fish) - 🐟 Soothing pastel theme for the Fish Shell (3 days ago)
-- [catppuccin/konsole](https://github.com/catppuccin/konsole) - 🦚 Soothing pastel theme for Konsole (3 days ago)
 
 #### ❤️ These awesome people sponsor me (thank you!)
 
