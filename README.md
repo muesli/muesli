@@ -12,11 +12,11 @@ Want your own self-generating profile page? Check out [readme-scribe](https://gi
 
 #### 👷 Check out what I'm currently working on
 
+- [muesli/termenv](https://github.com/muesli/termenv) - Advanced ANSI style &amp; color support for your terminal applications (today)
 - [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) - A powerful little TUI framework 🏗 (today)
 - [charmbracelet/vhs](https://github.com/charmbracelet/vhs) - Your CLI home video recorder 📼 (2 days ago)
 - [Delta456/box-cli-maker](https://github.com/Delta456/box-cli-maker) - Make Highly Customized Boxes for your CLI (2 days ago)
 - [catppuccin/fzf](https://github.com/catppuccin/fzf) - 🧨 Soothing pastel theme for fzf (3 days ago)
-- [charmbracelet/gum](https://github.com/charmbracelet/gum) - A tool for glamorous shell scripts 🎀 (1 week ago)
 
 #### 🌱 My latest projects
 
@@ -36,11 +36,11 @@ Want your own self-generating profile page? Check out [readme-scribe](https://gi
 
 #### 🔨 Latest Pull Requests I published
 
+- [chore: rename to Notify for consistency](https://github.com/muesli/termenv/pull/103) on [muesli/termenv](https://github.com/muesli/termenv) (today)
+- [chore: use consts for sequences](https://github.com/muesli/termenv/pull/102) on [muesli/termenv](https://github.com/muesli/termenv) (today)
+- [docs: document Copy method in README](https://github.com/muesli/termenv/pull/101) on [muesli/termenv](https://github.com/muesli/termenv) (today)
+- [docs: put feature matrix in a detail tag](https://github.com/muesli/termenv/pull/100) on [muesli/termenv](https://github.com/muesli/termenv) (today)
 - [feat: add OSC-777 support for system notifications](https://github.com/muesli/termenv/pull/99) on [muesli/termenv](https://github.com/muesli/termenv) (today)
-- [fix: pass actual stdout&#39;s fd to command](https://github.com/charmbracelet/bubbletea/pull/586) on [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) (1 day ago)
-- [chore: apply ProgramOptions before checking context](https://github.com/charmbracelet/bubbletea/pull/583) on [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) (2 days ago)
-- [chore: add dependabot config](https://github.com/charmbracelet/vhs/pull/101) on [charmbracelet/vhs](https://github.com/charmbracelet/vhs) (2 days ago)
-- [fix: don&#39;t print errors twice](https://github.com/charmbracelet/vhs/pull/100) on [charmbracelet/vhs](https://github.com/charmbracelet/vhs) (2 days ago)
 
 #### 📜 My recent blog posts
 
