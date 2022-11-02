@@ -36,11 +36,11 @@ Want your own self-generating profile page? Check out [readme-scribe](https://gi
 
 #### 🔨 Latest Pull Requests I published
 
-- [fix: wait for listener to terminate](https://github.com/charmbracelet/vhs/pull/132) on [charmbracelet/vhs](https://github.com/charmbracelet/vhs) (today)
+- [fix: wait for ssh.Serve to terminate](https://github.com/charmbracelet/soft-serve/pull/180) on [charmbracelet/soft-serve](https://github.com/charmbracelet/soft-serve) (today)
+- [fix: wait for ssh.Serve to terminate](https://github.com/charmbracelet/vhs/pull/132) on [charmbracelet/vhs](https://github.com/charmbracelet/vhs) (today)
 - [fix: never os.Exit, return error](https://github.com/charmbracelet/vhs/pull/131) on [charmbracelet/vhs](https://github.com/charmbracelet/vhs) (today)
 - [fix: never os.Exit, return errors](https://github.com/charmbracelet/vhs/pull/129) on [charmbracelet/vhs](https://github.com/charmbracelet/vhs) (today)
 - [fix: never os.Exit, let the error bubble up the stack](https://github.com/charmbracelet/vhs/pull/128) on [charmbracelet/vhs](https://github.com/charmbracelet/vhs) (1 day ago)
-- [fix: record total frame counter before closing channel](https://github.com/charmbracelet/vhs/pull/127) on [charmbracelet/vhs](https://github.com/charmbracelet/vhs) (1 day ago)
 
 #### 📜 My recent blog posts
 
