@@ -28,11 +28,11 @@ Want your own self-generating profile page? Check out [readme-scribe](https://gi
 
 #### 🔭 Latest releases I've contributed to
 
+- [charmbracelet/melt](https://github.com/charmbracelet/melt) ([v0.5.0](https://github.com/charmbracelet/melt/releases/tag/v0.5.0), today) - 🧊 Backup and restore Ed25519 SSH keys with seed words.
 - [Delta456/box-cli-maker](https://github.com/Delta456/box-cli-maker) ([v2.3.0](https://github.com/Delta456/box-cli-maker/releases/tag/v2.3.0), 3 days ago) - Make Highly Customized Boxes for your CLI
 - [sn4k3/UVtools](https://github.com/sn4k3/UVtools) ([v3.8.0](https://github.com/sn4k3/UVtools/releases/tag/v3.8.0), 4 days ago) - MSLA/DLP, file analysis, calibration, repair, conversion and manipulation
 - [minio/mc](https://github.com/minio/mc) ([RELEASE.2022-10-29T10-09-23Z](https://github.com/minio/mc/releases/tag/RELEASE.2022-10-29T10-09-23Z), 4 days ago) - MinIO Client is a replacement for ls, cp, mkdir, diff and rsync commands for filesystems and object storage.
 - [charmbracelet/vhs](https://github.com/charmbracelet/vhs) ([v0.1.1](https://github.com/charmbracelet/vhs/releases/tag/v0.1.1), 5 days ago) - Your CLI home video recorder 📼
-- [charmbracelet/wishlist](https://github.com/charmbracelet/wishlist) ([v0.8.0](https://github.com/charmbracelet/wishlist/releases/tag/v0.8.0), 1 week ago) - The SSH directory ✨
 
 #### 🔨 Latest Pull Requests I published
 
