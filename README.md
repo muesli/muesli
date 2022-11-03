@@ -12,11 +12,11 @@ Want your own self-generating profile page? Check out [readme-scribe](https://gi
 
 #### 👷 Check out what I'm currently working on
 
-- [charmbracelet/vhs](https://github.com/charmbracelet/vhs) - Your CLI home video recorder 📼 (today)
-- [muesli/termenv](https://github.com/muesli/termenv) - Advanced ANSI style &amp; color support for your terminal applications (1 day ago)
-- [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) - A powerful little TUI framework 🏗 (1 day ago)
-- [Delta456/box-cli-maker](https://github.com/Delta456/box-cli-maker) - Make Highly Customized Boxes for your CLI (3 days ago)
-- [catppuccin/fzf](https://github.com/catppuccin/fzf) - 🧨 Soothing pastel theme for fzf (4 days ago)
+- [charmbracelet/vhs](https://github.com/charmbracelet/vhs) - Your CLI home video recorder 📼 (1 day ago)
+- [muesli/termenv](https://github.com/muesli/termenv) - Advanced ANSI style &amp; color support for your terminal applications (2 days ago)
+- [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) - A powerful little TUI framework 🏗 (2 days ago)
+- [Delta456/box-cli-maker](https://github.com/Delta456/box-cli-maker) - Make Highly Customized Boxes for your CLI (4 days ago)
+- [catppuccin/fzf](https://github.com/catppuccin/fzf) - 🧨 Soothing pastel theme for fzf (5 days ago)
 
 #### 🌱 My latest projects
 
@@ -28,19 +28,19 @@ Want your own self-generating profile page? Check out [readme-scribe](https://gi
 
 #### 🔭 Latest releases I've contributed to
 
-- [charmbracelet/melt](https://github.com/charmbracelet/melt) ([v0.5.0](https://github.com/charmbracelet/melt/releases/tag/v0.5.0), today) - 🧊 Backup and restore Ed25519 SSH keys with seed words.
-- [Delta456/box-cli-maker](https://github.com/Delta456/box-cli-maker) ([v2.3.0](https://github.com/Delta456/box-cli-maker/releases/tag/v2.3.0), 3 days ago) - Make Highly Customized Boxes for your CLI
-- [sn4k3/UVtools](https://github.com/sn4k3/UVtools) ([v3.8.0](https://github.com/sn4k3/UVtools/releases/tag/v3.8.0), 4 days ago) - MSLA/DLP, file analysis, calibration, repair, conversion and manipulation
-- [minio/mc](https://github.com/minio/mc) ([RELEASE.2022-10-29T10-09-23Z](https://github.com/minio/mc/releases/tag/RELEASE.2022-10-29T10-09-23Z), 4 days ago) - MinIO Client is a replacement for ls, cp, mkdir, diff and rsync commands for filesystems and object storage.
-- [charmbracelet/vhs](https://github.com/charmbracelet/vhs) ([v0.1.1](https://github.com/charmbracelet/vhs/releases/tag/v0.1.1), 5 days ago) - Your CLI home video recorder 📼
+- [sn4k3/UVtools](https://github.com/sn4k3/UVtools) ([v3.8.1](https://github.com/sn4k3/UVtools/releases/tag/v3.8.1), 1 day ago) - MSLA/DLP, file analysis, calibration, repair, conversion and manipulation
+- [charmbracelet/melt](https://github.com/charmbracelet/melt) ([v0.5.0](https://github.com/charmbracelet/melt/releases/tag/v0.5.0), 1 day ago) - 🧊 Backup and restore Ed25519 SSH keys with seed words.
+- [Delta456/box-cli-maker](https://github.com/Delta456/box-cli-maker) ([v2.3.0](https://github.com/Delta456/box-cli-maker/releases/tag/v2.3.0), 4 days ago) - Make Highly Customized Boxes for your CLI
+- [minio/mc](https://github.com/minio/mc) ([RELEASE.2022-10-29T10-09-23Z](https://github.com/minio/mc/releases/tag/RELEASE.2022-10-29T10-09-23Z), 5 days ago) - MinIO Client is a replacement for ls, cp, mkdir, diff and rsync commands for filesystems and object storage.
+- [charmbracelet/vhs](https://github.com/charmbracelet/vhs) ([v0.1.1](https://github.com/charmbracelet/vhs/releases/tag/v0.1.1), 6 days ago) - Your CLI home video recorder 📼
 
 #### 🔨 Latest Pull Requests I published
 
-- [fix: wait for ssh.Serve to terminate](https://github.com/charmbracelet/soft-serve/pull/180) on [charmbracelet/soft-serve](https://github.com/charmbracelet/soft-serve) (today)
-- [fix: wait for ssh.Serve to terminate](https://github.com/charmbracelet/vhs/pull/132) on [charmbracelet/vhs](https://github.com/charmbracelet/vhs) (today)
-- [fix: never os.Exit, return error](https://github.com/charmbracelet/vhs/pull/131) on [charmbracelet/vhs](https://github.com/charmbracelet/vhs) (today)
-- [fix: never os.Exit, return errors](https://github.com/charmbracelet/vhs/pull/129) on [charmbracelet/vhs](https://github.com/charmbracelet/vhs) (today)
-- [fix: never os.Exit, let the error bubble up the stack](https://github.com/charmbracelet/vhs/pull/128) on [charmbracelet/vhs](https://github.com/charmbracelet/vhs) (1 day ago)
+- [chore: add dependabot config](https://github.com/muesli/ansi/pull/5) on [muesli/ansi](https://github.com/muesli/ansi) (today)
+- [fix: wait for ssh.Serve to terminate](https://github.com/charmbracelet/soft-serve/pull/180) on [charmbracelet/soft-serve](https://github.com/charmbracelet/soft-serve) (1 day ago)
+- [fix: wait for ssh.Serve to terminate](https://github.com/charmbracelet/vhs/pull/132) on [charmbracelet/vhs](https://github.com/charmbracelet/vhs) (1 day ago)
+- [fix: never os.Exit, return error](https://github.com/charmbracelet/vhs/pull/131) on [charmbracelet/vhs](https://github.com/charmbracelet/vhs) (1 day ago)
+- [fix: never os.Exit, return errors](https://github.com/charmbracelet/vhs/pull/129) on [charmbracelet/vhs](https://github.com/charmbracelet/vhs) (1 day ago)
 
 #### 📜 My recent blog posts
 
@@ -52,11 +52,11 @@ Want your own self-generating profile page? Check out [readme-scribe](https://gi
 
 #### ⭐ Recent stars
 
-- [catppuccin/go](https://github.com/catppuccin/go) - 🦫 Soothing pastel library for Go (2 days ago)
-- [charmbracelet/vhs-action](https://github.com/charmbracelet/vhs-action) - Keep your GIFs up to date with VHS &#43; GitHub actions 📽️ (2 days ago)
-- [catppuccin/sddm](https://github.com/catppuccin/sddm) -  🔒 Soothing pastel theme for SDDM (4 days ago)
-- [catppuccin/micro](https://github.com/catppuccin/micro) - 📝 Soothing pastel theme for Micro (4 days ago)
-- [catppuccin/catppuccin](https://github.com/catppuccin/catppuccin) - 😸 Soothing pastel theme for the high-spirited! (4 days ago)
+- [catppuccin/go](https://github.com/catppuccin/go) - 🦫 Soothing pastel library for Go (3 days ago)
+- [charmbracelet/vhs-action](https://github.com/charmbracelet/vhs-action) - Keep your GIFs up to date with VHS &#43; GitHub actions 📽️ (3 days ago)
+- [catppuccin/sddm](https://github.com/catppuccin/sddm) -  🔒 Soothing pastel theme for SDDM (5 days ago)
+- [catppuccin/micro](https://github.com/catppuccin/micro) - 📝 Soothing pastel theme for Micro (5 days ago)
+- [catppuccin/catppuccin](https://github.com/catppuccin/catppuccin) - 😸 Soothing pastel theme for the high-spirited! (5 days ago)
 
 #### ❤️ These awesome people sponsor me (thank you!)
 
