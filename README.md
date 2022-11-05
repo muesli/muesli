@@ -16,7 +16,7 @@ Want your own self-generating profile page? Check out [readme-scribe](https://gi
 - [muesli/ansi](https://github.com/muesli/ansi) - Raw ANSI sequence helpers (2 days ago)
 - [muesli/termenv](https://github.com/muesli/termenv) - Advanced ANSI style &amp; color support for your terminal applications (4 days ago)
 - [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) - A powerful little TUI framework 🏗 (4 days ago)
-- [Delta456/box-cli-maker](https://github.com/Delta456/box-cli-maker) - Make Highly Customized Boxes for your CLI (6 days ago)
+- [Delta456/box-cli-maker](https://github.com/Delta456/box-cli-maker) - Make Highly Customized Boxes for CLI (6 days ago)
 
 #### 🌱 My latest projects
 
@@ -31,7 +31,7 @@ Want your own self-generating profile page? Check out [readme-scribe](https://gi
 - [charmbracelet/soft-serve](https://github.com/charmbracelet/soft-serve) ([v0.4.1](https://github.com/charmbracelet/soft-serve/releases/tag/v0.4.1), 1 day ago) - A tasty, self-hostable Git server for the command line🍦
 - [sn4k3/UVtools](https://github.com/sn4k3/UVtools) ([v3.8.1](https://github.com/sn4k3/UVtools/releases/tag/v3.8.1), 3 days ago) - MSLA/DLP, file analysis, calibration, repair, conversion and manipulation
 - [charmbracelet/melt](https://github.com/charmbracelet/melt) ([v0.5.0](https://github.com/charmbracelet/melt/releases/tag/v0.5.0), 3 days ago) - 🧊 Backup and restore Ed25519 SSH keys with seed words.
-- [Delta456/box-cli-maker](https://github.com/Delta456/box-cli-maker) ([v2.3.0](https://github.com/Delta456/box-cli-maker/releases/tag/v2.3.0), 6 days ago) - Make Highly Customized Boxes for your CLI
+- [Delta456/box-cli-maker](https://github.com/Delta456/box-cli-maker) ([v2.3.0](https://github.com/Delta456/box-cli-maker/releases/tag/v2.3.0), 6 days ago) - Make Highly Customized Boxes for CLI
 - [minio/mc](https://github.com/minio/mc) ([RELEASE.2022-10-29T10-09-23Z](https://github.com/minio/mc/releases/tag/RELEASE.2022-10-29T10-09-23Z), 1 week ago) - MinIO Client is a replacement for ls, cp, mkdir, diff and rsync commands for filesystems and object storage.
 
 #### 🔨 Latest Pull Requests I published
