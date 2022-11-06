@@ -12,11 +12,11 @@ Want your own self-generating profile page? Check out [readme-scribe](https://gi
 
 #### 👷 Check out what I'm currently working on
 
-- [charmbracelet/vhs](https://github.com/charmbracelet/vhs) - Your CLI home video recorder 📼 (1 day ago)
-- [muesli/ansi](https://github.com/muesli/ansi) - Raw ANSI sequence helpers (2 days ago)
-- [muesli/termenv](https://github.com/muesli/termenv) - Advanced ANSI style &amp; color support for your terminal applications (4 days ago)
-- [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) - A powerful little TUI framework 🏗 (4 days ago)
-- [Delta456/box-cli-maker](https://github.com/Delta456/box-cli-maker) - Make Highly Customized Boxes for CLI (6 days ago)
+- [charmbracelet/vhs](https://github.com/charmbracelet/vhs) - Your CLI home video recorder 📼 (2 days ago)
+- [muesli/ansi](https://github.com/muesli/ansi) - Raw ANSI sequence helpers (3 days ago)
+- [muesli/termenv](https://github.com/muesli/termenv) - Advanced ANSI style &amp; color support for your terminal applications (5 days ago)
+- [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) - A powerful little TUI framework 🏗 (5 days ago)
+- [Delta456/box-cli-maker](https://github.com/Delta456/box-cli-maker) - Make Highly Customized Boxes for CLI (1 week ago)
 
 #### 🌱 My latest projects
 
@@ -28,18 +28,18 @@ Want your own self-generating profile page? Check out [readme-scribe](https://gi
 
 #### 🔭 Latest releases I've contributed to
 
-- [sn4k3/UVtools](https://github.com/sn4k3/UVtools) ([v3.8.2](https://github.com/sn4k3/UVtools/releases/tag/v3.8.2), today) - MSLA/DLP, file analysis, calibration, repair, conversion and manipulation
-- [charmbracelet/soft-serve](https://github.com/charmbracelet/soft-serve) ([v0.4.1](https://github.com/charmbracelet/soft-serve/releases/tag/v0.4.1), 1 day ago) - A tasty, self-hostable Git server for the command line🍦
-- [charmbracelet/melt](https://github.com/charmbracelet/melt) ([v0.5.0](https://github.com/charmbracelet/melt/releases/tag/v0.5.0), 3 days ago) - 🧊 Backup and restore Ed25519 SSH keys with seed words.
-- [Delta456/box-cli-maker](https://github.com/Delta456/box-cli-maker) ([v2.3.0](https://github.com/Delta456/box-cli-maker/releases/tag/v2.3.0), 6 days ago) - Make Highly Customized Boxes for CLI
+- [sn4k3/UVtools](https://github.com/sn4k3/UVtools) ([v3.8.2](https://github.com/sn4k3/UVtools/releases/tag/v3.8.2), 1 day ago) - MSLA/DLP, file analysis, calibration, repair, conversion and manipulation
+- [charmbracelet/soft-serve](https://github.com/charmbracelet/soft-serve) ([v0.4.1](https://github.com/charmbracelet/soft-serve/releases/tag/v0.4.1), 2 days ago) - A tasty, self-hostable Git server for the command line🍦
+- [charmbracelet/melt](https://github.com/charmbracelet/melt) ([v0.5.0](https://github.com/charmbracelet/melt/releases/tag/v0.5.0), 4 days ago) - 🧊 Backup and restore Ed25519 SSH keys with seed words.
+- [Delta456/box-cli-maker](https://github.com/Delta456/box-cli-maker) ([v2.3.0](https://github.com/Delta456/box-cli-maker/releases/tag/v2.3.0), 1 week ago) - Make Highly Customized Boxes for CLI
 - [minio/mc](https://github.com/minio/mc) ([RELEASE.2022-10-29T10-09-23Z](https://github.com/minio/mc/releases/tag/RELEASE.2022-10-29T10-09-23Z), 1 week ago) - MinIO Client is a replacement for ls, cp, mkdir, diff and rsync commands for filesystems and object storage.
 
 #### 🔨 Latest Pull Requests I published
 
-- [chore: add dependabot config](https://github.com/muesli/ansi/pull/5) on [muesli/ansi](https://github.com/muesli/ansi) (2 days ago)
-- [fix: wait for ssh.Serve to terminate](https://github.com/charmbracelet/soft-serve/pull/180) on [charmbracelet/soft-serve](https://github.com/charmbracelet/soft-serve) (3 days ago)
-- [fix: wait for ssh.Serve to terminate](https://github.com/charmbracelet/vhs/pull/132) on [charmbracelet/vhs](https://github.com/charmbracelet/vhs) (3 days ago)
-- [fix: never os.Exit, return error](https://github.com/charmbracelet/vhs/pull/131) on [charmbracelet/vhs](https://github.com/charmbracelet/vhs) (3 days ago)
+- [chore: add dependabot config](https://github.com/muesli/ansi/pull/5) on [muesli/ansi](https://github.com/muesli/ansi) (3 days ago)
+- [fix: wait for ssh.Serve to terminate](https://github.com/charmbracelet/soft-serve/pull/180) on [charmbracelet/soft-serve](https://github.com/charmbracelet/soft-serve) (4 days ago)
+- [fix: wait for ssh.Serve to terminate](https://github.com/charmbracelet/vhs/pull/132) on [charmbracelet/vhs](https://github.com/charmbracelet/vhs) (4 days ago)
+- [fix: never os.Exit, return error](https://github.com/charmbracelet/vhs/pull/131) on [charmbracelet/vhs](https://github.com/charmbracelet/vhs) (4 days ago)
 
 #### 📜 My recent blog posts
 
@@ -51,8 +51,8 @@ Want your own self-generating profile page? Check out [readme-scribe](https://gi
 
 #### ⭐ Recent stars
 
-- [catppuccin/go](https://github.com/catppuccin/go) - 🦫 Soothing pastel library for Go (5 days ago)
-- [charmbracelet/vhs-action](https://github.com/charmbracelet/vhs-action) - Keep your GIFs up to date with VHS &#43; GitHub actions 📽️ (5 days ago)
+- [catppuccin/go](https://github.com/catppuccin/go) - 🦫 Soothing pastel library for Go (6 days ago)
+- [charmbracelet/vhs-action](https://github.com/charmbracelet/vhs-action) - Keep your GIFs up to date with VHS &#43; GitHub actions 📽️ (6 days ago)
 - [catppuccin/sddm](https://github.com/catppuccin/sddm) -  🔒 Soothing pastel theme for SDDM (1 week ago)
 - [catppuccin/micro](https://github.com/catppuccin/micro) - 📝 Soothing pastel theme for Micro (1 week ago)
 - [catppuccin/catppuccin](https://github.com/catppuccin/catppuccin) - 😸 Soothing pastel theme for the high-spirited! (1 week ago)
