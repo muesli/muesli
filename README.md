@@ -51,11 +51,11 @@ Want your own self-generating profile page? Check out [readme-scribe](https://gi
 
 #### ⭐ Recent stars
 
+- [rsteube/cast2tape](https://github.com/rsteube/cast2tape) (today)
 - [catppuccin/go](https://github.com/catppuccin/go) - 🦫 Soothing pastel library for Go (6 days ago)
 - [charmbracelet/vhs-action](https://github.com/charmbracelet/vhs-action) - Keep your GIFs up to date with VHS &#43; GitHub actions 📽️ (6 days ago)
 - [catppuccin/sddm](https://github.com/catppuccin/sddm) -  🔒 Soothing pastel theme for SDDM (1 week ago)
 - [catppuccin/micro](https://github.com/catppuccin/micro) - 📝 Soothing pastel theme for Micro (1 week ago)
-- [catppuccin/catppuccin](https://github.com/catppuccin/catppuccin) - 😸 Soothing pastel theme for the high-spirited! (1 week ago)
 
 #### ❤️ These awesome people sponsor me (thank you!)
 
