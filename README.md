@@ -28,11 +28,11 @@ Want your own self-generating profile page? Check out [readme-scribe](https://gi
 
 #### 🔭 Latest releases I've contributed to
 
+- [orlangure/gocovsh](https://github.com/orlangure/gocovsh) ([v0.6.0](https://github.com/orlangure/gocovsh/releases/tag/v0.6.0), today) - Go Coverage in your terminal: a tool for exploring Go Coverage reports from the command line 💻
 - [sn4k3/UVtools](https://github.com/sn4k3/UVtools) ([v3.8.2](https://github.com/sn4k3/UVtools/releases/tag/v3.8.2), 2 days ago) - MSLA/DLP, file analysis, calibration, repair, conversion and manipulation
 - [charmbracelet/soft-serve](https://github.com/charmbracelet/soft-serve) ([v0.4.1](https://github.com/charmbracelet/soft-serve/releases/tag/v0.4.1), 3 days ago) - A tasty, self-hostable Git server for the command line🍦
 - [charmbracelet/melt](https://github.com/charmbracelet/melt) ([v0.5.0](https://github.com/charmbracelet/melt/releases/tag/v0.5.0), 5 days ago) - 🧊 Backup and restore Ed25519 SSH keys with seed words.
 - [Delta456/box-cli-maker](https://github.com/Delta456/box-cli-maker) ([v2.3.0](https://github.com/Delta456/box-cli-maker/releases/tag/v2.3.0), 1 week ago) - Make Highly Customized Boxes for CLI
-- [minio/mc](https://github.com/minio/mc) ([RELEASE.2022-10-29T10-09-23Z](https://github.com/minio/mc/releases/tag/RELEASE.2022-10-29T10-09-23Z), 1 week ago) - MinIO Client is a replacement for ls, cp, mkdir, diff and rsync commands for filesystems and object storage.
 
 #### 🔨 Latest Pull Requests I published
 
