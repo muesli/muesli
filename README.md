@@ -14,9 +14,9 @@ Want your own self-generating profile page? Check out [readme-scribe](https://gi
 
 - [charmbracelet/vhs](https://github.com/charmbracelet/vhs) - Your CLI home video recorder 📼 (4 days ago)
 - [muesli/ansi](https://github.com/muesli/ansi) - Raw ANSI sequence helpers (5 days ago)
+- [charmbracelet/soft-serve](https://github.com/charmbracelet/soft-serve) - A tasty, self-hostable Git server for the command line🍦 (6 days ago)
 - [muesli/termenv](https://github.com/muesli/termenv) - Advanced ANSI style &amp; color support for your terminal applications (1 week ago)
 - [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) - A powerful little TUI framework 🏗 (1 week ago)
-- [Delta456/box-cli-maker](https://github.com/Delta456/box-cli-maker) - Make Highly Customized Boxes for CLI (1 week ago)
 
 #### 🌱 My latest projects
 
@@ -59,11 +59,11 @@ Want your own self-generating profile page? Check out [readme-scribe](https://gi
 
 #### ❤️ These awesome people sponsor me (thank you!)
 
+- [indeedeng](https://github.com/indeedeng) (today)
 - [icco](https://github.com/icco) (2 months ago)
 - [SimonWaldherr](https://github.com/SimonWaldherr) (3 months ago)
 - [twpayne](https://github.com/twpayne) (9 months ago)
 - [nkpremices](https://github.com/nkpremices) (1 year ago)
-- [crazy-max](https://github.com/crazy-max) (1 year ago)
 
 #### 💬 Feedback
 
