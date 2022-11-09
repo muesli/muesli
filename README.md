@@ -12,9 +12,9 @@ Want your own self-generating profile page? Check out [readme-scribe](https://gi
 
 #### 👷 Check out what I'm currently working on
 
-- [charmbracelet/vhs](https://github.com/charmbracelet/vhs) - Your CLI home video recorder 📼 (4 days ago)
-- [muesli/ansi](https://github.com/muesli/ansi) - Raw ANSI sequence helpers (5 days ago)
-- [charmbracelet/soft-serve](https://github.com/charmbracelet/soft-serve) - A tasty, self-hostable Git server for the command line🍦 (6 days ago)
+- [charmbracelet/vhs](https://github.com/charmbracelet/vhs) - Your CLI home video recorder 📼 (5 days ago)
+- [muesli/ansi](https://github.com/muesli/ansi) - Raw ANSI sequence helpers (6 days ago)
+- [charmbracelet/soft-serve](https://github.com/charmbracelet/soft-serve) - A tasty, self-hostable Git server for the command line🍦 (1 week ago)
 - [muesli/termenv](https://github.com/muesli/termenv) - Advanced ANSI style &amp; color support for your terminal applications (1 week ago)
 - [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) - A powerful little TUI framework 🏗 (1 week ago)
 
@@ -28,18 +28,18 @@ Want your own self-generating profile page? Check out [readme-scribe](https://gi
 
 #### 🔭 Latest releases I've contributed to
 
-- [caarlos0/tasktimer](https://github.com/caarlos0/tasktimer) ([v1.11.0](https://github.com/caarlos0/tasktimer/releases/tag/v1.11.0), today) - Task Timer (tt) is a dead simple TUI task timer
-- [minio/mc](https://github.com/minio/mc) ([RELEASE.2022-11-07T23-47-39Z](https://github.com/minio/mc/releases/tag/RELEASE.2022-11-07T23-47-39Z), today) - MinIO Client is a replacement for ls, cp, mkdir, diff and rsync commands for filesystems and object storage.
-- [orlangure/gocovsh](https://github.com/orlangure/gocovsh) ([v0.6.0](https://github.com/orlangure/gocovsh/releases/tag/v0.6.0), 1 day ago) - Go Coverage in your terminal: a tool for exploring Go Coverage reports from the command line 💻
-- [sn4k3/UVtools](https://github.com/sn4k3/UVtools) ([v3.8.2](https://github.com/sn4k3/UVtools/releases/tag/v3.8.2), 3 days ago) - MSLA/DLP, file analysis, calibration, repair, conversion and manipulation
-- [charmbracelet/soft-serve](https://github.com/charmbracelet/soft-serve) ([v0.4.1](https://github.com/charmbracelet/soft-serve/releases/tag/v0.4.1), 4 days ago) - A tasty, self-hostable Git server for the command line🍦
+- [caarlos0/tasktimer](https://github.com/caarlos0/tasktimer) ([v1.11.0](https://github.com/caarlos0/tasktimer/releases/tag/v1.11.0), 1 day ago) - Task Timer (tt) is a dead simple TUI task timer
+- [minio/mc](https://github.com/minio/mc) ([RELEASE.2022-11-07T23-47-39Z](https://github.com/minio/mc/releases/tag/RELEASE.2022-11-07T23-47-39Z), 1 day ago) - MinIO Client is a replacement for ls, cp, mkdir, diff and rsync commands for filesystems and object storage.
+- [orlangure/gocovsh](https://github.com/orlangure/gocovsh) ([v0.6.0](https://github.com/orlangure/gocovsh/releases/tag/v0.6.0), 2 days ago) - Go Coverage in your terminal: a tool for exploring Go Coverage reports from the command line 💻
+- [sn4k3/UVtools](https://github.com/sn4k3/UVtools) ([v3.8.2](https://github.com/sn4k3/UVtools/releases/tag/v3.8.2), 4 days ago) - MSLA/DLP, file analysis, calibration, repair, conversion and manipulation
+- [charmbracelet/soft-serve](https://github.com/charmbracelet/soft-serve) ([v0.4.1](https://github.com/charmbracelet/soft-serve/releases/tag/v0.4.1), 5 days ago) - A tasty, self-hostable Git server for the command line🍦
 
 #### 🔨 Latest Pull Requests I published
 
-- [chore: add dependabot config](https://github.com/muesli/ansi/pull/5) on [muesli/ansi](https://github.com/muesli/ansi) (5 days ago)
-- [fix: wait for ssh.Serve to terminate](https://github.com/charmbracelet/soft-serve/pull/180) on [charmbracelet/soft-serve](https://github.com/charmbracelet/soft-serve) (6 days ago)
-- [fix: wait for ssh.Serve to terminate](https://github.com/charmbracelet/vhs/pull/132) on [charmbracelet/vhs](https://github.com/charmbracelet/vhs) (6 days ago)
-- [fix: never os.Exit, return error](https://github.com/charmbracelet/vhs/pull/131) on [charmbracelet/vhs](https://github.com/charmbracelet/vhs) (6 days ago)
+- [chore: add dependabot config](https://github.com/muesli/ansi/pull/5) on [muesli/ansi](https://github.com/muesli/ansi) (6 days ago)
+- [fix: wait for ssh.Serve to terminate](https://github.com/charmbracelet/soft-serve/pull/180) on [charmbracelet/soft-serve](https://github.com/charmbracelet/soft-serve) (1 week ago)
+- [fix: wait for ssh.Serve to terminate](https://github.com/charmbracelet/vhs/pull/132) on [charmbracelet/vhs](https://github.com/charmbracelet/vhs) (1 week ago)
+- [fix: never os.Exit, return error](https://github.com/charmbracelet/vhs/pull/131) on [charmbracelet/vhs](https://github.com/charmbracelet/vhs) (1 week ago)
 
 #### 📜 My recent blog posts
 
@@ -51,7 +51,7 @@ Want your own self-generating profile page? Check out [readme-scribe](https://gi
 
 #### ⭐ Recent stars
 
-- [rsteube/cast2tape](https://github.com/rsteube/cast2tape) (2 days ago)
+- [rsteube/cast2tape](https://github.com/rsteube/cast2tape) (3 days ago)
 - [catppuccin/go](https://github.com/catppuccin/go) - 🦫 Soothing pastel library for Go (1 week ago)
 - [charmbracelet/vhs-action](https://github.com/charmbracelet/vhs-action) - Keep your GIFs up to date with VHS &#43; GitHub actions 📽️ (1 week ago)
 - [catppuccin/sddm](https://github.com/catppuccin/sddm) -  🔒 Soothing pastel theme for SDDM (1 week ago)
@@ -59,7 +59,7 @@ Want your own self-generating profile page? Check out [readme-scribe](https://gi
 
 #### ❤️ These awesome people sponsor me (thank you!)
 
-- [indeedeng](https://github.com/indeedeng) (today)
+- [indeedeng](https://github.com/indeedeng) (1 day ago)
 - [icco](https://github.com/icco) (2 months ago)
 - [SimonWaldherr](https://github.com/SimonWaldherr) (3 months ago)
 - [twpayne](https://github.com/twpayne) (9 months ago)
