@@ -28,11 +28,11 @@ Want your own self-generating profile page? Check out [readme-scribe](https://gi
 
 #### 🔭 Latest releases I've contributed to
 
+- [sn4k3/UVtools](https://github.com/sn4k3/UVtools) ([v3.8.3](https://github.com/sn4k3/UVtools/releases/tag/v3.8.3), today) - MSLA/DLP, file analysis, calibration, repair, conversion and manipulation
 - [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) ([v0.23.0](https://github.com/charmbracelet/bubbletea/releases/tag/v0.23.0), 1 day ago) - A powerful little TUI framework 🏗
 - [charmbracelet/glamour](https://github.com/charmbracelet/glamour) ([v0.6.0](https://github.com/charmbracelet/glamour/releases/tag/v0.6.0), 1 day ago) - Stylesheet-based markdown rendering for your CLI apps 💇🏻‍♀️
 - [caarlos0/tasktimer](https://github.com/caarlos0/tasktimer) ([v1.11.0](https://github.com/caarlos0/tasktimer/releases/tag/v1.11.0), 2 days ago) - Task Timer (tt) is a dead simple TUI task timer
 - [minio/mc](https://github.com/minio/mc) ([RELEASE.2022-11-07T23-47-39Z](https://github.com/minio/mc/releases/tag/RELEASE.2022-11-07T23-47-39Z), 2 days ago) - MinIO Client is a replacement for ls, cp, mkdir, diff and rsync commands for filesystems and object storage.
-- [orlangure/gocovsh](https://github.com/orlangure/gocovsh) ([v0.6.0](https://github.com/orlangure/gocovsh/releases/tag/v0.6.0), 3 days ago) - Go Coverage in your terminal: a tool for exploring Go Coverage reports from the command line 💻
 
 #### 🔨 Latest Pull Requests I published
 
