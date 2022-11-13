@@ -12,11 +12,11 @@ Want your own self-generating profile page? Check out [readme-scribe](https://gi
 
 #### 👷 Check out what I'm currently working on
 
+- [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) - A powerful little TUI framework 🏗 (today)
 - [charmbracelet/vhs](https://github.com/charmbracelet/vhs) - Your CLI home video recorder 📼 (1 week ago)
 - [muesli/ansi](https://github.com/muesli/ansi) - Raw ANSI sequence helpers (1 week ago)
 - [charmbracelet/soft-serve](https://github.com/charmbracelet/soft-serve) - A tasty, self-hostable Git server for the command line🍦 (1 week ago)
 - [muesli/termenv](https://github.com/muesli/termenv) - Advanced ANSI style &amp; color support for your terminal applications (1 week ago)
-- [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) - A powerful little TUI framework 🏗 (1 week ago)
 
 #### 🌱 My latest projects
 
@@ -36,10 +36,10 @@ Want your own self-generating profile page? Check out [readme-scribe](https://gi
 
 #### 🔨 Latest Pull Requests I published
 
+- [fix: don&#39;t close stdin](https://github.com/charmbracelet/bubbletea/pull/598) on [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) (today)
 - [chore: add dependabot config](https://github.com/muesli/ansi/pull/5) on [muesli/ansi](https://github.com/muesli/ansi) (1 week ago)
 - [fix: wait for ssh.Serve to terminate](https://github.com/charmbracelet/soft-serve/pull/180) on [charmbracelet/soft-serve](https://github.com/charmbracelet/soft-serve) (1 week ago)
 - [fix: wait for ssh.Serve to terminate](https://github.com/charmbracelet/vhs/pull/132) on [charmbracelet/vhs](https://github.com/charmbracelet/vhs) (1 week ago)
-- [fix: never os.Exit, return error](https://github.com/charmbracelet/vhs/pull/131) on [charmbracelet/vhs](https://github.com/charmbracelet/vhs) (1 week ago)
 
 #### 📜 My recent blog posts
 
