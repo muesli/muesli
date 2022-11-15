@@ -28,8 +28,8 @@ Want your own self-generating profile page? Check out [readme-scribe](https://gi
 
 #### 🔭 Latest releases I've contributed to
 
+- [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) ([v0.23.1](https://github.com/charmbracelet/bubbletea/releases/tag/v0.23.1), today) - A powerful little TUI framework 🏗
 - [sn4k3/UVtools](https://github.com/sn4k3/UVtools) ([v3.8.3](https://github.com/sn4k3/UVtools/releases/tag/v3.8.3), 5 days ago) - MSLA/DLP, file analysis, calibration, repair, conversion and manipulation
-- [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) ([v0.23.0](https://github.com/charmbracelet/bubbletea/releases/tag/v0.23.0), 6 days ago) - A powerful little TUI framework 🏗
 - [charmbracelet/glamour](https://github.com/charmbracelet/glamour) ([v0.6.0](https://github.com/charmbracelet/glamour/releases/tag/v0.6.0), 6 days ago) - Stylesheet-based markdown rendering for your CLI apps 💇🏻‍♀️
 - [caarlos0/tasktimer](https://github.com/caarlos0/tasktimer) ([v1.11.0](https://github.com/caarlos0/tasktimer/releases/tag/v1.11.0), 1 week ago) - Task Timer (tt) is a dead simple TUI task timer
 - [minio/mc](https://github.com/minio/mc) ([RELEASE.2022-11-07T23-47-39Z](https://github.com/minio/mc/releases/tag/RELEASE.2022-11-07T23-47-39Z), 1 week ago) - MinIO Client is a replacement for ls, cp, mkdir, diff and rsync commands for filesystems and object storage.
