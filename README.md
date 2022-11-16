@@ -12,11 +12,11 @@ Want your own self-generating profile page? Check out [readme-scribe](https://gi
 
 #### 👷 Check out what I'm currently working on
 
-- [muesli/mastotool](https://github.com/muesli/mastotool) - A collection of command-line tools to work with your Mastodon account (today)
-- [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) - A powerful little TUI framework 🏗 (2 days ago)
+- [muesli/mastotool](https://github.com/muesli/mastotool) - A collection of command-line tools to work with your Mastodon account (1 day ago)
+- [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) - A powerful little TUI framework 🏗 (3 days ago)
 - [charmbracelet/vhs](https://github.com/charmbracelet/vhs) - Your CLI home video recorder 📼 (1 week ago)
 - [muesli/ansi](https://github.com/muesli/ansi) - Raw ANSI sequence helpers (1 week ago)
-- [charmbracelet/soft-serve](https://github.com/charmbracelet/soft-serve) - A tasty, self-hostable Git server for the command line🍦 (1 week ago)
+- [charmbracelet/soft-serve](https://github.com/charmbracelet/soft-serve) - A tasty, self-hostable Git server for the command line🍦 (2 weeks ago)
 
 #### 🌱 My latest projects
 
@@ -28,18 +28,18 @@ Want your own self-generating profile page? Check out [readme-scribe](https://gi
 
 #### 🔭 Latest releases I've contributed to
 
-- [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) ([v0.23.1](https://github.com/charmbracelet/bubbletea/releases/tag/v0.23.1), today) - A powerful little TUI framework 🏗
-- [sn4k3/UVtools](https://github.com/sn4k3/UVtools) ([v3.8.3](https://github.com/sn4k3/UVtools/releases/tag/v3.8.3), 5 days ago) - MSLA/DLP, file analysis, calibration, repair, conversion and manipulation
-- [charmbracelet/glamour](https://github.com/charmbracelet/glamour) ([v0.6.0](https://github.com/charmbracelet/glamour/releases/tag/v0.6.0), 6 days ago) - Stylesheet-based markdown rendering for your CLI apps 💇🏻‍♀️
+- [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) ([v0.23.1](https://github.com/charmbracelet/bubbletea/releases/tag/v0.23.1), 1 day ago) - A powerful little TUI framework 🏗
+- [sn4k3/UVtools](https://github.com/sn4k3/UVtools) ([v3.8.3](https://github.com/sn4k3/UVtools/releases/tag/v3.8.3), 6 days ago) - MSLA/DLP, file analysis, calibration, repair, conversion and manipulation
+- [charmbracelet/glamour](https://github.com/charmbracelet/glamour) ([v0.6.0](https://github.com/charmbracelet/glamour/releases/tag/v0.6.0), 1 week ago) - Stylesheet-based markdown rendering for your CLI apps 💇🏻‍♀️
 - [caarlos0/tasktimer](https://github.com/caarlos0/tasktimer) ([v1.11.0](https://github.com/caarlos0/tasktimer/releases/tag/v1.11.0), 1 week ago) - Task Timer (tt) is a dead simple TUI task timer
 - [minio/mc](https://github.com/minio/mc) ([RELEASE.2022-11-07T23-47-39Z](https://github.com/minio/mc/releases/tag/RELEASE.2022-11-07T23-47-39Z), 1 week ago) - MinIO Client is a replacement for ls, cp, mkdir, diff and rsync commands for filesystems and object storage.
 
 #### 🔨 Latest Pull Requests I published
 
-- [ci: add linters](https://github.com/muesli/mastotool/pull/18) on [muesli/mastotool](https://github.com/muesli/mastotool) (today)
-- [chore: add dependabot config](https://github.com/muesli/mastotool/pull/17) on [muesli/mastotool](https://github.com/muesli/mastotool) (today)
-- [fix: don&#39;t close stdin](https://github.com/charmbracelet/bubbletea/pull/598) on [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) (2 days ago)
-- [chore: add dependabot config](https://github.com/muesli/ansi/pull/5) on [muesli/ansi](https://github.com/muesli/ansi) (1 week ago)
+- [fix: initialize list with model](https://github.com/orlangure/gocovsh/pull/40) on [orlangure/gocovsh](https://github.com/orlangure/gocovsh) (today)
+- [ci: add linters](https://github.com/muesli/mastotool/pull/18) on [muesli/mastotool](https://github.com/muesli/mastotool) (1 day ago)
+- [chore: add dependabot config](https://github.com/muesli/mastotool/pull/17) on [muesli/mastotool](https://github.com/muesli/mastotool) (1 day ago)
+- [fix: don&#39;t close stdin](https://github.com/charmbracelet/bubbletea/pull/598) on [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) (3 days ago)
 
 #### 📜 My recent blog posts
 
