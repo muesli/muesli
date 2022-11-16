@@ -12,11 +12,11 @@ Want your own self-generating profile page? Check out [readme-scribe](https://gi
 
 #### 👷 Check out what I'm currently working on
 
+- [muesli/markscribe](https://github.com/muesli/markscribe) - Your personal markdown scribe with template-engine and Git(Hub) &amp; RSS powers 📜 (today)
 - [muesli/mastotool](https://github.com/muesli/mastotool) - A collection of command-line tools to work with your Mastodon account (1 day ago)
 - [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) - A powerful little TUI framework 🏗 (3 days ago)
 - [charmbracelet/vhs](https://github.com/charmbracelet/vhs) - Your CLI home video recorder 📼 (1 week ago)
 - [muesli/ansi](https://github.com/muesli/ansi) - Raw ANSI sequence helpers (1 week ago)
-- [charmbracelet/soft-serve](https://github.com/charmbracelet/soft-serve) - A tasty, self-hostable Git server for the command line🍦 (2 weeks ago)
 
 #### 🌱 My latest projects
 
@@ -36,10 +36,11 @@ Want your own self-generating profile page? Check out [readme-scribe](https://gi
 
 #### 🔨 Latest Pull Requests I published
 
+- [chore: add dependabot config](https://github.com/muesli/markscribe/pull/55) on [muesli/markscribe](https://github.com/muesli/markscribe) (today)
+- [fix: make linter happy](https://github.com/muesli/markscribe/pull/54) on [muesli/markscribe](https://github.com/muesli/markscribe) (today)
+- [chore: bump Go dep to 1.16](https://github.com/muesli/markscribe/pull/53) on [muesli/markscribe](https://github.com/muesli/markscribe) (today)
 - [fix: initialize list with model](https://github.com/orlangure/gocovsh/pull/40) on [orlangure/gocovsh](https://github.com/orlangure/gocovsh) (today)
 - [ci: add linters](https://github.com/muesli/mastotool/pull/18) on [muesli/mastotool](https://github.com/muesli/mastotool) (1 day ago)
-- [chore: add dependabot config](https://github.com/muesli/mastotool/pull/17) on [muesli/mastotool](https://github.com/muesli/mastotool) (1 day ago)
-- [fix: don&#39;t close stdin](https://github.com/charmbracelet/bubbletea/pull/598) on [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) (3 days ago)
 
 #### 📜 My recent blog posts
 
