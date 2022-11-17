@@ -12,11 +12,11 @@ Want your own self-generating profile page? Check out [readme-scribe](https://gi
 
 #### 👷 Check out what I'm currently working on
 
-- [muesli/markscribe](https://github.com/muesli/markscribe) - Your personal markdown scribe with template-engine and Git(Hub) &amp; RSS powers 📜 (today)
-- [muesli/mastotool](https://github.com/muesli/mastotool) - A collection of command-line tools to work with your Mastodon account (1 day ago)
-- [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) - A powerful little TUI framework 🏗 (3 days ago)
+- [muesli/markscribe](https://github.com/muesli/markscribe) - Your personal markdown scribe with template-engine and Git(Hub) &amp; RSS powers 📜 (1 day ago)
+- [muesli/mastotool](https://github.com/muesli/mastotool) - A collection of command-line tools to work with your Mastodon account (2 days ago)
+- [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) - A powerful little TUI framework 🏗 (4 days ago)
 - [charmbracelet/vhs](https://github.com/charmbracelet/vhs) - Your CLI home video recorder 📼 (1 week ago)
-- [muesli/ansi](https://github.com/muesli/ansi) - Raw ANSI sequence helpers (1 week ago)
+- [muesli/ansi](https://github.com/muesli/ansi) - Raw ANSI sequence helpers (2 weeks ago)
 
 #### 🌱 My latest projects
 
@@ -28,19 +28,19 @@ Want your own self-generating profile page? Check out [readme-scribe](https://gi
 
 #### 🔭 Latest releases I've contributed to
 
-- [charmbracelet/wish](https://github.com/charmbracelet/wish) ([v0.7.0](https://github.com/charmbracelet/wish/releases/tag/v0.7.0), today) - Make SSH apps, just like that! 💫
-- [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) ([v0.23.1](https://github.com/charmbracelet/bubbletea/releases/tag/v0.23.1), 1 day ago) - A powerful little TUI framework 🏗
-- [sn4k3/UVtools](https://github.com/sn4k3/UVtools) ([v3.8.3](https://github.com/sn4k3/UVtools/releases/tag/v3.8.3), 6 days ago) - MSLA/DLP, file analysis, calibration, repair, conversion and manipulation
+- [charmbracelet/wish](https://github.com/charmbracelet/wish) ([v0.7.0](https://github.com/charmbracelet/wish/releases/tag/v0.7.0), 1 day ago) - Make SSH apps, just like that! 💫
+- [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) ([v0.23.1](https://github.com/charmbracelet/bubbletea/releases/tag/v0.23.1), 2 days ago) - A powerful little TUI framework 🏗
+- [sn4k3/UVtools](https://github.com/sn4k3/UVtools) ([v3.8.3](https://github.com/sn4k3/UVtools/releases/tag/v3.8.3), 1 week ago) - MSLA/DLP, file analysis, calibration, repair, conversion and manipulation
 - [charmbracelet/glamour](https://github.com/charmbracelet/glamour) ([v0.6.0](https://github.com/charmbracelet/glamour/releases/tag/v0.6.0), 1 week ago) - Stylesheet-based markdown rendering for your CLI apps 💇🏻‍♀️
 - [caarlos0/tasktimer](https://github.com/caarlos0/tasktimer) ([v1.11.0](https://github.com/caarlos0/tasktimer/releases/tag/v1.11.0), 1 week ago) - Task Timer (tt) is a dead simple TUI task timer
 
 #### 🔨 Latest Pull Requests I published
 
-- [chore: add dependabot config](https://github.com/muesli/markscribe/pull/55) on [muesli/markscribe](https://github.com/muesli/markscribe) (today)
-- [fix: make linter happy](https://github.com/muesli/markscribe/pull/54) on [muesli/markscribe](https://github.com/muesli/markscribe) (today)
-- [chore: bump Go dep to 1.16](https://github.com/muesli/markscribe/pull/53) on [muesli/markscribe](https://github.com/muesli/markscribe) (today)
-- [fix: initialize list with model](https://github.com/orlangure/gocovsh/pull/40) on [orlangure/gocovsh](https://github.com/orlangure/gocovsh) (today)
-- [ci: add linters](https://github.com/muesli/mastotool/pull/18) on [muesli/mastotool](https://github.com/muesli/mastotool) (1 day ago)
+- [chore: add dependabot config](https://github.com/muesli/markscribe/pull/55) on [muesli/markscribe](https://github.com/muesli/markscribe) (1 day ago)
+- [fix: make linter happy](https://github.com/muesli/markscribe/pull/54) on [muesli/markscribe](https://github.com/muesli/markscribe) (1 day ago)
+- [chore: bump Go dep to 1.16](https://github.com/muesli/markscribe/pull/53) on [muesli/markscribe](https://github.com/muesli/markscribe) (1 day ago)
+- [fix: initialize list with model](https://github.com/orlangure/gocovsh/pull/40) on [orlangure/gocovsh](https://github.com/orlangure/gocovsh) (1 day ago)
+- [ci: add linters](https://github.com/muesli/mastotool/pull/18) on [muesli/mastotool](https://github.com/muesli/mastotool) (2 days ago)
 
 #### 📜 My recent blog posts
 
@@ -52,7 +52,7 @@ Want your own self-generating profile page? Check out [readme-scribe](https://gi
 
 #### ⭐ Recent stars
 
-- [siddhantac/puffin](https://github.com/siddhantac/puffin) - A simple Go TUI to manage personal finances (using hledger) (today)
+- [siddhantac/puffin](https://github.com/siddhantac/puffin) - A simple Go TUI to manage personal finances (using hledger) (1 day ago)
 - [rsteube/cast2tape](https://github.com/rsteube/cast2tape) (1 week ago)
 - [catppuccin/go](https://github.com/catppuccin/go) - 🦫 Soothing pastel library for Go (2 weeks ago)
 - [charmbracelet/vhs-action](https://github.com/charmbracelet/vhs-action) - Keep your GIFs up to date with VHS &#43; GitHub actions 📽️ (2 weeks ago)
@@ -63,7 +63,7 @@ Want your own self-generating profile page? Check out [readme-scribe](https://gi
 - [indeedeng](https://github.com/indeedeng) (1 week ago)
 - [icco](https://github.com/icco) (2 months ago)
 - [SimonWaldherr](https://github.com/SimonWaldherr) (3 months ago)
-- [twpayne](https://github.com/twpayne) (9 months ago)
+- [twpayne](https://github.com/twpayne) (10 months ago)
 - [nkpremices](https://github.com/nkpremices) (1 year ago)
 
 #### 💬 Feedback
