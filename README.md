@@ -60,11 +60,11 @@ Want your own self-generating profile page? Check out [readme-scribe](https://gi
 
 #### ❤️ These awesome people sponsor me (thank you!)
 
+- [sonr-io](https://github.com/sonr-io) (today)
 - [indeedeng](https://github.com/indeedeng) (1 week ago)
 - [icco](https://github.com/icco) (2 months ago)
 - [SimonWaldherr](https://github.com/SimonWaldherr) (3 months ago)
 - [twpayne](https://github.com/twpayne) (10 months ago)
-- [nkpremices](https://github.com/nkpremices) (1 year ago)
 
 #### 💬 Feedback
 
