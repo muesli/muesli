@@ -28,11 +28,11 @@ Want your own self-generating profile page? Check out [readme-scribe](https://gi
 
 #### 🔭 Latest releases I've contributed to
 
+- [minio/mc](https://github.com/minio/mc) ([RELEASE.2022-11-17T21-20-39Z](https://github.com/minio/mc/releases/tag/RELEASE.2022-11-17T21-20-39Z), today) - MinIO Client is a replacement for ls, cp, mkdir, diff and rsync commands for filesystems and object storage.
 - [charmbracelet/soft-serve](https://github.com/charmbracelet/soft-serve) ([v0.4.4](https://github.com/charmbracelet/soft-serve/releases/tag/v0.4.4), 1 day ago) - A tasty, self-hostable Git server for the command line🍦
 - [orlangure/gocovsh](https://github.com/orlangure/gocovsh) ([v0.6.1](https://github.com/orlangure/gocovsh/releases/tag/v0.6.1), 1 day ago) - Go Coverage in your terminal: a tool for exploring Go Coverage reports from the command line 💻
 - [charmbracelet/wish](https://github.com/charmbracelet/wish) ([v0.7.0](https://github.com/charmbracelet/wish/releases/tag/v0.7.0), 2 days ago) - Make SSH apps, just like that! 💫
 - [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) ([v0.23.1](https://github.com/charmbracelet/bubbletea/releases/tag/v0.23.1), 3 days ago) - A powerful little TUI framework 🏗
-- [sn4k3/UVtools](https://github.com/sn4k3/UVtools) ([v3.8.3](https://github.com/sn4k3/UVtools/releases/tag/v3.8.3), 1 week ago) - MSLA/DLP, file analysis, calibration, repair, conversion and manipulation
 
 #### 🔨 Latest Pull Requests I published
 
