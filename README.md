@@ -52,11 +52,11 @@ Want your own self-generating profile page? Check out [readme-scribe](https://gi
 
 #### ⭐ Recent stars
 
-- [siddhantac/puffin](https://github.com/siddhantac/puffin) - A simple Go TUI to manage personal finances (using hledger) (3 days ago)
-- [rsteube/cast2tape](https://github.com/rsteube/cast2tape) (1 week ago)
-- [catppuccin/go](https://github.com/catppuccin/go) - 🦫 Soothing pastel library for Go (2 weeks ago)
-- [charmbracelet/vhs-action](https://github.com/charmbracelet/vhs-action) - Keep your GIFs up to date with VHS &#43; GitHub actions 📽️ (2 weeks ago)
-- [catppuccin/sddm](https://github.com/catppuccin/sddm) -  🔒 Soothing pastel theme for SDDM (3 weeks ago)
+- [catppuccin/github](https://github.com/catppuccin/github) - 🐈‍⬛ Soothing pastel theme for GitHub (today)
+- [catppuccin/discord](https://github.com/catppuccin/discord) - 🎮 Soothing pastel theme for Discord (today)
+- [catppuccin/slack](https://github.com/catppuccin/slack) - 💼 Soothing pastel theme for Slack (today)
+- [catppuccin/fzf](https://github.com/catppuccin/fzf) - 🧨 Soothing pastel theme for fzf (today)
+- [catppuccin/glamour](https://github.com/catppuccin/glamour) - 📂 Soothing pastel theme for Glamour (today)
 
 #### ❤️ These awesome people sponsor me (thank you!)
 
