@@ -12,11 +12,11 @@ Want your own self-generating profile page? Check out [readme-scribe](https://gi
 
 #### 👷 Check out what I'm currently working on
 
-- [charmbracelet/charm](https://github.com/charmbracelet/charm) - The Charm Tool and Library 🌟 (5 days ago)
-- [charmbracelet/soft-serve](https://github.com/charmbracelet/soft-serve) - A tasty, self-hostable Git server for the command line🍦 (5 days ago)
-- [charmbracelet/wishlist](https://github.com/charmbracelet/wishlist) - The SSH directory ✨ (5 days ago)
-- [charmbracelet/lipgloss](https://github.com/charmbracelet/lipgloss) - Style definitions for nice terminal layouts 👄 (5 days ago)
-- [charmbracelet/skate](https://github.com/charmbracelet/skate) - A personal key value store 🛼 (5 days ago)
+- [charmbracelet/charm](https://github.com/charmbracelet/charm) - The Charm Tool and Library 🌟 (6 days ago)
+- [charmbracelet/soft-serve](https://github.com/charmbracelet/soft-serve) - A tasty, self-hostable Git server for the command line🍦 (6 days ago)
+- [charmbracelet/wishlist](https://github.com/charmbracelet/wishlist) - The SSH directory ✨ (6 days ago)
+- [charmbracelet/lipgloss](https://github.com/charmbracelet/lipgloss) - Style definitions for nice terminal layouts 👄 (6 days ago)
+- [charmbracelet/skate](https://github.com/charmbracelet/skate) - A personal key value store 🛼 (6 days ago)
 
 #### 🌱 My latest projects
 
@@ -28,16 +28,16 @@ Want your own self-generating profile page? Check out [readme-scribe](https://gi
 
 #### 🔭 Latest releases I've contributed to
 
-- [charmbracelet/vhs](https://github.com/charmbracelet/vhs) ([v0.2.0](https://github.com/charmbracelet/vhs/releases/tag/v0.2.0), 1 day ago) - Your CLI home video recorder 📼
-- [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) ([v1.13.0](https://github.com/goreleaser/goreleaser/releases/tag/v1.13.0), 3 days ago) - Deliver Go binaries as fast and easily as possible
-- [minio/mc](https://github.com/minio/mc) ([RELEASE.2022-11-17T21-20-39Z](https://github.com/minio/mc/releases/tag/RELEASE.2022-11-17T21-20-39Z), 5 days ago) - MinIO Client is a replacement for ls, cp, mkdir, diff and rsync commands for filesystems and object storage.
-- [charmbracelet/soft-serve](https://github.com/charmbracelet/soft-serve) ([v0.4.4](https://github.com/charmbracelet/soft-serve/releases/tag/v0.4.4), 6 days ago) - A tasty, self-hostable Git server for the command line🍦
-- [orlangure/gocovsh](https://github.com/orlangure/gocovsh) ([v0.6.1](https://github.com/orlangure/gocovsh/releases/tag/v0.6.1), 6 days ago) - Go Coverage in your terminal: a tool for exploring Go Coverage reports from the command line 💻
+- [charmbracelet/vhs](https://github.com/charmbracelet/vhs) ([v0.2.0](https://github.com/charmbracelet/vhs/releases/tag/v0.2.0), 2 days ago) - Your CLI home video recorder 📼
+- [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) ([v1.13.0](https://github.com/goreleaser/goreleaser/releases/tag/v1.13.0), 4 days ago) - Deliver Go binaries as fast and easily as possible
+- [minio/mc](https://github.com/minio/mc) ([RELEASE.2022-11-17T21-20-39Z](https://github.com/minio/mc/releases/tag/RELEASE.2022-11-17T21-20-39Z), 6 days ago) - MinIO Client is a replacement for ls, cp, mkdir, diff and rsync commands for filesystems and object storage.
+- [charmbracelet/soft-serve](https://github.com/charmbracelet/soft-serve) ([v0.4.4](https://github.com/charmbracelet/soft-serve/releases/tag/v0.4.4), 1 week ago) - A tasty, self-hostable Git server for the command line🍦
+- [orlangure/gocovsh](https://github.com/orlangure/gocovsh) ([v0.6.1](https://github.com/orlangure/gocovsh/releases/tag/v0.6.1), 1 week ago) - Go Coverage in your terminal: a tool for exploring Go Coverage reports from the command line 💻
 
 #### 🔨 Latest Pull Requests I published
 
-- [chore: disable dependabot timer](https://github.com/charmbracelet/bubbletea/pull/608) on [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) (5 days ago)
-- [chore: disable dependabot timer](https://github.com/charmbracelet/glow/pull/419) on [charmbracelet/glow](https://github.com/charmbracelet/glow) (5 days ago)
+- [chore: disable dependabot timer](https://github.com/charmbracelet/bubbletea/pull/608) on [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) (6 days ago)
+- [chore: disable dependabot timer](https://github.com/charmbracelet/glow/pull/419) on [charmbracelet/glow](https://github.com/charmbracelet/glow) (6 days ago)
 - [chore: add dependabot config](https://github.com/muesli/markscribe/pull/55) on [muesli/markscribe](https://github.com/muesli/markscribe) (1 week ago)
 - [fix: make linter happy](https://github.com/muesli/markscribe/pull/54) on [muesli/markscribe](https://github.com/muesli/markscribe) (1 week ago)
 - [chore: bump Go dep to 1.16](https://github.com/muesli/markscribe/pull/53) on [muesli/markscribe](https://github.com/muesli/markscribe) (1 week ago)
@@ -52,15 +52,15 @@ Want your own self-generating profile page? Check out [readme-scribe](https://gi
 
 #### ⭐ Recent stars
 
-- [catppuccin/github](https://github.com/catppuccin/github) - 🐈‍⬛ Soothing pastel theme for GitHub (4 days ago)
-- [catppuccin/discord](https://github.com/catppuccin/discord) - 🎮 Soothing pastel theme for Discord (4 days ago)
-- [catppuccin/slack](https://github.com/catppuccin/slack) - 💼 Soothing pastel theme for Slack (4 days ago)
-- [catppuccin/fzf](https://github.com/catppuccin/fzf) - 🧨 Soothing pastel theme for fzf (4 days ago)
-- [catppuccin/glamour](https://github.com/catppuccin/glamour) - 📂 Soothing pastel theme for Glamour (4 days ago)
+- [catppuccin/github](https://github.com/catppuccin/github) - 🐈‍⬛ Soothing pastel theme for GitHub (5 days ago)
+- [catppuccin/discord](https://github.com/catppuccin/discord) - 🎮 Soothing pastel theme for Discord (5 days ago)
+- [catppuccin/slack](https://github.com/catppuccin/slack) - 💼 Soothing pastel theme for Slack (5 days ago)
+- [catppuccin/fzf](https://github.com/catppuccin/fzf) - 🧨 Soothing pastel theme for fzf (5 days ago)
+- [catppuccin/glamour](https://github.com/catppuccin/glamour) - 📂 Soothing pastel theme for Glamour (5 days ago)
 
 #### ❤️ These awesome people sponsor me (thank you!)
 
-- [sonr-io](https://github.com/sonr-io) (5 days ago)
+- [sonr-io](https://github.com/sonr-io) (6 days ago)
 - [indeedeng](https://github.com/indeedeng) (2 weeks ago)
 - [icco](https://github.com/icco) (3 months ago)
 - [SimonWaldherr](https://github.com/SimonWaldherr) (3 months ago)
