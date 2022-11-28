@@ -52,11 +52,11 @@ Want your own self-generating profile page? Check out [readme-scribe](https://gi
 
 #### ⭐ Recent stars
 
+- [drwhut/tabletop-club](https://github.com/drwhut/tabletop-club) - An open-source platform for playing tabletop games in a physics-based 3D environment for Windows, macOS, and Linux! Made with the Godot Engine. (today)
 - [catppuccin/github](https://github.com/catppuccin/github) - 🐈‍⬛ Soothing pastel theme for GitHub (1 week ago)
 - [catppuccin/discord](https://github.com/catppuccin/discord) - 🎮 Soothing pastel theme for Discord (1 week ago)
 - [catppuccin/slack](https://github.com/catppuccin/slack) - 💼 Soothing pastel theme for Slack (1 week ago)
 - [catppuccin/fzf](https://github.com/catppuccin/fzf) - 🧨 Soothing pastel theme for fzf (1 week ago)
-- [catppuccin/glamour](https://github.com/catppuccin/glamour) - 📂 Soothing pastel theme for Glamour (1 week ago)
 
 #### ❤️ These awesome people sponsor me (thank you!)
 
