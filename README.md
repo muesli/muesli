@@ -28,7 +28,7 @@ Want your own self-generating profile page? Check out [readme-scribe](https://gi
 
 #### 🔭 Latest releases I've contributed to
 
-- [charmbracelet/vhs](https://github.com/charmbracelet/vhs) ([v0.2.0](https://github.com/charmbracelet/vhs/releases/tag/v0.2.0), 5 days ago) - Your CLI home video recorder 📼
+- [charmbracelet/vhs](https://github.com/charmbracelet/vhs) ([v0.2.0](https://github.com/charmbracelet/vhs/releases/tag/v0.2.0), 6 days ago) - Your CLI home video recorder 📼
 - [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) ([v1.13.0](https://github.com/goreleaser/goreleaser/releases/tag/v1.13.0), 1 week ago) - Deliver Go binaries as fast and easily as possible
 - [minio/mc](https://github.com/minio/mc) ([RELEASE.2022-11-17T21-20-39Z](https://github.com/minio/mc/releases/tag/RELEASE.2022-11-17T21-20-39Z), 1 week ago) - MinIO Client is a replacement for ls, cp, mkdir, diff and rsync commands for filesystems and object storage.
 - [charmbracelet/soft-serve](https://github.com/charmbracelet/soft-serve) ([v0.4.4](https://github.com/charmbracelet/soft-serve/releases/tag/v0.4.4), 1 week ago) - A tasty, self-hostable Git server for the command line🍦
