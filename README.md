@@ -28,7 +28,7 @@ Want your own self-generating profile page? Check out [readme-scribe](https://gi
 
 #### 🔭 Latest releases I've contributed to
 
-- [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) ([v1.13.1](https://github.com/goreleaser/goreleaser/releases/tag/v1.13.1), today) - Deliver Go binaries as fast and easily as possible
+- [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) ([v1.13.1](https://github.com/goreleaser/goreleaser/releases/tag/v1.13.1), 1 day ago) - Deliver Go binaries as fast and easily as possible
 - [charmbracelet/vhs](https://github.com/charmbracelet/vhs) ([v0.2.0](https://github.com/charmbracelet/vhs/releases/tag/v0.2.0), 1 week ago) - Your CLI home video recorder 📼
 - [minio/mc](https://github.com/minio/mc) ([RELEASE.2022-11-17T21-20-39Z](https://github.com/minio/mc/releases/tag/RELEASE.2022-11-17T21-20-39Z), 1 week ago) - MinIO Client is a replacement for ls, cp, mkdir, diff and rsync commands for filesystems and object storage.
 - [charmbracelet/soft-serve](https://github.com/charmbracelet/soft-serve) ([v0.4.4](https://github.com/charmbracelet/soft-serve/releases/tag/v0.4.4), 1 week ago) - A tasty, self-hostable Git server for the command line🍦
@@ -38,9 +38,9 @@ Want your own self-generating profile page? Check out [readme-scribe](https://gi
 
 - [chore: disable dependabot timer](https://github.com/charmbracelet/bubbletea/pull/608) on [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) (1 week ago)
 - [chore: disable dependabot timer](https://github.com/charmbracelet/glow/pull/419) on [charmbracelet/glow](https://github.com/charmbracelet/glow) (1 week ago)
-- [chore: add dependabot config](https://github.com/muesli/markscribe/pull/55) on [muesli/markscribe](https://github.com/muesli/markscribe) (1 week ago)
-- [fix: make linter happy](https://github.com/muesli/markscribe/pull/54) on [muesli/markscribe](https://github.com/muesli/markscribe) (1 week ago)
-- [chore: bump Go dep to 1.16](https://github.com/muesli/markscribe/pull/53) on [muesli/markscribe](https://github.com/muesli/markscribe) (1 week ago)
+- [chore: add dependabot config](https://github.com/muesli/markscribe/pull/55) on [muesli/markscribe](https://github.com/muesli/markscribe) (2 weeks ago)
+- [fix: make linter happy](https://github.com/muesli/markscribe/pull/54) on [muesli/markscribe](https://github.com/muesli/markscribe) (2 weeks ago)
+- [chore: bump Go dep to 1.16](https://github.com/muesli/markscribe/pull/53) on [muesli/markscribe](https://github.com/muesli/markscribe) (2 weeks ago)
 
 #### 📜 My recent blog posts
 
@@ -52,8 +52,8 @@ Want your own self-generating profile page? Check out [readme-scribe](https://gi
 
 #### ⭐ Recent stars
 
-- [cedricblondeau/world-cup-2022-cli-dashboard](https://github.com/cedricblondeau/world-cup-2022-cli-dashboard) - Watch live World Cup 2022 matches in your terminal. ⚽🏆 (today)
-- [drwhut/tabletop-club](https://github.com/drwhut/tabletop-club) - An open-source platform for playing tabletop games in a physics-based 3D environment for Windows, macOS, and Linux! Made with the Godot Engine. (1 day ago)
+- [cedricblondeau/world-cup-2022-cli-dashboard](https://github.com/cedricblondeau/world-cup-2022-cli-dashboard) - Watch live World Cup 2022 matches in your terminal. ⚽🏆 (1 day ago)
+- [drwhut/tabletop-club](https://github.com/drwhut/tabletop-club) - An open-source platform for playing tabletop games in a physics-based 3D environment for Windows, macOS, and Linux! Made with the Godot Engine. (2 days ago)
 - [catppuccin/github](https://github.com/catppuccin/github) - 🐈‍⬛ Soothing pastel theme for GitHub (1 week ago)
 - [catppuccin/discord](https://github.com/catppuccin/discord) - 🎮 Soothing pastel theme for Discord (1 week ago)
 - [catppuccin/slack](https://github.com/catppuccin/slack) - 💼 Soothing pastel theme for Slack (1 week ago)
