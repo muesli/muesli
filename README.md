@@ -28,11 +28,11 @@ Want your own self-generating profile page? Check out [readme-scribe](https://gi
 
 #### 🔭 Latest releases I've contributed to
 
+- [go-git/go-git](https://github.com/go-git/go-git) ([v5.5.0](https://github.com/go-git/go-git/releases/tag/v5.5.0), today) - A highly extensible Git implementation in pure Go.
 - [sn4k3/UVtools](https://github.com/sn4k3/UVtools) ([v3.9.0](https://github.com/sn4k3/UVtools/releases/tag/v3.9.0), 1 day ago) - MSLA/DLP, file analysis, calibration, repair, conversion and manipulation
 - [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) ([v1.13.1](https://github.com/goreleaser/goreleaser/releases/tag/v1.13.1), 3 days ago) - Deliver Go binaries as fast and easily as possible
 - [charmbracelet/vhs](https://github.com/charmbracelet/vhs) ([v0.2.0](https://github.com/charmbracelet/vhs/releases/tag/v0.2.0), 1 week ago) - Your CLI home video recorder 📼
 - [minio/mc](https://github.com/minio/mc) ([RELEASE.2022-11-17T21-20-39Z](https://github.com/minio/mc/releases/tag/RELEASE.2022-11-17T21-20-39Z), 2 weeks ago) - MinIO Client is a replacement for ls, cp, mkdir, diff and rsync commands for filesystems and object storage.
-- [charmbracelet/soft-serve](https://github.com/charmbracelet/soft-serve) ([v0.4.4](https://github.com/charmbracelet/soft-serve/releases/tag/v0.4.4), 2 weeks ago) - A tasty, self-hostable Git server for the command line🍦
 
 #### 🔨 Latest Pull Requests I published
 
