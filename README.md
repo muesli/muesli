@@ -28,11 +28,11 @@ Want your own self-generating profile page? Check out [readme-scribe](https://gi
 
 #### 🔭 Latest releases I've contributed to
 
-- [sn4k3/UVtools](https://github.com/sn4k3/UVtools) ([v3.9.1](https://github.com/sn4k3/UVtools/releases/tag/v3.9.1), 2 days ago) - MSLA/DLP, file analysis, calibration, repair, conversion and manipulation
-- [minio/mc](https://github.com/minio/mc) ([RELEASE.2022-12-02T23-48-47Z](https://github.com/minio/mc/releases/tag/RELEASE.2022-12-02T23-48-47Z), 2 days ago) - MinIO Client is a replacement for ls, cp, mkdir, diff and rsync commands for filesystems and object storage.
-- [go-git/go-git](https://github.com/go-git/go-git) ([v5.5.0](https://github.com/go-git/go-git/releases/tag/v5.5.0), 3 days ago) - A highly extensible Git implementation in pure Go.
-- [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) ([v1.13.1](https://github.com/goreleaser/goreleaser/releases/tag/v1.13.1), 6 days ago) - Deliver Go binaries as fast and easily as possible
-- [charmbracelet/vhs](https://github.com/charmbracelet/vhs) ([v0.2.0](https://github.com/charmbracelet/vhs/releases/tag/v0.2.0), 1 week ago) - Your CLI home video recorder 📼
+- [sn4k3/UVtools](https://github.com/sn4k3/UVtools) ([v3.9.1](https://github.com/sn4k3/UVtools/releases/tag/v3.9.1), 3 days ago) - MSLA/DLP, file analysis, calibration, repair, conversion and manipulation
+- [minio/mc](https://github.com/minio/mc) ([RELEASE.2022-12-02T23-48-47Z](https://github.com/minio/mc/releases/tag/RELEASE.2022-12-02T23-48-47Z), 3 days ago) - MinIO Client is a replacement for ls, cp, mkdir, diff and rsync commands for filesystems and object storage.
+- [go-git/go-git](https://github.com/go-git/go-git) ([v5.5.0](https://github.com/go-git/go-git/releases/tag/v5.5.0), 4 days ago) - A highly extensible Git implementation in pure Go.
+- [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) ([v1.13.1](https://github.com/goreleaser/goreleaser/releases/tag/v1.13.1), 1 week ago) - Deliver Go binaries as fast and easily as possible
+- [charmbracelet/vhs](https://github.com/charmbracelet/vhs) ([v0.2.0](https://github.com/charmbracelet/vhs/releases/tag/v0.2.0), 2 weeks ago) - Your CLI home video recorder 📼
 
 #### 🔨 Latest Pull Requests I published
 
@@ -52,7 +52,7 @@ Want your own self-generating profile page? Check out [readme-scribe](https://gi
 
 #### ⭐ Recent stars
 
-- [cedricblondeau/world-cup-2022-cli-dashboard](https://github.com/cedricblondeau/world-cup-2022-cli-dashboard) - Watch live World Cup 2022 matches in your terminal. ⚽🏆 (6 days ago)
+- [cedricblondeau/world-cup-2022-cli-dashboard](https://github.com/cedricblondeau/world-cup-2022-cli-dashboard) - Watch live World Cup 2022 matches in your terminal. ⚽🏆 (1 week ago)
 - [drwhut/tabletop-club](https://github.com/drwhut/tabletop-club) - An open-source platform for playing tabletop games in a physics-based 3D environment for Windows, macOS, and Linux! Made with the Godot Engine. (1 week ago)
 - [catppuccin/github](https://github.com/catppuccin/github) - 🐈‍⬛ Soothing pastel theme for GitHub (2 weeks ago)
 - [catppuccin/discord](https://github.com/catppuccin/discord) - 🎮 Soothing pastel theme for Discord (2 weeks ago)
@@ -61,7 +61,7 @@ Want your own self-generating profile page? Check out [readme-scribe](https://gi
 #### ❤️ These awesome people sponsor me (thank you!)
 
 - [sonr-io](https://github.com/sonr-io) (2 weeks ago)
-- [indeedeng](https://github.com/indeedeng) (3 weeks ago)
+- [indeedeng](https://github.com/indeedeng) (4 weeks ago)
 - [icco](https://github.com/icco) (3 months ago)
 - [SimonWaldherr](https://github.com/SimonWaldherr) (3 months ago)
 - [twpayne](https://github.com/twpayne) (10 months ago)
