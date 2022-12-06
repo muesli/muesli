@@ -32,7 +32,7 @@ Want your own self-generating profile page? Check out [readme-scribe](https://gi
 - [minio/mc](https://github.com/minio/mc) ([RELEASE.2022-12-02T23-48-47Z](https://github.com/minio/mc/releases/tag/RELEASE.2022-12-02T23-48-47Z), 3 days ago) - MinIO Client is a replacement for ls, cp, mkdir, diff and rsync commands for filesystems and object storage.
 - [go-git/go-git](https://github.com/go-git/go-git) ([v5.5.0](https://github.com/go-git/go-git/releases/tag/v5.5.0), 4 days ago) - A highly extensible Git implementation in pure Go.
 - [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) ([v1.13.1](https://github.com/goreleaser/goreleaser/releases/tag/v1.13.1), 1 week ago) - Deliver Go binaries as fast and easily as possible
-- [charmbracelet/vhs](https://github.com/charmbracelet/vhs) ([v0.2.0](https://github.com/charmbracelet/vhs/releases/tag/v0.2.0), 2 weeks ago) - Your CLI home video recorder 📼
+- [charmbracelet/soft-serve](https://github.com/charmbracelet/soft-serve) ([v0.4.4](https://github.com/charmbracelet/soft-serve/releases/tag/v0.4.4), 2 weeks ago) - A tasty, self-hostable Git server for the command line🍦
 
 #### 🔨 Latest Pull Requests I published
 
