@@ -28,11 +28,11 @@ Want your own self-generating profile page? Check out [readme-scribe](https://gi
 
 #### 🔭 Latest releases I've contributed to
 
-- [sn4k3/UVtools](https://github.com/sn4k3/UVtools) ([v3.9.1](https://github.com/sn4k3/UVtools/releases/tag/v3.9.1), 4 days ago) - MSLA/DLP, file analysis, calibration, repair, conversion and manipulation
-- [minio/mc](https://github.com/minio/mc) ([RELEASE.2022-12-02T23-48-47Z](https://github.com/minio/mc/releases/tag/RELEASE.2022-12-02T23-48-47Z), 4 days ago) - MinIO Client is a replacement for ls, cp, mkdir, diff and rsync commands for filesystems and object storage.
-- [go-git/go-git](https://github.com/go-git/go-git) ([v5.5.0](https://github.com/go-git/go-git/releases/tag/v5.5.0), 5 days ago) - A highly extensible Git implementation in pure Go.
+- [sn4k3/UVtools](https://github.com/sn4k3/UVtools) ([v3.9.1](https://github.com/sn4k3/UVtools/releases/tag/v3.9.1), 5 days ago) - MSLA/DLP, file analysis, calibration, repair, conversion and manipulation
+- [minio/mc](https://github.com/minio/mc) ([RELEASE.2022-12-02T23-48-47Z](https://github.com/minio/mc/releases/tag/RELEASE.2022-12-02T23-48-47Z), 5 days ago) - MinIO Client is a replacement for ls, cp, mkdir, diff and rsync commands for filesystems and object storage.
+- [go-git/go-git](https://github.com/go-git/go-git) ([v5.5.0](https://github.com/go-git/go-git/releases/tag/v5.5.0), 6 days ago) - A highly extensible Git implementation in pure Go.
 - [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) ([v1.13.1](https://github.com/goreleaser/goreleaser/releases/tag/v1.13.1), 1 week ago) - Deliver Go binaries as fast and easily as possible
-- [charmbracelet/soft-serve](https://github.com/charmbracelet/soft-serve) ([v0.4.4](https://github.com/charmbracelet/soft-serve/releases/tag/v0.4.4), 2 weeks ago) - A tasty, self-hostable Git server for the command line🍦
+- [charmbracelet/soft-serve](https://github.com/charmbracelet/soft-serve) ([v0.4.4](https://github.com/charmbracelet/soft-serve/releases/tag/v0.4.4), 3 weeks ago) - A tasty, self-hostable Git server for the command line🍦
 
 #### 🔨 Latest Pull Requests I published
 
@@ -61,7 +61,7 @@ Want your own self-generating profile page? Check out [readme-scribe](https://gi
 #### ❤️ These awesome people sponsor me (thank you!)
 
 - [sonr-io](https://github.com/sonr-io) (2 weeks ago)
-- [indeedeng](https://github.com/indeedeng) (4 weeks ago)
+- [indeedeng](https://github.com/indeedeng) (1 month ago)
 - [icco](https://github.com/icco) (3 months ago)
 - [SimonWaldherr](https://github.com/SimonWaldherr) (4 months ago)
 - [twpayne](https://github.com/twpayne) (10 months ago)
