@@ -28,7 +28,7 @@ Want your own self-generating profile page? Check out [readme-scribe](https://gi
 
 #### 🔭 Latest releases I've contributed to
 
-- [sn4k3/UVtools](https://github.com/sn4k3/UVtools) ([v3.9.1](https://github.com/sn4k3/UVtools/releases/tag/v3.9.1), 1 week ago) - MSLA/DLP, file analysis, calibration, repair, conversion and manipulation
+- [sn4k3/UVtools](https://github.com/sn4k3/UVtools) ([v3.9.2](https://github.com/sn4k3/UVtools/releases/tag/v3.9.2), today) - MSLA/DLP, file analysis, calibration, repair, conversion and manipulation
 - [minio/mc](https://github.com/minio/mc) ([RELEASE.2022-12-02T23-48-47Z](https://github.com/minio/mc/releases/tag/RELEASE.2022-12-02T23-48-47Z), 1 week ago) - MinIO Client is a replacement for ls, cp, mkdir, diff and rsync commands for filesystems and object storage.
 - [go-git/go-git](https://github.com/go-git/go-git) ([v5.5.0](https://github.com/go-git/go-git/releases/tag/v5.5.0), 1 week ago) - A highly extensible Git implementation in pure Go.
 - [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) ([v1.13.1](https://github.com/goreleaser/goreleaser/releases/tag/v1.13.1), 1 week ago) - Deliver Go binaries as fast and easily as possible
