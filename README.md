@@ -28,11 +28,11 @@ Want your own self-generating profile page? Check out [readme-scribe](https://gi
 
 #### 🔭 Latest releases I've contributed to
 
-- [minio/mc](https://github.com/minio/mc) ([RELEASE.2022-12-13T00-23-28Z](https://github.com/minio/mc/releases/tag/RELEASE.2022-12-13T00-23-28Z), 1 day ago) - Simple | Fast tool to manage MinIO clusters :cloud:
-- [go-git/go-git](https://github.com/go-git/go-git) ([v5.5.1](https://github.com/go-git/go-git/releases/tag/v5.5.1), 3 days ago) - A highly extensible Git implementation in pure Go.
-- [sn4k3/UVtools](https://github.com/sn4k3/UVtools) ([v3.9.2](https://github.com/sn4k3/UVtools/releases/tag/v3.9.2), 3 days ago) - MSLA/DLP, file analysis, calibration, repair, conversion and manipulation
+- [sn4k3/UVtools](https://github.com/sn4k3/UVtools) ([v3.9.3](https://github.com/sn4k3/UVtools/releases/tag/v3.9.3), 1 day ago) - MSLA/DLP, file analysis, calibration, repair, conversion and manipulation
+- [minio/mc](https://github.com/minio/mc) ([RELEASE.2022-12-13T00-23-28Z](https://github.com/minio/mc/releases/tag/RELEASE.2022-12-13T00-23-28Z), 2 days ago) - Simple | Fast tool to manage MinIO clusters :cloud:
+- [go-git/go-git](https://github.com/go-git/go-git) ([v5.5.1](https://github.com/go-git/go-git/releases/tag/v5.5.1), 4 days ago) - A highly extensible Git implementation in pure Go.
 - [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) ([v1.13.1](https://github.com/goreleaser/goreleaser/releases/tag/v1.13.1), 2 weeks ago) - Deliver Go binaries as fast and easily as possible
-- [charmbracelet/soft-serve](https://github.com/charmbracelet/soft-serve) ([v0.4.4](https://github.com/charmbracelet/soft-serve/releases/tag/v0.4.4), 3 weeks ago) - A tasty, self-hostable Git server for the command line🍦
+- [charmbracelet/soft-serve](https://github.com/charmbracelet/soft-serve) ([v0.4.4](https://github.com/charmbracelet/soft-serve/releases/tag/v0.4.4), 4 weeks ago) - A tasty, self-hostable Git server for the command line🍦
 
 #### 🔨 Latest Pull Requests I published
 
