@@ -28,7 +28,7 @@ Want your own self-generating profile page? Check out [readme-scribe](https://gi
 
 #### 🔭 Latest releases I've contributed to
 
-- [sn4k3/UVtools](https://github.com/sn4k3/UVtools) ([v3.9.3](https://github.com/sn4k3/UVtools/releases/tag/v3.9.3), 6 days ago) - MSLA/DLP, file analysis, calibration, repair, conversion and manipulation
+- [sn4k3/UVtools](https://github.com/sn4k3/UVtools) ([v3.9.3](https://github.com/sn4k3/UVtools/releases/tag/v3.9.3), 1 week ago) - MSLA/DLP, file analysis, calibration, repair, conversion and manipulation
 - [minio/mc](https://github.com/minio/mc) ([RELEASE.2022-12-13T00-23-28Z](https://github.com/minio/mc/releases/tag/RELEASE.2022-12-13T00-23-28Z), 1 week ago) - Simple | Fast tool to manage MinIO clusters :cloud:
 - [go-git/go-git](https://github.com/go-git/go-git) ([v5.5.1](https://github.com/go-git/go-git/releases/tag/v5.5.1), 1 week ago) - A highly extensible Git implementation in pure Go.
 - [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) ([v1.13.1](https://github.com/goreleaser/goreleaser/releases/tag/v1.13.1), 3 weeks ago) - Deliver Go binaries as fast and easily as possible
@@ -62,7 +62,7 @@ Want your own self-generating profile page? Check out [readme-scribe](https://gi
 
 - [sonr-io](https://github.com/sonr-io) (1 month ago)
 - [indeedeng](https://github.com/indeedeng) (1 month ago)
-- [icco](https://github.com/icco) (3 months ago)
+- [icco](https://github.com/icco) (4 months ago)
 - [SimonWaldherr](https://github.com/SimonWaldherr) (4 months ago)
 - [twpayne](https://github.com/twpayne) (11 months ago)
 
