@@ -28,7 +28,7 @@ Want your own self-generating profile page? Check out [readme-scribe](https://gi
 
 #### 🔭 Latest releases I've contributed to
 
-- [charmbracelet/wish](https://github.com/charmbracelet/wish) ([v1.0.0](https://github.com/charmbracelet/wish/releases/tag/v1.0.0), 1 day ago) - Make SSH apps, just like that! 💫
+- [charmbracelet/wish](https://github.com/charmbracelet/wish) ([v1.0.0](https://github.com/charmbracelet/wish/releases/tag/v1.0.0), 2 days ago) - Make SSH apps, just like that! 💫
 - [sn4k3/UVtools](https://github.com/sn4k3/UVtools) ([v3.9.3](https://github.com/sn4k3/UVtools/releases/tag/v3.9.3), 1 week ago) - MSLA/DLP, file analysis, calibration, repair, conversion and manipulation
 - [minio/mc](https://github.com/minio/mc) ([RELEASE.2022-12-13T00-23-28Z](https://github.com/minio/mc/releases/tag/RELEASE.2022-12-13T00-23-28Z), 1 week ago) - Simple | Fast tool to manage MinIO clusters :cloud:
 - [go-git/go-git](https://github.com/go-git/go-git) ([v5.5.1](https://github.com/go-git/go-git/releases/tag/v5.5.1), 1 week ago) - A highly extensible Git implementation in pure Go.
