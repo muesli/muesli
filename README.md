@@ -28,9 +28,9 @@ Want your own self-generating profile page? Check out [readme-scribe](https://gi
 
 #### 🔭 Latest releases I've contributed to
 
-- [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) ([v1.14.0](https://github.com/goreleaser/goreleaser/releases/tag/v1.14.0), today) - Deliver Go binaries as fast and easily as possible
-- [charmbracelet/wish](https://github.com/charmbracelet/wish) ([v1.0.0](https://github.com/charmbracelet/wish/releases/tag/v1.0.0), 5 days ago) - Make SSH apps, just like that! 💫
-- [sn4k3/UVtools](https://github.com/sn4k3/UVtools) ([v3.9.3](https://github.com/sn4k3/UVtools/releases/tag/v3.9.3), 1 week ago) - MSLA/DLP, file analysis, calibration, repair, conversion and manipulation
+- [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) ([v1.14.0](https://github.com/goreleaser/goreleaser/releases/tag/v1.14.0), 1 day ago) - Deliver Go binaries as fast and easily as possible
+- [charmbracelet/wish](https://github.com/charmbracelet/wish) ([v1.0.0](https://github.com/charmbracelet/wish/releases/tag/v1.0.0), 6 days ago) - Make SSH apps, just like that! 💫
+- [sn4k3/UVtools](https://github.com/sn4k3/UVtools) ([v3.9.3](https://github.com/sn4k3/UVtools/releases/tag/v3.9.3), 2 weeks ago) - MSLA/DLP, file analysis, calibration, repair, conversion and manipulation
 - [minio/mc](https://github.com/minio/mc) ([RELEASE.2022-12-13T00-23-28Z](https://github.com/minio/mc/releases/tag/RELEASE.2022-12-13T00-23-28Z), 2 weeks ago) - Simple | Fast tool to manage MinIO clusters :cloud:
 - [go-git/go-git](https://github.com/go-git/go-git) ([v5.5.1](https://github.com/go-git/go-git/releases/tag/v5.5.1), 2 weeks ago) - A highly extensible Git implementation in pure Go.
 
@@ -53,7 +53,7 @@ Want your own self-generating profile page? Check out [readme-scribe](https://gi
 #### ⭐ Recent stars
 
 - [cedricblondeau/world-cup-2022-cli-dashboard](https://github.com/cedricblondeau/world-cup-2022-cli-dashboard) - Watch live World Cup 2022 matches in your terminal. ⚽🏆 (4 weeks ago)
-- [drwhut/tabletop-club](https://github.com/drwhut/tabletop-club) - An open-source platform for playing tabletop games in a physics-based 3D environment for Windows, macOS, and Linux! Made with the Godot Engine. (4 weeks ago)
+- [drwhut/tabletop-club](https://github.com/drwhut/tabletop-club) - An open-source platform for playing tabletop games in a physics-based 3D environment for Windows, macOS, and Linux! Made with the Godot Engine. (1 month ago)
 - [catppuccin/github](https://github.com/catppuccin/github) - 🐈‍⬛ Soothing pastel theme for GitHub (1 month ago)
 - [catppuccin/discord](https://github.com/catppuccin/discord) - 🎮 Soothing pastel theme for Discord (1 month ago)
 - [catppuccin/slack](https://github.com/catppuccin/slack) - 💼 Soothing pastel theme for Slack (1 month ago)
