@@ -28,7 +28,7 @@ Want your own self-generating profile page? Check out [readme-scribe](https://gi
 
 #### 🔭 Latest releases I've contributed to
 
-- [sn4k3/UVtools](https://github.com/sn4k3/UVtools) ([v3.9.4](https://github.com/sn4k3/UVtools/releases/tag/v3.9.4), 2 days ago) - MSLA/DLP, file analysis, calibration, repair, conversion and manipulation
+- [sn4k3/UVtools](https://github.com/sn4k3/UVtools) ([v3.9.5](https://github.com/sn4k3/UVtools/releases/tag/v3.9.5), today) - MSLA/DLP, file analysis, calibration, repair, conversion and manipulation
 - [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) ([v1.14.0](https://github.com/goreleaser/goreleaser/releases/tag/v1.14.0), 4 days ago) - Deliver Go binaries as fast and easily as possible
 - [charmbracelet/wish](https://github.com/charmbracelet/wish) ([v1.0.0](https://github.com/charmbracelet/wish/releases/tag/v1.0.0), 1 week ago) - Make SSH apps, just like that! 💫
 - [minio/mc](https://github.com/minio/mc) ([RELEASE.2022-12-13T00-23-28Z](https://github.com/minio/mc/releases/tag/RELEASE.2022-12-13T00-23-28Z), 2 weeks ago) - Simple | Fast tool to manage MinIO clusters :cloud:
