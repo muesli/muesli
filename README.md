@@ -28,10 +28,10 @@ Want your own self-generating profile page? Check out [readme-scribe](https://gi
 
 #### 🔭 Latest releases I've contributed to
 
-- [bashbunni/pjs](https://github.com/bashbunni/pjs) ([v0.1.0](https://github.com/bashbunni/pjs/releases/tag/v0.1.0), 1 day ago) - A basic CLI for regularly updating your project&#39;s status
-- [minio/mc](https://github.com/minio/mc) ([RELEASE.2022-12-24T15-21-38Z](https://github.com/minio/mc/releases/tag/RELEASE.2022-12-24T15-21-38Z), 1 day ago) - Simple | Fast tool to manage MinIO clusters :cloud:
-- [sn4k3/UVtools](https://github.com/sn4k3/UVtools) ([v3.10.0](https://github.com/sn4k3/UVtools/releases/tag/v3.10.0), 2 days ago) - MSLA/DLP, file analysis, calibration, repair, conversion and manipulation
-- [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) ([v1.14.1](https://github.com/goreleaser/goreleaser/releases/tag/v1.14.1), 3 days ago) - Deliver Go binaries as fast and easily as possible
+- [bashbunni/pjs](https://github.com/bashbunni/pjs) ([v0.1.0](https://github.com/bashbunni/pjs/releases/tag/v0.1.0), 2 days ago) - A basic CLI for regularly updating your project&#39;s status
+- [minio/mc](https://github.com/minio/mc) ([RELEASE.2022-12-24T15-21-38Z](https://github.com/minio/mc/releases/tag/RELEASE.2022-12-24T15-21-38Z), 2 days ago) - Simple | Fast tool to manage MinIO clusters :cloud:
+- [sn4k3/UVtools](https://github.com/sn4k3/UVtools) ([v3.10.0](https://github.com/sn4k3/UVtools/releases/tag/v3.10.0), 3 days ago) - MSLA/DLP, file analysis, calibration, repair, conversion and manipulation
+- [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) ([v1.14.1](https://github.com/goreleaser/goreleaser/releases/tag/v1.14.1), 4 days ago) - Deliver Go binaries as fast and easily as possible
 - [charmbracelet/wish](https://github.com/charmbracelet/wish) ([v1.0.0](https://github.com/charmbracelet/wish/releases/tag/v1.0.0), 2 weeks ago) - Make SSH apps, just like that! 💫
 
 #### 🔨 Latest Pull Requests I published
@@ -63,7 +63,7 @@ Want your own self-generating profile page? Check out [readme-scribe](https://gi
 - [sonr-io](https://github.com/sonr-io) (1 month ago)
 - [indeedeng](https://github.com/indeedeng) (1 month ago)
 - [icco](https://github.com/icco) (4 months ago)
-- [SimonWaldherr](https://github.com/SimonWaldherr) (4 months ago)
+- [SimonWaldherr](https://github.com/SimonWaldherr) (5 months ago)
 - [twpayne](https://github.com/twpayne) (11 months ago)
 
 #### 💬 Feedback
