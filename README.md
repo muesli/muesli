@@ -12,11 +12,11 @@ Want your own self-generating profile page? Check out [readme-scribe](https://gi
 
 #### 👷 Check out what I'm currently working on
 
-- [charmbracelet/soft-serve](https://github.com/charmbracelet/soft-serve) - A tasty, self-hostable Git server for the command line🍦 (1 month ago)
 - [charmbracelet/wish](https://github.com/charmbracelet/wish) - Make SSH apps, just like that! 💫 (1 month ago)
-- [charmbracelet/lipgloss](https://github.com/charmbracelet/lipgloss) - Style definitions for nice terminal layouts 👄 (1 month ago)
-- [charmbracelet/bubbles](https://github.com/charmbracelet/bubbles) - TUI components for Bubble Tea 🫧 (1 month ago)
 - [charmbracelet/melt](https://github.com/charmbracelet/melt) - 🧊 Backup and restore Ed25519 SSH keys with seed words. (1 month ago)
+- [charmbracelet/lipgloss](https://github.com/charmbracelet/lipgloss) - Style definitions for nice terminal layouts 👄 (1 month ago)
+- [charmbracelet/wishlist](https://github.com/charmbracelet/wishlist) - The SSH directory ✨ (1 month ago)
+- [charmbracelet/soft-serve](https://github.com/charmbracelet/soft-serve) - A tasty, self-hostable Git server for the command line🍦 (1 month ago)
 
 #### 🌱 My latest projects
 
