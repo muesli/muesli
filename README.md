@@ -52,11 +52,11 @@ Want your own self-generating profile page? Check out [readme-scribe](https://gi
 
 #### ⭐ Recent stars
 
+- [cloudcmds/tamarin](https://github.com/cloudcmds/tamarin) - An embedded scripting language for Go projects (today)
 - [terrastruct/d2](https://github.com/terrastruct/d2) - D2 is a modern diagram scripting language that turns text to diagrams. (today)
 - [qascade/yast](https://github.com/qascade/yast) - Yet Another Streaming Tool (today)
 - [Cybergenik/RR-vis](https://github.com/Cybergenik/RR-vis) - Advent of Code day 14 Full ASCII visualizer (today)
 - [sourcegraph/conc](https://github.com/sourcegraph/conc) - Better structured concurrency for go (6 days ago)
-- [cedricblondeau/world-cup-2022-cli-dashboard](https://github.com/cedricblondeau/world-cup-2022-cli-dashboard) - Watch live World Cup 2022 matches in your terminal. ⚽🏆 (1 month ago)
 
 #### ❤️ These awesome people sponsor me (thank you!)
 
