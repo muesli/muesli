@@ -52,11 +52,11 @@ Want your own self-generating profile page? Check out [readme-scribe](https://gi
 
 #### ⭐ Recent stars
 
+- [terrastruct/d2](https://github.com/terrastruct/d2) - D2 is a modern diagram scripting language that turns text to diagrams. (today)
+- [qascade/yast](https://github.com/qascade/yast) - Yet Another Streaming Tool (today)
+- [Cybergenik/RR-vis](https://github.com/Cybergenik/RR-vis) - Advent of Code day 14 Full ASCII visualizer (today)
 - [sourcegraph/conc](https://github.com/sourcegraph/conc) - Better structured concurrency for go (6 days ago)
 - [cedricblondeau/world-cup-2022-cli-dashboard](https://github.com/cedricblondeau/world-cup-2022-cli-dashboard) - Watch live World Cup 2022 matches in your terminal. ⚽🏆 (1 month ago)
-- [drwhut/tabletop-club](https://github.com/drwhut/tabletop-club) - An open-source platform for playing tabletop games in a physics-based 3D environment for Windows, macOS, and Linux! Made with the Godot Engine. (1 month ago)
-- [catppuccin/github](https://github.com/catppuccin/github) - 🐈‍⬛ Soothing pastel theme for GitHub (1 month ago)
-- [catppuccin/discord](https://github.com/catppuccin/discord) - 🎮 Soothing pastel theme for Discord (1 month ago)
 
 #### ❤️ These awesome people sponsor me (thank you!)
 
