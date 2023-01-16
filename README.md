@@ -28,8 +28,8 @@ Want your own self-generating profile page? Check out [readme-scribe](https://gi
 
 #### 🔭 Latest releases I've contributed to
 
-- [minio/mc](https://github.com/minio/mc) ([RELEASE.2023-01-11T03-14-16Z](https://github.com/minio/mc/releases/tag/RELEASE.2023-01-11T03-14-16Z), 3 days ago) - Simple | Fast tool to manage MinIO clusters :cloud:
-- [charmbracelet/gum](https://github.com/charmbracelet/gum) ([v0.9.0](https://github.com/charmbracelet/gum/releases/tag/v0.9.0), 3 days ago) - A tool for glamorous shell scripts 🎀
+- [minio/mc](https://github.com/minio/mc) ([RELEASE.2023-01-11T03-14-16Z](https://github.com/minio/mc/releases/tag/RELEASE.2023-01-11T03-14-16Z), 4 days ago) - Simple | Fast tool to manage MinIO clusters :cloud:
+- [charmbracelet/gum](https://github.com/charmbracelet/gum) ([v0.9.0](https://github.com/charmbracelet/gum/releases/tag/v0.9.0), 4 days ago) - A tool for glamorous shell scripts 🎀
 - [go-git/go-git](https://github.com/go-git/go-git) ([v5.5.2](https://github.com/go-git/go-git/releases/tag/v5.5.2), 1 week ago) - A highly extensible Git implementation in pure Go.
 - [bashbunni/pjs](https://github.com/bashbunni/pjs) ([v0.1.0](https://github.com/bashbunni/pjs/releases/tag/v0.1.0), 1 week ago) - A basic CLI for regularly updating your project&#39;s status
 - [sn4k3/UVtools](https://github.com/sn4k3/UVtools) ([v3.10.0](https://github.com/sn4k3/UVtools/releases/tag/v3.10.0), 1 week ago) - MSLA/DLP, file analysis, calibration, repair, conversion and manipulation
@@ -52,10 +52,10 @@ Want your own self-generating profile page? Check out [readme-scribe](https://gi
 
 #### ⭐ Recent stars
 
-- [cloudcmds/tamarin](https://github.com/cloudcmds/tamarin) - An embedded scripting language for Go projects (3 days ago)
-- [terrastruct/d2](https://github.com/terrastruct/d2) - D2 is a modern diagram scripting language that turns text to diagrams. (3 days ago)
-- [qascade/yast](https://github.com/qascade/yast) - Yet Another Streaming Tool (3 days ago)
-- [Cybergenik/RR-vis](https://github.com/Cybergenik/RR-vis) - Advent of Code day 14 Full ASCII visualizer (3 days ago)
+- [cloudcmds/tamarin](https://github.com/cloudcmds/tamarin) - An embedded scripting language for Go projects (4 days ago)
+- [terrastruct/d2](https://github.com/terrastruct/d2) - D2 is a modern diagram scripting language that turns text to diagrams. (4 days ago)
+- [qascade/yast](https://github.com/qascade/yast) - Yet Another Streaming Tool (4 days ago)
+- [Cybergenik/RR-vis](https://github.com/Cybergenik/RR-vis) - Advent of Code day 14 Full ASCII visualizer (4 days ago)
 - [sourcegraph/conc](https://github.com/sourcegraph/conc) - Better structured concurrency for go (1 week ago)
 
 #### ❤️ These awesome people sponsor me (thank you!)
@@ -64,7 +64,7 @@ Want your own self-generating profile page? Check out [readme-scribe](https://gi
 - [indeedeng](https://github.com/indeedeng) (2 months ago)
 - [icco](https://github.com/icco) (4 months ago)
 - [SimonWaldherr](https://github.com/SimonWaldherr) (5 months ago)
-- [twpayne](https://github.com/twpayne) (11 months ago)
+- [twpayne](https://github.com/twpayne) (1 year ago)
 
 #### 💬 Feedback
 
