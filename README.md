@@ -52,11 +52,11 @@ Want your own self-generating profile page? Check out [readme-scribe](https://gi
 
 #### ⭐ Recent stars
 
+- [martinwoodward/octolamp](https://github.com/martinwoodward/octolamp) - A 3D printed, GitHub infused, smart light (today)
 - [cloudcmds/tamarin](https://github.com/cloudcmds/tamarin) - An embedded scripting language for Go projects (5 days ago)
 - [terrastruct/d2](https://github.com/terrastruct/d2) - D2 is a modern diagram scripting language that turns text to diagrams. (5 days ago)
 - [qascade/yast](https://github.com/qascade/yast) - Yet Another Streaming Tool (5 days ago)
 - [Cybergenik/RR-vis](https://github.com/Cybergenik/RR-vis) - Advent of Code day 14 Full ASCII visualizer (5 days ago)
-- [sourcegraph/conc](https://github.com/sourcegraph/conc) - Better structured concurrency for go (1 week ago)
 
 #### ❤️ These awesome people sponsor me (thank you!)
 
