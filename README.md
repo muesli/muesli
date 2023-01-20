@@ -28,11 +28,11 @@ Want your own self-generating profile page? Check out [readme-scribe](https://gi
 
 #### 🔭 Latest releases I've contributed to
 
+- [charmbracelet/bubbles](https://github.com/charmbracelet/bubbles) ([v0.15.0](https://github.com/charmbracelet/bubbles/releases/tag/v0.15.0), today) - TUI components for Bubble Tea 🫧
 - [sn4k3/UVtools](https://github.com/sn4k3/UVtools) ([v3.11.0](https://github.com/sn4k3/UVtools/releases/tag/v3.11.0), 4 days ago) - MSLA/DLP, file analysis, calibration, repair, conversion and manipulation
 - [minio/mc](https://github.com/minio/mc) ([RELEASE.2023-01-11T03-14-16Z](https://github.com/minio/mc/releases/tag/RELEASE.2023-01-11T03-14-16Z), 1 week ago) - Simple | Fast tool to manage MinIO clusters :cloud:
 - [charmbracelet/gum](https://github.com/charmbracelet/gum) ([v0.9.0](https://github.com/charmbracelet/gum/releases/tag/v0.9.0), 1 week ago) - A tool for glamorous shell scripts 🎀
 - [bashbunni/pjs](https://github.com/bashbunni/pjs) ([v0.1.0](https://github.com/bashbunni/pjs/releases/tag/v0.1.0), 2 weeks ago) - A basic CLI for regularly updating your project&#39;s status
-- [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) ([v1.14.1](https://github.com/goreleaser/goreleaser/releases/tag/v1.14.1), 2 weeks ago) - Deliver Go binaries as fast and easily as possible
 
 #### 🔨 Latest Pull Requests I published
 
