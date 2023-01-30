@@ -28,11 +28,11 @@ Want your own self-generating profile page? Check out [readme-scribe](https://gi
 
 #### 🔭 Latest releases I've contributed to
 
+- [charmbracelet/soft-serve](https://github.com/charmbracelet/soft-serve) ([v0.4.5](https://github.com/charmbracelet/soft-serve/releases/tag/v0.4.5), today) - A tasty, self-hostable Git server for the command line🍦
 - [charmbracelet/wishlist](https://github.com/charmbracelet/wishlist) ([v0.9.0](https://github.com/charmbracelet/wishlist/releases/tag/v0.9.0), 6 days ago) - The SSH directory ✨
 - [charmbracelet/glow](https://github.com/charmbracelet/glow) ([v1.5.0](https://github.com/charmbracelet/glow/releases/tag/v1.5.0), 1 week ago) - Render markdown on the CLI, with pizzazz! 💅🏻
 - [charmbracelet/bubbles](https://github.com/charmbracelet/bubbles) ([v0.15.0](https://github.com/charmbracelet/bubbles/releases/tag/v0.15.0), 1 week ago) - TUI components for Bubble Tea 🫧
 - [sn4k3/UVtools](https://github.com/sn4k3/UVtools) ([v3.11.0](https://github.com/sn4k3/UVtools/releases/tag/v3.11.0), 2 weeks ago) - MSLA/DLP, file analysis, calibration, repair, conversion and manipulation
-- [minio/mc](https://github.com/minio/mc) ([RELEASE.2023-01-11T03-14-16Z](https://github.com/minio/mc/releases/tag/RELEASE.2023-01-11T03-14-16Z), 2 weeks ago) - Simple | Fast tool to manage MinIO clusters :cloud:
 
 #### 🔨 Latest Pull Requests I published
 
