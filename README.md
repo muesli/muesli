@@ -28,10 +28,10 @@ Want your own self-generating profile page? Check out [readme-scribe](https://gi
 
 #### 🔭 Latest releases I've contributed to
 
-- [minio/mc](https://github.com/minio/mc) ([RELEASE.2023-01-28T20-29-38Z](https://github.com/minio/mc/releases/tag/RELEASE.2023-01-28T20-29-38Z), today) - Simple | Fast tool to manage MinIO clusters :cloud:
-- [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) ([v1.15.0](https://github.com/goreleaser/goreleaser/releases/tag/v1.15.0), today) - Deliver Go binaries as fast and easily as possible
-- [sn4k3/UVtools](https://github.com/sn4k3/UVtools) ([v3.11.1](https://github.com/sn4k3/UVtools/releases/tag/v3.11.1), today) - MSLA/DLP, file analysis, calibration, repair, conversion and manipulation
-- [charmbracelet/soft-serve](https://github.com/charmbracelet/soft-serve) ([v0.4.5](https://github.com/charmbracelet/soft-serve/releases/tag/v0.4.5), 1 day ago) - A tasty, self-hostable Git server for the command line🍦
+- [sn4k3/UVtools](https://github.com/sn4k3/UVtools) ([v3.11.2](https://github.com/sn4k3/UVtools/releases/tag/v3.11.2), today) - MSLA/DLP, file analysis, calibration, repair, conversion and manipulation
+- [minio/mc](https://github.com/minio/mc) ([RELEASE.2023-01-28T20-29-38Z](https://github.com/minio/mc/releases/tag/RELEASE.2023-01-28T20-29-38Z), 1 day ago) - Simple | Fast tool to manage MinIO clusters :cloud:
+- [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) ([v1.15.0](https://github.com/goreleaser/goreleaser/releases/tag/v1.15.0), 1 day ago) - Deliver Go binaries as fast and easily as possible
+- [charmbracelet/soft-serve](https://github.com/charmbracelet/soft-serve) ([v0.4.5](https://github.com/charmbracelet/soft-serve/releases/tag/v0.4.5), 2 days ago) - A tasty, self-hostable Git server for the command line🍦
 - [charmbracelet/wishlist](https://github.com/charmbracelet/wishlist) ([v0.9.0](https://github.com/charmbracelet/wishlist/releases/tag/v0.9.0), 1 week ago) - The SSH directory ✨
 
 #### 🔨 Latest Pull Requests I published
@@ -52,7 +52,7 @@ Want your own self-generating profile page? Check out [readme-scribe](https://gi
 
 #### ⭐ Recent stars
 
-- [brianstrauch/solitaire-tui](https://github.com/brianstrauch/solitaire-tui) - Klondike solitaire for the terminal (today)
+- [brianstrauch/solitaire-tui](https://github.com/brianstrauch/solitaire-tui) - Klondike solitaire for the terminal (1 day ago)
 - [bmsleight/lasercut](https://github.com/bmsleight/lasercut) - Module for openscad, allowing 3d models to be created from 2d lasercut parts (1 week ago)
 - [martinwoodward/octolamp](https://github.com/martinwoodward/octolamp) - A 3D printed, GitHub infused, smart light (2 weeks ago)
 - [cloudcmds/tamarin](https://github.com/cloudcmds/tamarin) - An embedded scripting language for Go projects (2 weeks ago)
