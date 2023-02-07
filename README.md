@@ -28,11 +28,11 @@ Want your own self-generating profile page? Check out [readme-scribe](https://gi
 
 #### 🔭 Latest releases I've contributed to
 
-- [muesli/termenv](https://github.com/muesli/termenv) ([v0.14.0](https://github.com/muesli/termenv/releases/tag/v0.14.0), today) - Advanced ANSI style &amp; color support for your terminal applications
-- [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) ([v1.15.1](https://github.com/goreleaser/goreleaser/releases/tag/v1.15.1), 4 days ago) - Deliver Go binaries as fast and easily as possible
-- [sn4k3/UVtools](https://github.com/sn4k3/UVtools) ([v3.11.2](https://github.com/sn4k3/UVtools/releases/tag/v3.11.2), 5 days ago) - MSLA/DLP, file analysis, calibration, repair, conversion and manipulation
+- [muesli/termenv](https://github.com/muesli/termenv) ([v0.14.0](https://github.com/muesli/termenv/releases/tag/v0.14.0), 1 day ago) - Advanced ANSI style &amp; color support for your terminal applications
+- [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) ([v1.15.1](https://github.com/goreleaser/goreleaser/releases/tag/v1.15.1), 5 days ago) - Deliver Go binaries as fast and easily as possible
+- [sn4k3/UVtools](https://github.com/sn4k3/UVtools) ([v3.11.2](https://github.com/sn4k3/UVtools/releases/tag/v3.11.2), 6 days ago) - MSLA/DLP, file analysis, calibration, repair, conversion and manipulation
 - [charmbracelet/soft-serve](https://github.com/charmbracelet/soft-serve) ([v0.4.5](https://github.com/charmbracelet/soft-serve/releases/tag/v0.4.5), 1 week ago) - A tasty, self-hostable Git server for the command line🍦
-- [charmbracelet/wishlist](https://github.com/charmbracelet/wishlist) ([v0.9.0](https://github.com/charmbracelet/wishlist/releases/tag/v0.9.0), 1 week ago) - The SSH directory ✨
+- [charmbracelet/wishlist](https://github.com/charmbracelet/wishlist) ([v0.9.0](https://github.com/charmbracelet/wishlist/releases/tag/v0.9.0), 2 weeks ago) - The SSH directory ✨
 
 #### 🔨 Latest Pull Requests I published
 
@@ -52,10 +52,10 @@ Want your own self-generating profile page? Check out [readme-scribe](https://gi
 
 #### ⭐ Recent stars
 
-- [MakeMagazinDE/3-in-1-Werkbank](https://github.com/MakeMagazinDE/3-in-1-Werkbank) (3 days ago)
-- [brianstrauch/solitaire-tui](https://github.com/brianstrauch/solitaire-tui) - Klondike solitaire for the terminal (6 days ago)
+- [MakeMagazinDE/3-in-1-Werkbank](https://github.com/MakeMagazinDE/3-in-1-Werkbank) (4 days ago)
+- [brianstrauch/solitaire-tui](https://github.com/brianstrauch/solitaire-tui) - Klondike solitaire for the terminal (1 week ago)
 - [bmsleight/lasercut](https://github.com/bmsleight/lasercut) - Module for openscad, allowing 3d models to be created from 2d lasercut parts (2 weeks ago)
-- [martinwoodward/octolamp](https://github.com/martinwoodward/octolamp) - A 3D printed, GitHub infused, smart light (2 weeks ago)
+- [martinwoodward/octolamp](https://github.com/martinwoodward/octolamp) - A 3D printed, GitHub infused, smart light (3 weeks ago)
 - [cloudcmds/tamarin](https://github.com/cloudcmds/tamarin) - An embedded scripting language for Go projects (3 weeks ago)
 
 #### ❤️ These awesome people sponsor me (thank you!)
