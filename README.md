@@ -28,8 +28,8 @@ Want your own self-generating profile page? Check out [readme-scribe](https://gi
 
 #### 🔭 Latest releases I've contributed to
 
+- [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) ([v1.15.2](https://github.com/goreleaser/goreleaser/releases/tag/v1.15.2), today) - Deliver Go binaries as fast and easily as possible
 - [muesli/termenv](https://github.com/muesli/termenv) ([v0.14.0](https://github.com/muesli/termenv/releases/tag/v0.14.0), 1 day ago) - Advanced ANSI style &amp; color support for your terminal applications
-- [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) ([v1.15.1](https://github.com/goreleaser/goreleaser/releases/tag/v1.15.1), 5 days ago) - Deliver Go binaries as fast and easily as possible
 - [sn4k3/UVtools](https://github.com/sn4k3/UVtools) ([v3.11.2](https://github.com/sn4k3/UVtools/releases/tag/v3.11.2), 6 days ago) - MSLA/DLP, file analysis, calibration, repair, conversion and manipulation
 - [charmbracelet/soft-serve](https://github.com/charmbracelet/soft-serve) ([v0.4.5](https://github.com/charmbracelet/soft-serve/releases/tag/v0.4.5), 1 week ago) - A tasty, self-hostable Git server for the command line🍦
 - [charmbracelet/wishlist](https://github.com/charmbracelet/wishlist) ([v0.9.0](https://github.com/charmbracelet/wishlist/releases/tag/v0.9.0), 2 weeks ago) - The SSH directory ✨
