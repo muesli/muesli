@@ -12,7 +12,7 @@ Want your own self-generating profile page? Check out [readme-scribe](https://gi
 
 #### 👷 Check out what I'm currently working on
 
-- [charmbracelet/wishlist](https://github.com/charmbracelet/wishlist) - The SSH directory ✨ (2 months ago)
+- [charmbracelet/charm](https://github.com/charmbracelet/charm) - The Charm Tool and Library 🌟 (2 months ago)
 - [charmbracelet/wish](https://github.com/charmbracelet/wish) - Make SSH apps, just like that! 💫 (2 months ago)
 - [charmbracelet/vhs](https://github.com/charmbracelet/vhs) - Your CLI home video recorder 📼 (2 months ago)
 - [charmbracelet/lipgloss](https://github.com/charmbracelet/lipgloss) - Style definitions for nice terminal layouts 👄 (2 months ago)
@@ -52,11 +52,11 @@ Want your own self-generating profile page? Check out [readme-scribe](https://gi
 
 #### ⭐ Recent stars
 
+- [ljanyst/ghostscad](https://github.com/ljanyst/ghostscad) - GhostSCAD enables you to programatically build complex 3D models in Go and render them in OpenSCAD (today)
 - [MakeMagazinDE/3-in-1-Werkbank](https://github.com/MakeMagazinDE/3-in-1-Werkbank) (1 week ago)
 - [brianstrauch/solitaire-tui](https://github.com/brianstrauch/solitaire-tui) - Klondike solitaire for the terminal (1 week ago)
 - [bmsleight/lasercut](https://github.com/bmsleight/lasercut) - Module for openscad, allowing 3d models to be created from 2d lasercut parts (3 weeks ago)
 - [martinwoodward/octolamp](https://github.com/martinwoodward/octolamp) - A 3D printed, GitHub infused, smart light (3 weeks ago)
-- [cloudcmds/tamarin](https://github.com/cloudcmds/tamarin) - An embedded scripting language for Go projects (1 month ago)
 
 #### ❤️ These awesome people sponsor me (thank you!)
 
