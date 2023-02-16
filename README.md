@@ -12,11 +12,11 @@ Want your own self-generating profile page? Check out [readme-scribe](https://gi
 
 #### 👷 Check out what I'm currently working on
 
-- [charmbracelet/charm](https://github.com/charmbracelet/charm) - The Charm Tool and Library 🌟 (2 months ago)
-- [charmbracelet/wish](https://github.com/charmbracelet/wish) - Make SSH apps, just like that! 💫 (2 months ago)
-- [charmbracelet/vhs](https://github.com/charmbracelet/vhs) - Your CLI home video recorder 📼 (2 months ago)
-- [charmbracelet/lipgloss](https://github.com/charmbracelet/lipgloss) - Style definitions for nice terminal layouts 👄 (2 months ago)
-- [charmbracelet/gum](https://github.com/charmbracelet/gum) - A tool for glamorous shell scripts 🎀 (2 months ago)
+- [charmbracelet/charm](https://github.com/charmbracelet/charm) - The Charm Tool and Library 🌟 (3 months ago)
+- [charmbracelet/wish](https://github.com/charmbracelet/wish) - Make SSH apps, just like that! 💫 (3 months ago)
+- [charmbracelet/vhs](https://github.com/charmbracelet/vhs) - Your CLI home video recorder 📼 (3 months ago)
+- [charmbracelet/lipgloss](https://github.com/charmbracelet/lipgloss) - Style definitions for nice terminal layouts 👄 (3 months ago)
+- [charmbracelet/gum](https://github.com/charmbracelet/gum) - A tool for glamorous shell scripts 🎀 (3 months ago)
 
 #### 🌱 My latest projects
 
@@ -36,8 +36,8 @@ Want your own self-generating profile page? Check out [readme-scribe](https://gi
 
 #### 🔨 Latest Pull Requests I published
 
-- [chore: disable dependabot timer](https://github.com/charmbracelet/bubbletea/pull/608) on [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) (2 months ago)
-- [chore: disable dependabot timer](https://github.com/charmbracelet/glow/pull/419) on [charmbracelet/glow](https://github.com/charmbracelet/glow) (2 months ago)
+- [chore: disable dependabot timer](https://github.com/charmbracelet/bubbletea/pull/608) on [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) (3 months ago)
+- [chore: disable dependabot timer](https://github.com/charmbracelet/glow/pull/419) on [charmbracelet/glow](https://github.com/charmbracelet/glow) (3 months ago)
 - [chore: add dependabot config](https://github.com/muesli/markscribe/pull/55) on [muesli/markscribe](https://github.com/muesli/markscribe) (3 months ago)
 - [fix: make linter happy](https://github.com/muesli/markscribe/pull/54) on [muesli/markscribe](https://github.com/muesli/markscribe) (3 months ago)
 - [chore: bump Go dep to 1.16](https://github.com/muesli/markscribe/pull/53) on [muesli/markscribe](https://github.com/muesli/markscribe) (3 months ago)
@@ -52,15 +52,15 @@ Want your own self-generating profile page? Check out [readme-scribe](https://gi
 
 #### ⭐ Recent stars
 
-- [streetcomplete/StreetComplete](https://github.com/streetcomplete/StreetComplete) - Easy to use OpenStreetMap editor for Android (today)
-- [ljanyst/ghostscad](https://github.com/ljanyst/ghostscad) - GhostSCAD enables you to programatically build complex 3D models in Go and render them in OpenSCAD (2 days ago)
+- [streetcomplete/StreetComplete](https://github.com/streetcomplete/StreetComplete) - Easy to use OpenStreetMap editor for Android (1 day ago)
+- [ljanyst/ghostscad](https://github.com/ljanyst/ghostscad) - GhostSCAD enables you to programatically build complex 3D models in Go and render them in OpenSCAD (3 days ago)
 - [MakeMagazinDE/3-in-1-Werkbank](https://github.com/MakeMagazinDE/3-in-1-Werkbank) (1 week ago)
 - [brianstrauch/solitaire-tui](https://github.com/brianstrauch/solitaire-tui) - Klondike solitaire for the terminal (2 weeks ago)
 - [bmsleight/lasercut](https://github.com/bmsleight/lasercut) - Module for openscad, allowing 3d models to be created from 2d lasercut parts (3 weeks ago)
 
 #### ❤️ These awesome people sponsor me (thank you!)
 
-- [sonr-io](https://github.com/sonr-io) (2 months ago)
+- [sonr-io](https://github.com/sonr-io) (3 months ago)
 - [indeedeng](https://github.com/indeedeng) (3 months ago)
 - [icco](https://github.com/icco) (5 months ago)
 - [SimonWaldherr](https://github.com/SimonWaldherr) (6 months ago)
