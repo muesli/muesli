@@ -52,11 +52,11 @@ Want your own self-generating profile page? Check out [readme-scribe](https://gi
 
 #### ⭐ Recent stars
 
-- [streetcomplete/StreetComplete](https://github.com/streetcomplete/StreetComplete) - Easy to use OpenStreetMap editor for Android (2 days ago)
-- [ljanyst/ghostscad](https://github.com/ljanyst/ghostscad) - GhostSCAD enables you to programatically build complex 3D models in Go and render them in OpenSCAD (4 days ago)
+- [streetcomplete/StreetComplete](https://github.com/streetcomplete/StreetComplete) - Easy to use OpenStreetMap editor for Android (3 days ago)
+- [ljanyst/ghostscad](https://github.com/ljanyst/ghostscad) - GhostSCAD enables you to programatically build complex 3D models in Go and render them in OpenSCAD (5 days ago)
 - [MakeMagazinDE/3-in-1-Werkbank](https://github.com/MakeMagazinDE/3-in-1-Werkbank) (2 weeks ago)
 - [brianstrauch/solitaire-tui](https://github.com/brianstrauch/solitaire-tui) - Klondike solitaire for the terminal (2 weeks ago)
-- [bmsleight/lasercut](https://github.com/bmsleight/lasercut) - Module for openscad, allowing 3d models to be created from 2d lasercut parts (3 weeks ago)
+- [bmsleight/lasercut](https://github.com/bmsleight/lasercut) - Module for openscad, allowing 3d models to be created from 2d lasercut parts (4 weeks ago)
 
 #### ❤️ These awesome people sponsor me (thank you!)
 
