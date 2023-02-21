@@ -28,11 +28,11 @@ Want your own self-generating profile page? Check out [readme-scribe](https://gi
 
 #### 🔭 Latest releases I've contributed to
 
+- [charmbracelet/skate](https://github.com/charmbracelet/skate) ([v0.2.2](https://github.com/charmbracelet/skate/releases/tag/v0.2.2), today) - A personal key value store 🛼
 - [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) ([v0.23.2](https://github.com/charmbracelet/bubbletea/releases/tag/v0.23.2), 1 week ago) - A powerful little TUI framework 🏗
 - [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) ([v1.15.2](https://github.com/goreleaser/goreleaser/releases/tag/v1.15.2), 2 weeks ago) - Deliver Go binaries as fast and easily as possible
 - [muesli/termenv](https://github.com/muesli/termenv) ([v0.14.0](https://github.com/muesli/termenv/releases/tag/v0.14.0), 2 weeks ago) - Advanced ANSI style &amp; color support for your terminal applications
 - [sn4k3/UVtools](https://github.com/sn4k3/UVtools) ([v3.11.2](https://github.com/sn4k3/UVtools/releases/tag/v3.11.2), 2 weeks ago) - MSLA/DLP, file analysis, calibration, repair, conversion and manipulation
-- [charmbracelet/soft-serve](https://github.com/charmbracelet/soft-serve) ([v0.4.5](https://github.com/charmbracelet/soft-serve/releases/tag/v0.4.5), 3 weeks ago) - A tasty, self-hostable Git server for the command line🍦
 
 #### 🔨 Latest Pull Requests I published
 
