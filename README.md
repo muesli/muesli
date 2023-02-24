@@ -12,11 +12,11 @@ Want your own self-generating profile page? Check out [readme-scribe](https://gi
 
 #### 👷 Check out what I'm currently working on
 
-- [charmbracelet/lipgloss](https://github.com/charmbracelet/lipgloss) - Style definitions for nice terminal layouts 👄 (1 day ago)
+- [charmbracelet/lipgloss](https://github.com/charmbracelet/lipgloss) - Style definitions for nice terminal layouts 👄 (2 days ago)
 - [charmbracelet/melt](https://github.com/charmbracelet/melt) - 🧊 Backup and restore Ed25519 SSH keys with seed words. (3 months ago)
 - [charmbracelet/skate](https://github.com/charmbracelet/skate) - A personal key value store 🛼 (3 months ago)
 - [charmbracelet/vhs](https://github.com/charmbracelet/vhs) - Your CLI home video recorder 📼 (3 months ago)
-- [charmbracelet/charm](https://github.com/charmbracelet/charm) - The Charm Tool and Library 🌟 (3 months ago)
+- [charmbracelet/wishlist](https://github.com/charmbracelet/wishlist) - The SSH directory ✨ (3 months ago)
 
 #### 🌱 My latest projects
 
@@ -28,15 +28,15 @@ Want your own self-generating profile page? Check out [readme-scribe](https://gi
 
 #### 🔭 Latest releases I've contributed to
 
-- [charmbracelet/charm](https://github.com/charmbracelet/charm) ([v0.12.5](https://github.com/charmbracelet/charm/releases/tag/v0.12.5), 2 days ago) - The Charm Tool and Library 🌟
-- [charmbracelet/soft-serve](https://github.com/charmbracelet/soft-serve) ([v0.4.6](https://github.com/charmbracelet/soft-serve/releases/tag/v0.4.6), 2 days ago) - A tasty, self-hostable Git server for the command line🍦
-- [charmbracelet/vhs](https://github.com/charmbracelet/vhs) ([v0.3.0](https://github.com/charmbracelet/vhs/releases/tag/v0.3.0), 2 days ago) - Your CLI home video recorder 📼
-- [charmbracelet/skate](https://github.com/charmbracelet/skate) ([v0.2.2](https://github.com/charmbracelet/skate/releases/tag/v0.2.2), 2 days ago) - A personal key value store 🛼
+- [charmbracelet/charm](https://github.com/charmbracelet/charm) ([v0.12.5](https://github.com/charmbracelet/charm/releases/tag/v0.12.5), 3 days ago) - The Charm Tool and Library 🌟
+- [charmbracelet/soft-serve](https://github.com/charmbracelet/soft-serve) ([v0.4.6](https://github.com/charmbracelet/soft-serve/releases/tag/v0.4.6), 3 days ago) - A tasty, self-hostable Git server for the command line🍦
+- [charmbracelet/vhs](https://github.com/charmbracelet/vhs) ([v0.3.0](https://github.com/charmbracelet/vhs/releases/tag/v0.3.0), 3 days ago) - Your CLI home video recorder 📼
+- [charmbracelet/skate](https://github.com/charmbracelet/skate) ([v0.2.2](https://github.com/charmbracelet/skate/releases/tag/v0.2.2), 3 days ago) - A personal key value store 🛼
 - [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) ([v0.23.2](https://github.com/charmbracelet/bubbletea/releases/tag/v0.23.2), 2 weeks ago) - A powerful little TUI framework 🏗
 
 #### 🔨 Latest Pull Requests I published
 
-- [fix: don&#39;t concurrently change output profiles](https://github.com/charmbracelet/lipgloss/pull/172) on [charmbracelet/lipgloss](https://github.com/charmbracelet/lipgloss) (1 day ago)
+- [fix: don&#39;t concurrently change output profiles](https://github.com/charmbracelet/lipgloss/pull/172) on [charmbracelet/lipgloss](https://github.com/charmbracelet/lipgloss) (2 days ago)
 - [chore: disable dependabot timer](https://github.com/charmbracelet/bubbletea/pull/608) on [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) (3 months ago)
 - [chore: disable dependabot timer](https://github.com/charmbracelet/glow/pull/419) on [charmbracelet/glow](https://github.com/charmbracelet/glow) (3 months ago)
 - [chore: add dependabot config](https://github.com/muesli/markscribe/pull/55) on [muesli/markscribe](https://github.com/muesli/markscribe) (3 months ago)
@@ -52,10 +52,10 @@ Want your own self-generating profile page? Check out [readme-scribe](https://gi
 
 #### ⭐ Recent stars
 
-- [charmbracelet/log](https://github.com/charmbracelet/log) - A minimal, colorful Go logging library 🪵 (1 day ago)
+- [charmbracelet/log](https://github.com/charmbracelet/log) - A minimal, colorful Go logging library 🪵 (2 days ago)
 - [streetcomplete/StreetComplete](https://github.com/streetcomplete/StreetComplete) - Easy to use OpenStreetMap editor for Android (1 week ago)
 - [ljanyst/ghostscad](https://github.com/ljanyst/ghostscad) - GhostSCAD enables you to programatically build complex 3D models in Go and render them in OpenSCAD (1 week ago)
-- [MakeMagazinDE/3-in-1-Werkbank](https://github.com/MakeMagazinDE/3-in-1-Werkbank) (2 weeks ago)
+- [MakeMagazinDE/3-in-1-Werkbank](https://github.com/MakeMagazinDE/3-in-1-Werkbank) (3 weeks ago)
 - [brianstrauch/solitaire-tui](https://github.com/brianstrauch/solitaire-tui) - Klondike solitaire for the terminal (3 weeks ago)
 
 #### ❤️ These awesome people sponsor me (thank you!)
