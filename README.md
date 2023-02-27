@@ -28,11 +28,11 @@ Want your own self-generating profile page? Check out [readme-scribe](https://gi
 
 #### 🔭 Latest releases I've contributed to
 
+- [sn4k3/UVtools](https://github.com/sn4k3/UVtools) ([v3.12.0](https://github.com/sn4k3/UVtools/releases/tag/v3.12.0), today) - MSLA/DLP, file analysis, calibration, repair, conversion and manipulation
 - [charmbracelet/charm](https://github.com/charmbracelet/charm) ([v0.12.5](https://github.com/charmbracelet/charm/releases/tag/v0.12.5), 6 days ago) - The Charm Tool and Library 🌟
 - [charmbracelet/soft-serve](https://github.com/charmbracelet/soft-serve) ([v0.4.6](https://github.com/charmbracelet/soft-serve/releases/tag/v0.4.6), 6 days ago) - A tasty, self-hostable Git server for the command line🍦
 - [charmbracelet/vhs](https://github.com/charmbracelet/vhs) ([v0.3.0](https://github.com/charmbracelet/vhs/releases/tag/v0.3.0), 6 days ago) - Your CLI home video recorder 📼
 - [charmbracelet/skate](https://github.com/charmbracelet/skate) ([v0.2.2](https://github.com/charmbracelet/skate/releases/tag/v0.2.2), 6 days ago) - A personal key value store 🛼
-- [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) ([v0.23.2](https://github.com/charmbracelet/bubbletea/releases/tag/v0.23.2), 2 weeks ago) - A powerful little TUI framework 🏗
 
 #### 🔨 Latest Pull Requests I published
 
