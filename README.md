@@ -12,7 +12,7 @@ Want your own self-generating profile page? Check out [readme-scribe](https://gi
 
 #### 👷 Check out what I'm currently working on
 
-- [charmbracelet/lipgloss](https://github.com/charmbracelet/lipgloss) - Style definitions for nice terminal layouts 👄 (6 days ago)
+- [charmbracelet/lipgloss](https://github.com/charmbracelet/lipgloss) - Style definitions for nice terminal layouts 👄 (1 week ago)
 - [charmbracelet/skate](https://github.com/charmbracelet/skate) - A personal key value store 🛼 (3 months ago)
 - [charmbracelet/wish](https://github.com/charmbracelet/wish) - Make SSH apps, just like that! 💫 (3 months ago)
 - [charmbracelet/wishlist](https://github.com/charmbracelet/wishlist) - The SSH directory ✨ (3 months ago)
@@ -28,7 +28,7 @@ Want your own self-generating profile page? Check out [readme-scribe](https://gi
 
 #### 🔭 Latest releases I've contributed to
 
-- [sn4k3/UVtools](https://github.com/sn4k3/UVtools) ([v3.12.0](https://github.com/sn4k3/UVtools/releases/tag/v3.12.0), 1 day ago) - MSLA/DLP, file analysis, calibration, repair, conversion and manipulation
+- [sn4k3/UVtools](https://github.com/sn4k3/UVtools) ([v3.12.0](https://github.com/sn4k3/UVtools/releases/tag/v3.12.0), 2 days ago) - MSLA/DLP, file analysis, calibration, repair, conversion and manipulation
 - [charmbracelet/charm](https://github.com/charmbracelet/charm) ([v0.12.5](https://github.com/charmbracelet/charm/releases/tag/v0.12.5), 1 week ago) - The Charm Tool and Library 🌟
 - [charmbracelet/soft-serve](https://github.com/charmbracelet/soft-serve) ([v0.4.6](https://github.com/charmbracelet/soft-serve/releases/tag/v0.4.6), 1 week ago) - A tasty, self-hostable Git server for the command line🍦
 - [charmbracelet/vhs](https://github.com/charmbracelet/vhs) ([v0.3.0](https://github.com/charmbracelet/vhs/releases/tag/v0.3.0), 1 week ago) - Your CLI home video recorder 📼
@@ -36,7 +36,7 @@ Want your own self-generating profile page? Check out [readme-scribe](https://gi
 
 #### 🔨 Latest Pull Requests I published
 
-- [fix: don&#39;t concurrently change output profiles](https://github.com/charmbracelet/lipgloss/pull/172) on [charmbracelet/lipgloss](https://github.com/charmbracelet/lipgloss) (6 days ago)
+- [fix: don&#39;t concurrently change output profiles](https://github.com/charmbracelet/lipgloss/pull/172) on [charmbracelet/lipgloss](https://github.com/charmbracelet/lipgloss) (1 week ago)
 - [chore: disable dependabot timer](https://github.com/charmbracelet/bubbletea/pull/608) on [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) (3 months ago)
 - [chore: disable dependabot timer](https://github.com/charmbracelet/glow/pull/419) on [charmbracelet/glow](https://github.com/charmbracelet/glow) (3 months ago)
 - [chore: add dependabot config](https://github.com/muesli/markscribe/pull/55) on [muesli/markscribe](https://github.com/muesli/markscribe) (3 months ago)
@@ -52,8 +52,8 @@ Want your own self-generating profile page? Check out [readme-scribe](https://gi
 
 #### ⭐ Recent stars
 
-- [charmbracelet/log](https://github.com/charmbracelet/log) - A minimal, colorful Go logging library 🪵 (6 days ago)
-- [streetcomplete/StreetComplete](https://github.com/streetcomplete/StreetComplete) - Easy to use OpenStreetMap editor for Android (1 week ago)
+- [charmbracelet/log](https://github.com/charmbracelet/log) - A minimal, colorful Go logging library 🪵 (1 week ago)
+- [streetcomplete/StreetComplete](https://github.com/streetcomplete/StreetComplete) - Easy to use OpenStreetMap editor for Android (2 weeks ago)
 - [ljanyst/ghostscad](https://github.com/ljanyst/ghostscad) - GhostSCAD enables you to programatically build complex 3D models in Go and render them in OpenSCAD (2 weeks ago)
 - [MakeMagazinDE/3-in-1-Werkbank](https://github.com/MakeMagazinDE/3-in-1-Werkbank) (3 weeks ago)
 - [brianstrauch/solitaire-tui](https://github.com/brianstrauch/solitaire-tui) - Klondike solitaire for the terminal (4 weeks ago)
