@@ -12,8 +12,8 @@ Want your own self-generating profile page? Check out [readme-scribe](https://gi
 
 #### 👷 Check out what I'm currently working on
 
-- [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) - A powerful little TUI framework 🏗 (1 day ago)
-- [charmbracelet/lipgloss](https://github.com/charmbracelet/lipgloss) - Style definitions for nice terminal layouts 👄 (1 week ago)
+- [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) - A powerful little TUI framework 🏗 (2 days ago)
+- [charmbracelet/lipgloss](https://github.com/charmbracelet/lipgloss) - Style definitions for nice terminal layouts 👄 (2 weeks ago)
 - [charmbracelet/melt](https://github.com/charmbracelet/melt) - 🧊 Backup and restore Ed25519 SSH keys with seed words. (3 months ago)
 - [charmbracelet/wish](https://github.com/charmbracelet/wish) - Make SSH apps, just like that! 💫 (3 months ago)
 - [charmbracelet/vhs](https://github.com/charmbracelet/vhs) - Your CLI home video recorder 📼 (3 months ago)
@@ -28,7 +28,7 @@ Want your own self-generating profile page? Check out [readme-scribe](https://gi
 
 #### 🔭 Latest releases I've contributed to
 
-- [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) ([v1.16.0](https://github.com/goreleaser/goreleaser/releases/tag/v1.16.0), today) - Deliver Go binaries as fast and easily as possible
+- [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) ([v1.16.0](https://github.com/goreleaser/goreleaser/releases/tag/v1.16.0), 1 day ago) - Deliver Go binaries as fast and easily as possible
 - [sn4k3/UVtools](https://github.com/sn4k3/UVtools) ([v3.12.0](https://github.com/sn4k3/UVtools/releases/tag/v3.12.0), 1 week ago) - MSLA/DLP, file analysis, calibration, repair, conversion and manipulation
 - [charmbracelet/charm](https://github.com/charmbracelet/charm) ([v0.12.5](https://github.com/charmbracelet/charm/releases/tag/v0.12.5), 2 weeks ago) - The Charm Tool and Library 🌟
 - [charmbracelet/soft-serve](https://github.com/charmbracelet/soft-serve) ([v0.4.6](https://github.com/charmbracelet/soft-serve/releases/tag/v0.4.6), 2 weeks ago) - A tasty, self-hostable Git server for the command line🍦
@@ -36,10 +36,10 @@ Want your own self-generating profile page? Check out [readme-scribe](https://gi
 
 #### 🔨 Latest Pull Requests I published
 
-- [chore: switch to soft fork of containerd/console](https://github.com/charmbracelet/bubbletea/pull/688) on [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) (today)
-- [fix: stop renderer before launching a child process.](https://github.com/charmbracelet/bubbletea/pull/686) on [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) (1 day ago)
-- [fix: renderer only stops once](https://github.com/charmbracelet/bubbletea/pull/685) on [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) (1 day ago)
-- [fix: don&#39;t concurrently change output profiles](https://github.com/charmbracelet/lipgloss/pull/172) on [charmbracelet/lipgloss](https://github.com/charmbracelet/lipgloss) (1 week ago)
+- [chore: switch to soft fork of containerd/console](https://github.com/charmbracelet/bubbletea/pull/688) on [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) (1 day ago)
+- [fix: stop renderer before launching a child process.](https://github.com/charmbracelet/bubbletea/pull/686) on [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) (2 days ago)
+- [fix: renderer only stops once](https://github.com/charmbracelet/bubbletea/pull/685) on [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) (2 days ago)
+- [fix: don&#39;t concurrently change output profiles](https://github.com/charmbracelet/lipgloss/pull/172) on [charmbracelet/lipgloss](https://github.com/charmbracelet/lipgloss) (2 weeks ago)
 - [chore: disable dependabot timer](https://github.com/charmbracelet/bubbletea/pull/608) on [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) (3 months ago)
 
 #### 📜 My recent blog posts
@@ -52,8 +52,8 @@ Want your own self-generating profile page? Check out [readme-scribe](https://gi
 
 #### ⭐ Recent stars
 
-- [charmbracelet/log](https://github.com/charmbracelet/log) - A minimal, colorful Go logging library 🪵 (1 week ago)
-- [streetcomplete/StreetComplete](https://github.com/streetcomplete/StreetComplete) - Easy to use OpenStreetMap editor for Android (2 weeks ago)
+- [charmbracelet/log](https://github.com/charmbracelet/log) - A minimal, colorful Go logging library 🪵 (2 weeks ago)
+- [streetcomplete/StreetComplete](https://github.com/streetcomplete/StreetComplete) - Easy to use OpenStreetMap editor for Android (3 weeks ago)
 - [ljanyst/ghostscad](https://github.com/ljanyst/ghostscad) - GhostSCAD enables you to programatically build complex 3D models in Go and render them in OpenSCAD (3 weeks ago)
 - [MakeMagazinDE/3-in-1-Werkbank](https://github.com/MakeMagazinDE/3-in-1-Werkbank) (1 month ago)
 - [brianstrauch/solitaire-tui](https://github.com/brianstrauch/solitaire-tui) - Klondike solitaire for the terminal (1 month ago)
@@ -61,7 +61,7 @@ Want your own self-generating profile page? Check out [readme-scribe](https://gi
 #### ❤️ These awesome people sponsor me (thank you!)
 
 - [sonr-io](https://github.com/sonr-io) (3 months ago)
-- [indeedeng](https://github.com/indeedeng) (3 months ago)
+- [indeedeng](https://github.com/indeedeng) (4 months ago)
 - [icco](https://github.com/icco) (6 months ago)
 - [SimonWaldherr](https://github.com/SimonWaldherr) (7 months ago)
 - [twpayne](https://github.com/twpayne) (1 year ago)
