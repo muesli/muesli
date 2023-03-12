@@ -12,11 +12,11 @@ Want your own self-generating profile page? Check out [readme-scribe](https://gi
 
 #### 👷 Check out what I'm currently working on
 
+- [muesli/streamdeck](https://github.com/muesli/streamdeck) - An application and Go library to control your Elgato Stream Deck on Linux (today)
+- [muesli/deckmaster](https://github.com/muesli/deckmaster) - An application to control your Elgato Stream Deck on Linux (today)
 - [charmbracelet/lipgloss](https://github.com/charmbracelet/lipgloss) - Style definitions for nice terminal layouts 👄 (3 days ago)
 - [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) - A powerful little TUI framework 🏗 (6 days ago)
-- [charmbracelet/melt](https://github.com/charmbracelet/melt) - 🧊 Backup and restore Ed25519 SSH keys with seed words. (3 months ago)
-- [charmbracelet/wish](https://github.com/charmbracelet/wish) - Make SSH apps, just like that! 💫 (3 months ago)
-- [charmbracelet/vhs](https://github.com/charmbracelet/vhs) - Your CLI home video recorder 📼 (3 months ago)
+- [charmbracelet/charm](https://github.com/charmbracelet/charm) - The Charm Tool and Library 🌟 (3 months ago)
 
 #### 🌱 My latest projects
 
@@ -28,19 +28,19 @@ Want your own self-generating profile page? Check out [readme-scribe](https://gi
 
 #### 🔭 Latest releases I've contributed to
 
+- [muesli/streamdeck](https://github.com/muesli/streamdeck) ([v0.4.0](https://github.com/muesli/streamdeck/releases/tag/v0.4.0), today) - An application and Go library to control your Elgato Stream Deck on Linux
 - [charmbracelet/lipgloss](https://github.com/charmbracelet/lipgloss) ([v0.7.1](https://github.com/charmbracelet/lipgloss/releases/tag/v0.7.1), 3 days ago) - Style definitions for nice terminal layouts 👄
 - [muesli/termenv](https://github.com/muesli/termenv) ([v0.15.1](https://github.com/muesli/termenv/releases/tag/v0.15.1), 3 days ago) - Advanced ANSI style &amp; color support for your terminal applications
 - [sn4k3/UVtools](https://github.com/sn4k3/UVtools) ([v3.12.0](https://github.com/sn4k3/UVtools/releases/tag/v3.12.0), 1 week ago) - MSLA/DLP, file analysis, calibration, repair, conversion and manipulation
 - [charmbracelet/charm](https://github.com/charmbracelet/charm) ([v0.12.5](https://github.com/charmbracelet/charm/releases/tag/v0.12.5), 2 weeks ago) - The Charm Tool and Library 🌟
-- [charmbracelet/soft-serve](https://github.com/charmbracelet/soft-serve) ([v0.4.6](https://github.com/charmbracelet/soft-serve/releases/tag/v0.4.6), 2 weeks ago) - A tasty, self-hostable Git server for the command line🍦
 
 #### 🔨 Latest Pull Requests I published
 
+- [chore: bump streamdeck to v0.4.0](https://github.com/muesli/deckmaster/pull/116) on [muesli/deckmaster](https://github.com/muesli/deckmaster) (today)
 - [chore: bump termenv to v0.15.1](https://github.com/charmbracelet/lipgloss/pull/180) on [charmbracelet/lipgloss](https://github.com/charmbracelet/lipgloss) (3 days ago)
 - [chore: switch to soft fork of containerd/console](https://github.com/charmbracelet/bubbletea/pull/688) on [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) (5 days ago)
 - [fix: stop renderer before launching a child process.](https://github.com/charmbracelet/bubbletea/pull/686) on [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) (6 days ago)
 - [fix: renderer only stops once](https://github.com/charmbracelet/bubbletea/pull/685) on [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) (6 days ago)
-- [fix: don&#39;t concurrently change output profiles](https://github.com/charmbracelet/lipgloss/pull/172) on [charmbracelet/lipgloss](https://github.com/charmbracelet/lipgloss) (2 weeks ago)
 
 #### 📜 My recent blog posts
 
