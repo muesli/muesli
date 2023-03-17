@@ -63,8 +63,8 @@ Want your own self-generating profile page? Check out [readme-scribe](https://gi
 - [sonr-io](https://github.com/sonr-io) (3 months ago)
 - [indeedeng](https://github.com/indeedeng) (4 months ago)
 - [icco](https://github.com/icco) (6 months ago)
-- [SimonWaldherr](https://github.com/SimonWaldherr) (7 months ago)
 - [twpayne](https://github.com/twpayne) (1 year ago)
+- [crazy-max](https://github.com/crazy-max) (2 years ago)
 
 #### 💬 Feedback
 
