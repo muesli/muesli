@@ -36,11 +36,11 @@ Want your own self-generating profile page? Check out [readme-scribe](https://gi
 
 #### 🔨 Latest Pull Requests I published
 
+- [fix: Cloud Shell supports RGB colors](https://github.com/muesli/termenv/pull/127) on [muesli/termenv](https://github.com/muesli/termenv) (today)
 - [chore: bump console dep](https://github.com/charmbracelet/bubbletea/pull/700) on [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) (1 week ago)
 - [chore: bump Go to 1.17](https://github.com/muesli/duf/pull/233) on [muesli/duf](https://github.com/muesli/duf) (1 week ago)
 - [chore: bump Go to 1.17](https://github.com/muesli/gitty/pull/106) on [muesli/gitty](https://github.com/muesli/gitty) (1 week ago)
 - [chore: bump streamdeck to v0.4.0](https://github.com/muesli/deckmaster/pull/116) on [muesli/deckmaster](https://github.com/muesli/deckmaster) (1 week ago)
-- [chore: bump termenv to v0.15.1](https://github.com/charmbracelet/lipgloss/pull/180) on [charmbracelet/lipgloss](https://github.com/charmbracelet/lipgloss) (1 week ago)
 
 #### 📜 My recent blog posts
 
