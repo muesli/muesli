@@ -28,11 +28,11 @@ Want your own self-generating profile page? Check out [readme-scribe](https://gi
 
 #### 🔭 Latest releases I've contributed to
 
+- [charmbracelet/wishlist](https://github.com/charmbracelet/wishlist) ([v0.10.0](https://github.com/charmbracelet/wishlist/releases/tag/v0.10.0), today) - The SSH directory ✨
 - [sn4k3/UVtools](https://github.com/sn4k3/UVtools) ([v3.12.1](https://github.com/sn4k3/UVtools/releases/tag/v3.12.1), today) - MSLA/DLP, file analysis, calibration, repair, conversion and manipulation
 - [charmbracelet/wish](https://github.com/charmbracelet/wish) ([v1.1.0](https://github.com/charmbracelet/wish/releases/tag/v1.1.0), 2 days ago) - Make SSH apps, just like that! 💫
 - [muesli/deckmaster](https://github.com/muesli/deckmaster) ([v0.9.0](https://github.com/muesli/deckmaster/releases/tag/v0.9.0), 1 week ago) - An application to control your Elgato Stream Deck on Linux
 - [muesli/streamdeck](https://github.com/muesli/streamdeck) ([v0.4.0](https://github.com/muesli/streamdeck/releases/tag/v0.4.0), 1 week ago) - An application and Go library to control your Elgato Stream Deck on Linux
-- [charmbracelet/lipgloss](https://github.com/charmbracelet/lipgloss) ([v0.7.1](https://github.com/charmbracelet/lipgloss/releases/tag/v0.7.1), 1 week ago) - Style definitions for nice terminal layouts 👄
 
 #### 🔨 Latest Pull Requests I published
 
