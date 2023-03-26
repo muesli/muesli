@@ -13,10 +13,10 @@ Want your own self-generating profile page? Check out [readme-scribe](https://gi
 #### 👷 Check out what I'm currently working on
 
 - [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) - A powerful little TUI framework 🏗 (1 week ago)
-- [muesli/gitty](https://github.com/muesli/gitty) - Contextual information about your git projects, right on the command-line (1 week ago)
-- [muesli/deckmaster](https://github.com/muesli/deckmaster) - An application to control your Elgato Stream Deck on Linux (1 week ago)
-- [muesli/duf](https://github.com/muesli/duf) - Disk Usage/Free Utility - a better &#39;df&#39; alternative (1 week ago)
-- [muesli/streamdeck](https://github.com/muesli/streamdeck) - An application and Go library to control your Elgato Stream Deck on Linux (1 week ago)
+- [muesli/gitty](https://github.com/muesli/gitty) - Contextual information about your git projects, right on the command-line (2 weeks ago)
+- [muesli/deckmaster](https://github.com/muesli/deckmaster) - An application to control your Elgato Stream Deck on Linux (2 weeks ago)
+- [muesli/duf](https://github.com/muesli/duf) - Disk Usage/Free Utility - a better &#39;df&#39; alternative (2 weeks ago)
+- [muesli/streamdeck](https://github.com/muesli/streamdeck) - An application and Go library to control your Elgato Stream Deck on Linux (2 weeks ago)
 
 #### 🌱 My latest projects
 
@@ -28,19 +28,19 @@ Want your own self-generating profile page? Check out [readme-scribe](https://gi
 
 #### 🔭 Latest releases I've contributed to
 
-- [charmbracelet/wishlist](https://github.com/charmbracelet/wishlist) ([v0.10.0](https://github.com/charmbracelet/wishlist/releases/tag/v0.10.0), 3 days ago) - The SSH directory ✨
-- [sn4k3/UVtools](https://github.com/sn4k3/UVtools) ([v3.12.1](https://github.com/sn4k3/UVtools/releases/tag/v3.12.1), 3 days ago) - MSLA/DLP, file analysis, calibration, repair, conversion and manipulation
-- [charmbracelet/wish](https://github.com/charmbracelet/wish) ([v1.1.0](https://github.com/charmbracelet/wish/releases/tag/v1.1.0), 5 days ago) - Make SSH apps, just like that! 💫
-- [muesli/deckmaster](https://github.com/muesli/deckmaster) ([v0.9.0](https://github.com/muesli/deckmaster/releases/tag/v0.9.0), 1 week ago) - An application to control your Elgato Stream Deck on Linux
-- [muesli/streamdeck](https://github.com/muesli/streamdeck) ([v0.4.0](https://github.com/muesli/streamdeck/releases/tag/v0.4.0), 1 week ago) - An application and Go library to control your Elgato Stream Deck on Linux
+- [charmbracelet/wishlist](https://github.com/charmbracelet/wishlist) ([v0.10.0](https://github.com/charmbracelet/wishlist/releases/tag/v0.10.0), 4 days ago) - The SSH directory ✨
+- [sn4k3/UVtools](https://github.com/sn4k3/UVtools) ([v3.12.1](https://github.com/sn4k3/UVtools/releases/tag/v3.12.1), 4 days ago) - MSLA/DLP, file analysis, calibration, repair, conversion and manipulation
+- [charmbracelet/wish](https://github.com/charmbracelet/wish) ([v1.1.0](https://github.com/charmbracelet/wish/releases/tag/v1.1.0), 6 days ago) - Make SSH apps, just like that! 💫
+- [muesli/deckmaster](https://github.com/muesli/deckmaster) ([v0.9.0](https://github.com/muesli/deckmaster/releases/tag/v0.9.0), 2 weeks ago) - An application to control your Elgato Stream Deck on Linux
+- [muesli/streamdeck](https://github.com/muesli/streamdeck) ([v0.4.0](https://github.com/muesli/streamdeck/releases/tag/v0.4.0), 2 weeks ago) - An application and Go library to control your Elgato Stream Deck on Linux
 
 #### 🔨 Latest Pull Requests I published
 
-- [fix: Cloud Shell supports RGB colors](https://github.com/muesli/termenv/pull/127) on [muesli/termenv](https://github.com/muesli/termenv) (5 days ago)
+- [fix: Cloud Shell supports RGB colors](https://github.com/muesli/termenv/pull/127) on [muesli/termenv](https://github.com/muesli/termenv) (6 days ago)
 - [chore: bump console dep](https://github.com/charmbracelet/bubbletea/pull/700) on [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) (1 week ago)
-- [chore: bump Go to 1.17](https://github.com/muesli/duf/pull/233) on [muesli/duf](https://github.com/muesli/duf) (1 week ago)
-- [chore: bump Go to 1.17](https://github.com/muesli/gitty/pull/106) on [muesli/gitty](https://github.com/muesli/gitty) (1 week ago)
-- [chore: bump streamdeck to v0.4.0](https://github.com/muesli/deckmaster/pull/116) on [muesli/deckmaster](https://github.com/muesli/deckmaster) (1 week ago)
+- [chore: bump Go to 1.17](https://github.com/muesli/duf/pull/233) on [muesli/duf](https://github.com/muesli/duf) (2 weeks ago)
+- [chore: bump Go to 1.17](https://github.com/muesli/gitty/pull/106) on [muesli/gitty](https://github.com/muesli/gitty) (2 weeks ago)
+- [chore: bump streamdeck to v0.4.0](https://github.com/muesli/deckmaster/pull/116) on [muesli/deckmaster](https://github.com/muesli/deckmaster) (2 weeks ago)
 
 #### 📜 My recent blog posts
 
