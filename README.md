@@ -52,11 +52,11 @@ Want your own self-generating profile page? Check out [readme-scribe](https://gi
 
 #### ⭐ Recent stars
 
+- [pojntfx/go-nbd](https://github.com/pojntfx/go-nbd) - Pure Go NBD server and client library. (today)
+- [pojntfx/tapisk](https://github.com/pojntfx/tapisk) - Expose a tape drive as a block device. (today)
 - [fabio42/sasqwatch](https://github.com/fabio42/sasqwatch) - A modern take on the classic watch command (2 weeks ago)
 - [fogleman/sdf](https://github.com/fogleman/sdf) - Simple SDF mesh generation in Python (2 weeks ago)
 - [charmbracelet/log](https://github.com/charmbracelet/log) - A minimal, colorful Go logging library 🪵 (1 month ago)
-- [streetcomplete/StreetComplete](https://github.com/streetcomplete/StreetComplete) - Easy to use OpenStreetMap editor for Android (1 month ago)
-- [ljanyst/ghostscad](https://github.com/ljanyst/ghostscad) - GhostSCAD enables you to programatically build complex 3D models in Go and render them in OpenSCAD (1 month ago)
 
 #### ❤️ These awesome people sponsor me (thank you!)
 
