@@ -28,9 +28,9 @@ Want your own self-generating profile page? Check out [readme-scribe](https://gi
 
 #### 🔭 Latest releases I've contributed to
 
+- [sn4k3/UVtools](https://github.com/sn4k3/UVtools) ([v3.12.3](https://github.com/sn4k3/UVtools/releases/tag/v3.12.3), today) - MSLA/DLP, file analysis, calibration, repair, conversion and manipulation
 - [charmbracelet/soft-serve](https://github.com/charmbracelet/soft-serve) ([v0.4.7](https://github.com/charmbracelet/soft-serve/releases/tag/v0.4.7), 3 days ago) - A tasty, self-hostable Git server for the command line🍦
 - [charmbracelet/gum](https://github.com/charmbracelet/gum) ([v0.10.0](https://github.com/charmbracelet/gum/releases/tag/v0.10.0), 4 days ago) - A tool for glamorous shell scripts 🎀
-- [sn4k3/UVtools](https://github.com/sn4k3/UVtools) ([v3.12.2](https://github.com/sn4k3/UVtools/releases/tag/v3.12.2), 4 days ago) - MSLA/DLP, file analysis, calibration, repair, conversion and manipulation
 - [charmbracelet/wishlist](https://github.com/charmbracelet/wishlist) ([v0.10.0](https://github.com/charmbracelet/wishlist/releases/tag/v0.10.0), 1 week ago) - The SSH directory ✨
 - [charmbracelet/wish](https://github.com/charmbracelet/wish) ([v1.1.0](https://github.com/charmbracelet/wish/releases/tag/v1.1.0), 1 week ago) - Make SSH apps, just like that! 💫
 
@@ -60,11 +60,11 @@ Want your own self-generating profile page? Check out [readme-scribe](https://gi
 
 #### ❤️ These awesome people sponsor me (thank you!)
 
-- [sonr-io](https://github.com/sonr-io) (4 months ago)
 - [indeedeng](https://github.com/indeedeng) (4 months ago)
 - [icco](https://github.com/icco) (7 months ago)
 - [twpayne](https://github.com/twpayne) (1 year ago)
 - [crazy-max](https://github.com/crazy-max) (2 years ago)
+- [midzer](https://github.com/midzer) (3 years ago)
 
 #### 💬 Feedback
 
