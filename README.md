@@ -13,9 +13,9 @@ Want your own self-generating profile page? Check out [readme-scribe](https://gi
 #### 👷 Check out what I'm currently working on
 
 - [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) - A powerful little TUI framework 🏗 (2 weeks ago)
-- [muesli/duf](https://github.com/muesli/duf) - Disk Usage/Free Utility - a better &#39;df&#39; alternative (3 weeks ago)
 - [muesli/streamdeck](https://github.com/muesli/streamdeck) - An application and Go library to control your Elgato Stream Deck on Linux (3 weeks ago)
 - [muesli/deckmaster](https://github.com/muesli/deckmaster) - An application to control your Elgato Stream Deck on Linux (3 weeks ago)
+- [muesli/duf](https://github.com/muesli/duf) - Disk Usage/Free Utility - a better &#39;df&#39; alternative (3 weeks ago)
 - [muesli/gitty](https://github.com/muesli/gitty) - Contextual information about your git projects, right on the command-line (3 weeks ago)
 
 #### 🌱 My latest projects
