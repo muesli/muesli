@@ -28,16 +28,16 @@ Want your own self-generating profile page? Check out [readme-scribe](https://gi
 
 #### 🔭 Latest releases I've contributed to
 
-- [sn4k3/UVtools](https://github.com/sn4k3/UVtools) ([v3.12.3](https://github.com/sn4k3/UVtools/releases/tag/v3.12.3), 2 days ago) - MSLA/DLP, file analysis, calibration, repair, conversion and manipulation
-- [charmbracelet/soft-serve](https://github.com/charmbracelet/soft-serve) ([v0.4.7](https://github.com/charmbracelet/soft-serve/releases/tag/v0.4.7), 5 days ago) - A tasty, self-hostable Git server for the command line🍦
-- [charmbracelet/gum](https://github.com/charmbracelet/gum) ([v0.10.0](https://github.com/charmbracelet/gum/releases/tag/v0.10.0), 6 days ago) - A tool for glamorous shell scripts 🎀
+- [sn4k3/UVtools](https://github.com/sn4k3/UVtools) ([v3.12.3](https://github.com/sn4k3/UVtools/releases/tag/v3.12.3), 3 days ago) - MSLA/DLP, file analysis, calibration, repair, conversion and manipulation
+- [charmbracelet/soft-serve](https://github.com/charmbracelet/soft-serve) ([v0.4.7](https://github.com/charmbracelet/soft-serve/releases/tag/v0.4.7), 6 days ago) - A tasty, self-hostable Git server for the command line🍦
+- [charmbracelet/gum](https://github.com/charmbracelet/gum) ([v0.10.0](https://github.com/charmbracelet/gum/releases/tag/v0.10.0), 1 week ago) - A tool for glamorous shell scripts 🎀
 - [charmbracelet/wishlist](https://github.com/charmbracelet/wishlist) ([v0.10.0](https://github.com/charmbracelet/wishlist/releases/tag/v0.10.0), 1 week ago) - The SSH directory ✨
-- [charmbracelet/wish](https://github.com/charmbracelet/wish) ([v1.1.0](https://github.com/charmbracelet/wish/releases/tag/v1.1.0), 1 week ago) - Make SSH apps, just like that! 💫
+- [charmbracelet/wish](https://github.com/charmbracelet/wish) ([v1.1.0](https://github.com/charmbracelet/wish/releases/tag/v1.1.0), 2 weeks ago) - Make SSH apps, just like that! 💫
 
 #### 🔨 Latest Pull Requests I published
 
-- [fix: Cloud Shell supports RGB colors](https://github.com/muesli/termenv/pull/127) on [muesli/termenv](https://github.com/muesli/termenv) (1 week ago)
-- [chore: bump console dep](https://github.com/charmbracelet/bubbletea/pull/700) on [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) (2 weeks ago)
+- [fix: Cloud Shell supports RGB colors](https://github.com/muesli/termenv/pull/127) on [muesli/termenv](https://github.com/muesli/termenv) (2 weeks ago)
+- [chore: bump console dep](https://github.com/charmbracelet/bubbletea/pull/700) on [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) (3 weeks ago)
 - [chore: bump Go to 1.17](https://github.com/muesli/duf/pull/233) on [muesli/duf](https://github.com/muesli/duf) (3 weeks ago)
 - [chore: bump Go to 1.17](https://github.com/muesli/gitty/pull/106) on [muesli/gitty](https://github.com/muesli/gitty) (3 weeks ago)
 - [chore: bump streamdeck to v0.4.0](https://github.com/muesli/deckmaster/pull/116) on [muesli/deckmaster](https://github.com/muesli/deckmaster) (3 weeks ago)
@@ -52,8 +52,8 @@ Want your own self-generating profile page? Check out [readme-scribe](https://gi
 
 #### ⭐ Recent stars
 
-- [pojntfx/go-nbd](https://github.com/pojntfx/go-nbd) - Pure Go NBD server and client library. (2 days ago)
-- [pojntfx/tapisk](https://github.com/pojntfx/tapisk) - Expose a tape drive as a block device. (2 days ago)
+- [pojntfx/go-nbd](https://github.com/pojntfx/go-nbd) - Pure Go NBD server and client library. (3 days ago)
+- [pojntfx/tapisk](https://github.com/pojntfx/tapisk) - Expose a tape drive as a block device. (3 days ago)
 - [fabio42/sasqwatch](https://github.com/fabio42/sasqwatch) - A modern take on the classic watch command (2 weeks ago)
 - [fogleman/sdf](https://github.com/fogleman/sdf) - Simple SDF mesh generation in Python (2 weeks ago)
 - [charmbracelet/log](https://github.com/charmbracelet/log) - A minimal, colorful Go logging library 🪵 (1 month ago)
