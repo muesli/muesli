@@ -12,11 +12,11 @@ Want your own self-generating profile page? Check out [readme-scribe](https://gi
 
 #### 👷 Check out what I'm currently working on
 
+- [muesli/termenv](https://github.com/muesli/termenv) - Advanced ANSI style &amp; color support for your terminal applications (2 weeks ago)
 - [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) - A powerful little TUI framework 🏗 (2 weeks ago)
 - [muesli/streamdeck](https://github.com/muesli/streamdeck) - An application and Go library to control your Elgato Stream Deck on Linux (3 weeks ago)
 - [muesli/deckmaster](https://github.com/muesli/deckmaster) - An application to control your Elgato Stream Deck on Linux (3 weeks ago)
 - [muesli/duf](https://github.com/muesli/duf) - Disk Usage/Free Utility - a better &#39;df&#39; alternative (3 weeks ago)
-- [muesli/gitty](https://github.com/muesli/gitty) - Contextual information about your git projects, right on the command-line (3 weeks ago)
 
 #### 🌱 My latest projects
 
@@ -36,11 +36,11 @@ Want your own self-generating profile page? Check out [readme-scribe](https://gi
 
 #### 🔨 Latest Pull Requests I published
 
+- [chore: bump termenv, lipgloss, x/term](https://github.com/charmbracelet/bubbletea/pull/711) on [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) (today)
 - [fix: Cloud Shell supports RGB colors](https://github.com/muesli/termenv/pull/127) on [muesli/termenv](https://github.com/muesli/termenv) (2 weeks ago)
 - [chore: bump console dep](https://github.com/charmbracelet/bubbletea/pull/700) on [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) (3 weeks ago)
 - [chore: bump Go to 1.17](https://github.com/muesli/duf/pull/233) on [muesli/duf](https://github.com/muesli/duf) (3 weeks ago)
 - [chore: bump Go to 1.17](https://github.com/muesli/gitty/pull/106) on [muesli/gitty](https://github.com/muesli/gitty) (3 weeks ago)
-- [chore: bump streamdeck to v0.4.0](https://github.com/muesli/deckmaster/pull/116) on [muesli/deckmaster](https://github.com/muesli/deckmaster) (3 weeks ago)
 
 #### 📜 My recent blog posts
 
