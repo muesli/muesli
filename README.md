@@ -12,7 +12,7 @@ Want your own self-generating profile page? Check out [readme-scribe](https://gi
 
 #### 👷 Check out what I'm currently working on
 
-- [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) - A powerful little TUI framework 🏗 (1 day ago)
+- [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) - A powerful little TUI framework 🏗 (2 days ago)
 - [muesli/termenv](https://github.com/muesli/termenv) - Advanced ANSI style &amp; color support for your terminal applications (2 weeks ago)
 - [muesli/streamdeck](https://github.com/muesli/streamdeck) - An application and Go library to control your Elgato Stream Deck on Linux (3 weeks ago)
 - [muesli/deckmaster](https://github.com/muesli/deckmaster) - An application to control your Elgato Stream Deck on Linux (3 weeks ago)
@@ -28,15 +28,15 @@ Want your own self-generating profile page? Check out [readme-scribe](https://gi
 
 #### 🔭 Latest releases I've contributed to
 
-- [charmbracelet/vhs](https://github.com/charmbracelet/vhs) ([v0.4.0](https://github.com/charmbracelet/vhs/releases/tag/v0.4.0), today) - Your CLI home video recorder 📼
-- [sn4k3/UVtools](https://github.com/sn4k3/UVtools) ([v3.12.3](https://github.com/sn4k3/UVtools/releases/tag/v3.12.3), 5 days ago) - MSLA/DLP, file analysis, calibration, repair, conversion and manipulation
+- [charmbracelet/vhs](https://github.com/charmbracelet/vhs) ([v0.4.0](https://github.com/charmbracelet/vhs/releases/tag/v0.4.0), 1 day ago) - Your CLI home video recorder 📼
+- [sn4k3/UVtools](https://github.com/sn4k3/UVtools) ([v3.12.3](https://github.com/sn4k3/UVtools/releases/tag/v3.12.3), 6 days ago) - MSLA/DLP, file analysis, calibration, repair, conversion and manipulation
 - [charmbracelet/soft-serve](https://github.com/charmbracelet/soft-serve) ([v0.4.7](https://github.com/charmbracelet/soft-serve/releases/tag/v0.4.7), 1 week ago) - A tasty, self-hostable Git server for the command line🍦
 - [charmbracelet/gum](https://github.com/charmbracelet/gum) ([v0.10.0](https://github.com/charmbracelet/gum/releases/tag/v0.10.0), 1 week ago) - A tool for glamorous shell scripts 🎀
 - [charmbracelet/wishlist](https://github.com/charmbracelet/wishlist) ([v0.10.0](https://github.com/charmbracelet/wishlist/releases/tag/v0.10.0), 2 weeks ago) - The SSH directory ✨
 
 #### 🔨 Latest Pull Requests I published
 
-- [chore: bump termenv, lipgloss, x/term](https://github.com/charmbracelet/bubbletea/pull/711) on [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) (1 day ago)
+- [chore: bump termenv, lipgloss, x/term](https://github.com/charmbracelet/bubbletea/pull/711) on [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) (2 days ago)
 - [fix: Cloud Shell supports RGB colors](https://github.com/muesli/termenv/pull/127) on [muesli/termenv](https://github.com/muesli/termenv) (2 weeks ago)
 - [chore: bump console dep](https://github.com/charmbracelet/bubbletea/pull/700) on [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) (3 weeks ago)
 - [chore: bump Go to 1.17](https://github.com/muesli/duf/pull/233) on [muesli/duf](https://github.com/muesli/duf) (3 weeks ago)
@@ -52,10 +52,10 @@ Want your own self-generating profile page? Check out [readme-scribe](https://gi
 
 #### ⭐ Recent stars
 
-- [pojntfx/go-nbd](https://github.com/pojntfx/go-nbd) - Pure Go NBD server and client library. (5 days ago)
-- [pojntfx/tapisk](https://github.com/pojntfx/tapisk) - Expose a tape drive as a block device. (5 days ago)
-- [fabio42/sasqwatch](https://github.com/fabio42/sasqwatch) - A modern take on the classic watch command (2 weeks ago)
-- [fogleman/sdf](https://github.com/fogleman/sdf) - Simple SDF mesh generation in Python (2 weeks ago)
+- [pojntfx/go-nbd](https://github.com/pojntfx/go-nbd) - Pure Go NBD server and client library. (6 days ago)
+- [pojntfx/tapisk](https://github.com/pojntfx/tapisk) - Expose a tape drive as a block device. (6 days ago)
+- [fabio42/sasqwatch](https://github.com/fabio42/sasqwatch) - A modern take on the classic watch command (3 weeks ago)
+- [fogleman/sdf](https://github.com/fogleman/sdf) - Simple SDF mesh generation in Python (3 weeks ago)
 - [charmbracelet/log](https://github.com/charmbracelet/log) - A minimal, colorful Go logging library 🪵 (1 month ago)
 
 #### ❤️ These awesome people sponsor me (thank you!)
