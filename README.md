@@ -28,7 +28,7 @@ Want your own self-generating profile page? Check out [readme-scribe](https://gi
 
 #### 🔭 Latest releases I've contributed to
 
-- [charmbracelet/keygen](https://github.com/charmbracelet/keygen) ([v0.4.0](https://github.com/charmbracelet/keygen/releases/tag/v0.4.0), today) - An SSH key pair generator 🗝️
+- [charmbracelet/keygen](https://github.com/charmbracelet/keygen) ([v0.4.1](https://github.com/charmbracelet/keygen/releases/tag/v0.4.1), today) - An SSH key pair generator 🗝️
 - [charmbracelet/vhs](https://github.com/charmbracelet/vhs) ([v0.4.0](https://github.com/charmbracelet/vhs/releases/tag/v0.4.0), 6 days ago) - Your CLI home video recorder 📼
 - [sn4k3/UVtools](https://github.com/sn4k3/UVtools) ([v3.12.3](https://github.com/sn4k3/UVtools/releases/tag/v3.12.3), 1 week ago) - MSLA/DLP, file analysis, calibration, repair, conversion and manipulation
 - [charmbracelet/soft-serve](https://github.com/charmbracelet/soft-serve) ([v0.4.7](https://github.com/charmbracelet/soft-serve/releases/tag/v0.4.7), 2 weeks ago) - A tasty, self-hostable Git server for the command line🍦
