@@ -52,11 +52,11 @@ Want your own self-generating profile page? Check out [readme-scribe](https://gi
 
 #### ⭐ Recent stars
 
+- [elk-zone/elk](https://github.com/elk-zone/elk) - A nimble Mastodon web client (today)
 - [pojntfx/go-nbd](https://github.com/pojntfx/go-nbd) - Pure Go NBD server and client library. (1 week ago)
 - [pojntfx/tapisk](https://github.com/pojntfx/tapisk) - Expose a tape drive as a block device. (1 week ago)
 - [fabio42/sasqwatch](https://github.com/fabio42/sasqwatch) - A modern take on the classic watch command (4 weeks ago)
 - [fogleman/sdf](https://github.com/fogleman/sdf) - Simple SDF mesh generation in Python (4 weeks ago)
-- [charmbracelet/log](https://github.com/charmbracelet/log) - A minimal, colorful Go logging library 🪵 (1 month ago)
 
 #### ❤️ These awesome people sponsor me (thank you!)
 
