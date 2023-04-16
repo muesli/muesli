@@ -28,7 +28,7 @@ Want your own self-generating profile page? Check out [readme-scribe](https://gi
 
 #### 🔭 Latest releases I've contributed to
 
-- [charmbracelet/keygen](https://github.com/charmbracelet/keygen) ([v0.4.1](https://github.com/charmbracelet/keygen/releases/tag/v0.4.1), 4 days ago) - An SSH key pair generator 🗝️
+- [charmbracelet/keygen](https://github.com/charmbracelet/keygen) ([v0.4.1](https://github.com/charmbracelet/keygen/releases/tag/v0.4.1), 5 days ago) - An SSH key pair generator 🗝️
 - [charmbracelet/vhs](https://github.com/charmbracelet/vhs) ([v0.4.0](https://github.com/charmbracelet/vhs/releases/tag/v0.4.0), 1 week ago) - Your CLI home video recorder 📼
 - [sn4k3/UVtools](https://github.com/sn4k3/UVtools) ([v3.12.3](https://github.com/sn4k3/UVtools/releases/tag/v3.12.3), 2 weeks ago) - MSLA/DLP, file analysis, calibration, repair, conversion and manipulation
 - [charmbracelet/soft-serve](https://github.com/charmbracelet/soft-serve) ([v0.4.7](https://github.com/charmbracelet/soft-serve/releases/tag/v0.4.7), 2 weeks ago) - A tasty, self-hostable Git server for the command line🍦
@@ -52,7 +52,7 @@ Want your own self-generating profile page? Check out [readme-scribe](https://gi
 
 #### ⭐ Recent stars
 
-- [elk-zone/elk](https://github.com/elk-zone/elk) - A nimble Mastodon web client (2 days ago)
+- [elk-zone/elk](https://github.com/elk-zone/elk) - A nimble Mastodon web client (3 days ago)
 - [pojntfx/go-nbd](https://github.com/pojntfx/go-nbd) - Pure Go NBD server and client library. (2 weeks ago)
 - [pojntfx/tapisk](https://github.com/pojntfx/tapisk) - Expose a tape drive as a block device. (2 weeks ago)
 - [fabio42/sasqwatch](https://github.com/fabio42/sasqwatch) - A modern take on the classic watch command (1 month ago)
