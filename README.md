@@ -52,11 +52,11 @@ Want your own self-generating profile page? Check out [readme-scribe](https://gi
 
 #### ⭐ Recent stars
 
+- [taigrr/elevenlabs](https://github.com/taigrr/elevenlabs) - ElevenLabs Artificial Voice Synthesis Client (today)
 - [Wilfred/difftastic](https://github.com/Wilfred/difftastic) - a structural diff that understands syntax 🟥🟩 (today)
 - [elk-zone/elk](https://github.com/elk-zone/elk) - A nimble Mastodon web client (6 days ago)
 - [pojntfx/go-nbd](https://github.com/pojntfx/go-nbd) - Pure Go NBD server and client library. (2 weeks ago)
 - [pojntfx/tapisk](https://github.com/pojntfx/tapisk) - Expose a tape drive as a block device. (2 weeks ago)
-- [fabio42/sasqwatch](https://github.com/fabio42/sasqwatch) - A modern take on the classic watch command (1 month ago)
 
 #### ❤️ These awesome people sponsor me (thank you!)
 
