@@ -12,7 +12,7 @@ Want your own self-generating profile page? Check out [readme-scribe](https://gi
 
 #### 👷 Check out what I'm currently working on
 
-- [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) - A powerful little TUI framework 🏗 (5 days ago)
+- [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) - A powerful little TUI framework 🏗 (6 days ago)
 - [muesli/termenv](https://github.com/muesli/termenv) - Advanced ANSI style &amp; color support for your terminal applications (1 month ago)
 - [muesli/streamdeck](https://github.com/muesli/streamdeck) - An application and Go library to control your Elgato Stream Deck on Linux (1 month ago)
 - [muesli/deckmaster](https://github.com/muesli/deckmaster) - An application to control your Elgato Stream Deck on Linux (1 month ago)
@@ -52,8 +52,8 @@ Want your own self-generating profile page? Check out [readme-scribe](https://gi
 
 #### ⭐ Recent stars
 
-- [taigrr/elevenlabs](https://github.com/taigrr/elevenlabs) - ElevenLabs Artificial Voice Synthesis Client (3 days ago)
-- [Wilfred/difftastic](https://github.com/Wilfred/difftastic) - a structural diff that understands syntax 🟥🟩 (3 days ago)
+- [taigrr/elevenlabs](https://github.com/taigrr/elevenlabs) - ElevenLabs Artificial Voice Synthesis Client (4 days ago)
+- [Wilfred/difftastic](https://github.com/Wilfred/difftastic) - a structural diff that understands syntax 🟥🟩 (4 days ago)
 - [elk-zone/elk](https://github.com/elk-zone/elk) - A nimble Mastodon web client (1 week ago)
 - [pojntfx/go-nbd](https://github.com/pojntfx/go-nbd) - Pure Go NBD server and client library. (3 weeks ago)
 - [pojntfx/tapisk](https://github.com/pojntfx/tapisk) - Expose a tape drive as a block device. (3 weeks ago)
