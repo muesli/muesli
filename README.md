@@ -64,7 +64,7 @@ Want your own self-generating profile page? Check out [readme-scribe](https://gi
 - [icco](https://github.com/icco) (8 months ago)
 - [twpayne](https://github.com/twpayne) (1 year ago)
 - [crazy-max](https://github.com/crazy-max) (2 years ago)
-- [midzer](https://github.com/midzer) (3 years ago)
+- [benleb](https://github.com/benleb) (2 years ago)
 
 #### 💬 Feedback
 
