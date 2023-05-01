@@ -12,7 +12,7 @@ Want your own self-generating profile page? Check out [readme-scribe](https://gi
 
 #### 👷 Check out what I'm currently working on
 
-- [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) - A powerful little TUI framework 🏗 (1 week ago)
+- [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) - A powerful little TUI framework 🏗 (2 weeks ago)
 - [muesli/termenv](https://github.com/muesli/termenv) - Advanced ANSI style &amp; color support for your terminal applications (1 month ago)
 - [muesli/streamdeck](https://github.com/muesli/streamdeck) - An application and Go library to control your Elgato Stream Deck on Linux (1 month ago)
 - [muesli/deckmaster](https://github.com/muesli/deckmaster) - An application to control your Elgato Stream Deck on Linux (1 month ago)
@@ -28,9 +28,9 @@ Want your own self-generating profile page? Check out [readme-scribe](https://gi
 
 #### 🔭 Latest releases I've contributed to
 
-- [sn4k3/UVtools](https://github.com/sn4k3/UVtools) ([v3.13.1](https://github.com/sn4k3/UVtools/releases/tag/v3.13.1), 3 days ago) - MSLA/DLP, file analysis, calibration, repair, conversion and manipulation
-- [charmbracelet/wish](https://github.com/charmbracelet/wish) ([v1.1.1](https://github.com/charmbracelet/wish/releases/tag/v1.1.1), 6 days ago) - Make SSH apps, just like that! 💫
-- [charmbracelet/keygen](https://github.com/charmbracelet/keygen) ([v0.4.2](https://github.com/charmbracelet/keygen/releases/tag/v0.4.2), 6 days ago) - An SSH key pair generator 🗝️
+- [sn4k3/UVtools](https://github.com/sn4k3/UVtools) ([v3.13.1](https://github.com/sn4k3/UVtools/releases/tag/v3.13.1), 4 days ago) - MSLA/DLP, file analysis, calibration, repair, conversion and manipulation
+- [charmbracelet/wish](https://github.com/charmbracelet/wish) ([v1.1.1](https://github.com/charmbracelet/wish/releases/tag/v1.1.1), 1 week ago) - Make SSH apps, just like that! 💫
+- [charmbracelet/keygen](https://github.com/charmbracelet/keygen) ([v0.4.2](https://github.com/charmbracelet/keygen/releases/tag/v0.4.2), 1 week ago) - An SSH key pair generator 🗝️
 - [charmbracelet/vhs](https://github.com/charmbracelet/vhs) ([v0.4.0](https://github.com/charmbracelet/vhs/releases/tag/v0.4.0), 3 weeks ago) - Your CLI home video recorder 📼
 - [charmbracelet/soft-serve](https://github.com/charmbracelet/soft-serve) ([v0.4.7](https://github.com/charmbracelet/soft-serve/releases/tag/v0.4.7), 1 month ago) - A tasty, self-hostable Git server for the command line🍦
 
