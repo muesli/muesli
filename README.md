@@ -28,7 +28,7 @@ Want your own self-generating profile page? Check out [readme-scribe](https://gi
 
 #### 🔭 Latest releases I've contributed to
 
-- [sn4k3/UVtools](https://github.com/sn4k3/UVtools) ([v3.13.1](https://github.com/sn4k3/UVtools/releases/tag/v3.13.1), 4 days ago) - MSLA/DLP, file analysis, calibration, repair, conversion and manipulation
+- [sn4k3/UVtools](https://github.com/sn4k3/UVtools) ([v3.13.1](https://github.com/sn4k3/UVtools/releases/tag/v3.13.1), 5 days ago) - MSLA/DLP, file analysis, calibration, repair, conversion and manipulation
 - [charmbracelet/wish](https://github.com/charmbracelet/wish) ([v1.1.1](https://github.com/charmbracelet/wish/releases/tag/v1.1.1), 1 week ago) - Make SSH apps, just like that! 💫
 - [charmbracelet/keygen](https://github.com/charmbracelet/keygen) ([v0.4.2](https://github.com/charmbracelet/keygen/releases/tag/v0.4.2), 1 week ago) - An SSH key pair generator 🗝️
 - [charmbracelet/vhs](https://github.com/charmbracelet/vhs) ([v0.4.0](https://github.com/charmbracelet/vhs/releases/tag/v0.4.0), 3 weeks ago) - Your CLI home video recorder 📼
@@ -36,7 +36,7 @@ Want your own self-generating profile page? Check out [readme-scribe](https://gi
 
 #### 🔨 Latest Pull Requests I published
 
-- [chore: bump termenv, lipgloss, x/term](https://github.com/charmbracelet/bubbletea/pull/711) on [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) (3 weeks ago)
+- [chore: bump termenv, lipgloss, x/term](https://github.com/charmbracelet/bubbletea/pull/711) on [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) (4 weeks ago)
 - [fix: Cloud Shell supports RGB colors](https://github.com/muesli/termenv/pull/127) on [muesli/termenv](https://github.com/muesli/termenv) (1 month ago)
 - [chore: bump console dep](https://github.com/charmbracelet/bubbletea/pull/700) on [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) (1 month ago)
 - [chore: bump Go to 1.17](https://github.com/muesli/duf/pull/233) on [muesli/duf](https://github.com/muesli/duf) (1 month ago)
