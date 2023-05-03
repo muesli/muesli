@@ -28,7 +28,7 @@ Want your own self-generating profile page? Check out [readme-scribe](https://gi
 
 #### 🔭 Latest releases I've contributed to
 
-- [charmbracelet/soft-serve](https://github.com/charmbracelet/soft-serve) ([v0.5.0](https://github.com/charmbracelet/soft-serve/releases/tag/v0.5.0), 1 day ago) - A tasty, self-hostable Git server for the command line🍦
+- [charmbracelet/soft-serve](https://github.com/charmbracelet/soft-serve) ([v0.5.1](https://github.com/charmbracelet/soft-serve/releases/tag/v0.5.1), today) - A tasty, self-hostable Git server for the command line🍦
 - [sn4k3/UVtools](https://github.com/sn4k3/UVtools) ([v3.13.1](https://github.com/sn4k3/UVtools/releases/tag/v3.13.1), 6 days ago) - MSLA/DLP, file analysis, calibration, repair, conversion and manipulation
 - [charmbracelet/wish](https://github.com/charmbracelet/wish) ([v1.1.1](https://github.com/charmbracelet/wish/releases/tag/v1.1.1), 1 week ago) - Make SSH apps, just like that! 💫
 - [charmbracelet/keygen](https://github.com/charmbracelet/keygen) ([v0.4.2](https://github.com/charmbracelet/keygen/releases/tag/v0.4.2), 1 week ago) - An SSH key pair generator 🗝️
