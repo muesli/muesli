@@ -28,11 +28,11 @@ Want your own self-generating profile page? Check out [readme-scribe](https://gi
 
 #### 🔭 Latest releases I've contributed to
 
+- [charmbracelet/confettysh](https://github.com/charmbracelet/confettysh) ([v1.1.0](https://github.com/charmbracelet/confettysh/releases/tag/v1.1.0), today) - confetti over ssh
+- [charmbracelet/wishlist](https://github.com/charmbracelet/wishlist) ([v0.11.0](https://github.com/charmbracelet/wishlist/releases/tag/v0.11.0), today) - The SSH directory ✨
 - [charmbracelet/soft-serve](https://github.com/charmbracelet/soft-serve) ([v0.5.1](https://github.com/charmbracelet/soft-serve/releases/tag/v0.5.1), 1 day ago) - A tasty, self-hostable Git server for the command line🍦
 - [sn4k3/UVtools](https://github.com/sn4k3/UVtools) ([v3.13.1](https://github.com/sn4k3/UVtools/releases/tag/v3.13.1), 1 week ago) - MSLA/DLP, file analysis, calibration, repair, conversion and manipulation
 - [charmbracelet/wish](https://github.com/charmbracelet/wish) ([v1.1.1](https://github.com/charmbracelet/wish/releases/tag/v1.1.1), 1 week ago) - Make SSH apps, just like that! 💫
-- [charmbracelet/keygen](https://github.com/charmbracelet/keygen) ([v0.4.2](https://github.com/charmbracelet/keygen/releases/tag/v0.4.2), 1 week ago) - An SSH key pair generator 🗝️
-- [charmbracelet/vhs](https://github.com/charmbracelet/vhs) ([v0.4.0](https://github.com/charmbracelet/vhs/releases/tag/v0.4.0), 4 weeks ago) - Your CLI home video recorder 📼
 
 #### 🔨 Latest Pull Requests I published
 
