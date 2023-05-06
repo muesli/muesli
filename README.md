@@ -28,9 +28,9 @@ Want your own self-generating profile page? Check out [readme-scribe](https://gi
 
 #### 🔭 Latest releases I've contributed to
 
-- [charmbracelet/soft-serve](https://github.com/charmbracelet/soft-serve) ([v0.5.2](https://github.com/charmbracelet/soft-serve/releases/tag/v0.5.2), today) - A tasty, self-hostable Git server for the command line🍦
-- [charmbracelet/confettysh](https://github.com/charmbracelet/confettysh) ([v1.1.0](https://github.com/charmbracelet/confettysh/releases/tag/v1.1.0), 1 day ago) - confetti over ssh
-- [charmbracelet/wishlist](https://github.com/charmbracelet/wishlist) ([v0.11.0](https://github.com/charmbracelet/wishlist/releases/tag/v0.11.0), 1 day ago) - The SSH directory ✨
+- [charmbracelet/soft-serve](https://github.com/charmbracelet/soft-serve) ([v0.5.2](https://github.com/charmbracelet/soft-serve/releases/tag/v0.5.2), 1 day ago) - A tasty, self-hostable Git server for the command line🍦
+- [charmbracelet/confettysh](https://github.com/charmbracelet/confettysh) ([v1.1.0](https://github.com/charmbracelet/confettysh/releases/tag/v1.1.0), 2 days ago) - confetti over ssh
+- [charmbracelet/wishlist](https://github.com/charmbracelet/wishlist) ([v0.11.0](https://github.com/charmbracelet/wishlist/releases/tag/v0.11.0), 2 days ago) - The SSH directory ✨
 - [sn4k3/UVtools](https://github.com/sn4k3/UVtools) ([v3.13.1](https://github.com/sn4k3/UVtools/releases/tag/v3.13.1), 1 week ago) - MSLA/DLP, file analysis, calibration, repair, conversion and manipulation
 - [charmbracelet/wish](https://github.com/charmbracelet/wish) ([v1.1.1](https://github.com/charmbracelet/wish/releases/tag/v1.1.1), 1 week ago) - Make SSH apps, just like that! 💫
 
@@ -45,7 +45,7 @@ Want your own self-generating profile page? Check out [readme-scribe](https://gi
 #### 📜 My recent blog posts
 
 - [Self-hosting VSCode](https://fribbledom.com/posts/selfhosting-vscode/) (2 years ago)
-- [Installing Arch Linux with Full Disk Encryption](https://fribbledom.com/posts/encrypted-arch-install/) (3 years ago)
+- [Installing Arch Linux with Full Disk Encryption](https://fribbledom.com/posts/encrypted-arch-install/) (4 years ago)
 - [Remotely Installing a Fully-Encrypted Debian Server](https://fribbledom.com/posts/encrypted-remote-debian-install/) (4 years ago)
 - [Gamut, a Go Package to Manage Color Palettes](https://fribbledom.com/posts/gamut-package-to-handle-color-palettes/) (4 years ago)
 - [An Algorithm to Generate Color Palettes](https://fribbledom.com/posts/an-algorithm-to-generate-color-palettes/) (5 years ago)
