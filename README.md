@@ -12,7 +12,7 @@ Want your own self-generating profile page? Check out [readme-scribe](https://gi
 
 #### 👷 Check out what I'm currently working on
 
-- [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) - A powerful little TUI framework 🏗 (2 weeks ago)
+- [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) - A powerful little TUI framework 🏗 (3 weeks ago)
 - [muesli/termenv](https://github.com/muesli/termenv) - Advanced ANSI style &amp; color support for your terminal applications (1 month ago)
 - [muesli/streamdeck](https://github.com/muesli/streamdeck) - An application and Go library to control your Elgato Stream Deck on Linux (1 month ago)
 - [muesli/deckmaster](https://github.com/muesli/deckmaster) - An application to control your Elgato Stream Deck on Linux (1 month ago)
@@ -28,11 +28,11 @@ Want your own self-generating profile page? Check out [readme-scribe](https://gi
 
 #### 🔭 Latest releases I've contributed to
 
-- [sn4k3/UVtools](https://github.com/sn4k3/UVtools) ([v3.13.2](https://github.com/sn4k3/UVtools/releases/tag/v3.13.2), 1 day ago) - MSLA/DLP, file analysis, calibration, repair, conversion and manipulation
-- [charmbracelet/soft-serve](https://github.com/charmbracelet/soft-serve) ([v0.5.2](https://github.com/charmbracelet/soft-serve/releases/tag/v0.5.2), 2 days ago) - A tasty, self-hostable Git server for the command line🍦
-- [charmbracelet/confettysh](https://github.com/charmbracelet/confettysh) ([v1.1.0](https://github.com/charmbracelet/confettysh/releases/tag/v1.1.0), 3 days ago) - confetti over ssh
-- [charmbracelet/wishlist](https://github.com/charmbracelet/wishlist) ([v0.11.0](https://github.com/charmbracelet/wishlist/releases/tag/v0.11.0), 3 days ago) - The SSH directory ✨
-- [charmbracelet/wish](https://github.com/charmbracelet/wish) ([v1.1.1](https://github.com/charmbracelet/wish/releases/tag/v1.1.1), 1 week ago) - Make SSH apps, just like that! 💫
+- [sn4k3/UVtools](https://github.com/sn4k3/UVtools) ([v3.13.3](https://github.com/sn4k3/UVtools/releases/tag/v3.13.3), today) - MSLA/DLP, file analysis, calibration, repair, conversion and manipulation
+- [charmbracelet/soft-serve](https://github.com/charmbracelet/soft-serve) ([v0.5.2](https://github.com/charmbracelet/soft-serve/releases/tag/v0.5.2), 3 days ago) - A tasty, self-hostable Git server for the command line🍦
+- [charmbracelet/confettysh](https://github.com/charmbracelet/confettysh) ([v1.1.0](https://github.com/charmbracelet/confettysh/releases/tag/v1.1.0), 4 days ago) - confetti over ssh
+- [charmbracelet/wishlist](https://github.com/charmbracelet/wishlist) ([v0.11.0](https://github.com/charmbracelet/wishlist/releases/tag/v0.11.0), 4 days ago) - The SSH directory ✨
+- [charmbracelet/wish](https://github.com/charmbracelet/wish) ([v1.1.1](https://github.com/charmbracelet/wish/releases/tag/v1.1.1), 2 weeks ago) - Make SSH apps, just like that! 💫
 
 #### 🔨 Latest Pull Requests I published
 
