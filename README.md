@@ -12,11 +12,11 @@ Want your own self-generating profile page? Check out [readme-scribe](https://gi
 
 #### 👷 Check out what I'm currently working on
 
-- [charmbracelet/glow](https://github.com/charmbracelet/glow) - Render markdown on the CLI, with pizzazz! 💅🏻 (4 days ago)
+- [charmbracelet/glow](https://github.com/charmbracelet/glow) - Render markdown on the CLI, with pizzazz! 💅🏻 (5 days ago)
 - [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) - A powerful little TUI framework 🏗 (3 weeks ago)
 - [muesli/termenv](https://github.com/muesli/termenv) - Advanced ANSI style &amp; color support for your terminal applications (1 month ago)
-- [muesli/streamdeck](https://github.com/muesli/streamdeck) - An application and Go library to control your Elgato Stream Deck on Linux (1 month ago)
-- [muesli/deckmaster](https://github.com/muesli/deckmaster) - An application to control your Elgato Stream Deck on Linux (1 month ago)
+- [muesli/streamdeck](https://github.com/muesli/streamdeck) - An application and Go library to control your Elgato Stream Deck on Linux (2 months ago)
+- [muesli/deckmaster](https://github.com/muesli/deckmaster) - An application to control your Elgato Stream Deck on Linux (2 months ago)
 
 #### 🌱 My latest projects
 
@@ -28,19 +28,19 @@ Want your own self-generating profile page? Check out [readme-scribe](https://gi
 
 #### 🔭 Latest releases I've contributed to
 
-- [charmbracelet/glow](https://github.com/charmbracelet/glow) ([v1.5.1](https://github.com/charmbracelet/glow/releases/tag/v1.5.1), 1 day ago) - Render markdown on the CLI, with pizzazz! 💅🏻
-- [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) ([v0.24.0](https://github.com/charmbracelet/bubbletea/releases/tag/v0.24.0), 2 days ago) - A powerful little TUI framework 🏗
-- [sn4k3/UVtools](https://github.com/sn4k3/UVtools) ([v3.13.3](https://github.com/sn4k3/UVtools/releases/tag/v3.13.3), 2 days ago) - MSLA/DLP, file analysis, calibration, repair, conversion and manipulation
-- [charmbracelet/soft-serve](https://github.com/charmbracelet/soft-serve) ([v0.5.2](https://github.com/charmbracelet/soft-serve/releases/tag/v0.5.2), 5 days ago) - A tasty, self-hostable Git server for the command line🍦
-- [charmbracelet/confettysh](https://github.com/charmbracelet/confettysh) ([v1.1.0](https://github.com/charmbracelet/confettysh/releases/tag/v1.1.0), 6 days ago) - confetti over ssh
+- [charmbracelet/glow](https://github.com/charmbracelet/glow) ([v1.5.1](https://github.com/charmbracelet/glow/releases/tag/v1.5.1), 2 days ago) - Render markdown on the CLI, with pizzazz! 💅🏻
+- [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) ([v0.24.0](https://github.com/charmbracelet/bubbletea/releases/tag/v0.24.0), 3 days ago) - A powerful little TUI framework 🏗
+- [sn4k3/UVtools](https://github.com/sn4k3/UVtools) ([v3.13.3](https://github.com/sn4k3/UVtools/releases/tag/v3.13.3), 3 days ago) - MSLA/DLP, file analysis, calibration, repair, conversion and manipulation
+- [charmbracelet/soft-serve](https://github.com/charmbracelet/soft-serve) ([v0.5.2](https://github.com/charmbracelet/soft-serve/releases/tag/v0.5.2), 6 days ago) - A tasty, self-hostable Git server for the command line🍦
+- [charmbracelet/confettysh](https://github.com/charmbracelet/confettysh) ([v1.1.0](https://github.com/charmbracelet/confettysh/releases/tag/v1.1.0), 1 week ago) - confetti over ssh
 
 #### 🔨 Latest Pull Requests I published
 
-- [fix: lazily init UI](https://github.com/charmbracelet/glow/pull/494) on [charmbracelet/glow](https://github.com/charmbracelet/glow) (1 day ago)
+- [fix: lazily init UI](https://github.com/charmbracelet/glow/pull/494) on [charmbracelet/glow](https://github.com/charmbracelet/glow) (2 days ago)
 - [chore: bump termenv, lipgloss, x/term](https://github.com/charmbracelet/bubbletea/pull/711) on [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) (1 month ago)
 - [fix: Cloud Shell supports RGB colors](https://github.com/muesli/termenv/pull/127) on [muesli/termenv](https://github.com/muesli/termenv) (1 month ago)
 - [chore: bump console dep](https://github.com/charmbracelet/bubbletea/pull/700) on [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) (1 month ago)
-- [chore: bump Go to 1.17](https://github.com/muesli/duf/pull/233) on [muesli/duf](https://github.com/muesli/duf) (1 month ago)
+- [chore: bump Go to 1.17](https://github.com/muesli/duf/pull/233) on [muesli/duf](https://github.com/muesli/duf) (2 months ago)
 
 #### 📜 My recent blog posts
 
@@ -54,7 +54,7 @@ Want your own self-generating profile page? Check out [readme-scribe](https://gi
 
 - [taigrr/elevenlabs](https://github.com/taigrr/elevenlabs) - ElevenLabs Artificial Voice Synthesis Client (3 weeks ago)
 - [Wilfred/difftastic](https://github.com/Wilfred/difftastic) - a structural diff that understands syntax 🟥🟩 (3 weeks ago)
-- [elk-zone/elk](https://github.com/elk-zone/elk) - A nimble Mastodon web client (3 weeks ago)
+- [elk-zone/elk](https://github.com/elk-zone/elk) - A nimble Mastodon web client (4 weeks ago)
 - [pojntfx/go-nbd](https://github.com/pojntfx/go-nbd) - Pure Go NBD server and client library. (1 month ago)
 - [pojntfx/tapisk](https://github.com/pojntfx/tapisk) - Expose a tape drive as a block device. (1 month ago)
 
