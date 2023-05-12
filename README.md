@@ -12,7 +12,7 @@ Want your own self-generating profile page? Check out [readme-scribe](https://gi
 
 #### 👷 Check out what I'm currently working on
 
-- [charmbracelet/glow](https://github.com/charmbracelet/glow) - Render markdown on the CLI, with pizzazz! 💅🏻 (5 days ago)
+- [charmbracelet/glow](https://github.com/charmbracelet/glow) - Render markdown on the CLI, with pizzazz! 💅🏻 (6 days ago)
 - [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) - A powerful little TUI framework 🏗 (3 weeks ago)
 - [muesli/termenv](https://github.com/muesli/termenv) - Advanced ANSI style &amp; color support for your terminal applications (1 month ago)
 - [muesli/streamdeck](https://github.com/muesli/streamdeck) - An application and Go library to control your Elgato Stream Deck on Linux (2 months ago)
@@ -28,18 +28,18 @@ Want your own self-generating profile page? Check out [readme-scribe](https://gi
 
 #### 🔭 Latest releases I've contributed to
 
-- [charmbracelet/soft-serve](https://github.com/charmbracelet/soft-serve) ([v0.5.3](https://github.com/charmbracelet/soft-serve/releases/tag/v0.5.3), today) - A tasty, self-hostable Git server for the command line🍦
-- [charmbracelet/glow](https://github.com/charmbracelet/glow) ([v1.5.1](https://github.com/charmbracelet/glow/releases/tag/v1.5.1), 2 days ago) - Render markdown on the CLI, with pizzazz! 💅🏻
-- [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) ([v0.24.0](https://github.com/charmbracelet/bubbletea/releases/tag/v0.24.0), 3 days ago) - A powerful little TUI framework 🏗
-- [sn4k3/UVtools](https://github.com/sn4k3/UVtools) ([v3.13.3](https://github.com/sn4k3/UVtools/releases/tag/v3.13.3), 3 days ago) - MSLA/DLP, file analysis, calibration, repair, conversion and manipulation
+- [charmbracelet/soft-serve](https://github.com/charmbracelet/soft-serve) ([v0.5.3](https://github.com/charmbracelet/soft-serve/releases/tag/v0.5.3), 1 day ago) - A tasty, self-hostable Git server for the command line🍦
+- [charmbracelet/glow](https://github.com/charmbracelet/glow) ([v1.5.1](https://github.com/charmbracelet/glow/releases/tag/v1.5.1), 3 days ago) - Render markdown on the CLI, with pizzazz! 💅🏻
+- [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) ([v0.24.0](https://github.com/charmbracelet/bubbletea/releases/tag/v0.24.0), 4 days ago) - A powerful little TUI framework 🏗
+- [sn4k3/UVtools](https://github.com/sn4k3/UVtools) ([v3.13.3](https://github.com/sn4k3/UVtools/releases/tag/v3.13.3), 4 days ago) - MSLA/DLP, file analysis, calibration, repair, conversion and manipulation
 - [charmbracelet/confettysh](https://github.com/charmbracelet/confettysh) ([v1.1.0](https://github.com/charmbracelet/confettysh/releases/tag/v1.1.0), 1 week ago) - confetti over ssh
 
 #### 🔨 Latest Pull Requests I published
 
-- [fix: lazily init UI](https://github.com/charmbracelet/glow/pull/494) on [charmbracelet/glow](https://github.com/charmbracelet/glow) (2 days ago)
+- [fix: lazily init UI](https://github.com/charmbracelet/glow/pull/494) on [charmbracelet/glow](https://github.com/charmbracelet/glow) (3 days ago)
 - [chore: bump termenv, lipgloss, x/term](https://github.com/charmbracelet/bubbletea/pull/711) on [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) (1 month ago)
 - [fix: Cloud Shell supports RGB colors](https://github.com/muesli/termenv/pull/127) on [muesli/termenv](https://github.com/muesli/termenv) (1 month ago)
-- [chore: bump console dep](https://github.com/charmbracelet/bubbletea/pull/700) on [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) (1 month ago)
+- [chore: bump console dep](https://github.com/charmbracelet/bubbletea/pull/700) on [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) (2 months ago)
 - [chore: bump Go to 1.17](https://github.com/muesli/duf/pull/233) on [muesli/duf](https://github.com/muesli/duf) (2 months ago)
 
 #### 📜 My recent blog posts
@@ -60,7 +60,7 @@ Want your own self-generating profile page? Check out [readme-scribe](https://gi
 
 #### ❤️ These awesome people sponsor me (thank you!)
 
-- [JanDeDobbeleer](https://github.com/JanDeDobbeleer) (today)
+- [JanDeDobbeleer](https://github.com/JanDeDobbeleer) (1 day ago)
 - [indeedeng](https://github.com/indeedeng) (6 months ago)
 - [icco](https://github.com/icco) (8 months ago)
 - [twpayne](https://github.com/twpayne) (1 year ago)
