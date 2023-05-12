@@ -12,11 +12,11 @@ Want your own self-generating profile page? Check out [readme-scribe](https://gi
 
 #### 👷 Check out what I'm currently working on
 
+- [charmbracelet/mods](https://github.com/charmbracelet/mods) - AI on the command line (1 day ago)
 - [charmbracelet/glow](https://github.com/charmbracelet/glow) - Render markdown on the CLI, with pizzazz! 💅🏻 (6 days ago)
 - [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) - A powerful little TUI framework 🏗 (3 weeks ago)
 - [muesli/termenv](https://github.com/muesli/termenv) - Advanced ANSI style &amp; color support for your terminal applications (1 month ago)
 - [muesli/streamdeck](https://github.com/muesli/streamdeck) - An application and Go library to control your Elgato Stream Deck on Linux (2 months ago)
-- [muesli/deckmaster](https://github.com/muesli/deckmaster) - An application to control your Elgato Stream Deck on Linux (2 months ago)
 
 #### 🌱 My latest projects
 
@@ -36,11 +36,11 @@ Want your own self-generating profile page? Check out [readme-scribe](https://gi
 
 #### 🔨 Latest Pull Requests I published
 
+- [chore: use nil input when stdin is a pipe](https://github.com/charmbracelet/mods/pull/38) on [charmbracelet/mods](https://github.com/charmbracelet/mods) (2 days ago)
 - [fix: lazily init UI](https://github.com/charmbracelet/glow/pull/494) on [charmbracelet/glow](https://github.com/charmbracelet/glow) (3 days ago)
 - [chore: bump termenv, lipgloss, x/term](https://github.com/charmbracelet/bubbletea/pull/711) on [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) (1 month ago)
 - [fix: Cloud Shell supports RGB colors](https://github.com/muesli/termenv/pull/127) on [muesli/termenv](https://github.com/muesli/termenv) (1 month ago)
 - [chore: bump console dep](https://github.com/charmbracelet/bubbletea/pull/700) on [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) (2 months ago)
-- [chore: bump Go to 1.17](https://github.com/muesli/duf/pull/233) on [muesli/duf](https://github.com/muesli/duf) (2 months ago)
 
 #### 📜 My recent blog posts
 
