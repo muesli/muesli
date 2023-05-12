@@ -28,7 +28,7 @@ Want your own self-generating profile page? Check out [readme-scribe](https://gi
 
 #### 🔭 Latest releases I've contributed to
 
-- [charmbracelet/mods](https://github.com/charmbracelet/mods) ([v0.1.0](https://github.com/charmbracelet/mods/releases/tag/v0.1.0), today) - AI on the command line
+- [charmbracelet/mods](https://github.com/charmbracelet/mods) ([v0.1.1](https://github.com/charmbracelet/mods/releases/tag/v0.1.1), today) - AI on the command line
 - [charmbracelet/soft-serve](https://github.com/charmbracelet/soft-serve) ([v0.5.3](https://github.com/charmbracelet/soft-serve/releases/tag/v0.5.3), 1 day ago) - A tasty, self-hostable Git server for the command line🍦
 - [charmbracelet/glow](https://github.com/charmbracelet/glow) ([v1.5.1](https://github.com/charmbracelet/glow/releases/tag/v1.5.1), 3 days ago) - Render markdown on the CLI, with pizzazz! 💅🏻
 - [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) ([v0.24.0](https://github.com/charmbracelet/bubbletea/releases/tag/v0.24.0), 4 days ago) - A powerful little TUI framework 🏗
