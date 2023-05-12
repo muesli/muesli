@@ -52,11 +52,11 @@ Want your own self-generating profile page? Check out [readme-scribe](https://gi
 
 #### ⭐ Recent stars
 
+- [charmbracelet/mods](https://github.com/charmbracelet/mods) - AI on the command line (today)
 - [ekkinox/yai](https://github.com/ekkinox/yai) - Your AI powered terminal assistant (today)
 - [taigrr/elevenlabs](https://github.com/taigrr/elevenlabs) - ElevenLabs Artificial Voice Synthesis Client (3 weeks ago)
 - [Wilfred/difftastic](https://github.com/Wilfred/difftastic) - a structural diff that understands syntax 🟥🟩 (3 weeks ago)
 - [elk-zone/elk](https://github.com/elk-zone/elk) - A nimble Mastodon web client (4 weeks ago)
-- [pojntfx/go-nbd](https://github.com/pojntfx/go-nbd) - Pure Go NBD server and client library. (1 month ago)
 
 #### ❤️ These awesome people sponsor me (thank you!)
 
