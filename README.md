@@ -52,11 +52,11 @@ Want your own self-generating profile page? Check out [readme-scribe](https://gi
 
 #### ⭐ Recent stars
 
+- [robherley/snips.sh](https://github.com/robherley/snips.sh) - ✂️ passwordless, anonymous SSH-powered pastebin with a human-friendly TUI and web UI (today)
 - [charmbracelet/mods](https://github.com/charmbracelet/mods) - AI on the command line (1 day ago)
 - [ekkinox/yai](https://github.com/ekkinox/yai) - Your AI powered terminal assistant (1 day ago)
 - [taigrr/elevenlabs](https://github.com/taigrr/elevenlabs) - ElevenLabs Artificial Voice Synthesis Client (3 weeks ago)
 - [Wilfred/difftastic](https://github.com/Wilfred/difftastic) - a structural diff that understands syntax 🟥🟩 (3 weeks ago)
-- [elk-zone/elk](https://github.com/elk-zone/elk) - A nimble Mastodon web client (1 month ago)
 
 #### ❤️ These awesome people sponsor me (thank you!)
 
