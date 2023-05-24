@@ -28,11 +28,11 @@ Want your own self-generating profile page? Check out [readme-scribe](https://gi
 
 #### 🔭 Latest releases I've contributed to
 
+- [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) ([v0.24.1](https://github.com/charmbracelet/bubbletea/releases/tag/v0.24.1), today) - A powerful little TUI framework 🏗
 - [sn4k3/UVtools](https://github.com/sn4k3/UVtools) ([v3.13.4](https://github.com/sn4k3/UVtools/releases/tag/v3.13.4), 3 days ago) - MSLA/DLP, file analysis, calibration, repair, conversion and manipulation
 - [charmbracelet/vhs](https://github.com/charmbracelet/vhs) ([v0.5.0](https://github.com/charmbracelet/vhs/releases/tag/v0.5.0), 1 week ago) - Your CLI home video recorder 📼
 - [charmbracelet/soft-serve](https://github.com/charmbracelet/soft-serve) ([v0.5.4](https://github.com/charmbracelet/soft-serve/releases/tag/v0.5.4), 1 week ago) - A tasty, self-hostable Git server for the command line🍦
 - [charmbracelet/mods](https://github.com/charmbracelet/mods) ([v0.1.1](https://github.com/charmbracelet/mods/releases/tag/v0.1.1), 1 week ago) - AI on the command line
-- [charmbracelet/glow](https://github.com/charmbracelet/glow) ([v1.5.1](https://github.com/charmbracelet/glow/releases/tag/v1.5.1), 2 weeks ago) - Render markdown on the CLI, with pizzazz! 💅🏻
 
 #### 🔨 Latest Pull Requests I published
 
