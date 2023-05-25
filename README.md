@@ -12,7 +12,7 @@ Want your own self-generating profile page? Check out [readme-scribe](https://gi
 
 #### 👷 Check out what I'm currently working on
 
-- [charmbracelet/mods](https://github.com/charmbracelet/mods) - AI on the command line (1 week ago)
+- [charmbracelet/mods](https://github.com/charmbracelet/mods) - AI on the command line (2 weeks ago)
 - [charmbracelet/glow](https://github.com/charmbracelet/glow) - Render markdown on the CLI, with pizzazz! 💅🏻 (2 weeks ago)
 - [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) - A powerful little TUI framework 🏗 (1 month ago)
 - [muesli/termenv](https://github.com/muesli/termenv) - Advanced ANSI style &amp; color support for your terminal applications (2 months ago)
@@ -28,8 +28,8 @@ Want your own self-generating profile page? Check out [readme-scribe](https://gi
 
 #### 🔭 Latest releases I've contributed to
 
-- [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) ([v0.24.1](https://github.com/charmbracelet/bubbletea/releases/tag/v0.24.1), today) - A powerful little TUI framework 🏗
-- [sn4k3/UVtools](https://github.com/sn4k3/UVtools) ([v3.13.4](https://github.com/sn4k3/UVtools/releases/tag/v3.13.4), 3 days ago) - MSLA/DLP, file analysis, calibration, repair, conversion and manipulation
+- [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) ([v0.24.1](https://github.com/charmbracelet/bubbletea/releases/tag/v0.24.1), 1 day ago) - A powerful little TUI framework 🏗
+- [sn4k3/UVtools](https://github.com/sn4k3/UVtools) ([v3.13.4](https://github.com/sn4k3/UVtools/releases/tag/v3.13.4), 4 days ago) - MSLA/DLP, file analysis, calibration, repair, conversion and manipulation
 - [charmbracelet/vhs](https://github.com/charmbracelet/vhs) ([v0.5.0](https://github.com/charmbracelet/vhs/releases/tag/v0.5.0), 1 week ago) - Your CLI home video recorder 📼
 - [charmbracelet/soft-serve](https://github.com/charmbracelet/soft-serve) ([v0.5.4](https://github.com/charmbracelet/soft-serve/releases/tag/v0.5.4), 1 week ago) - A tasty, self-hostable Git server for the command line🍦
 - [charmbracelet/mods](https://github.com/charmbracelet/mods) ([v0.1.1](https://github.com/charmbracelet/mods/releases/tag/v0.1.1), 1 week ago) - AI on the command line
@@ -52,7 +52,7 @@ Want your own self-generating profile page? Check out [readme-scribe](https://gi
 
 #### ⭐ Recent stars
 
-- [AlexxIT/go2rtc](https://github.com/AlexxIT/go2rtc) - Ultimate camera streaming application with support RTSP, RTMP, HTTP-FLV, WebRTC, MSE, HLS, MP4, MJPEG, HomeKit, FFmpeg, etc. (1 day ago)
+- [AlexxIT/go2rtc](https://github.com/AlexxIT/go2rtc) - Ultimate camera streaming application with support RTSP, RTMP, HTTP-FLV, WebRTC, MSE, HLS, MP4, MJPEG, HomeKit, FFmpeg, etc. (2 days ago)
 - [robherley/snips.sh](https://github.com/robherley/snips.sh) - ✂️ passwordless, anonymous SSH-powered pastebin with a human-friendly TUI and web UI (1 week ago)
 - [charmbracelet/mods](https://github.com/charmbracelet/mods) - AI on the command line (1 week ago)
 - [ekkinox/yai](https://github.com/ekkinox/yai) - Your AI powered terminal assistant (1 week ago)
@@ -60,7 +60,7 @@ Want your own self-generating profile page? Check out [readme-scribe](https://gi
 
 #### ❤️ These awesome people sponsor me (thank you!)
 
-- [JanDeDobbeleer](https://github.com/JanDeDobbeleer) (1 week ago)
+- [JanDeDobbeleer](https://github.com/JanDeDobbeleer) (2 weeks ago)
 - [indeedeng](https://github.com/indeedeng) (6 months ago)
 - [icco](https://github.com/icco) (9 months ago)
 - [twpayne](https://github.com/twpayne) (1 year ago)
