@@ -12,7 +12,7 @@ Want your own self-generating profile page? Check out [readme-scribe](https://gi
 
 #### 👷 Check out what I'm currently working on
 
-- [charmbracelet/mods](https://github.com/charmbracelet/mods) - AI on the command line (2 weeks ago)
+- [charmbracelet/mods](https://github.com/charmbracelet/mods) - AI on the command line (3 weeks ago)
 - [charmbracelet/glow](https://github.com/charmbracelet/glow) - Render markdown on the CLI, with pizzazz! 💅🏻 (3 weeks ago)
 - [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) - A powerful little TUI framework 🏗 (1 month ago)
 - [muesli/termenv](https://github.com/muesli/termenv) - Advanced ANSI style &amp; color support for your terminal applications (2 months ago)
@@ -28,9 +28,9 @@ Want your own self-generating profile page? Check out [readme-scribe](https://gi
 
 #### 🔭 Latest releases I've contributed to
 
-- [sn4k3/UVtools](https://github.com/sn4k3/UVtools) ([v3.14.0](https://github.com/sn4k3/UVtools/releases/tag/v3.14.0), today) - MSLA/DLP, file analysis, calibration, repair, conversion and manipulation
-- [charmbracelet/bubbles](https://github.com/charmbracelet/bubbles) ([v0.16.1](https://github.com/charmbracelet/bubbles/releases/tag/v0.16.1), today) - TUI components for Bubble Tea 🫧
-- [charmbracelet/mods](https://github.com/charmbracelet/mods) ([v0.2.0](https://github.com/charmbracelet/mods/releases/tag/v0.2.0), 6 days ago) - AI on the command line
+- [sn4k3/UVtools](https://github.com/sn4k3/UVtools) ([v3.14.0](https://github.com/sn4k3/UVtools/releases/tag/v3.14.0), 1 day ago) - MSLA/DLP, file analysis, calibration, repair, conversion and manipulation
+- [charmbracelet/bubbles](https://github.com/charmbracelet/bubbles) ([v0.16.1](https://github.com/charmbracelet/bubbles/releases/tag/v0.16.1), 1 day ago) - TUI components for Bubble Tea 🫧
+- [charmbracelet/mods](https://github.com/charmbracelet/mods) ([v0.2.0](https://github.com/charmbracelet/mods/releases/tag/v0.2.0), 1 week ago) - AI on the command line
 - [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) ([v0.24.1](https://github.com/charmbracelet/bubbletea/releases/tag/v0.24.1), 1 week ago) - A powerful little TUI framework 🏗
 - [charmbracelet/vhs](https://github.com/charmbracelet/vhs) ([v0.5.0](https://github.com/charmbracelet/vhs/releases/tag/v0.5.0), 2 weeks ago) - Your CLI home video recorder 📼
 
@@ -60,7 +60,7 @@ Want your own self-generating profile page? Check out [readme-scribe](https://gi
 
 #### ❤️ These awesome people sponsor me (thank you!)
 
-- [JanDeDobbeleer](https://github.com/JanDeDobbeleer) (2 weeks ago)
+- [JanDeDobbeleer](https://github.com/JanDeDobbeleer) (3 weeks ago)
 - [indeedeng](https://github.com/indeedeng) (6 months ago)
 - [icco](https://github.com/icco) (9 months ago)
 - [twpayne](https://github.com/twpayne) (1 year ago)
