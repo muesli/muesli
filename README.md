@@ -12,7 +12,7 @@ Want your own self-generating profile page? Check out [readme-scribe](https://gi
 
 #### 👷 Check out what I'm currently working on
 
-- [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) - A powerful little TUI framework 🏗 (3 days ago)
+- [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) - A powerful little TUI framework 🏗 (4 days ago)
 - [charmbracelet/mods](https://github.com/charmbracelet/mods) - AI on the command line (3 weeks ago)
 - [charmbracelet/glow](https://github.com/charmbracelet/glow) - Render markdown on the CLI, with pizzazz! 💅🏻 (1 month ago)
 - [muesli/termenv](https://github.com/muesli/termenv) - Advanced ANSI style &amp; color support for your terminal applications (2 months ago)
@@ -28,17 +28,17 @@ Want your own self-generating profile page? Check out [readme-scribe](https://gi
 
 #### 🔭 Latest releases I've contributed to
 
-- [sn4k3/UVtools](https://github.com/sn4k3/UVtools) ([v3.14.1](https://github.com/sn4k3/UVtools/releases/tag/v3.14.1), 2 days ago) - MSLA/DLP, file analysis, calibration, repair, conversion and manipulation
-- [charmbracelet/bubbles](https://github.com/charmbracelet/bubbles) ([v0.16.1](https://github.com/charmbracelet/bubbles/releases/tag/v0.16.1), 5 days ago) - TUI components for Bubble Tea 🫧
+- [sn4k3/UVtools](https://github.com/sn4k3/UVtools) ([v3.14.1](https://github.com/sn4k3/UVtools/releases/tag/v3.14.1), 3 days ago) - MSLA/DLP, file analysis, calibration, repair, conversion and manipulation
+- [charmbracelet/bubbles](https://github.com/charmbracelet/bubbles) ([v0.16.1](https://github.com/charmbracelet/bubbles/releases/tag/v0.16.1), 6 days ago) - TUI components for Bubble Tea 🫧
 - [charmbracelet/mods](https://github.com/charmbracelet/mods) ([v0.2.0](https://github.com/charmbracelet/mods/releases/tag/v0.2.0), 1 week ago) - AI on the command line
 - [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) ([v0.24.1](https://github.com/charmbracelet/bubbletea/releases/tag/v0.24.1), 1 week ago) - A powerful little TUI framework 🏗
 - [charmbracelet/vhs](https://github.com/charmbracelet/vhs) ([v0.5.0](https://github.com/charmbracelet/vhs/releases/tag/v0.5.0), 2 weeks ago) - Your CLI home video recorder 📼
 
 #### 🔨 Latest Pull Requests I published
 
-- [fix: stop renderer before acquiring renderer mutex](https://github.com/charmbracelet/bubbletea/pull/757) on [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) (3 days ago)
+- [fix: stop renderer before acquiring renderer mutex](https://github.com/charmbracelet/bubbletea/pull/757) on [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) (4 days ago)
 - [chore: use nil input when stdin is a pipe](https://github.com/charmbracelet/mods/pull/38) on [charmbracelet/mods](https://github.com/charmbracelet/mods) (3 weeks ago)
-- [fix: lazily init UI](https://github.com/charmbracelet/glow/pull/494) on [charmbracelet/glow](https://github.com/charmbracelet/glow) (3 weeks ago)
+- [fix: lazily init UI](https://github.com/charmbracelet/glow/pull/494) on [charmbracelet/glow](https://github.com/charmbracelet/glow) (4 weeks ago)
 - [chore: bump termenv, lipgloss, x/term](https://github.com/charmbracelet/bubbletea/pull/711) on [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) (2 months ago)
 - [fix: Cloud Shell supports RGB colors](https://github.com/muesli/termenv/pull/127) on [muesli/termenv](https://github.com/muesli/termenv) (2 months ago)
 
@@ -52,7 +52,7 @@ Want your own self-generating profile page? Check out [readme-scribe](https://gi
 
 #### ⭐ Recent stars
 
-- [AlexxIT/go2rtc](https://github.com/AlexxIT/go2rtc) - Ultimate camera streaming application with support RTSP, RTMP, HTTP-FLV, WebRTC, MSE, HLS, MP4, MJPEG, HomeKit, FFmpeg, etc. (1 week ago)
+- [AlexxIT/go2rtc](https://github.com/AlexxIT/go2rtc) - Ultimate camera streaming application with support RTSP, RTMP, HTTP-FLV, WebRTC, MSE, HLS, MP4, MJPEG, HomeKit, FFmpeg, etc. (2 weeks ago)
 - [robherley/snips.sh](https://github.com/robherley/snips.sh) - ✂️ passwordless, anonymous SSH-powered pastebin with a human-friendly TUI and web UI (3 weeks ago)
 - [charmbracelet/mods](https://github.com/charmbracelet/mods) - AI on the command line (3 weeks ago)
 - [ekkinox/yai](https://github.com/ekkinox/yai) - Your AI powered terminal assistant (3 weeks ago)
@@ -61,7 +61,7 @@ Want your own self-generating profile page? Check out [readme-scribe](https://gi
 #### ❤️ These awesome people sponsor me (thank you!)
 
 - [JanDeDobbeleer](https://github.com/JanDeDobbeleer) (3 weeks ago)
-- [indeedeng](https://github.com/indeedeng) (6 months ago)
+- [indeedeng](https://github.com/indeedeng) (7 months ago)
 - [icco](https://github.com/icco) (9 months ago)
 - [twpayne](https://github.com/twpayne) (1 year ago)
 - [crazy-max](https://github.com/crazy-max) (2 years ago)
