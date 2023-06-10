@@ -13,10 +13,10 @@ Want your own self-generating profile page? Check out [readme-scribe](https://gi
 #### 👷 Check out what I'm currently working on
 
 - [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) - A powerful little TUI framework 🏗 (1 week ago)
-- [charmbracelet/mods](https://github.com/charmbracelet/mods) - AI on the command line (4 weeks ago)
+- [charmbracelet/mods](https://github.com/charmbracelet/mods) - AI on the command line (1 month ago)
 - [charmbracelet/glow](https://github.com/charmbracelet/glow) - Render markdown on the CLI, with pizzazz! 💅🏻 (1 month ago)
 - [muesli/termenv](https://github.com/muesli/termenv) - Advanced ANSI style &amp; color support for your terminal applications (2 months ago)
-- [muesli/streamdeck](https://github.com/muesli/streamdeck) - An application and Go library to control your Elgato Stream Deck on Linux (2 months ago)
+- [muesli/streamdeck](https://github.com/muesli/streamdeck) - An application and Go library to control your Elgato Stream Deck on Linux (3 months ago)
 
 #### 🌱 My latest projects
 
@@ -28,8 +28,8 @@ Want your own self-generating profile page? Check out [readme-scribe](https://gi
 
 #### 🔭 Latest releases I've contributed to
 
-- [sn4k3/UVtools](https://github.com/sn4k3/UVtools) ([v3.14.2](https://github.com/sn4k3/UVtools/releases/tag/v3.14.2), 2 days ago) - MSLA/DLP, file analysis, calibration, repair, conversion and manipulation
-- [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) ([v0.24.2](https://github.com/charmbracelet/bubbletea/releases/tag/v0.24.2), 3 days ago) - A powerful little TUI framework 🏗
+- [sn4k3/UVtools](https://github.com/sn4k3/UVtools) ([v3.14.2](https://github.com/sn4k3/UVtools/releases/tag/v3.14.2), 3 days ago) - MSLA/DLP, file analysis, calibration, repair, conversion and manipulation
+- [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) ([v0.24.2](https://github.com/charmbracelet/bubbletea/releases/tag/v0.24.2), 4 days ago) - A powerful little TUI framework 🏗
 - [charmbracelet/bubbles](https://github.com/charmbracelet/bubbles) ([v0.16.1](https://github.com/charmbracelet/bubbles/releases/tag/v0.16.1), 1 week ago) - TUI components for Bubble Tea 🫧
 - [charmbracelet/mods](https://github.com/charmbracelet/mods) ([v0.2.0](https://github.com/charmbracelet/mods/releases/tag/v0.2.0), 2 weeks ago) - AI on the command line
 - [charmbracelet/vhs](https://github.com/charmbracelet/vhs) ([v0.5.0](https://github.com/charmbracelet/vhs/releases/tag/v0.5.0), 3 weeks ago) - Your CLI home video recorder 📼
@@ -52,15 +52,15 @@ Want your own self-generating profile page? Check out [readme-scribe](https://gi
 
 #### ⭐ Recent stars
 
-- [wader/fq](https://github.com/wader/fq) - jq for binary formats - tool, language and decoders for working with binary and text formats (3 days ago)
+- [wader/fq](https://github.com/wader/fq) - jq for binary formats - tool, language and decoders for working with binary and text formats (4 days ago)
 - [AlexxIT/go2rtc](https://github.com/AlexxIT/go2rtc) - Ultimate camera streaming application with support RTSP, RTMP, HTTP-FLV, WebRTC, MSE, HLS, MP4, MJPEG, HomeKit, FFmpeg, etc. (2 weeks ago)
-- [robherley/snips.sh](https://github.com/robherley/snips.sh) - ✂️ passwordless, anonymous SSH-powered pastebin with a human-friendly TUI and web UI (3 weeks ago)
+- [robherley/snips.sh](https://github.com/robherley/snips.sh) - ✂️ passwordless, anonymous SSH-powered pastebin with a human-friendly TUI and web UI (4 weeks ago)
 - [charmbracelet/mods](https://github.com/charmbracelet/mods) - AI on the command line (4 weeks ago)
 - [ekkinox/yai](https://github.com/ekkinox/yai) - Your AI powered terminal assistant (4 weeks ago)
 
 #### ❤️ These awesome people sponsor me (thank you!)
 
-- [JanDeDobbeleer](https://github.com/JanDeDobbeleer) (4 weeks ago)
+- [JanDeDobbeleer](https://github.com/JanDeDobbeleer) (1 month ago)
 - [indeedeng](https://github.com/indeedeng) (7 months ago)
 - [icco](https://github.com/icco) (9 months ago)
 - [twpayne](https://github.com/twpayne) (1 year ago)
