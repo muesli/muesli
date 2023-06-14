@@ -28,11 +28,11 @@ Want your own self-generating profile page? Check out [readme-scribe](https://gi
 
 #### 🔭 Latest releases I've contributed to
 
-- [sn4k3/UVtools](https://github.com/sn4k3/UVtools) ([v3.14.3](https://github.com/sn4k3/UVtools/releases/tag/v3.14.3), 2 days ago) - MSLA/DLP, file analysis, calibration, repair, conversion and manipulation
+- [sn4k3/UVtools](https://github.com/sn4k3/UVtools) ([v3.14.3](https://github.com/sn4k3/UVtools/releases/tag/v3.14.3), 3 days ago) - MSLA/DLP, file analysis, calibration, repair, conversion and manipulation
 - [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) ([v0.24.2](https://github.com/charmbracelet/bubbletea/releases/tag/v0.24.2), 1 week ago) - A powerful little TUI framework 🏗
-- [charmbracelet/bubbles](https://github.com/charmbracelet/bubbles) ([v0.16.1](https://github.com/charmbracelet/bubbles/releases/tag/v0.16.1), 1 week ago) - TUI components for Bubble Tea 🫧
+- [charmbracelet/bubbles](https://github.com/charmbracelet/bubbles) ([v0.16.1](https://github.com/charmbracelet/bubbles/releases/tag/v0.16.1), 2 weeks ago) - TUI components for Bubble Tea 🫧
 - [charmbracelet/mods](https://github.com/charmbracelet/mods) ([v0.2.0](https://github.com/charmbracelet/mods/releases/tag/v0.2.0), 2 weeks ago) - AI on the command line
-- [charmbracelet/vhs](https://github.com/charmbracelet/vhs) ([v0.5.0](https://github.com/charmbracelet/vhs/releases/tag/v0.5.0), 3 weeks ago) - Your CLI home video recorder 📼
+- [charmbracelet/vhs](https://github.com/charmbracelet/vhs) ([v0.5.0](https://github.com/charmbracelet/vhs/releases/tag/v0.5.0), 4 weeks ago) - Your CLI home video recorder 📼
 
 #### 🔨 Latest Pull Requests I published
 
@@ -46,7 +46,7 @@ Want your own self-generating profile page? Check out [readme-scribe](https://gi
 
 - [Self-hosting VSCode](https://fribbledom.com/posts/selfhosting-vscode/) (2 years ago)
 - [Installing Arch Linux with Full Disk Encryption](https://fribbledom.com/posts/encrypted-arch-install/) (4 years ago)
-- [Remotely Installing a Fully-Encrypted Debian Server](https://fribbledom.com/posts/encrypted-remote-debian-install/) (4 years ago)
+- [Remotely Installing a Fully-Encrypted Debian Server](https://fribbledom.com/posts/encrypted-remote-debian-install/) (5 years ago)
 - [Gamut, a Go Package to Manage Color Palettes](https://fribbledom.com/posts/gamut-package-to-handle-color-palettes/) (5 years ago)
 - [An Algorithm to Generate Color Palettes](https://fribbledom.com/posts/an-algorithm-to-generate-color-palettes/) (5 years ago)
 
