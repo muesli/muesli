@@ -62,7 +62,7 @@ Want your own self-generating profile page? Check out [readme-scribe](https://gi
 
 - [JanDeDobbeleer](https://github.com/JanDeDobbeleer) (1 month ago)
 - [indeedeng](https://github.com/indeedeng) (7 months ago)
-- [icco](https://github.com/icco) (9 months ago)
+- [icco](https://github.com/icco) (10 months ago)
 - [twpayne](https://github.com/twpayne) (1 year ago)
 - [crazy-max](https://github.com/crazy-max) (2 years ago)
 
