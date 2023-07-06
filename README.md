@@ -28,10 +28,10 @@ Want your own self-generating profile page? Check out [readme-scribe](https://gi
 
 #### 🔭 Latest releases I've contributed to
 
-- [sn4k3/UVtools](https://github.com/sn4k3/UVtools) ([v3.15.1](https://github.com/sn4k3/UVtools/releases/tag/v3.15.1), 5 days ago) - MSLA/DLP, file analysis, calibration, repair, conversion and manipulation
+- [sn4k3/UVtools](https://github.com/sn4k3/UVtools) ([v3.15.1](https://github.com/sn4k3/UVtools/releases/tag/v3.15.1), 6 days ago) - MSLA/DLP, file analysis, calibration, repair, conversion and manipulation
 - [charmbracelet/keygen](https://github.com/charmbracelet/keygen) ([v0.4.3](https://github.com/charmbracelet/keygen/releases/tag/v0.4.3), 1 week ago) - An SSH key pair generator 🗝️
 - [muesli/termenv](https://github.com/muesli/termenv) ([v0.15.2](https://github.com/muesli/termenv/releases/tag/v0.15.2), 1 week ago) - Advanced ANSI style &amp; color support for your terminal applications
-- [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) ([v0.24.2](https://github.com/charmbracelet/bubbletea/releases/tag/v0.24.2), 4 weeks ago) - A powerful little TUI framework 🏗
+- [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) ([v0.24.2](https://github.com/charmbracelet/bubbletea/releases/tag/v0.24.2), 1 month ago) - A powerful little TUI framework 🏗
 - [charmbracelet/bubbles](https://github.com/charmbracelet/bubbles) ([v0.16.1](https://github.com/charmbracelet/bubbles/releases/tag/v0.16.1), 1 month ago) - TUI components for Bubble Tea 🫧
 
 #### 🔨 Latest Pull Requests I published
@@ -52,7 +52,7 @@ Want your own self-generating profile page? Check out [readme-scribe](https://gi
 
 #### ⭐ Recent stars
 
-- [wader/fq](https://github.com/wader/fq) - jq for binary formats - tool, language and decoders for working with binary and text formats (4 weeks ago)
+- [wader/fq](https://github.com/wader/fq) - jq for binary formats - tool, language and decoders for working with binary and text formats (1 month ago)
 - [AlexxIT/go2rtc](https://github.com/AlexxIT/go2rtc) - Ultimate camera streaming application with support RTSP, RTMP, HTTP-FLV, WebRTC, MSE, HLS, MP4, MJPEG, HomeKit, FFmpeg, etc. (1 month ago)
 - [robherley/snips.sh](https://github.com/robherley/snips.sh) - ✂️ passwordless, anonymous SSH-powered pastebin with a human-friendly TUI and web UI (1 month ago)
 - [charmbracelet/mods](https://github.com/charmbracelet/mods) - AI on the command line (1 month ago)
@@ -61,7 +61,7 @@ Want your own self-generating profile page? Check out [readme-scribe](https://gi
 #### ❤️ These awesome people sponsor me (thank you!)
 
 - [JanDeDobbeleer](https://github.com/JanDeDobbeleer) (1 month ago)
-- [indeedeng](https://github.com/indeedeng) (7 months ago)
+- [indeedeng](https://github.com/indeedeng) (8 months ago)
 - [icco](https://github.com/icco) (10 months ago)
 - [twpayne](https://github.com/twpayne) (1 year ago)
 - [crazy-max](https://github.com/crazy-max) (2 years ago)
