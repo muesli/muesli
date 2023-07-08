@@ -12,7 +12,7 @@ Want your own self-generating profile page? Check out [readme-scribe](https://gi
 
 #### 👷 Check out what I'm currently working on
 
-- [midzer/sitemap2feed](https://github.com/midzer/sitemap2feed) - Convert an online sitemap to atom, rss and JSON feeds (today)
+- [midzer/sitemap2feed](https://github.com/midzer/sitemap2feed) - Convert an online sitemap to Atom, RSS and JSON feeds (today)
 - [charmbracelet/lipgloss](https://github.com/charmbracelet/lipgloss) - Style definitions for nice terminal layouts 👄 (1 week ago)
 - [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) - A powerful little TUI framework 🏗 (1 month ago)
 - [charmbracelet/mods](https://github.com/charmbracelet/mods) - AI on the command line (1 month ago)
