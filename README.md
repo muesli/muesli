@@ -39,7 +39,7 @@ Want your own self-generating profile page? Check out [readme-scribe](https://gi
 - [fix: go mod tidy examples](https://github.com/charmbracelet/lipgloss/pull/203) on [charmbracelet/lipgloss](https://github.com/charmbracelet/lipgloss) (1 week ago)
 - [fix: stop renderer before acquiring renderer mutex](https://github.com/charmbracelet/bubbletea/pull/757) on [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) (1 month ago)
 - [chore: use nil input when stdin is a pipe](https://github.com/charmbracelet/mods/pull/38) on [charmbracelet/mods](https://github.com/charmbracelet/mods) (1 month ago)
-- [fix: lazily init UI](https://github.com/charmbracelet/glow/pull/494) on [charmbracelet/glow](https://github.com/charmbracelet/glow) (1 month ago)
+- [fix: lazily init UI](https://github.com/charmbracelet/glow/pull/494) on [charmbracelet/glow](https://github.com/charmbracelet/glow) (2 months ago)
 - [chore: bump termenv, lipgloss, x/term](https://github.com/charmbracelet/bubbletea/pull/711) on [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) (3 months ago)
 
 #### 📜 My recent blog posts
