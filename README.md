@@ -12,11 +12,11 @@ Want your own self-generating profile page? Check out [readme-scribe](https://gi
 
 #### 👷 Check out what I'm currently working on
 
+- [muesli/gitcha](https://github.com/muesli/gitcha) - Go helpers to work with git repositories (today)
 - [zyedidia/micro](https://github.com/zyedidia/micro) - A modern and intuitive terminal-based text editor (5 days ago)
 - [midzer/sitemap2feed](https://github.com/midzer/sitemap2feed) - Convert an online sitemap to Atom, RSS and JSON feeds (5 days ago)
 - [charmbracelet/lipgloss](https://github.com/charmbracelet/lipgloss) - Style definitions for nice terminal layouts 👄 (2 weeks ago)
 - [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) - A powerful little TUI framework 🏗 (1 month ago)
-- [charmbracelet/mods](https://github.com/charmbracelet/mods) - AI on the command line (2 months ago)
 
 #### 🌱 My latest projects
 
@@ -28,11 +28,11 @@ Want your own self-generating profile page? Check out [readme-scribe](https://gi
 
 #### 🔭 Latest releases I've contributed to
 
+- [muesli/gitcha](https://github.com/muesli/gitcha) ([v0.3.0](https://github.com/muesli/gitcha/releases/tag/v0.3.0), today) - Go helpers to work with git repositories
 - [charmbracelet/wishlist](https://github.com/charmbracelet/wishlist) ([v0.12.0](https://github.com/charmbracelet/wishlist/releases/tag/v0.12.0), 1 day ago) - The SSH directory ✨
 - [sn4k3/UVtools](https://github.com/sn4k3/UVtools) ([v3.15.1](https://github.com/sn4k3/UVtools/releases/tag/v3.15.1), 1 week ago) - MSLA/DLP, file analysis, calibration, repair, conversion and manipulation
 - [charmbracelet/keygen](https://github.com/charmbracelet/keygen) ([v0.4.3](https://github.com/charmbracelet/keygen/releases/tag/v0.4.3), 2 weeks ago) - An SSH key pair generator 🗝️
 - [muesli/termenv](https://github.com/muesli/termenv) ([v0.15.2](https://github.com/muesli/termenv/releases/tag/v0.15.2), 2 weeks ago) - Advanced ANSI style &amp; color support for your terminal applications
-- [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) ([v0.24.2](https://github.com/charmbracelet/bubbletea/releases/tag/v0.24.2), 1 month ago) - A powerful little TUI framework 🏗
 
 #### 🔨 Latest Pull Requests I published
 
