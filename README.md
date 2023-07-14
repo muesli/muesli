@@ -12,9 +12,9 @@ Want your own self-generating profile page? Check out [readme-scribe](https://gi
 
 #### 👷 Check out what I'm currently working on
 
-- [muesli/gitcha](https://github.com/muesli/gitcha) - Go helpers to work with git repositories (today)
-- [zyedidia/micro](https://github.com/zyedidia/micro) - A modern and intuitive terminal-based text editor (5 days ago)
-- [midzer/sitemap2feed](https://github.com/midzer/sitemap2feed) - Convert an online sitemap to Atom, RSS and JSON feeds (5 days ago)
+- [muesli/gitcha](https://github.com/muesli/gitcha) - Go helpers to work with git repositories (1 day ago)
+- [zyedidia/micro](https://github.com/zyedidia/micro) - A modern and intuitive terminal-based text editor (6 days ago)
+- [midzer/sitemap2feed](https://github.com/midzer/sitemap2feed) - Convert an online sitemap to Atom, RSS and JSON feeds (6 days ago)
 - [charmbracelet/lipgloss](https://github.com/charmbracelet/lipgloss) - Style definitions for nice terminal layouts 👄 (2 weeks ago)
 - [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) - A powerful little TUI framework 🏗 (1 month ago)
 
@@ -28,15 +28,15 @@ Want your own self-generating profile page? Check out [readme-scribe](https://gi
 
 #### 🔭 Latest releases I've contributed to
 
-- [muesli/gitcha](https://github.com/muesli/gitcha) ([v0.3.0](https://github.com/muesli/gitcha/releases/tag/v0.3.0), today) - Go helpers to work with git repositories
-- [charmbracelet/wishlist](https://github.com/charmbracelet/wishlist) ([v0.12.0](https://github.com/charmbracelet/wishlist/releases/tag/v0.12.0), 1 day ago) - The SSH directory ✨
-- [sn4k3/UVtools](https://github.com/sn4k3/UVtools) ([v3.15.1](https://github.com/sn4k3/UVtools/releases/tag/v3.15.1), 1 week ago) - MSLA/DLP, file analysis, calibration, repair, conversion and manipulation
+- [muesli/gitcha](https://github.com/muesli/gitcha) ([v0.3.0](https://github.com/muesli/gitcha/releases/tag/v0.3.0), 1 day ago) - Go helpers to work with git repositories
+- [charmbracelet/wishlist](https://github.com/charmbracelet/wishlist) ([v0.12.0](https://github.com/charmbracelet/wishlist/releases/tag/v0.12.0), 2 days ago) - The SSH directory ✨
+- [sn4k3/UVtools](https://github.com/sn4k3/UVtools) ([v3.15.1](https://github.com/sn4k3/UVtools/releases/tag/v3.15.1), 2 weeks ago) - MSLA/DLP, file analysis, calibration, repair, conversion and manipulation
 - [charmbracelet/keygen](https://github.com/charmbracelet/keygen) ([v0.4.3](https://github.com/charmbracelet/keygen/releases/tag/v0.4.3), 2 weeks ago) - An SSH key pair generator 🗝️
 - [muesli/termenv](https://github.com/muesli/termenv) ([v0.15.2](https://github.com/muesli/termenv/releases/tag/v0.15.2), 2 weeks ago) - Advanced ANSI style &amp; color support for your terminal applications
 
 #### 🔨 Latest Pull Requests I published
 
-- [chore: clean up sources](https://github.com/midzer/sitemap2feed/pull/4) on [midzer/sitemap2feed](https://github.com/midzer/sitemap2feed) (5 days ago)
+- [chore: clean up sources](https://github.com/midzer/sitemap2feed/pull/4) on [midzer/sitemap2feed](https://github.com/midzer/sitemap2feed) (6 days ago)
 - [fix: go mod tidy examples](https://github.com/charmbracelet/lipgloss/pull/203) on [charmbracelet/lipgloss](https://github.com/charmbracelet/lipgloss) (2 weeks ago)
 - [fix: stop renderer before acquiring renderer mutex](https://github.com/charmbracelet/bubbletea/pull/757) on [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) (1 month ago)
 - [chore: use nil input when stdin is a pipe](https://github.com/charmbracelet/mods/pull/38) on [charmbracelet/mods](https://github.com/charmbracelet/mods) (2 months ago)
