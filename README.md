@@ -12,7 +12,7 @@ Want your own self-generating profile page? Check out [readme-scribe](https://gi
 
 #### 👷 Check out what I'm currently working on
 
-- [muesli/gitcha](https://github.com/muesli/gitcha) - Go helpers to work with git repositories (4 days ago)
+- [muesli/gitcha](https://github.com/muesli/gitcha) - Go helpers to work with git repositories (5 days ago)
 - [zyedidia/micro](https://github.com/zyedidia/micro) - A modern and intuitive terminal-based text editor (1 week ago)
 - [midzer/sitemap2feed](https://github.com/midzer/sitemap2feed) - Convert an online sitemap to Atom, RSS and JSON feeds (1 week ago)
 - [charmbracelet/lipgloss](https://github.com/charmbracelet/lipgloss) - Style definitions for nice terminal layouts 👄 (2 weeks ago)
@@ -28,11 +28,11 @@ Want your own self-generating profile page? Check out [readme-scribe](https://gi
 
 #### 🔭 Latest releases I've contributed to
 
-- [muesli/gitcha](https://github.com/muesli/gitcha) ([v0.3.0](https://github.com/muesli/gitcha/releases/tag/v0.3.0), 4 days ago) - Go helpers to work with git repositories
-- [charmbracelet/wishlist](https://github.com/charmbracelet/wishlist) ([v0.12.0](https://github.com/charmbracelet/wishlist/releases/tag/v0.12.0), 5 days ago) - The SSH directory ✨
+- [muesli/gitcha](https://github.com/muesli/gitcha) ([v0.3.0](https://github.com/muesli/gitcha/releases/tag/v0.3.0), 5 days ago) - Go helpers to work with git repositories
+- [charmbracelet/wishlist](https://github.com/charmbracelet/wishlist) ([v0.12.0](https://github.com/charmbracelet/wishlist/releases/tag/v0.12.0), 6 days ago) - The SSH directory ✨
 - [sn4k3/UVtools](https://github.com/sn4k3/UVtools) ([v3.15.1](https://github.com/sn4k3/UVtools/releases/tag/v3.15.1), 2 weeks ago) - MSLA/DLP, file analysis, calibration, repair, conversion and manipulation
-- [charmbracelet/keygen](https://github.com/charmbracelet/keygen) ([v0.4.3](https://github.com/charmbracelet/keygen/releases/tag/v0.4.3), 2 weeks ago) - An SSH key pair generator 🗝️
-- [muesli/termenv](https://github.com/muesli/termenv) ([v0.15.2](https://github.com/muesli/termenv/releases/tag/v0.15.2), 2 weeks ago) - Advanced ANSI style &amp; color support for your terminal applications
+- [charmbracelet/keygen](https://github.com/charmbracelet/keygen) ([v0.4.3](https://github.com/charmbracelet/keygen/releases/tag/v0.4.3), 3 weeks ago) - An SSH key pair generator 🗝️
+- [muesli/termenv](https://github.com/muesli/termenv) ([v0.15.2](https://github.com/muesli/termenv/releases/tag/v0.15.2), 3 weeks ago) - Advanced ANSI style &amp; color support for your terminal applications
 
 #### 🔨 Latest Pull Requests I published
 
@@ -52,7 +52,7 @@ Want your own self-generating profile page? Check out [readme-scribe](https://gi
 
 #### ⭐ Recent stars
 
-- [charmbracelet/pop](https://github.com/charmbracelet/pop) - Send emails from your terminal 📬 (today)
+- [charmbracelet/pop](https://github.com/charmbracelet/pop) - Send emails from your terminal 📬 (1 day ago)
 - [wader/fq](https://github.com/wader/fq) - jq for binary formats - tool, language and decoders for working with binary and text formats (1 month ago)
 - [AlexxIT/go2rtc](https://github.com/AlexxIT/go2rtc) - Ultimate camera streaming application with support RTSP, RTMP, HTTP-FLV, WebRTC, MSE, HLS, MP4, MJPEG, HomeKit, FFmpeg, etc. (1 month ago)
 - [robherley/snips.sh](https://github.com/robherley/snips.sh) - ✂️ passwordless, anonymous SSH-powered pastebin with a human-friendly TUI and web UI (2 months ago)
