@@ -28,11 +28,11 @@ Want your own self-generating profile page? Check out [readme-scribe](https://gi
 
 #### 🔭 Latest releases I've contributed to
 
-- [charmbracelet/vhs](https://github.com/charmbracelet/vhs) ([v0.6.0](https://github.com/charmbracelet/vhs/releases/tag/v0.6.0), today) - Your CLI home video recorder 📼
-- [charmbracelet/wishlist](https://github.com/charmbracelet/wishlist) ([v0.13.0](https://github.com/charmbracelet/wishlist/releases/tag/v0.13.0), 1 day ago) - The SSH directory ✨
-- [charmbracelet/soft-serve](https://github.com/charmbracelet/soft-serve) ([v0.5.5](https://github.com/charmbracelet/soft-serve/releases/tag/v0.5.5), 2 days ago) - A tasty, self-hostable Git server for the command line🍦
+- [charmbracelet/vhs](https://github.com/charmbracelet/vhs) ([v0.6.0](https://github.com/charmbracelet/vhs/releases/tag/v0.6.0), 1 day ago) - Your CLI home video recorder 📼
+- [charmbracelet/wishlist](https://github.com/charmbracelet/wishlist) ([v0.13.0](https://github.com/charmbracelet/wishlist/releases/tag/v0.13.0), 2 days ago) - The SSH directory ✨
+- [charmbracelet/soft-serve](https://github.com/charmbracelet/soft-serve) ([v0.5.5](https://github.com/charmbracelet/soft-serve/releases/tag/v0.5.5), 3 days ago) - A tasty, self-hostable Git server for the command line🍦
 - [muesli/gitcha](https://github.com/muesli/gitcha) ([v0.3.0](https://github.com/muesli/gitcha/releases/tag/v0.3.0), 1 week ago) - Go helpers to work with git repositories
-- [sn4k3/UVtools](https://github.com/sn4k3/UVtools) ([v3.15.1](https://github.com/sn4k3/UVtools/releases/tag/v3.15.1), 2 weeks ago) - MSLA/DLP, file analysis, calibration, repair, conversion and manipulation
+- [sn4k3/UVtools](https://github.com/sn4k3/UVtools) ([v3.15.1](https://github.com/sn4k3/UVtools/releases/tag/v3.15.1), 3 weeks ago) - MSLA/DLP, file analysis, calibration, repair, conversion and manipulation
 
 #### 🔨 Latest Pull Requests I published
 
@@ -52,7 +52,7 @@ Want your own self-generating profile page? Check out [readme-scribe](https://gi
 
 #### ⭐ Recent stars
 
-- [charmbracelet/pop](https://github.com/charmbracelet/pop) - Send emails from your terminal 📬 (3 days ago)
+- [charmbracelet/pop](https://github.com/charmbracelet/pop) - Send emails from your terminal 📬 (4 days ago)
 - [wader/fq](https://github.com/wader/fq) - jq for binary formats - tool, language and decoders for working with binary and text formats (1 month ago)
 - [AlexxIT/go2rtc](https://github.com/AlexxIT/go2rtc) - Ultimate camera streaming application with support RTSP, RTMP, HTTP-FLV, WebRTC, MSE, HLS, MP4, MJPEG, HomeKit, FFmpeg, etc. (1 month ago)
 - [robherley/snips.sh](https://github.com/robherley/snips.sh) - ✂️ passwordless, anonymous SSH-powered pastebin with a human-friendly TUI and web UI (2 months ago)
