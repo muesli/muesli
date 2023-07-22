@@ -13,8 +13,8 @@ Want your own self-generating profile page? Check out [readme-scribe](https://gi
 #### 👷 Check out what I'm currently working on
 
 - [muesli/gitcha](https://github.com/muesli/gitcha) - Go helpers to work with git repositories (1 week ago)
-- [zyedidia/micro](https://github.com/zyedidia/micro) - A modern and intuitive terminal-based text editor (1 week ago)
-- [midzer/sitemap2feed](https://github.com/midzer/sitemap2feed) - Convert an online sitemap to Atom, RSS and JSON feeds (1 week ago)
+- [zyedidia/micro](https://github.com/zyedidia/micro) - A modern and intuitive terminal-based text editor (2 weeks ago)
+- [midzer/sitemap2feed](https://github.com/midzer/sitemap2feed) - Convert an online sitemap to Atom, RSS and JSON feeds (2 weeks ago)
 - [charmbracelet/lipgloss](https://github.com/charmbracelet/lipgloss) - Style definitions for nice terminal layouts 👄 (3 weeks ago)
 - [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) - A powerful little TUI framework 🏗 (1 month ago)
 
@@ -28,15 +28,15 @@ Want your own self-generating profile page? Check out [readme-scribe](https://gi
 
 #### 🔭 Latest releases I've contributed to
 
-- [charmbracelet/gum](https://github.com/charmbracelet/gum) ([v0.11.0](https://github.com/charmbracelet/gum/releases/tag/v0.11.0), today) - A tool for glamorous shell scripts 🎀
-- [charmbracelet/vhs](https://github.com/charmbracelet/vhs) ([v0.6.0](https://github.com/charmbracelet/vhs/releases/tag/v0.6.0), 1 day ago) - Your CLI home video recorder 📼
-- [charmbracelet/wishlist](https://github.com/charmbracelet/wishlist) ([v0.13.0](https://github.com/charmbracelet/wishlist/releases/tag/v0.13.0), 2 days ago) - The SSH directory ✨
-- [charmbracelet/soft-serve](https://github.com/charmbracelet/soft-serve) ([v0.5.5](https://github.com/charmbracelet/soft-serve/releases/tag/v0.5.5), 3 days ago) - A tasty, self-hostable Git server for the command line🍦
+- [charmbracelet/gum](https://github.com/charmbracelet/gum) ([v0.11.0](https://github.com/charmbracelet/gum/releases/tag/v0.11.0), 1 day ago) - A tool for glamorous shell scripts 🎀
+- [charmbracelet/vhs](https://github.com/charmbracelet/vhs) ([v0.6.0](https://github.com/charmbracelet/vhs/releases/tag/v0.6.0), 2 days ago) - Your CLI home video recorder 📼
+- [charmbracelet/wishlist](https://github.com/charmbracelet/wishlist) ([v0.13.0](https://github.com/charmbracelet/wishlist/releases/tag/v0.13.0), 3 days ago) - The SSH directory ✨
+- [charmbracelet/soft-serve](https://github.com/charmbracelet/soft-serve) ([v0.5.5](https://github.com/charmbracelet/soft-serve/releases/tag/v0.5.5), 4 days ago) - A tasty, self-hostable Git server for the command line🍦
 - [muesli/gitcha](https://github.com/muesli/gitcha) ([v0.3.0](https://github.com/muesli/gitcha/releases/tag/v0.3.0), 1 week ago) - Go helpers to work with git repositories
 
 #### 🔨 Latest Pull Requests I published
 
-- [chore: clean up sources](https://github.com/midzer/sitemap2feed/pull/4) on [midzer/sitemap2feed](https://github.com/midzer/sitemap2feed) (1 week ago)
+- [chore: clean up sources](https://github.com/midzer/sitemap2feed/pull/4) on [midzer/sitemap2feed](https://github.com/midzer/sitemap2feed) (2 weeks ago)
 - [fix: go mod tidy examples](https://github.com/charmbracelet/lipgloss/pull/203) on [charmbracelet/lipgloss](https://github.com/charmbracelet/lipgloss) (3 weeks ago)
 - [fix: stop renderer before acquiring renderer mutex](https://github.com/charmbracelet/bubbletea/pull/757) on [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) (1 month ago)
 - [chore: use nil input when stdin is a pipe](https://github.com/charmbracelet/mods/pull/38) on [charmbracelet/mods](https://github.com/charmbracelet/mods) (2 months ago)
@@ -52,9 +52,9 @@ Want your own self-generating profile page? Check out [readme-scribe](https://gi
 
 #### ⭐ Recent stars
 
-- [charmbracelet/pop](https://github.com/charmbracelet/pop) - Send emails from your terminal 📬 (4 days ago)
+- [charmbracelet/pop](https://github.com/charmbracelet/pop) - Send emails from your terminal 📬 (5 days ago)
 - [wader/fq](https://github.com/wader/fq) - jq for binary formats - tool, language and decoders for working with binary and text formats (1 month ago)
-- [AlexxIT/go2rtc](https://github.com/AlexxIT/go2rtc) - Ultimate camera streaming application with support RTSP, RTMP, HTTP-FLV, WebRTC, MSE, HLS, MP4, MJPEG, HomeKit, FFmpeg, etc. (1 month ago)
+- [AlexxIT/go2rtc](https://github.com/AlexxIT/go2rtc) - Ultimate camera streaming application with support RTSP, RTMP, HTTP-FLV, WebRTC, MSE, HLS, MP4, MJPEG, HomeKit, FFmpeg, etc. (2 months ago)
 - [robherley/snips.sh](https://github.com/robherley/snips.sh) - ✂️ passwordless, anonymous SSH-powered pastebin with a human-friendly TUI and web UI (2 months ago)
 - [charmbracelet/mods](https://github.com/charmbracelet/mods) - AI on the command line (2 months ago)
 
