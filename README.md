@@ -12,7 +12,7 @@ Want your own self-generating profile page? Check out [readme-scribe](https://gi
 
 #### 👷 Check out what I'm currently working on
 
-- [muesli/gitcha](https://github.com/muesli/gitcha) - Go helpers to work with git repositories (1 week ago)
+- [muesli/gitcha](https://github.com/muesli/gitcha) - Go helpers to work with git repositories (2 weeks ago)
 - [midzer/sitemap2feed](https://github.com/midzer/sitemap2feed) - Convert an online sitemap to Atom, RSS and JSON feeds (2 weeks ago)
 - [zyedidia/micro](https://github.com/zyedidia/micro) - A modern and intuitive terminal-based text editor (2 weeks ago)
 - [charmbracelet/lipgloss](https://github.com/charmbracelet/lipgloss) - Style definitions for nice terminal layouts 👄 (4 weeks ago)
@@ -28,9 +28,9 @@ Want your own self-generating profile page? Check out [readme-scribe](https://gi
 
 #### 🔭 Latest releases I've contributed to
 
-- [charmbracelet/charm](https://github.com/charmbracelet/charm) ([v0.12.6](https://github.com/charmbracelet/charm/releases/tag/v0.12.6), today) - The Charm Tool and Library 🌟
-- [charmbracelet/gum](https://github.com/charmbracelet/gum) ([v0.11.0](https://github.com/charmbracelet/gum/releases/tag/v0.11.0), 5 days ago) - A tool for glamorous shell scripts 🎀
-- [charmbracelet/vhs](https://github.com/charmbracelet/vhs) ([v0.6.0](https://github.com/charmbracelet/vhs/releases/tag/v0.6.0), 6 days ago) - Your CLI home video recorder 📼
+- [charmbracelet/charm](https://github.com/charmbracelet/charm) ([v0.12.6](https://github.com/charmbracelet/charm/releases/tag/v0.12.6), 1 day ago) - The Charm Tool and Library 🌟
+- [charmbracelet/gum](https://github.com/charmbracelet/gum) ([v0.11.0](https://github.com/charmbracelet/gum/releases/tag/v0.11.0), 6 days ago) - A tool for glamorous shell scripts 🎀
+- [charmbracelet/vhs](https://github.com/charmbracelet/vhs) ([v0.6.0](https://github.com/charmbracelet/vhs/releases/tag/v0.6.0), 1 week ago) - Your CLI home video recorder 📼
 - [charmbracelet/wishlist](https://github.com/charmbracelet/wishlist) ([v0.13.0](https://github.com/charmbracelet/wishlist/releases/tag/v0.13.0), 1 week ago) - The SSH directory ✨
 - [charmbracelet/soft-serve](https://github.com/charmbracelet/soft-serve) ([v0.5.5](https://github.com/charmbracelet/soft-serve/releases/tag/v0.5.5), 1 week ago) - A tasty, self-hostable Git server for the command line🍦
 
