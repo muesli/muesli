@@ -13,8 +13,8 @@ Want your own self-generating profile page? Check out [readme-scribe](https://gi
 #### 👷 Check out what I'm currently working on
 
 - [muesli/gitcha](https://github.com/muesli/gitcha) - Go helpers to work with git repositories (2 weeks ago)
-- [midzer/sitemap2feed](https://github.com/midzer/sitemap2feed) - Convert an online sitemap to Atom, RSS and JSON feeds (2 weeks ago)
-- [zyedidia/micro](https://github.com/zyedidia/micro) - A modern and intuitive terminal-based text editor (2 weeks ago)
+- [midzer/sitemap2feed](https://github.com/midzer/sitemap2feed) - Convert an online sitemap to Atom, RSS and JSON feeds (3 weeks ago)
+- [zyedidia/micro](https://github.com/zyedidia/micro) - A modern and intuitive terminal-based text editor (3 weeks ago)
 - [charmbracelet/lipgloss](https://github.com/charmbracelet/lipgloss) - Style definitions for nice terminal layouts 👄 (1 month ago)
 - [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) - A powerful little TUI framework 🏗 (1 month ago)
 
@@ -28,7 +28,7 @@ Want your own self-generating profile page? Check out [readme-scribe](https://gi
 
 #### 🔭 Latest releases I've contributed to
 
-- [charmbracelet/charm](https://github.com/charmbracelet/charm) ([v0.12.6](https://github.com/charmbracelet/charm/releases/tag/v0.12.6), 2 days ago) - The Charm Tool and Library 🌟
+- [charmbracelet/charm](https://github.com/charmbracelet/charm) ([v0.12.6](https://github.com/charmbracelet/charm/releases/tag/v0.12.6), 3 days ago) - The Charm Tool and Library 🌟
 - [charmbracelet/gum](https://github.com/charmbracelet/gum) ([v0.11.0](https://github.com/charmbracelet/gum/releases/tag/v0.11.0), 1 week ago) - A tool for glamorous shell scripts 🎀
 - [charmbracelet/vhs](https://github.com/charmbracelet/vhs) ([v0.6.0](https://github.com/charmbracelet/vhs/releases/tag/v0.6.0), 1 week ago) - Your CLI home video recorder 📼
 - [charmbracelet/wishlist](https://github.com/charmbracelet/wishlist) ([v0.13.0](https://github.com/charmbracelet/wishlist/releases/tag/v0.13.0), 1 week ago) - The SSH directory ✨
@@ -36,7 +36,7 @@ Want your own self-generating profile page? Check out [readme-scribe](https://gi
 
 #### 🔨 Latest Pull Requests I published
 
-- [chore: clean up sources](https://github.com/midzer/sitemap2feed/pull/4) on [midzer/sitemap2feed](https://github.com/midzer/sitemap2feed) (2 weeks ago)
+- [chore: clean up sources](https://github.com/midzer/sitemap2feed/pull/4) on [midzer/sitemap2feed](https://github.com/midzer/sitemap2feed) (3 weeks ago)
 - [fix: go mod tidy examples](https://github.com/charmbracelet/lipgloss/pull/203) on [charmbracelet/lipgloss](https://github.com/charmbracelet/lipgloss) (1 month ago)
 - [fix: stop renderer before acquiring renderer mutex](https://github.com/charmbracelet/bubbletea/pull/757) on [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) (1 month ago)
 - [chore: use nil input when stdin is a pipe](https://github.com/charmbracelet/mods/pull/38) on [charmbracelet/mods](https://github.com/charmbracelet/mods) (2 months ago)
