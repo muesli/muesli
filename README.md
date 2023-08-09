@@ -28,10 +28,10 @@ Want your own self-generating profile page? Check out [readme-scribe](https://gi
 
 #### 🔭 Latest releases I've contributed to
 
-- [charmbracelet/charm](https://github.com/charmbracelet/charm) ([v0.12.6](https://github.com/charmbracelet/charm/releases/tag/v0.12.6), 1 week ago) - The Charm Tool and Library 🌟
+- [charmbracelet/charm](https://github.com/charmbracelet/charm) ([v0.12.6](https://github.com/charmbracelet/charm/releases/tag/v0.12.6), 2 weeks ago) - The Charm Tool and Library 🌟
 - [charmbracelet/gum](https://github.com/charmbracelet/gum) ([v0.11.0](https://github.com/charmbracelet/gum/releases/tag/v0.11.0), 2 weeks ago) - A tool for glamorous shell scripts 🎀
 - [charmbracelet/vhs](https://github.com/charmbracelet/vhs) ([v0.6.0](https://github.com/charmbracelet/vhs/releases/tag/v0.6.0), 2 weeks ago) - Your CLI home video recorder 📼
-- [charmbracelet/wishlist](https://github.com/charmbracelet/wishlist) ([v0.13.0](https://github.com/charmbracelet/wishlist/releases/tag/v0.13.0), 2 weeks ago) - The SSH directory ✨
+- [charmbracelet/wishlist](https://github.com/charmbracelet/wishlist) ([v0.13.0](https://github.com/charmbracelet/wishlist/releases/tag/v0.13.0), 3 weeks ago) - The SSH directory ✨
 - [charmbracelet/soft-serve](https://github.com/charmbracelet/soft-serve) ([v0.5.5](https://github.com/charmbracelet/soft-serve/releases/tag/v0.5.5), 3 weeks ago) - A tasty, self-hostable Git server for the command line🍦
 
 #### 🔨 Latest Pull Requests I published
@@ -60,7 +60,7 @@ Want your own self-generating profile page? Check out [readme-scribe](https://gi
 
 #### ❤️ These awesome people sponsor me (thank you!)
 
-- [JanDeDobbeleer](https://github.com/JanDeDobbeleer) (2 months ago)
+- [JanDeDobbeleer](https://github.com/JanDeDobbeleer) (3 months ago)
 - [indeedeng](https://github.com/indeedeng) (9 months ago)
 - [icco](https://github.com/icco) (11 months ago)
 - [twpayne](https://github.com/twpayne) (2 years ago)
