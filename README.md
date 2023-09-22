@@ -52,7 +52,7 @@ Want your own self-generating profile page? Check out [readme-scribe](https://gi
 
 #### ⭐ Recent stars
 
-- [leaanthony/go-ansi-parser](https://github.com/leaanthony/go-ansi-parser) - Go Parser for ANSI strings (2 weeks ago)
+- [leaanthony/go-ansi-parser](https://github.com/leaanthony/go-ansi-parser) - Go Parser for ANSI strings (3 weeks ago)
 - [charmbracelet/pop](https://github.com/charmbracelet/pop) - Send emails from your terminal 📬 (2 months ago)
 - [wader/fq](https://github.com/wader/fq) - jq for binary formats - tool, language and decoders for working with binary and text formats (3 months ago)
 - [AlexxIT/go2rtc](https://github.com/AlexxIT/go2rtc) - Ultimate camera streaming application with support RTSP, RTMP, HTTP-FLV, WebRTC, MSE, HLS, MP4, MJPEG, HomeKit, FFmpeg, etc. (4 months ago)
@@ -60,7 +60,7 @@ Want your own self-generating profile page? Check out [readme-scribe](https://gi
 
 #### ❤️ These awesome people sponsor me (thank you!)
 
-- [joshbeard](https://github.com/joshbeard) (3 weeks ago)
+- [joshbeard](https://github.com/joshbeard) (4 weeks ago)
 - [JanDeDobbeleer](https://github.com/JanDeDobbeleer) (4 months ago)
 - [icco](https://github.com/icco) (1 year ago)
 - [twpayne](https://github.com/twpayne) (2 years ago)
