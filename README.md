@@ -28,9 +28,9 @@ Want your own self-generating profile page? Check out [readme-scribe](https://gi
 
 #### 🔭 Latest releases I've contributed to
 
-- [charmbracelet/soft-serve](https://github.com/charmbracelet/soft-serve) ([v0.6.2](https://github.com/charmbracelet/soft-serve/releases/tag/v0.6.2), 1 day ago) - The mighty, self-hostable Git server for the command line🍦
+- [charmbracelet/soft-serve](https://github.com/charmbracelet/soft-serve) ([v0.6.2](https://github.com/charmbracelet/soft-serve/releases/tag/v0.6.2), 2 days ago) - The mighty, self-hostable Git server for the command line🍦
 - [charmbracelet/mods](https://github.com/charmbracelet/mods) ([v1.0.0](https://github.com/charmbracelet/mods/releases/tag/v1.0.0), 1 week ago) - AI on the command line
-- [zyedidia/micro](https://github.com/zyedidia/micro) ([v2.0.12](https://github.com/zyedidia/micro/releases/tag/v2.0.12), 3 weeks ago) - A modern and intuitive terminal-based text editor
+- [zyedidia/micro](https://github.com/zyedidia/micro) ([v2.0.12](https://github.com/zyedidia/micro/releases/tag/v2.0.12), 4 weeks ago) - A modern and intuitive terminal-based text editor
 - [charmbracelet/lipgloss](https://github.com/charmbracelet/lipgloss) ([v0.8.0](https://github.com/charmbracelet/lipgloss/releases/tag/v0.8.0), 1 month ago) - Style definitions for nice terminal layouts 👄
 - [charmbracelet/charm](https://github.com/charmbracelet/charm) ([v0.12.6](https://github.com/charmbracelet/charm/releases/tag/v0.12.6), 2 months ago) - The Charm Tool and Library 🌟
 
@@ -52,11 +52,11 @@ Want your own self-generating profile page? Check out [readme-scribe](https://gi
 
 #### ⭐ Recent stars
 
-- [knz/lipgloss-convert](https://github.com/knz/lipgloss-convert) - String conversion functions for lipgloss Styles (4 days ago)
-- [ebitengine/purego](https://github.com/ebitengine/purego) (6 days ago)
+- [knz/lipgloss-convert](https://github.com/knz/lipgloss-convert) - String conversion functions for lipgloss Styles (5 days ago)
+- [ebitengine/purego](https://github.com/ebitengine/purego) (1 week ago)
 - [leaanthony/go-ansi-parser](https://github.com/leaanthony/go-ansi-parser) - Go Parser for ANSI strings (1 month ago)
 - [charmbracelet/pop](https://github.com/charmbracelet/pop) - Send emails from your terminal 📬 (2 months ago)
-- [wader/fq](https://github.com/wader/fq) - jq for binary formats - tool, language and decoders for working with binary and text formats (3 months ago)
+- [wader/fq](https://github.com/wader/fq) - jq for binary formats - tool, language and decoders for working with binary and text formats (4 months ago)
 
 #### ❤️ These awesome people sponsor me (thank you!)
 
