@@ -31,8 +31,8 @@ Want your own self-generating profile page? Check out [readme-scribe](https://gi
 - [charmbracelet/soft-serve](https://github.com/charmbracelet/soft-serve) ([v0.6.2](https://github.com/charmbracelet/soft-serve/releases/tag/v0.6.2), 3 days ago) - The mighty, self-hostable Git server for the command line🍦
 - [charmbracelet/mods](https://github.com/charmbracelet/mods) ([v1.0.0](https://github.com/charmbracelet/mods/releases/tag/v1.0.0), 1 week ago) - AI on the command line
 - [zyedidia/micro](https://github.com/zyedidia/micro) ([v2.0.12](https://github.com/zyedidia/micro/releases/tag/v2.0.12), 4 weeks ago) - A modern and intuitive terminal-based text editor
-- [charmbracelet/lipgloss](https://github.com/charmbracelet/lipgloss) ([v0.8.0](https://github.com/charmbracelet/lipgloss/releases/tag/v0.8.0), 1 month ago) - Style definitions for nice terminal layouts 👄
 - [charmbracelet/charm](https://github.com/charmbracelet/charm) ([v0.12.6](https://github.com/charmbracelet/charm/releases/tag/v0.12.6), 2 months ago) - The Charm Tool and Library 🌟
+- [charmbracelet/gum](https://github.com/charmbracelet/gum) ([v0.11.0](https://github.com/charmbracelet/gum/releases/tag/v0.11.0), 2 months ago) - A tool for glamorous shell scripts 🎀
 
 #### 🔨 Latest Pull Requests I published
 
