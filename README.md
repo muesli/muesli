@@ -28,11 +28,11 @@ Want your own self-generating profile page? Check out [readme-scribe](https://gi
 
 #### 🔭 Latest releases I've contributed to
 
-- [charmbracelet/wishlist](https://github.com/charmbracelet/wishlist) ([v0.14.0](https://github.com/charmbracelet/wishlist/releases/tag/v0.14.0), today) - The SSH directory ✨
-- [charmbracelet/wish](https://github.com/charmbracelet/wish) ([v1.2.0](https://github.com/charmbracelet/wish/releases/tag/v1.2.0), today) - Make SSH apps, just like that! 💫
-- [zyedidia/micro](https://github.com/zyedidia/micro) ([v2.0.13](https://github.com/zyedidia/micro/releases/tag/v2.0.13), 5 days ago) - A modern and intuitive terminal-based text editor
+- [charmbracelet/wishlist](https://github.com/charmbracelet/wishlist) ([v0.14.0](https://github.com/charmbracelet/wishlist/releases/tag/v0.14.0), 1 day ago) - The SSH directory ✨
+- [charmbracelet/wish](https://github.com/charmbracelet/wish) ([v1.2.0](https://github.com/charmbracelet/wish/releases/tag/v1.2.0), 1 day ago) - Make SSH apps, just like that! 💫
+- [zyedidia/micro](https://github.com/zyedidia/micro) ([v2.0.13](https://github.com/zyedidia/micro/releases/tag/v2.0.13), 6 days ago) - A modern and intuitive terminal-based text editor
 - [charmbracelet/lipgloss](https://github.com/charmbracelet/lipgloss) ([v0.9.1](https://github.com/charmbracelet/lipgloss/releases/tag/v0.9.1), 2 weeks ago) - Style definitions for nice terminal layouts 👄
-- [charmbracelet/melt](https://github.com/charmbracelet/melt) ([v0.6.0](https://github.com/charmbracelet/melt/releases/tag/v0.6.0), 2 weeks ago) - 🧊 Backup and restore Ed25519 SSH keys with seed words.
+- [charmbracelet/melt](https://github.com/charmbracelet/melt) ([v0.6.0](https://github.com/charmbracelet/melt/releases/tag/v0.6.0), 3 weeks ago) - 🧊 Backup and restore Ed25519 SSH keys with seed words.
 
 #### 🔨 Latest Pull Requests I published
 
@@ -52,10 +52,10 @@ Want your own self-generating profile page? Check out [readme-scribe](https://gi
 
 #### ⭐ Recent stars
 
-- [dz0ny/klipper-prusa-mk3s](https://github.com/dz0ny/klipper-prusa-mk3s) - Structured Klipper config for Prusa MK3s 3D printer (1 day ago)
+- [dz0ny/klipper-prusa-mk3s](https://github.com/dz0ny/klipper-prusa-mk3s) - Structured Klipper config for Prusa MK3s 3D printer (2 days ago)
 - [EthanEFung/bubble-datepicker](https://github.com/EthanEFung/bubble-datepicker) - A datepicker component for charmbracelet/bubbletea TUI applications (2 weeks ago)
-- [knz/lipgloss-convert](https://github.com/knz/lipgloss-convert) - String conversion functions for lipgloss Styles (3 weeks ago)
-- [ebitengine/purego](https://github.com/ebitengine/purego) (4 weeks ago)
+- [knz/lipgloss-convert](https://github.com/knz/lipgloss-convert) - String conversion functions for lipgloss Styles (4 weeks ago)
+- [ebitengine/purego](https://github.com/ebitengine/purego) (1 month ago)
 - [leaanthony/go-ansi-parser](https://github.com/leaanthony/go-ansi-parser) - Go Parser for ANSI strings (1 month ago)
 
 #### ❤️ These awesome people sponsor me (thank you!)
