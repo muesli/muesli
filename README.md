@@ -28,7 +28,7 @@ Want your own self-generating profile page? Check out [readme-scribe](https://gi
 
 #### 🔭 Latest releases I've contributed to
 
-- [charmbracelet/soft-serve](https://github.com/charmbracelet/soft-serve) ([v0.7.1](https://github.com/charmbracelet/soft-serve/releases/tag/v0.7.1), 1 week ago) - The mighty, self-hostable Git server for the command line🍦
+- [charmbracelet/soft-serve](https://github.com/charmbracelet/soft-serve) ([v0.7.1](https://github.com/charmbracelet/soft-serve/releases/tag/v0.7.1), 2 weeks ago) - The mighty, self-hostable Git server for the command line🍦
 - [charmbracelet/wishlist](https://github.com/charmbracelet/wishlist) ([v0.14.0](https://github.com/charmbracelet/wishlist/releases/tag/v0.14.0), 2 weeks ago) - The SSH directory ✨
 - [charmbracelet/wish](https://github.com/charmbracelet/wish) ([v1.2.0](https://github.com/charmbracelet/wish/releases/tag/v1.2.0), 2 weeks ago) - Make SSH apps, just like that! 💫
 - [zyedidia/micro](https://github.com/zyedidia/micro) ([v2.0.13](https://github.com/zyedidia/micro/releases/tag/v2.0.13), 3 weeks ago) - A modern and intuitive terminal-based text editor
@@ -52,7 +52,7 @@ Want your own self-generating profile page? Check out [readme-scribe](https://gi
 
 #### ⭐ Recent stars
 
-- [dz0ny/klipper-prusa-mk3s](https://github.com/dz0ny/klipper-prusa-mk3s) - Structured Klipper config for Prusa MK3s 3D printer (2 weeks ago)
+- [dz0ny/klipper-prusa-mk3s](https://github.com/dz0ny/klipper-prusa-mk3s) - Structured Klipper config for Prusa MK3s 3D printer (3 weeks ago)
 - [EthanEFung/bubble-datepicker](https://github.com/EthanEFung/bubble-datepicker) - A datepicker component for charmbracelet/bubbletea TUI applications (1 month ago)
 - [knz/lipgloss-convert](https://github.com/knz/lipgloss-convert) - String conversion functions for lipgloss Styles (1 month ago)
 - [ebitengine/purego](https://github.com/ebitengine/purego) (1 month ago)
