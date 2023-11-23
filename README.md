@@ -28,7 +28,7 @@ Want your own self-generating profile page? Check out [readme-scribe](https://gi
 
 #### 🔭 Latest releases I've contributed to
 
-- [charmbracelet/mods](https://github.com/charmbracelet/mods) ([v1.1.0](https://github.com/charmbracelet/mods/releases/tag/v1.1.0), 5 days ago) - AI on the command line
+- [charmbracelet/mods](https://github.com/charmbracelet/mods) ([v1.1.0](https://github.com/charmbracelet/mods/releases/tag/v1.1.0), 6 days ago) - AI on the command line
 - [zyedidia/micro](https://github.com/zyedidia/micro) ([v2.0.13](https://github.com/zyedidia/micro/releases/tag/v2.0.13), 1 month ago) - A modern and intuitive terminal-based text editor
 - [charmbracelet/lipgloss](https://github.com/charmbracelet/lipgloss) ([v0.9.1](https://github.com/charmbracelet/lipgloss/releases/tag/v0.9.1), 1 month ago) - Style definitions for nice terminal layouts 👄
 - [muesli/gitcha](https://github.com/muesli/gitcha) ([v0.3.0](https://github.com/muesli/gitcha/releases/tag/v0.3.0), 4 months ago) - Go helpers to work with git repositories
@@ -60,8 +60,8 @@ Want your own self-generating profile page? Check out [readme-scribe](https://gi
 
 #### ❤️ These awesome people sponsor me (thank you!)
 
-- [mental32](https://github.com/mental32) (2 weeks ago)
-- [joshbeard](https://github.com/joshbeard) (2 months ago)
+- [mental32](https://github.com/mental32) (3 weeks ago)
+- [joshbeard](https://github.com/joshbeard) (3 months ago)
 - [JanDeDobbeleer](https://github.com/JanDeDobbeleer) (6 months ago)
 - [icco](https://github.com/icco) (1 year ago)
 - [twpayne](https://github.com/twpayne) (2 years ago)
