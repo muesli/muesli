@@ -55,7 +55,7 @@ Want your own self-generating profile page? Check out [readme-scribe](https://gi
 - [dz0ny/klipper-prusa-mk3s](https://github.com/dz0ny/klipper-prusa-mk3s) - Structured Klipper config for Prusa MK3s 3D printer (1 month ago)
 - [EthanEFung/bubble-datepicker](https://github.com/EthanEFung/bubble-datepicker) - A datepicker component for charmbracelet/bubbletea TUI applications (1 month ago)
 - [knz/lipgloss-convert](https://github.com/knz/lipgloss-convert) - String conversion functions for lipgloss Styles (1 month ago)
-- [ebitengine/purego](https://github.com/ebitengine/purego) (1 month ago)
+- [ebitengine/purego](https://github.com/ebitengine/purego) (2 months ago)
 - [leaanthony/go-ansi-parser](https://github.com/leaanthony/go-ansi-parser) - Go Parser for ANSI strings (2 months ago)
 
 #### ❤️ These awesome people sponsor me (thank you!)
