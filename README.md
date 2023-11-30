@@ -56,11 +56,11 @@ Want your own self-generating profile page? Check out [readme-scribe](https://gi
 - [EthanEFung/bubble-datepicker](https://github.com/EthanEFung/bubble-datepicker) - A datepicker component for charmbracelet/bubbletea TUI applications (1 month ago)
 - [knz/lipgloss-convert](https://github.com/knz/lipgloss-convert) - String conversion functions for lipgloss Styles (2 months ago)
 - [ebitengine/purego](https://github.com/ebitengine/purego) (2 months ago)
-- [leaanthony/go-ansi-parser](https://github.com/leaanthony/go-ansi-parser) - Go Parser for ANSI strings (2 months ago)
+- [leaanthony/go-ansi-parser](https://github.com/leaanthony/go-ansi-parser) - Go Parser for ANSI strings (3 months ago)
 
 #### ❤️ These awesome people sponsor me (thank you!)
 
-- [mental32](https://github.com/mental32) (3 weeks ago)
+- [mental32](https://github.com/mental32) (4 weeks ago)
 - [joshbeard](https://github.com/joshbeard) (3 months ago)
 - [JanDeDobbeleer](https://github.com/JanDeDobbeleer) (6 months ago)
 - [icco](https://github.com/icco) (1 year ago)
