@@ -13,7 +13,7 @@ Want your own self-generating profile page? Check out [readme-scribe](https://gi
 #### 👷 Check out what I'm currently working on
 
 - [charmbracelet/lipgloss](https://github.com/charmbracelet/lipgloss) - Style definitions for nice terminal layouts 👄 (2 months ago)
-- [muesli/gitcha](https://github.com/muesli/gitcha) - Go helpers to work with git repositories (4 months ago)
+- [muesli/gitcha](https://github.com/muesli/gitcha) - Go helpers to work with git repositories (5 months ago)
 - [zyedidia/micro](https://github.com/zyedidia/micro) - A modern and intuitive terminal-based text editor (5 months ago)
 - [midzer/sitemap2feed](https://github.com/midzer/sitemap2feed) - Convert an online sitemap to Atom, RSS and JSON feeds (5 months ago)
 - [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) - A powerful little TUI framework 🏗 (6 months ago)
@@ -31,7 +31,7 @@ Want your own self-generating profile page? Check out [readme-scribe](https://gi
 - [charmbracelet/mods](https://github.com/charmbracelet/mods) ([v1.1.0](https://github.com/charmbracelet/mods/releases/tag/v1.1.0), 3 weeks ago) - AI on the command line
 - [zyedidia/micro](https://github.com/zyedidia/micro) ([v2.0.13](https://github.com/zyedidia/micro/releases/tag/v2.0.13), 1 month ago) - A modern and intuitive terminal-based text editor
 - [charmbracelet/lipgloss](https://github.com/charmbracelet/lipgloss) ([v0.9.1](https://github.com/charmbracelet/lipgloss/releases/tag/v0.9.1), 1 month ago) - Style definitions for nice terminal layouts 👄
-- [muesli/gitcha](https://github.com/muesli/gitcha) ([v0.3.0](https://github.com/muesli/gitcha/releases/tag/v0.3.0), 4 months ago) - Go helpers to work with git repositories
+- [muesli/gitcha](https://github.com/muesli/gitcha) ([v0.3.0](https://github.com/muesli/gitcha/releases/tag/v0.3.0), 5 months ago) - Go helpers to work with git repositories
 - [muesli/termenv](https://github.com/muesli/termenv) ([v0.15.2](https://github.com/muesli/termenv/releases/tag/v0.15.2), 5 months ago) - Advanced ANSI style &amp; color support for your terminal applications
 
 #### 🔨 Latest Pull Requests I published
