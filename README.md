@@ -30,7 +30,7 @@ Want your own self-generating profile page? Check out [readme-scribe](https://gi
 
 - [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) ([v0.25.0](https://github.com/charmbracelet/bubbletea/releases/tag/v0.25.0), 1 week ago) - A powerful little TUI framework 🏗
 - [charmbracelet/mods](https://github.com/charmbracelet/mods) ([v1.1.0](https://github.com/charmbracelet/mods/releases/tag/v1.1.0), 1 month ago) - AI on the command line
-- [zyedidia/micro](https://github.com/zyedidia/micro) ([v2.0.13](https://github.com/zyedidia/micro/releases/tag/v2.0.13), 1 month ago) - A modern and intuitive terminal-based text editor
+- [zyedidia/micro](https://github.com/zyedidia/micro) ([v2.0.13](https://github.com/zyedidia/micro/releases/tag/v2.0.13), 2 months ago) - A modern and intuitive terminal-based text editor
 - [charmbracelet/lipgloss](https://github.com/charmbracelet/lipgloss) ([v0.9.1](https://github.com/charmbracelet/lipgloss/releases/tag/v0.9.1), 2 months ago) - Style definitions for nice terminal layouts 👄
 - [muesli/gitcha](https://github.com/muesli/gitcha) ([v0.3.0](https://github.com/muesli/gitcha/releases/tag/v0.3.0), 5 months ago) - Go helpers to work with git repositories
 
