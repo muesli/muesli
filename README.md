@@ -52,7 +52,7 @@ Want your own self-generating profile page? Check out [readme-scribe](https://gi
 
 #### ⭐ Recent stars
 
-- [dz0ny/klipper-prusa-mk3s](https://github.com/dz0ny/klipper-prusa-mk3s) - Structured Klipper config for Prusa MK3s 3D printer (1 month ago)
+- [dz0ny/klipper-prusa-mk3s](https://github.com/dz0ny/klipper-prusa-mk3s) - Structured Klipper config for Prusa MK3s 3D printer (2 months ago)
 - [EthanEFung/bubble-datepicker](https://github.com/EthanEFung/bubble-datepicker) - A datepicker component for charmbracelet/bubbletea TUI applications (2 months ago)
 - [knz/lipgloss-convert](https://github.com/knz/lipgloss-convert) - String conversion functions for lipgloss Styles (2 months ago)
 - [ebitengine/purego](https://github.com/ebitengine/purego) (2 months ago)
