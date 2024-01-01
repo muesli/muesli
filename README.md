@@ -61,7 +61,7 @@ Want your own self-generating profile page? Check out [readme-scribe](https://gi
 #### ❤️ These awesome people sponsor me (thank you!)
 
 - [encoredev](https://github.com/encoredev) (2 weeks ago)
-- [mental32](https://github.com/mental32) (1 month ago)
+- [mental32](https://github.com/mental32) (2 months ago)
 - [joshbeard](https://github.com/joshbeard) (4 months ago)
 - [JanDeDobbeleer](https://github.com/JanDeDobbeleer) (7 months ago)
 - [icco](https://github.com/icco) (1 year ago)
