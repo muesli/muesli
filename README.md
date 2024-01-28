@@ -12,11 +12,11 @@ Want your own self-generating profile page? Check out [readme-scribe](https://gi
 
 #### 👷 Check out what I'm currently working on
 
+- [charmbracelet/bubbles](https://github.com/charmbracelet/bubbles) - TUI components for Bubble Tea 🫧 (6 days ago)
 - [charmbracelet/lipgloss](https://github.com/charmbracelet/lipgloss) - Style definitions for nice terminal layouts 👄 (3 months ago)
 - [muesli/gitcha](https://github.com/muesli/gitcha) - Go helpers to work with git repositories (6 months ago)
-- [midzer/sitemap2feed](https://github.com/midzer/sitemap2feed) - Convert an online sitemap to Atom, RSS and JSON feeds (6 months ago)
 - [zyedidia/micro](https://github.com/zyedidia/micro) - A modern and intuitive terminal-based text editor (6 months ago)
-- [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) - A powerful little TUI framework 🏗 (8 months ago)
+- [midzer/sitemap2feed](https://github.com/midzer/sitemap2feed) - Convert an online sitemap to Atom, RSS and JSON feeds (6 months ago)
 
 #### 🌱 My latest projects
 
@@ -29,10 +29,10 @@ Want your own self-generating profile page? Check out [readme-scribe](https://gi
 #### 🔭 Latest releases I've contributed to
 
 - [charmbracelet/mods](https://github.com/charmbracelet/mods) ([v1.2.1](https://github.com/charmbracelet/mods/releases/tag/v1.2.1), 3 days ago) - AI on the command line
+- [charmbracelet/bubbles](https://github.com/charmbracelet/bubbles) ([v0.17.1](https://github.com/charmbracelet/bubbles/releases/tag/v0.17.1), 1 month ago) - TUI components for Bubble Tea 🫧
 - [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) ([v0.25.0](https://github.com/charmbracelet/bubbletea/releases/tag/v0.25.0), 1 month ago) - A powerful little TUI framework 🏗
 - [zyedidia/micro](https://github.com/zyedidia/micro) ([v2.0.13](https://github.com/zyedidia/micro/releases/tag/v2.0.13), 3 months ago) - A modern and intuitive terminal-based text editor
 - [charmbracelet/lipgloss](https://github.com/charmbracelet/lipgloss) ([v0.9.1](https://github.com/charmbracelet/lipgloss/releases/tag/v0.9.1), 3 months ago) - Style definitions for nice terminal layouts 👄
-- [muesli/gitcha](https://github.com/muesli/gitcha) ([v0.3.0](https://github.com/muesli/gitcha/releases/tag/v0.3.0), 6 months ago) - Go helpers to work with git repositories
 
 #### 🔨 Latest Pull Requests I published
 
