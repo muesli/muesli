@@ -28,7 +28,7 @@ Want your own self-generating profile page? Check out [readme-scribe](https://gi
 
 #### 🔭 Latest releases I've contributed to
 
-- [charmbracelet/bubbles](https://github.com/charmbracelet/bubbles) ([v0.18.0](https://github.com/charmbracelet/bubbles/releases/tag/v0.18.0), today) - TUI components for Bubble Tea 🫧
+- [charmbracelet/bubbles](https://github.com/charmbracelet/bubbles) ([v0.18.0](https://github.com/charmbracelet/bubbles/releases/tag/v0.18.0), 1 day ago) - TUI components for Bubble Tea 🫧
 - [charmbracelet/mods](https://github.com/charmbracelet/mods) ([v1.2.1](https://github.com/charmbracelet/mods/releases/tag/v1.2.1), 1 week ago) - AI on the command line
 - [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) ([v0.25.0](https://github.com/charmbracelet/bubbletea/releases/tag/v0.25.0), 1 month ago) - A powerful little TUI framework 🏗
 - [zyedidia/micro](https://github.com/zyedidia/micro) ([v2.0.13](https://github.com/zyedidia/micro/releases/tag/v2.0.13), 3 months ago) - A modern and intuitive terminal-based text editor
@@ -36,7 +36,7 @@ Want your own self-generating profile page? Check out [readme-scribe](https://gi
 
 #### 🔨 Latest Pull Requests I published
 
-- [fix(textarea): correctly trim incoming paste](https://github.com/charmbracelet/bubbles/pull/469) on [charmbracelet/bubbles](https://github.com/charmbracelet/bubbles) (4 days ago)
+- [fix(textarea): correctly trim incoming paste](https://github.com/charmbracelet/bubbles/pull/469) on [charmbracelet/bubbles](https://github.com/charmbracelet/bubbles) (5 days ago)
 - [chore: clean up sources](https://github.com/midzer/sitemap2feed/pull/4) on [midzer/sitemap2feed](https://github.com/midzer/sitemap2feed) (6 months ago)
 - [fix: go mod tidy examples](https://github.com/charmbracelet/lipgloss/pull/203) on [charmbracelet/lipgloss](https://github.com/charmbracelet/lipgloss) (7 months ago)
 - [fix: stop renderer before acquiring renderer mutex](https://github.com/charmbracelet/bubbletea/pull/757) on [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) (8 months ago)
@@ -60,7 +60,7 @@ Want your own self-generating profile page? Check out [readme-scribe](https://gi
 
 #### ❤️ These awesome people sponsor me (thank you!)
 
-- [joshi4](https://github.com/joshi4) (1 day ago)
+- [joshi4](https://github.com/joshi4) (2 days ago)
 - [mental32](https://github.com/mental32) (3 months ago)
 - [joshbeard](https://github.com/joshbeard) (5 months ago)
 - [JanDeDobbeleer](https://github.com/JanDeDobbeleer) (8 months ago)
