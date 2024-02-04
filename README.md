@@ -28,7 +28,7 @@ Want your own self-generating profile page? Check out [readme-scribe](https://gi
 
 #### 🔭 Latest releases I've contributed to
 
-- [charmbracelet/bubbles](https://github.com/charmbracelet/bubbles) ([v0.18.0](https://github.com/charmbracelet/bubbles/releases/tag/v0.18.0), 2 days ago) - TUI components for Bubble Tea 🫧
+- [charmbracelet/bubbles](https://github.com/charmbracelet/bubbles) ([v0.18.0](https://github.com/charmbracelet/bubbles/releases/tag/v0.18.0), 3 days ago) - TUI components for Bubble Tea 🫧
 - [charmbracelet/mods](https://github.com/charmbracelet/mods) ([v1.2.1](https://github.com/charmbracelet/mods/releases/tag/v1.2.1), 1 week ago) - AI on the command line
 - [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) ([v0.25.0](https://github.com/charmbracelet/bubbletea/releases/tag/v0.25.0), 1 month ago) - A powerful little TUI framework 🏗
 - [zyedidia/micro](https://github.com/zyedidia/micro) ([v2.0.13](https://github.com/zyedidia/micro/releases/tag/v2.0.13), 3 months ago) - A modern and intuitive terminal-based text editor
@@ -36,11 +36,11 @@ Want your own self-generating profile page? Check out [readme-scribe](https://gi
 
 #### 🔨 Latest Pull Requests I published
 
-- [fix(textarea): correctly trim incoming paste](https://github.com/charmbracelet/bubbles/pull/469) on [charmbracelet/bubbles](https://github.com/charmbracelet/bubbles) (6 days ago)
+- [fix(textarea): correctly trim incoming paste](https://github.com/charmbracelet/bubbles/pull/469) on [charmbracelet/bubbles](https://github.com/charmbracelet/bubbles) (1 week ago)
 - [chore: clean up sources](https://github.com/midzer/sitemap2feed/pull/4) on [midzer/sitemap2feed](https://github.com/midzer/sitemap2feed) (7 months ago)
 - [fix: go mod tidy examples](https://github.com/charmbracelet/lipgloss/pull/203) on [charmbracelet/lipgloss](https://github.com/charmbracelet/lipgloss) (7 months ago)
 - [fix: stop renderer before acquiring renderer mutex](https://github.com/charmbracelet/bubbletea/pull/757) on [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) (8 months ago)
-- [chore: use nil input when stdin is a pipe](https://github.com/charmbracelet/mods/pull/38) on [charmbracelet/mods](https://github.com/charmbracelet/mods) (8 months ago)
+- [chore: use nil input when stdin is a pipe](https://github.com/charmbracelet/mods/pull/38) on [charmbracelet/mods](https://github.com/charmbracelet/mods) (9 months ago)
 
 #### 📜 My recent blog posts
 
@@ -52,15 +52,15 @@ Want your own self-generating profile page? Check out [readme-scribe](https://gi
 
 #### ⭐ Recent stars
 
-- [yuliskov/SmartTube](https://github.com/yuliskov/SmartTube) - SmartTube - an advanced player for set-top boxes and tv running Android OS (2 weeks ago)
-- [adonno/tagreader](https://github.com/adonno/tagreader) - Simple to build/use NFC tag reader, specially created for Home Assistant (2 weeks ago)
+- [yuliskov/SmartTube](https://github.com/yuliskov/SmartTube) - SmartTube - an advanced player for set-top boxes and tv running Android OS (3 weeks ago)
+- [adonno/tagreader](https://github.com/adonno/tagreader) - Simple to build/use NFC tag reader, specially created for Home Assistant (3 weeks ago)
 - [dz0ny/klipper-prusa-mk3s](https://github.com/dz0ny/klipper-prusa-mk3s) - Structured Klipper config for Prusa MK3s 3D printer (3 months ago)
 - [EthanEFung/bubble-datepicker](https://github.com/EthanEFung/bubble-datepicker) - A datepicker component for charmbracelet/bubbletea TUI applications (3 months ago)
 - [knz/lipgloss-convert](https://github.com/knz/lipgloss-convert) - String conversion functions for lipgloss Styles (4 months ago)
 
 #### ❤️ These awesome people sponsor me (thank you!)
 
-- [joshi4](https://github.com/joshi4) (3 days ago)
+- [joshi4](https://github.com/joshi4) (4 days ago)
 - [mental32](https://github.com/mental32) (3 months ago)
 - [joshbeard](https://github.com/joshbeard) (5 months ago)
 - [JanDeDobbeleer](https://github.com/JanDeDobbeleer) (8 months ago)
