@@ -12,10 +12,10 @@ Want your own self-generating profile page? Check out [readme-scribe](https://gi
 
 #### 👷 Check out what I'm currently working on
 
-- [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) - A powerful little TUI framework 🏗 (2 days ago)
+- [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) - A powerful little TUI framework 🏗 (3 days ago)
 - [charmbracelet/bubbles](https://github.com/charmbracelet/bubbles) - TUI components for Bubble Tea 🫧 (2 weeks ago)
 - [charmbracelet/lipgloss](https://github.com/charmbracelet/lipgloss) - Style definitions for nice terminal layouts 👄 (4 months ago)
-- [muesli/gitcha](https://github.com/muesli/gitcha) - Go helpers to work with git repositories (6 months ago)
+- [muesli/gitcha](https://github.com/muesli/gitcha) - Go helpers to work with git repositories (7 months ago)
 - [midzer/sitemap2feed](https://github.com/midzer/sitemap2feed) - Convert an online sitemap to Atom, RSS and JSON feeds (7 months ago)
 
 #### 🌱 My latest projects
@@ -28,8 +28,8 @@ Want your own self-generating profile page? Check out [readme-scribe](https://gi
 
 #### 🔭 Latest releases I've contributed to
 
-- [charmbracelet/bubbles](https://github.com/charmbracelet/bubbles) ([v0.18.0](https://github.com/charmbracelet/bubbles/releases/tag/v0.18.0), 6 days ago) - TUI components for Bubble Tea 🫧
-- [charmbracelet/mods](https://github.com/charmbracelet/mods) ([v1.2.1](https://github.com/charmbracelet/mods/releases/tag/v1.2.1), 1 week ago) - AI on the command line
+- [charmbracelet/bubbles](https://github.com/charmbracelet/bubbles) ([v0.18.0](https://github.com/charmbracelet/bubbles/releases/tag/v0.18.0), 1 week ago) - TUI components for Bubble Tea 🫧
+- [charmbracelet/mods](https://github.com/charmbracelet/mods) ([v1.2.1](https://github.com/charmbracelet/mods/releases/tag/v1.2.1), 2 weeks ago) - AI on the command line
 - [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) ([v0.25.0](https://github.com/charmbracelet/bubbletea/releases/tag/v0.25.0), 1 month ago) - A powerful little TUI framework 🏗
 - [zyedidia/micro](https://github.com/zyedidia/micro) ([v2.0.13](https://github.com/zyedidia/micro/releases/tag/v2.0.13), 3 months ago) - A modern and intuitive terminal-based text editor
 - [charmbracelet/lipgloss](https://github.com/charmbracelet/lipgloss) ([v0.9.1](https://github.com/charmbracelet/lipgloss/releases/tag/v0.9.1), 3 months ago) - Style definitions for nice terminal layouts 👄
