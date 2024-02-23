@@ -38,7 +38,7 @@ Want your own self-generating profile page? Check out [readme-scribe](https://gi
 
 - [fix(textarea): correctly trim incoming paste](https://github.com/charmbracelet/bubbles/pull/469) on [charmbracelet/bubbles](https://github.com/charmbracelet/bubbles) (3 weeks ago)
 - [chore: clean up sources](https://github.com/midzer/sitemap2feed/pull/4) on [midzer/sitemap2feed](https://github.com/midzer/sitemap2feed) (7 months ago)
-- [fix: go mod tidy examples](https://github.com/charmbracelet/lipgloss/pull/203) on [charmbracelet/lipgloss](https://github.com/charmbracelet/lipgloss) (7 months ago)
+- [fix: go mod tidy examples](https://github.com/charmbracelet/lipgloss/pull/203) on [charmbracelet/lipgloss](https://github.com/charmbracelet/lipgloss) (8 months ago)
 - [fix: stop renderer before acquiring renderer mutex](https://github.com/charmbracelet/bubbletea/pull/757) on [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) (8 months ago)
 - [chore: use nil input when stdin is a pipe](https://github.com/charmbracelet/mods/pull/38) on [charmbracelet/mods](https://github.com/charmbracelet/mods) (9 months ago)
 
