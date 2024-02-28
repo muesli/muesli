@@ -60,7 +60,7 @@ Want your own self-generating profile page? Check out [readme-scribe](https://gi
 
 #### ❤️ These awesome people sponsor me (thank you!)
 
-- [joshi4](https://github.com/joshi4) (3 weeks ago)
+- [joshi4](https://github.com/joshi4) (4 weeks ago)
 - [mental32](https://github.com/mental32) (3 months ago)
 - [joshbeard](https://github.com/joshbeard) (6 months ago)
 - [JanDeDobbeleer](https://github.com/JanDeDobbeleer) (9 months ago)
