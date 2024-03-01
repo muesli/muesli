@@ -60,11 +60,11 @@ Want your own self-generating profile page? Check out [readme-scribe](https://gi
 
 #### ❤️ These awesome people sponsor me (thank you!)
 
-- [joshi4](https://github.com/joshi4) (1 month ago)
 - [mental32](https://github.com/mental32) (4 months ago)
 - [joshbeard](https://github.com/joshbeard) (6 months ago)
 - [JanDeDobbeleer](https://github.com/JanDeDobbeleer) (9 months ago)
 - [icco](https://github.com/icco) (2 years ago)
+- [crazy-max](https://github.com/crazy-max) (2 years ago)
 
 #### 💬 Feedback
 
