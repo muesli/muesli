@@ -52,7 +52,7 @@ Want your own self-generating profile page? Check out [readme-scribe](https://gi
 
 #### ⭐ Recent stars
 
-- [SuperTux/supertux](https://github.com/SuperTux/supertux) - SuperTux source code (1 day ago)
+- [SuperTux/supertux](https://github.com/SuperTux/supertux) - SuperTux source code (2 days ago)
 - [immich-app/immich](https://github.com/immich-app/immich) - Self-hosted photo and video backup solution directly from your mobile phone. (2 weeks ago)
 - [yuliskov/SmartTube](https://github.com/yuliskov/SmartTube) - SmartTube - an advanced player for set-top boxes and tv running Android OS (1 month ago)
 - [adonno/tagreader](https://github.com/adonno/tagreader) - Simple to build/use NFC tag reader, specially created for Home Assistant (1 month ago)
@@ -60,8 +60,8 @@ Want your own self-generating profile page? Check out [readme-scribe](https://gi
 
 #### ❤️ These awesome people sponsor me (thank you!)
 
-- [joshi4](https://github.com/joshi4) (4 weeks ago)
-- [mental32](https://github.com/mental32) (3 months ago)
+- [joshi4](https://github.com/joshi4) (1 month ago)
+- [mental32](https://github.com/mental32) (4 months ago)
 - [joshbeard](https://github.com/joshbeard) (6 months ago)
 - [JanDeDobbeleer](https://github.com/JanDeDobbeleer) (9 months ago)
 - [icco](https://github.com/icco) (2 years ago)
