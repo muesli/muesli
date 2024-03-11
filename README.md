@@ -12,7 +12,7 @@ Want your own self-generating profile page? Check out [readme-scribe](https://gi
 
 #### 👷 Check out what I'm currently working on
 
-- [KDE/yakuake](https://github.com/KDE/yakuake) - Drop-down terminal emulator based on Konsole technologies (1 day ago)
+- [KDE/yakuake](https://github.com/KDE/yakuake) - Drop-down terminal emulator based on Konsole technologies (2 days ago)
 - [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) - A powerful little TUI framework 🏗 (1 month ago)
 - [charmbracelet/bubbles](https://github.com/charmbracelet/bubbles) - TUI components for Bubble Tea 🫧 (1 month ago)
 - [charmbracelet/lipgloss](https://github.com/charmbracelet/lipgloss) - Style definitions for nice terminal layouts 👄 (5 months ago)
@@ -28,10 +28,10 @@ Want your own self-generating profile page? Check out [readme-scribe](https://gi
 
 #### 🔭 Latest releases I've contributed to
 
-- [charmbracelet/mods](https://github.com/charmbracelet/mods) ([v1.2.2](https://github.com/charmbracelet/mods/releases/tag/v1.2.2), 3 days ago) - AI on the command line
-- [charmbracelet/lipgloss](https://github.com/charmbracelet/lipgloss) ([v0.10.0](https://github.com/charmbracelet/lipgloss/releases/tag/v0.10.0), 5 days ago) - Style definitions for nice terminal layouts 👄
+- [charmbracelet/mods](https://github.com/charmbracelet/mods) ([v1.2.2](https://github.com/charmbracelet/mods/releases/tag/v1.2.2), 4 days ago) - AI on the command line
+- [charmbracelet/lipgloss](https://github.com/charmbracelet/lipgloss) ([v0.10.0](https://github.com/charmbracelet/lipgloss/releases/tag/v0.10.0), 6 days ago) - Style definitions for nice terminal layouts 👄
 - [charmbracelet/bubbles](https://github.com/charmbracelet/bubbles) ([v0.18.0](https://github.com/charmbracelet/bubbles/releases/tag/v0.18.0), 1 month ago) - TUI components for Bubble Tea 🫧
-- [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) ([v0.25.0](https://github.com/charmbracelet/bubbletea/releases/tag/v0.25.0), 2 months ago) - A powerful little TUI framework 🏗
+- [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) ([v0.25.0](https://github.com/charmbracelet/bubbletea/releases/tag/v0.25.0), 3 months ago) - A powerful little TUI framework 🏗
 - [zyedidia/micro](https://github.com/zyedidia/micro) ([v2.0.13](https://github.com/zyedidia/micro/releases/tag/v2.0.13), 4 months ago) - A modern and intuitive terminal-based text editor
 
 #### 🔨 Latest Pull Requests I published
@@ -52,7 +52,7 @@ Want your own self-generating profile page? Check out [readme-scribe](https://gi
 
 #### ⭐ Recent stars
 
-- [johnyHV/PrusaConnect_ESP32-CAM](https://github.com/johnyHV/PrusaConnect_ESP32-CAM) (5 days ago)
+- [johnyHV/PrusaConnect_ESP32-CAM](https://github.com/johnyHV/PrusaConnect_ESP32-CAM) (6 days ago)
 - [SuperTux/supertux](https://github.com/SuperTux/supertux) - SuperTux source code (1 week ago)
 - [immich-app/immich](https://github.com/immich-app/immich) - Self-hosted photo and video backup solution directly from your mobile phone. (4 weeks ago)
 - [yuliskov/SmartTube](https://github.com/yuliskov/SmartTube) - SmartTube - an advanced player for set-top boxes and tvs running Android OS (1 month ago)
@@ -60,7 +60,7 @@ Want your own self-generating profile page? Check out [readme-scribe](https://gi
 
 #### ❤️ These awesome people sponsor me (thank you!)
 
-- [unclesp1d3r](https://github.com/unclesp1d3r) (today)
+- [unclesp1d3r](https://github.com/unclesp1d3r) (1 day ago)
 - [mental32](https://github.com/mental32) (4 months ago)
 - [joshbeard](https://github.com/joshbeard) (6 months ago)
 - [JanDeDobbeleer](https://github.com/JanDeDobbeleer) (10 months ago)
