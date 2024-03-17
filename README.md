@@ -55,7 +55,7 @@ Want your own self-generating profile page? Check out [readme-scribe](https://gi
 - [hschendel/stltool](https://github.com/hschendel/stltool) - Tool for simple transformation and analysis on Stereolithography (.stl) files (4 days ago)
 - [johnyHV/PrusaConnect_ESP32-CAM](https://github.com/johnyHV/PrusaConnect_ESP32-CAM) (1 week ago)
 - [SuperTux/supertux](https://github.com/SuperTux/supertux) - SuperTux source code (2 weeks ago)
-- [immich-app/immich](https://github.com/immich-app/immich) - Self-hosted photo and video backup solution directly from your mobile phone. (1 month ago)
+- [immich-app/immich](https://github.com/immich-app/immich) - High performance self-hosted photo and video management solution. (1 month ago)
 - [yuliskov/SmartTube](https://github.com/yuliskov/SmartTube) - SmartTube - an advanced player for set-top boxes and tvs running Android OS (2 months ago)
 
 #### ❤️ These awesome people sponsor me (thank you!)
