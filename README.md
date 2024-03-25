@@ -52,8 +52,8 @@ Want your own self-generating profile page? Check out [readme-scribe](https://gi
 
 #### ⭐ Recent stars
 
-- [charminULTRA/Klipper-Input-Shaping-MK3S-Upgrade](https://github.com/charminULTRA/Klipper-Input-Shaping-MK3S-Upgrade) - Easy-to-follow instructions for adding Input Shaping to your Prusa MK3S/&#43; using Kipper (2 days ago)
-- [FaqT0tum/Orbion_3D_Space_Mouse](https://github.com/FaqT0tum/Orbion_3D_Space_Mouse) - 3D Space Mouse DIY easy to build at home (2 days ago)
+- [charminULTRA/Klipper-Input-Shaping-MK3S-Upgrade](https://github.com/charminULTRA/Klipper-Input-Shaping-MK3S-Upgrade) - Easy-to-follow instructions for adding Input Shaping to your Prusa MK3S/&#43; using Kipper (3 days ago)
+- [FaqT0tum/Orbion_3D_Space_Mouse](https://github.com/FaqT0tum/Orbion_3D_Space_Mouse) - 3D Space Mouse DIY easy to build at home (3 days ago)
 - [hschendel/stltool](https://github.com/hschendel/stltool) - Tool for simple transformation and analysis on Stereolithography (.stl) files (1 week ago)
 - [johnyHV/PrusaConnect_ESP32-CAM](https://github.com/johnyHV/PrusaConnect_ESP32-CAM) (2 weeks ago)
 - [SuperTux/supertux](https://github.com/SuperTux/supertux) - SuperTux source code (3 weeks ago)
