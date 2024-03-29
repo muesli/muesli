@@ -12,7 +12,7 @@ Want your own self-generating profile page? Check out [readme-scribe](https://gi
 
 #### 👷 Check out what I'm currently working on
 
-- [KDE/yakuake](https://github.com/KDE/yakuake) - Drop-down terminal emulator based on Konsole technologies (1 week ago)
+- [KDE/yakuake](https://github.com/KDE/yakuake) - Drop-down terminal emulator based on Konsole technologies (2 weeks ago)
 - [KDE/konsole](https://github.com/KDE/konsole) - Terminal emulator by KDE (2 weeks ago)
 - [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) - A powerful little TUI framework 🏗 (1 month ago)
 - [charmbracelet/bubbles](https://github.com/charmbracelet/bubbles) - TUI components for Bubble Tea 🫧 (2 months ago)
@@ -52,10 +52,10 @@ Want your own self-generating profile page? Check out [readme-scribe](https://gi
 
 #### ⭐ Recent stars
 
-- [cdemetriadis/lovely-streamdeck-icons](https://github.com/cdemetriadis/lovely-streamdeck-icons) - A collection of icons for use with your Elgato Stream Deck. (2 days ago)
-- [samber/lo](https://github.com/samber/lo) - 💥  A Lodash-style Go library based on Go 1.18&#43; Generics (map, filter, contains, find...) (3 days ago)
-- [charminULTRA/Klipper-Input-Shaping-MK3S-Upgrade](https://github.com/charminULTRA/Klipper-Input-Shaping-MK3S-Upgrade) - Easy-to-follow instructions for adding Input Shaping to your Prusa MK3S/&#43; using Kipper (6 days ago)
-- [FaqT0tum/Orbion_3D_Space_Mouse](https://github.com/FaqT0tum/Orbion_3D_Space_Mouse) - 3D Space Mouse DIY easy to build at home (6 days ago)
+- [cdemetriadis/lovely-streamdeck-icons](https://github.com/cdemetriadis/lovely-streamdeck-icons) - A collection of icons for use with your Elgato Stream Deck. (3 days ago)
+- [samber/lo](https://github.com/samber/lo) - 💥  A Lodash-style Go library based on Go 1.18&#43; Generics (map, filter, contains, find...) (4 days ago)
+- [charminULTRA/Klipper-Input-Shaping-MK3S-Upgrade](https://github.com/charminULTRA/Klipper-Input-Shaping-MK3S-Upgrade) - Easy-to-follow instructions for adding Input Shaping to your Prusa MK3S/&#43; using Kipper (1 week ago)
+- [FaqT0tum/Orbion_3D_Space_Mouse](https://github.com/FaqT0tum/Orbion_3D_Space_Mouse) - 3D Space Mouse DIY easy to build at home (1 week ago)
 - [hschendel/stltool](https://github.com/hschendel/stltool) - Tool for simple transformation and analysis on Stereolithography (.stl) files (2 weeks ago)
 
 #### ❤️ These awesome people sponsor me (thank you!)
