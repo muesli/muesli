@@ -13,7 +13,7 @@ Want your own self-generating profile page? Check out [readme-scribe](https://gi
 #### 👷 Check out what I'm currently working on
 
 - [KDE/yakuake](https://github.com/KDE/yakuake) - Drop-down terminal emulator based on Konsole technologies (2 weeks ago)
-- [KDE/konsole](https://github.com/KDE/konsole) - Terminal emulator by KDE (2 weeks ago)
+- [KDE/konsole](https://github.com/KDE/konsole) - Terminal emulator by KDE (3 weeks ago)
 - [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) - A powerful little TUI framework 🏗 (1 month ago)
 - [charmbracelet/bubbles](https://github.com/charmbracelet/bubbles) - TUI components for Bubble Tea 🫧 (2 months ago)
 - [charmbracelet/lipgloss](https://github.com/charmbracelet/lipgloss) - Style definitions for nice terminal layouts 👄 (5 months ago)
@@ -52,16 +52,16 @@ Want your own self-generating profile page? Check out [readme-scribe](https://gi
 
 #### ⭐ Recent stars
 
-- [cdemetriadis/lovely-streamdeck-icons](https://github.com/cdemetriadis/lovely-streamdeck-icons) - A collection of icons for use with your Elgato Stream Deck. (4 days ago)
-- [samber/lo](https://github.com/samber/lo) - 💥  A Lodash-style Go library based on Go 1.18&#43; Generics (map, filter, contains, find...) (5 days ago)
+- [cdemetriadis/lovely-streamdeck-icons](https://github.com/cdemetriadis/lovely-streamdeck-icons) - A collection of icons for use with your Elgato Stream Deck. (5 days ago)
+- [samber/lo](https://github.com/samber/lo) - 💥  A Lodash-style Go library based on Go 1.18&#43; Generics (map, filter, contains, find...) (6 days ago)
 - [charminULTRA/Klipper-Input-Shaping-MK3S-Upgrade](https://github.com/charminULTRA/Klipper-Input-Shaping-MK3S-Upgrade) - Easy-to-follow instructions for adding Input Shaping to your Prusa MK3S/&#43; using Kipper (1 week ago)
 - [FaqT0tum/Orbion_3D_Space_Mouse](https://github.com/FaqT0tum/Orbion_3D_Space_Mouse) - 3D Space Mouse DIY easy to build at home (1 week ago)
 - [hschendel/stltool](https://github.com/hschendel/stltool) - Tool for simple transformation and analysis on Stereolithography (.stl) files (2 weeks ago)
 
 #### ❤️ These awesome people sponsor me (thank you!)
 
-- [unclesp1d3r](https://github.com/unclesp1d3r) (2 weeks ago)
-- [mental32](https://github.com/mental32) (4 months ago)
+- [unclesp1d3r](https://github.com/unclesp1d3r) (3 weeks ago)
+- [mental32](https://github.com/mental32) (5 months ago)
 - [joshbeard](https://github.com/joshbeard) (7 months ago)
 - [JanDeDobbeleer](https://github.com/JanDeDobbeleer) (10 months ago)
 - [icco](https://github.com/icco) (2 years ago)
