@@ -13,10 +13,10 @@ Want your own self-generating profile page? Check out [readme-scribe](https://gi
 #### 👷 Check out what I'm currently working on
 
 - [KDE/yakuake](https://github.com/KDE/yakuake) - Drop-down terminal emulator based on Konsole technologies (3 weeks ago)
-- [KDE/konsole](https://github.com/KDE/konsole) - Terminal emulator by KDE (3 weeks ago)
+- [KDE/konsole](https://github.com/KDE/konsole) - Terminal emulator by KDE (4 weeks ago)
 - [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) - A powerful little TUI framework 🏗 (2 months ago)
 - [charmbracelet/bubbles](https://github.com/charmbracelet/bubbles) - TUI components for Bubble Tea 🫧 (2 months ago)
-- [charmbracelet/lipgloss](https://github.com/charmbracelet/lipgloss) - Style definitions for nice terminal layouts 👄 (5 months ago)
+- [charmbracelet/lipgloss](https://github.com/charmbracelet/lipgloss) - Style definitions for nice terminal layouts 👄 (6 months ago)
 
 #### 🌱 My latest projects
 
@@ -60,7 +60,7 @@ Want your own self-generating profile page? Check out [readme-scribe](https://gi
 
 #### ❤️ These awesome people sponsor me (thank you!)
 
-- [unclesp1d3r](https://github.com/unclesp1d3r) (3 weeks ago)
+- [unclesp1d3r](https://github.com/unclesp1d3r) (4 weeks ago)
 - [mental32](https://github.com/mental32) (5 months ago)
 - [joshbeard](https://github.com/joshbeard) (7 months ago)
 - [JanDeDobbeleer](https://github.com/JanDeDobbeleer) (11 months ago)
