@@ -12,7 +12,7 @@ Want your own self-generating profile page? Check out [readme-scribe](https://gi
 
 #### 👷 Check out what I'm currently working on
 
-- [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) - A powerful little TUI framework 🏗 (2 months ago)
+- [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) - A powerful little TUI framework 🏗 (3 months ago)
 - [charmbracelet/bubbles](https://github.com/charmbracelet/bubbles) - TUI components for Bubble Tea 🫧 (3 months ago)
 - [charmbracelet/lipgloss](https://github.com/charmbracelet/lipgloss) - Style definitions for nice terminal layouts 👄 (6 months ago)
 - [muesli/gitcha](https://github.com/muesli/gitcha) - Go helpers to work with git repositories (9 months ago)
@@ -28,8 +28,8 @@ Want your own self-generating profile page? Check out [readme-scribe](https://gi
 
 #### 🔭 Latest releases I've contributed to
 
-- [charmbracelet/mods](https://github.com/charmbracelet/mods) ([v1.3.0](https://github.com/charmbracelet/mods/releases/tag/v1.3.0), 1 day ago) - AI on the command line
-- [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) ([v0.26.1](https://github.com/charmbracelet/bubbletea/releases/tag/v0.26.1), 2 days ago) - A powerful little TUI framework 🏗
+- [charmbracelet/mods](https://github.com/charmbracelet/mods) ([v1.3.0](https://github.com/charmbracelet/mods/releases/tag/v1.3.0), 2 days ago) - AI on the command line
+- [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) ([v0.26.1](https://github.com/charmbracelet/bubbletea/releases/tag/v0.26.1), 3 days ago) - A powerful little TUI framework 🏗
 - [charmbracelet/lipgloss](https://github.com/charmbracelet/lipgloss) ([v0.10.0](https://github.com/charmbracelet/lipgloss/releases/tag/v0.10.0), 2 months ago) - Style definitions for nice terminal layouts 👄
 - [charmbracelet/bubbles](https://github.com/charmbracelet/bubbles) ([v0.18.0](https://github.com/charmbracelet/bubbles/releases/tag/v0.18.0), 3 months ago) - TUI components for Bubble Tea 🫧
 - [zyedidia/micro](https://github.com/zyedidia/micro) ([v2.0.13](https://github.com/zyedidia/micro/releases/tag/v2.0.13), 6 months ago) - A modern and intuitive terminal-based text editor
@@ -64,7 +64,7 @@ Want your own self-generating profile page? Check out [readme-scribe](https://gi
 - [unclesp1d3r](https://github.com/unclesp1d3r) (1 month ago)
 - [mental32](https://github.com/mental32) (6 months ago)
 - [joshbeard](https://github.com/joshbeard) (8 months ago)
-- [JanDeDobbeleer](https://github.com/JanDeDobbeleer) (11 months ago)
+- [JanDeDobbeleer](https://github.com/JanDeDobbeleer) (1 year ago)
 
 #### 💬 Feedback
 
