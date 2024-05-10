@@ -28,8 +28,8 @@ Want your own self-generating profile page? Check out [readme-scribe](https://gi
 
 #### 🔭 Latest releases I've contributed to
 
-- [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) ([v0.26.2](https://github.com/charmbracelet/bubbletea/releases/tag/v0.26.2), 1 day ago) - A powerful little TUI framework 🏗
-- [charmbracelet/mods](https://github.com/charmbracelet/mods) ([v1.3.1](https://github.com/charmbracelet/mods/releases/tag/v1.3.1), 3 days ago) - AI on the command line
+- [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) ([v0.26.2](https://github.com/charmbracelet/bubbletea/releases/tag/v0.26.2), 2 days ago) - A powerful little TUI framework 🏗
+- [charmbracelet/mods](https://github.com/charmbracelet/mods) ([v1.3.1](https://github.com/charmbracelet/mods/releases/tag/v1.3.1), 4 days ago) - AI on the command line
 - [charmbracelet/lipgloss](https://github.com/charmbracelet/lipgloss) ([v0.10.0](https://github.com/charmbracelet/lipgloss/releases/tag/v0.10.0), 2 months ago) - Style definitions for nice terminal layouts 👄
 - [charmbracelet/bubbles](https://github.com/charmbracelet/bubbles) ([v0.18.0](https://github.com/charmbracelet/bubbles/releases/tag/v0.18.0), 3 months ago) - TUI components for Bubble Tea 🫧
 - [zyedidia/micro](https://github.com/zyedidia/micro) ([v2.0.13](https://github.com/zyedidia/micro/releases/tag/v2.0.13), 6 months ago) - A modern and intuitive terminal-based text editor
@@ -52,10 +52,10 @@ Want your own self-generating profile page? Check out [readme-scribe](https://gi
 
 #### ⭐ Recent stars
 
-- [lmarzen/esp32-weather-epd](https://github.com/lmarzen/esp32-weather-epd) - A low-power E-Paper weather display powered by an ESP32 microcontroller. Utilizes the OpenWeatherMap API. (today)
+- [lmarzen/esp32-weather-epd](https://github.com/lmarzen/esp32-weather-epd) - A low-power E-Paper weather display powered by an ESP32 microcontroller. Utilizes the OpenWeatherMap API. (1 day ago)
 - [Bambu-Research-Group/RFID-Tag-Guide](https://github.com/Bambu-Research-Group/RFID-Tag-Guide) - Instructions on how to read out the bambulab nfc tags (2 weeks ago)
 - [ostat/gridfinity_extended_openscad](https://github.com/ostat/gridfinity_extended_openscad) - Gridfinity Extended OpenSCAD Model (3 weeks ago)
-- [kennetek/gridfinity-rebuilt-openscad](https://github.com/kennetek/gridfinity-rebuilt-openscad) - A ground-up rebuild of the stock gridfinity bins in OpenSCAD (3 weeks ago)
+- [kennetek/gridfinity-rebuilt-openscad](https://github.com/kennetek/gridfinity-rebuilt-openscad) - A ground-up rebuild of the stock gridfinity bins in OpenSCAD (4 weeks ago)
 - [Lovely-Sim-Racing/lovely-streamdeck-icons](https://github.com/Lovely-Sim-Racing/lovely-streamdeck-icons) - A collection of icons for use with your Elgato Stream Deck. (1 month ago)
 
 #### ❤️ These awesome people sponsor me (thank you!)
