@@ -52,15 +52,15 @@ Want your own self-generating profile page? Check out [readme-scribe](https://gi
 
 #### ⭐ Recent stars
 
-- [prusa3d/Prusa-Firmware-Buddy](https://github.com/prusa3d/Prusa-Firmware-Buddy) - Firmware for the Original Prusa MINI, Original Prusa MK4 and the Original Prusa XL 3D printers by Prusa Research.  (today)
-- [Zxilly/go-size-analyzer](https://github.com/Zxilly/go-size-analyzer) - A tool for analyzing the dependencies in compiled Golang binaries, providing insight into their impact on the final build. (2 days ago)
+- [prusa3d/Prusa-Firmware-Buddy](https://github.com/prusa3d/Prusa-Firmware-Buddy) - Firmware for the Original Prusa MINI, Original Prusa MK4 and the Original Prusa XL 3D printers by Prusa Research.  (1 day ago)
+- [Zxilly/go-size-analyzer](https://github.com/Zxilly/go-size-analyzer) - A tool for analyzing the dependencies in compiled Golang binaries, providing insight into their impact on the final build. (3 days ago)
 - [lmarzen/esp32-weather-epd](https://github.com/lmarzen/esp32-weather-epd) - A low-power E-Paper weather display powered by an ESP32 microcontroller. Utilizes the OpenWeatherMap API. (1 week ago)
 - [Bambu-Research-Group/RFID-Tag-Guide](https://github.com/Bambu-Research-Group/RFID-Tag-Guide) - Instructions on how to read out the bambulab nfc tags (3 weeks ago)
 - [ostat/gridfinity_extended_openscad](https://github.com/ostat/gridfinity_extended_openscad) - Gridfinity Extended OpenSCAD Model (1 month ago)
 
 #### ❤️ These awesome people sponsor me (thank you!)
 
-- [jaredallard](https://github.com/jaredallard) (today)
+- [jaredallard](https://github.com/jaredallard) (1 day ago)
 - [AlyxPink](https://github.com/AlyxPink) (1 month ago)
 - [unclesp1d3r](https://github.com/unclesp1d3r) (2 months ago)
 - [mental32](https://github.com/mental32) (6 months ago)
