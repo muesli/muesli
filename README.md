@@ -38,7 +38,7 @@ Want your own self-generating profile page? Check out [readme-scribe](https://gi
 
 - [fix(textarea): correctly trim incoming paste](https://github.com/charmbracelet/bubbles/pull/469) on [charmbracelet/bubbles](https://github.com/charmbracelet/bubbles) (3 months ago)
 - [chore: clean up sources](https://github.com/midzer/sitemap2feed/pull/4) on [midzer/sitemap2feed](https://github.com/midzer/sitemap2feed) (10 months ago)
-- [fix: go mod tidy examples](https://github.com/charmbracelet/lipgloss/pull/203) on [charmbracelet/lipgloss](https://github.com/charmbracelet/lipgloss) (10 months ago)
+- [fix: go mod tidy examples](https://github.com/charmbracelet/lipgloss/pull/203) on [charmbracelet/lipgloss](https://github.com/charmbracelet/lipgloss) (11 months ago)
 - [fix: stop renderer before acquiring renderer mutex](https://github.com/charmbracelet/bubbletea/pull/757) on [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) (11 months ago)
 - [chore: use nil input when stdin is a pipe](https://github.com/charmbracelet/mods/pull/38) on [charmbracelet/mods](https://github.com/charmbracelet/mods) (1 year ago)
 
@@ -52,15 +52,15 @@ Want your own self-generating profile page? Check out [readme-scribe](https://gi
 
 #### ⭐ Recent stars
 
-- [unlimitedbacon/stl-thumb-kde](https://github.com/unlimitedbacon/stl-thumb-kde) - KDE plugin for stl-thumb (3 days ago)
-- [prusa3d/Prusa-Firmware-Buddy](https://github.com/prusa3d/Prusa-Firmware-Buddy) - Firmware for the Original Prusa MINI, Original Prusa MK4 and the Original Prusa XL 3D printers by Prusa Research.  (6 days ago)
+- [unlimitedbacon/stl-thumb-kde](https://github.com/unlimitedbacon/stl-thumb-kde) - KDE plugin for stl-thumb (4 days ago)
+- [prusa3d/Prusa-Firmware-Buddy](https://github.com/prusa3d/Prusa-Firmware-Buddy) - Firmware for the Original Prusa MINI, Original Prusa MK4 and the Original Prusa XL 3D printers by Prusa Research.  (1 week ago)
 - [Zxilly/go-size-analyzer](https://github.com/Zxilly/go-size-analyzer) - A tool for analyzing the dependencies in compiled Golang binaries, providing insight into their impact on the final build. (1 week ago)
-- [lmarzen/esp32-weather-epd](https://github.com/lmarzen/esp32-weather-epd) - A low-power E-Paper weather display powered by an ESP32 microcontroller. Utilizes the OpenWeatherMap API. (1 week ago)
+- [lmarzen/esp32-weather-epd](https://github.com/lmarzen/esp32-weather-epd) - A low-power E-Paper weather display powered by an ESP32 microcontroller. Utilizes the OpenWeatherMap API. (2 weeks ago)
 - [Bambu-Research-Group/RFID-Tag-Guide](https://github.com/Bambu-Research-Group/RFID-Tag-Guide) - Instructions on how to read out the bambulab nfc tags (4 weeks ago)
 
 #### ❤️ These awesome people sponsor me (thank you!)
 
-- [jaredallard](https://github.com/jaredallard) (6 days ago)
+- [jaredallard](https://github.com/jaredallard) (1 week ago)
 - [AlyxPink](https://github.com/AlyxPink) (1 month ago)
 - [unclesp1d3r](https://github.com/unclesp1d3r) (2 months ago)
 - [mental32](https://github.com/mental32) (6 months ago)
