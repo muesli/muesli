@@ -46,7 +46,7 @@ Want your own self-generating profile page? Check out [readme-scribe](https://gi
 
 - [Self-hosting VSCode](https://fribbledom.com/posts/selfhosting-vscode/) (3 years ago)
 - [Installing Arch Linux with Full Disk Encryption](https://fribbledom.com/posts/encrypted-arch-install/) (5 years ago)
-- [Remotely Installing a Fully-Encrypted Debian Server](https://fribbledom.com/posts/encrypted-remote-debian-install/) (5 years ago)
+- [Remotely Installing a Fully-Encrypted Debian Server](https://fribbledom.com/posts/encrypted-remote-debian-install/) (6 years ago)
 - [Gamut, a Go Package to Manage Color Palettes](https://fribbledom.com/posts/gamut-package-to-handle-color-palettes/) (6 years ago)
 - [An Algorithm to Generate Color Palettes](https://fribbledom.com/posts/an-algorithm-to-generate-color-palettes/) (6 years ago)
 
@@ -55,14 +55,14 @@ Want your own self-generating profile page? Check out [readme-scribe](https://gi
 - [unlimitedbacon/stl-thumb-kde](https://github.com/unlimitedbacon/stl-thumb-kde) - KDE plugin for stl-thumb (2 weeks ago)
 - [prusa3d/Prusa-Firmware-Buddy](https://github.com/prusa3d/Prusa-Firmware-Buddy) - Firmware for the Original Prusa MINI, Original Prusa MK4 and the Original Prusa XL 3D printers by Prusa Research.  (3 weeks ago)
 - [Zxilly/go-size-analyzer](https://github.com/Zxilly/go-size-analyzer) - A tool for analyzing the dependencies in compiled Go binaries, providing insight into their impact on the final build. (3 weeks ago)
-- [lmarzen/esp32-weather-epd](https://github.com/lmarzen/esp32-weather-epd) - A low-power E-Paper weather display powered by an ESP32 microcontroller. Utilizes the OpenWeatherMap API. (4 weeks ago)
+- [lmarzen/esp32-weather-epd](https://github.com/lmarzen/esp32-weather-epd) - A low-power E-Paper weather display powered by an ESP32 microcontroller. Utilizes the OpenWeatherMap API. (1 month ago)
 - [Bambu-Research-Group/RFID-Tag-Guide](https://github.com/Bambu-Research-Group/RFID-Tag-Guide) - Instructions on how to read out the bambulab nfc tags (1 month ago)
 
 #### ❤️ These awesome people sponsor me (thank you!)
 
 - [jaredallard](https://github.com/jaredallard) (3 weeks ago)
 - [AlyxPink](https://github.com/AlyxPink) (1 month ago)
-- [unclesp1d3r](https://github.com/unclesp1d3r) (2 months ago)
+- [unclesp1d3r](https://github.com/unclesp1d3r) (3 months ago)
 - [mental32](https://github.com/mental32) (7 months ago)
 - [joshbeard](https://github.com/joshbeard) (9 months ago)
 
