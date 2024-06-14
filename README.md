@@ -52,7 +52,7 @@ Want your own self-generating profile page? Check out [readme-scribe](https://gi
 
 #### ⭐ Recent stars
 
-- [cjbaar/prusa-mmu-12x](https://github.com/cjbaar/prusa-mmu-12x) - Modified Prusa MMU2S model for up to 12 filaments (today)
+- [cjbaar/prusa-mmu-12x](https://github.com/cjbaar/prusa-mmu-12x) - Modified Prusa MMU2S model for up to 12 filaments (1 day ago)
 - [unlimitedbacon/stl-thumb-kde](https://github.com/unlimitedbacon/stl-thumb-kde) - KDE plugin for stl-thumb (3 weeks ago)
 - [prusa3d/Prusa-Firmware-Buddy](https://github.com/prusa3d/Prusa-Firmware-Buddy) - Firmware for the Original Prusa MINI, Original Prusa MK4 and the Original Prusa XL 3D printers by Prusa Research.  (4 weeks ago)
 - [Zxilly/go-size-analyzer](https://github.com/Zxilly/go-size-analyzer) - A tool for analyzing the dependencies in compiled Go binaries, providing insight into their impact on the final build. (1 month ago)
@@ -61,7 +61,7 @@ Want your own self-generating profile page? Check out [readme-scribe](https://gi
 #### ❤️ These awesome people sponsor me (thank you!)
 
 - [jaredallard](https://github.com/jaredallard) (4 weeks ago)
-- [AlyxPink](https://github.com/AlyxPink) (1 month ago)
+- [AlyxPink](https://github.com/AlyxPink) (2 months ago)
 - [unclesp1d3r](https://github.com/unclesp1d3r) (3 months ago)
 - [mental32](https://github.com/mental32) (7 months ago)
 - [joshbeard](https://github.com/joshbeard) (9 months ago)
