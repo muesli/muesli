@@ -28,8 +28,8 @@ Want your own self-generating profile page? Check out [readme-scribe](https://gi
 
 #### 🔭 Latest releases I've contributed to
 
-- [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) ([v0.26.5](https://github.com/charmbracelet/bubbletea/releases/tag/v0.26.5), today) - A powerful little TUI framework 🏗
-- [charmbracelet/lipgloss](https://github.com/charmbracelet/lipgloss) ([v0.11.0](https://github.com/charmbracelet/lipgloss/releases/tag/v0.11.0), 4 weeks ago) - Style definitions for nice terminal layouts 👄
+- [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) ([v0.26.5](https://github.com/charmbracelet/bubbletea/releases/tag/v0.26.5), 1 day ago) - A powerful little TUI framework 🏗
+- [charmbracelet/lipgloss](https://github.com/charmbracelet/lipgloss) ([v0.11.0](https://github.com/charmbracelet/lipgloss/releases/tag/v0.11.0), 1 month ago) - Style definitions for nice terminal layouts 👄
 - [charmbracelet/bubbles](https://github.com/charmbracelet/bubbles) ([v0.18.0](https://github.com/charmbracelet/bubbles/releases/tag/v0.18.0), 4 months ago) - TUI components for Bubble Tea 🫧
 - [muesli/gitcha](https://github.com/muesli/gitcha) ([v0.3.0](https://github.com/muesli/gitcha/releases/tag/v0.3.0), 11 months ago) - Go helpers to work with git repositories
 - [zyedidia/micro](https://github.com/zyedidia/micro) ([nightly](https://github.com/zyedidia/micro/releases/tag/nightly), 4 years ago) - A modern and intuitive terminal-based text editor
@@ -38,7 +38,7 @@ Want your own self-generating profile page? Check out [readme-scribe](https://gi
 
 - [fix(textarea): correctly trim incoming paste](https://github.com/charmbracelet/bubbles/pull/469) on [charmbracelet/bubbles](https://github.com/charmbracelet/bubbles) (4 months ago)
 - [chore: clean up sources](https://github.com/midzer/sitemap2feed/pull/4) on [midzer/sitemap2feed](https://github.com/midzer/sitemap2feed) (11 months ago)
-- [fix: go mod tidy examples](https://github.com/charmbracelet/lipgloss/pull/203) on [charmbracelet/lipgloss](https://github.com/charmbracelet/lipgloss) (11 months ago)
+- [fix: go mod tidy examples](https://github.com/charmbracelet/lipgloss/pull/203) on [charmbracelet/lipgloss](https://github.com/charmbracelet/lipgloss) (1 year ago)
 - [fix: stop renderer before acquiring renderer mutex](https://github.com/charmbracelet/bubbletea/pull/757) on [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) (1 year ago)
 - [chore: use nil input when stdin is a pipe](https://github.com/charmbracelet/mods/pull/38) on [charmbracelet/mods](https://github.com/charmbracelet/mods) (1 year ago)
 
