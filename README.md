@@ -52,11 +52,11 @@ Want your own self-generating profile page? Check out [readme-scribe](https://gi
 
 #### ⭐ Recent stars
 
+- [OskarLinde/scad-utils](https://github.com/OskarLinde/scad-utils) - Utility libraries for OpenSCAD (today)
+- [davidson16807/relativity.scad](https://github.com/davidson16807/relativity.scad) - The OpenSCAD General Library of Relativity (today)
 - [iamwilhelm/kings_gambit](https://github.com/iamwilhelm/kings_gambit) - A 3D printable chess set inspired by the classic Staunton design, written in OpenSCAD (1 day ago)
 - [Irev-Dev/Round-Anything](https://github.com/Irev-Dev/Round-Anything) - A set of OpenSCAD utilities for adding radii and fillets, that embodies a robust approach to developing OpenSCAD parts. (1 day ago)
 - [JustinSDK/dotSCAD](https://github.com/JustinSDK/dotSCAD) - Reduce the burden of mathematics when playing OpenSCAD (1 day ago)
-- [cjbaar/prusa-mmu-12x](https://github.com/cjbaar/prusa-mmu-12x) - Modified Prusa MMU2S model for up to 12 filaments (1 week ago)
-- [unlimitedbacon/stl-thumb-kde](https://github.com/unlimitedbacon/stl-thumb-kde) - KDE plugin for stl-thumb (1 month ago)
 
 #### ❤️ These awesome people sponsor me (thank you!)
 
