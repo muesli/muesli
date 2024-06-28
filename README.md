@@ -60,11 +60,11 @@ Want your own self-generating profile page? Check out [readme-scribe](https://gi
 
 #### ❤️ These awesome people sponsor me (thank you!)
 
+- [alexrp](https://github.com/alexrp) (today)
 - [jaredallard](https://github.com/jaredallard) (1 month ago)
 - [AlyxPink](https://github.com/AlyxPink) (2 months ago)
 - [unclesp1d3r](https://github.com/unclesp1d3r) (3 months ago)
 - [mental32](https://github.com/mental32) (7 months ago)
-- [joshbeard](https://github.com/joshbeard) (10 months ago)
 
 #### 💬 Feedback
 
