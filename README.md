@@ -28,7 +28,7 @@ Want your own self-generating profile page? Check out [readme-scribe](https://gi
 
 #### 🔭 Latest releases I've contributed to
 
-- [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) ([v0.26.6](https://github.com/charmbracelet/bubbletea/releases/tag/v0.26.6), 3 days ago) - A powerful little TUI framework 🏗
+- [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) ([v0.26.6](https://github.com/charmbracelet/bubbletea/releases/tag/v0.26.6), 4 days ago) - A powerful little TUI framework 🏗
 - [charmbracelet/lipgloss](https://github.com/charmbracelet/lipgloss) ([v0.11.0](https://github.com/charmbracelet/lipgloss/releases/tag/v0.11.0), 1 month ago) - Style definitions for nice terminal layouts 👄
 - [charmbracelet/bubbles](https://github.com/charmbracelet/bubbles) ([v0.18.0](https://github.com/charmbracelet/bubbles/releases/tag/v0.18.0), 4 months ago) - TUI components for Bubble Tea 🫧
 - [muesli/gitcha](https://github.com/muesli/gitcha) ([v0.3.0](https://github.com/muesli/gitcha/releases/tag/v0.3.0), 11 months ago) - Go helpers to work with git repositories
@@ -52,11 +52,11 @@ Want your own self-generating profile page? Check out [readme-scribe](https://gi
 
 #### ⭐ Recent stars
 
-- [OskarLinde/scad-utils](https://github.com/OskarLinde/scad-utils) - Utility libraries for OpenSCAD (1 day ago)
-- [davidson16807/relativity.scad](https://github.com/davidson16807/relativity.scad) - The OpenSCAD General Library of Relativity (1 day ago)
-- [iamwilhelm/kings_gambit](https://github.com/iamwilhelm/kings_gambit) - A 3D printable chess set inspired by the classic Staunton design, written in OpenSCAD (2 days ago)
-- [Irev-Dev/Round-Anything](https://github.com/Irev-Dev/Round-Anything) - A set of OpenSCAD utilities for adding radii and fillets, that embodies a robust approach to developing OpenSCAD parts. (2 days ago)
-- [JustinSDK/dotSCAD](https://github.com/JustinSDK/dotSCAD) - Reduce the burden of mathematics when playing OpenSCAD (2 days ago)
+- [OskarLinde/scad-utils](https://github.com/OskarLinde/scad-utils) - Utility libraries for OpenSCAD (2 days ago)
+- [davidson16807/relativity.scad](https://github.com/davidson16807/relativity.scad) - The OpenSCAD General Library of Relativity (2 days ago)
+- [iamwilhelm/kings_gambit](https://github.com/iamwilhelm/kings_gambit) - A 3D printable chess set inspired by the classic Staunton design, written in OpenSCAD (3 days ago)
+- [Irev-Dev/Round-Anything](https://github.com/Irev-Dev/Round-Anything) - A set of OpenSCAD utilities for adding radii and fillets, that embodies a robust approach to developing OpenSCAD parts. (3 days ago)
+- [JustinSDK/dotSCAD](https://github.com/JustinSDK/dotSCAD) - Reduce the burden of mathematics when playing OpenSCAD (3 days ago)
 
 #### ❤️ These awesome people sponsor me (thank you!)
 
