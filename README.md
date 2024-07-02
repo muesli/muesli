@@ -16,7 +16,7 @@ Want your own self-generating profile page? Check out [readme-scribe](https://gi
 - [charmbracelet/bubbles](https://github.com/charmbracelet/bubbles) - TUI components for Bubble Tea 🫧 (5 months ago)
 - [charmbracelet/lipgloss](https://github.com/charmbracelet/lipgloss) - Style definitions for nice terminal layouts 👄 (8 months ago)
 - [muesli/gitcha](https://github.com/muesli/gitcha) - Go helpers to work with git repositories (11 months ago)
-- [midzer/sitemap2feed](https://github.com/midzer/sitemap2feed) - Convert an online sitemap to Atom, RSS and JSON feeds (11 months ago)
+- [midzer/sitemap2feed](https://github.com/midzer/sitemap2feed) - Convert an online sitemap to Atom, RSS and JSON feeds (1 year ago)
 
 #### 🌱 My latest projects
 
@@ -37,7 +37,7 @@ Want your own self-generating profile page? Check out [readme-scribe](https://gi
 #### 🔨 Latest Pull Requests I published
 
 - [fix(textarea): correctly trim incoming paste](https://github.com/charmbracelet/bubbles/pull/469) on [charmbracelet/bubbles](https://github.com/charmbracelet/bubbles) (5 months ago)
-- [chore: clean up sources](https://github.com/midzer/sitemap2feed/pull/4) on [midzer/sitemap2feed](https://github.com/midzer/sitemap2feed) (11 months ago)
+- [chore: clean up sources](https://github.com/midzer/sitemap2feed/pull/4) on [midzer/sitemap2feed](https://github.com/midzer/sitemap2feed) (1 year ago)
 - [fix: go mod tidy examples](https://github.com/charmbracelet/lipgloss/pull/203) on [charmbracelet/lipgloss](https://github.com/charmbracelet/lipgloss) (1 year ago)
 - [fix: stop renderer before acquiring renderer mutex](https://github.com/charmbracelet/bubbletea/pull/757) on [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) (1 year ago)
 - [chore: use nil input when stdin is a pipe](https://github.com/charmbracelet/mods/pull/38) on [charmbracelet/mods](https://github.com/charmbracelet/mods) (1 year ago)
@@ -52,15 +52,15 @@ Want your own self-generating profile page? Check out [readme-scribe](https://gi
 
 #### ⭐ Recent stars
 
-- [OskarLinde/scad-utils](https://github.com/OskarLinde/scad-utils) - Utility libraries for OpenSCAD (5 days ago)
-- [davidson16807/relativity.scad](https://github.com/davidson16807/relativity.scad) - The OpenSCAD General Library of Relativity (5 days ago)
-- [iamwilhelm/kings_gambit](https://github.com/iamwilhelm/kings_gambit) - A 3D printable chess set inspired by the classic Staunton design, written in OpenSCAD (6 days ago)
-- [Irev-Dev/Round-Anything](https://github.com/Irev-Dev/Round-Anything) - A set of OpenSCAD utilities for adding radii and fillets, that embodies a robust approach to developing OpenSCAD parts. (6 days ago)
-- [JustinSDK/dotSCAD](https://github.com/JustinSDK/dotSCAD) - Reduce the burden of mathematics when playing OpenSCAD (6 days ago)
+- [hraftery/prism-chamfer](https://github.com/hraftery/prism-chamfer) - The missing chamfer tool for OpenSCAD (1 day ago)
+- [OskarLinde/scad-utils](https://github.com/OskarLinde/scad-utils) - Utility libraries for OpenSCAD (6 days ago)
+- [davidson16807/relativity.scad](https://github.com/davidson16807/relativity.scad) - The OpenSCAD General Library of Relativity (6 days ago)
+- [iamwilhelm/kings_gambit](https://github.com/iamwilhelm/kings_gambit) - A 3D printable chess set inspired by the classic Staunton design, written in OpenSCAD (1 week ago)
+- [Irev-Dev/Round-Anything](https://github.com/Irev-Dev/Round-Anything) - A set of OpenSCAD utilities for adding radii and fillets, that embodies a robust approach to developing OpenSCAD parts. (1 week ago)
 
 #### ❤️ These awesome people sponsor me (thank you!)
 
-- [alexrp](https://github.com/alexrp) (3 days ago)
+- [alexrp](https://github.com/alexrp) (4 days ago)
 - [jaredallard](https://github.com/jaredallard) (1 month ago)
 - [AlyxPink](https://github.com/AlyxPink) (2 months ago)
 - [unclesp1d3r](https://github.com/unclesp1d3r) (3 months ago)
