@@ -12,7 +12,7 @@ Want your own self-generating profile page? Check out [readme-scribe](https://gi
 
 #### 👷 Check out what I'm currently working on
 
-- [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) - A powerful little TUI framework 🏗 (4 months ago)
+- [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) - A powerful little TUI framework 🏗 (5 months ago)
 - [charmbracelet/bubbles](https://github.com/charmbracelet/bubbles) - TUI components for Bubble Tea 🫧 (5 months ago)
 - [charmbracelet/lipgloss](https://github.com/charmbracelet/lipgloss) - Style definitions for nice terminal layouts 👄 (8 months ago)
 - [muesli/gitcha](https://github.com/muesli/gitcha) - Go helpers to work with git repositories (11 months ago)
@@ -52,7 +52,7 @@ Want your own self-generating profile page? Check out [readme-scribe](https://gi
 
 #### ⭐ Recent stars
 
-- [hraftery/prism-chamfer](https://github.com/hraftery/prism-chamfer) - The missing chamfer tool for OpenSCAD (2 days ago)
+- [hraftery/prism-chamfer](https://github.com/hraftery/prism-chamfer) - The missing chamfer tool for OpenSCAD (3 days ago)
 - [OskarLinde/scad-utils](https://github.com/OskarLinde/scad-utils) - Utility libraries for OpenSCAD (1 week ago)
 - [davidson16807/relativity.scad](https://github.com/davidson16807/relativity.scad) - The OpenSCAD General Library of Relativity (1 week ago)
 - [iamwilhelm/kings_gambit](https://github.com/iamwilhelm/kings_gambit) - A 3D printable chess set inspired by the classic Staunton design, written in OpenSCAD (1 week ago)
@@ -60,7 +60,7 @@ Want your own self-generating profile page? Check out [readme-scribe](https://gi
 
 #### ❤️ These awesome people sponsor me (thank you!)
 
-- [alexrp](https://github.com/alexrp) (5 days ago)
+- [alexrp](https://github.com/alexrp) (6 days ago)
 - [jaredallard](https://github.com/jaredallard) (1 month ago)
 - [AlyxPink](https://github.com/AlyxPink) (2 months ago)
 - [unclesp1d3r](https://github.com/unclesp1d3r) (3 months ago)
