@@ -28,7 +28,7 @@ Want your own self-generating profile page? Check out [readme-scribe](https://gi
 
 #### 🔭 Latest releases I've contributed to
 
-- [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) ([v0.26.6](https://github.com/charmbracelet/bubbletea/releases/tag/v0.26.6), 1 week ago) - A powerful little TUI framework 🏗
+- [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) ([v0.26.6](https://github.com/charmbracelet/bubbletea/releases/tag/v0.26.6), 2 weeks ago) - A powerful little TUI framework 🏗
 - [charmbracelet/lipgloss](https://github.com/charmbracelet/lipgloss) ([v0.11.0](https://github.com/charmbracelet/lipgloss/releases/tag/v0.11.0), 1 month ago) - Style definitions for nice terminal layouts 👄
 - [charmbracelet/bubbles](https://github.com/charmbracelet/bubbles) ([v0.18.0](https://github.com/charmbracelet/bubbles/releases/tag/v0.18.0), 5 months ago) - TUI components for Bubble Tea 🫧
 - [muesli/gitcha](https://github.com/muesli/gitcha) ([v0.3.0](https://github.com/muesli/gitcha/releases/tag/v0.3.0), 1 year ago) - Go helpers to work with git repositories
@@ -52,7 +52,7 @@ Want your own self-generating profile page? Check out [readme-scribe](https://gi
 
 #### ⭐ Recent stars
 
-- [hraftery/prism-chamfer](https://github.com/hraftery/prism-chamfer) - The missing chamfer tool for OpenSCAD (6 days ago)
+- [hraftery/prism-chamfer](https://github.com/hraftery/prism-chamfer) - The missing chamfer tool for OpenSCAD (1 week ago)
 - [OskarLinde/scad-utils](https://github.com/OskarLinde/scad-utils) - Utility libraries for OpenSCAD (1 week ago)
 - [davidson16807/relativity.scad](https://github.com/davidson16807/relativity.scad) - The OpenSCAD General Library of Relativity (1 week ago)
 - [iamwilhelm/kings_gambit](https://github.com/iamwilhelm/kings_gambit) - A 3D printable chess set inspired by the classic Staunton design, written in OpenSCAD (1 week ago)
@@ -63,7 +63,7 @@ Want your own self-generating profile page? Check out [readme-scribe](https://gi
 - [alexrp](https://github.com/alexrp) (1 week ago)
 - [jaredallard](https://github.com/jaredallard) (1 month ago)
 - [AlyxPink](https://github.com/AlyxPink) (2 months ago)
-- [unclesp1d3r](https://github.com/unclesp1d3r) (3 months ago)
+- [unclesp1d3r](https://github.com/unclesp1d3r) (4 months ago)
 - [mental32](https://github.com/mental32) (8 months ago)
 
 #### 💬 Feedback
