@@ -16,7 +16,6 @@ Want your own self-generating profile page? Check out [readme-scribe](https://gi
 - [charmbracelet/bubbles](https://github.com/charmbracelet/bubbles) - TUI components for Bubble Tea 🫧 (5 months ago)
 - [charmbracelet/lipgloss](https://github.com/charmbracelet/lipgloss) - Style definitions for nice terminal layouts 👄 (9 months ago)
 - [muesli/gitcha](https://github.com/muesli/gitcha) - Go helpers to work with git repositories (1 year ago)
-- [midzer/sitemap2feed](https://github.com/midzer/sitemap2feed) - Convert an online sitemap to Atom, RSS and JSON feeds (1 year ago)
 
 #### 🌱 My latest projects
 
@@ -32,7 +31,6 @@ Want your own self-generating profile page? Check out [readme-scribe](https://gi
 - [charmbracelet/lipgloss](https://github.com/charmbracelet/lipgloss) ([v0.11.0](https://github.com/charmbracelet/lipgloss/releases/tag/v0.11.0), 1 month ago) - Style definitions for nice terminal layouts 👄
 - [charmbracelet/bubbles](https://github.com/charmbracelet/bubbles) ([v0.18.0](https://github.com/charmbracelet/bubbles/releases/tag/v0.18.0), 5 months ago) - TUI components for Bubble Tea 🫧
 - [muesli/gitcha](https://github.com/muesli/gitcha) ([v0.3.0](https://github.com/muesli/gitcha/releases/tag/v0.3.0), 1 year ago) - Go helpers to work with git repositories
-- [zyedidia/micro](https://github.com/zyedidia/micro) ([nightly](https://github.com/zyedidia/micro/releases/tag/nightly), 4 years ago) - A modern and intuitive terminal-based text editor
 
 #### 🔨 Latest Pull Requests I published
 
