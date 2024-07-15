@@ -27,8 +27,8 @@ Want your own self-generating profile page? Check out [readme-scribe](https://gi
 
 #### 🔭 Latest releases I've contributed to
 
-- [charmbracelet/lipgloss](https://github.com/charmbracelet/lipgloss) ([v0.12.1](https://github.com/charmbracelet/lipgloss/releases/tag/v0.12.1), 2 days ago) - Style definitions for nice terminal layouts 👄
-- [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) ([v0.26.6](https://github.com/charmbracelet/bubbletea/releases/tag/v0.26.6), 2 weeks ago) - A powerful little TUI framework 🏗
+- [charmbracelet/lipgloss](https://github.com/charmbracelet/lipgloss) ([v0.12.1](https://github.com/charmbracelet/lipgloss/releases/tag/v0.12.1), 3 days ago) - Style definitions for nice terminal layouts 👄
+- [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) ([v0.26.6](https://github.com/charmbracelet/bubbletea/releases/tag/v0.26.6), 3 weeks ago) - A powerful little TUI framework 🏗
 - [charmbracelet/bubbles](https://github.com/charmbracelet/bubbles) ([v0.18.0](https://github.com/charmbracelet/bubbles/releases/tag/v0.18.0), 5 months ago) - TUI components for Bubble Tea 🫧
 
 #### 🔨 Latest Pull Requests I published
@@ -49,7 +49,7 @@ Want your own self-generating profile page? Check out [readme-scribe](https://gi
 
 #### ⭐ Recent stars
 
-- [hraftery/prism-chamfer](https://github.com/hraftery/prism-chamfer) - The missing chamfer tool for OpenSCAD (1 week ago)
+- [hraftery/prism-chamfer](https://github.com/hraftery/prism-chamfer) - The missing chamfer tool for OpenSCAD (2 weeks ago)
 - [OskarLinde/scad-utils](https://github.com/OskarLinde/scad-utils) - Utility libraries for OpenSCAD (2 weeks ago)
 - [davidson16807/relativity.scad](https://github.com/davidson16807/relativity.scad) - The OpenSCAD General Library of Relativity (2 weeks ago)
 - [iamwilhelm/kings_gambit](https://github.com/iamwilhelm/kings_gambit) - A 3D printable chess set inspired by the classic Staunton design, written in OpenSCAD (2 weeks ago)
@@ -58,7 +58,7 @@ Want your own self-generating profile page? Check out [readme-scribe](https://gi
 #### ❤️ These awesome people sponsor me (thank you!)
 
 - [alexrp](https://github.com/alexrp) (2 weeks ago)
-- [jaredallard](https://github.com/jaredallard) (1 month ago)
+- [jaredallard](https://github.com/jaredallard) (2 months ago)
 - [AlyxPink](https://github.com/AlyxPink) (3 months ago)
 - [unclesp1d3r](https://github.com/unclesp1d3r) (4 months ago)
 - [mental32](https://github.com/mental32) (8 months ago)
