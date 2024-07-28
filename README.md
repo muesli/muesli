@@ -48,7 +48,7 @@ Want your own self-generating profile page? Check out [readme-scribe](https://gi
 
 #### ⭐ Recent stars
 
-- [unlimitedbacon/stl-thumb](https://github.com/unlimitedbacon/stl-thumb) - Thumbnail generator for STL files (5 days ago)
+- [unlimitedbacon/stl-thumb](https://github.com/unlimitedbacon/stl-thumb) - Thumbnail generator for STL files (6 days ago)
 - [hraftery/prism-chamfer](https://github.com/hraftery/prism-chamfer) - The missing chamfer tool for OpenSCAD (3 weeks ago)
 - [OskarLinde/scad-utils](https://github.com/OskarLinde/scad-utils) - Utility libraries for OpenSCAD (1 month ago)
 - [davidson16807/relativity.scad](https://github.com/davidson16807/relativity.scad) - The OpenSCAD General Library of Relativity (1 month ago)
@@ -56,7 +56,7 @@ Want your own self-generating profile page? Check out [readme-scribe](https://gi
 
 #### ❤️ These awesome people sponsor me (thank you!)
 
-- [alexrp](https://github.com/alexrp) (4 weeks ago)
+- [alexrp](https://github.com/alexrp) (1 month ago)
 - [jaredallard](https://github.com/jaredallard) (2 months ago)
 - [unclesp1d3r](https://github.com/unclesp1d3r) (4 months ago)
 - [mental32](https://github.com/mental32) (8 months ago)
