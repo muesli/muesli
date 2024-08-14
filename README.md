@@ -48,7 +48,7 @@ Want your own self-generating profile page? Check out [readme-scribe](https://gi
 
 #### ⭐ Recent stars
 
-- [PromtEngineer/localGPT](https://github.com/PromtEngineer/localGPT) - Chat with your documents on your local device using GPT models. No data leaves your device and 100% private.  (4 days ago)
+- [PromtEngineer/localGPT](https://github.com/PromtEngineer/localGPT) - Chat with your documents on your local device using GPT models. No data leaves your device and 100% private.  (5 days ago)
 - [unlimitedbacon/stl-thumb](https://github.com/unlimitedbacon/stl-thumb) - Thumbnail generator for STL files (3 weeks ago)
 - [hraftery/prism-chamfer](https://github.com/hraftery/prism-chamfer) - The missing chamfer tool for OpenSCAD (1 month ago)
 - [OskarLinde/scad-utils](https://github.com/OskarLinde/scad-utils) - Utility libraries for OpenSCAD (1 month ago)
@@ -56,7 +56,7 @@ Want your own self-generating profile page? Check out [readme-scribe](https://gi
 
 #### ❤️ These awesome people sponsor me (thank you!)
 
-- [jaredallard](https://github.com/jaredallard) (2 months ago)
+- [jaredallard](https://github.com/jaredallard) (3 months ago)
 - [unclesp1d3r](https://github.com/unclesp1d3r) (5 months ago)
 - [mental32](https://github.com/mental32) (9 months ago)
 - [joshbeard](https://github.com/joshbeard) (11 months ago)
