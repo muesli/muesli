@@ -26,9 +26,9 @@ Want your own self-generating profile page? Check out [readme-scribe](https://gi
 
 #### 🔭 Latest releases I've contributed to
 
-- [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) ([v0.27.1](https://github.com/charmbracelet/bubbletea/releases/tag/v0.27.1), 4 days ago) - A powerful little TUI framework 🏗
-- [charmbracelet/lipgloss](https://github.com/charmbracelet/lipgloss) ([v0.13.0](https://github.com/charmbracelet/lipgloss/releases/tag/v0.13.0), 6 days ago) - Style definitions for nice terminal layouts 👄
-- [charmbracelet/bubbles](https://github.com/charmbracelet/bubbles) ([v0.19.0](https://github.com/charmbracelet/bubbles/releases/tag/v0.19.0), 6 days ago) - TUI components for Bubble Tea 🫧
+- [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) ([v0.27.1](https://github.com/charmbracelet/bubbletea/releases/tag/v0.27.1), 5 days ago) - A powerful little TUI framework 🏗
+- [charmbracelet/lipgloss](https://github.com/charmbracelet/lipgloss) ([v0.13.0](https://github.com/charmbracelet/lipgloss/releases/tag/v0.13.0), 1 week ago) - Style definitions for nice terminal layouts 👄
+- [charmbracelet/bubbles](https://github.com/charmbracelet/bubbles) ([v0.19.0](https://github.com/charmbracelet/bubbles/releases/tag/v0.19.0), 1 week ago) - TUI components for Bubble Tea 🫧
 
 #### 🔨 Latest Pull Requests I published
 
@@ -48,9 +48,9 @@ Want your own self-generating profile page? Check out [readme-scribe](https://gi
 
 #### ⭐ Recent stars
 
-- [geekgonecrazy/prismplus](https://github.com/geekgonecrazy/prismplus) - An RTMP multicast service.   (today)
-- [leberKleber/go-mpris](https://github.com/leberKleber/go-mpris) - go mpris implementation  (today)
-- [dunglas/go-fswatch](https://github.com/dunglas/go-fswatch) - Go bindings for libfswatch (today)
+- [geekgonecrazy/prismplus](https://github.com/geekgonecrazy/prismplus) - An RTMP multicast service.   (1 day ago)
+- [leberKleber/go-mpris](https://github.com/leberKleber/go-mpris) - go mpris implementation  (1 day ago)
+- [dunglas/go-fswatch](https://github.com/dunglas/go-fswatch) - Go bindings for libfswatch (1 day ago)
 - [PromtEngineer/localGPT](https://github.com/PromtEngineer/localGPT) - Chat with your documents on your local device using GPT models. No data leaves your device and 100% private.  (2 weeks ago)
 - [unlimitedbacon/stl-thumb](https://github.com/unlimitedbacon/stl-thumb) - Thumbnail generator for STL files (1 month ago)
 
