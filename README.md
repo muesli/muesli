@@ -12,7 +12,7 @@ Want your own self-generating profile page? Check out [readme-scribe](https://gi
 
 #### 👷 Check out what I'm currently working on
 
-- [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) - A powerful little TUI framework 🏗 (6 months ago)
+- [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) - A powerful little TUI framework 🏗 (7 months ago)
 - [charmbracelet/bubbles](https://github.com/charmbracelet/bubbles) - TUI components for Bubble Tea 🫧 (7 months ago)
 - [charmbracelet/lipgloss](https://github.com/charmbracelet/lipgloss) - Style definitions for nice terminal layouts 👄 (10 months ago)
 
@@ -26,7 +26,7 @@ Want your own self-generating profile page? Check out [readme-scribe](https://gi
 
 #### 🔭 Latest releases I've contributed to
 
-- [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) ([v1.1.0](https://github.com/charmbracelet/bubbletea/releases/tag/v1.1.0), 2 days ago) - A powerful little TUI framework 🏗
+- [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) ([v1.1.0](https://github.com/charmbracelet/bubbletea/releases/tag/v1.1.0), 3 days ago) - A powerful little TUI framework 🏗
 - [charmbracelet/lipgloss](https://github.com/charmbracelet/lipgloss) ([v0.13.0](https://github.com/charmbracelet/lipgloss/releases/tag/v0.13.0), 1 week ago) - Style definitions for nice terminal layouts 👄
 - [charmbracelet/bubbles](https://github.com/charmbracelet/bubbles) ([v0.19.0](https://github.com/charmbracelet/bubbles/releases/tag/v0.19.0), 1 week ago) - TUI components for Bubble Tea 🫧
 
@@ -48,9 +48,9 @@ Want your own self-generating profile page? Check out [readme-scribe](https://gi
 
 #### ⭐ Recent stars
 
-- [geekgonecrazy/prismplus](https://github.com/geekgonecrazy/prismplus) - An RTMP multicast service.   (6 days ago)
-- [leberKleber/go-mpris](https://github.com/leberKleber/go-mpris) - go mpris implementation  (6 days ago)
-- [dunglas/go-fswatch](https://github.com/dunglas/go-fswatch) - Go bindings for libfswatch (6 days ago)
+- [geekgonecrazy/prismplus](https://github.com/geekgonecrazy/prismplus) - An RTMP multicast service.   (1 week ago)
+- [leberKleber/go-mpris](https://github.com/leberKleber/go-mpris) - go mpris implementation  (1 week ago)
+- [dunglas/go-fswatch](https://github.com/dunglas/go-fswatch) - Go bindings for libfswatch (1 week ago)
 - [PromtEngineer/localGPT](https://github.com/PromtEngineer/localGPT) - Chat with your documents on your local device using GPT models. No data leaves your device and 100% private.  (3 weeks ago)
 - [unlimitedbacon/stl-thumb](https://github.com/unlimitedbacon/stl-thumb) - Thumbnail generator for STL files (1 month ago)
 
