@@ -14,7 +14,7 @@ Want your own self-generating profile page? Check out [readme-scribe](https://gi
 
 - [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) - A powerful little TUI framework 🏗 (7 months ago)
 - [charmbracelet/bubbles](https://github.com/charmbracelet/bubbles) - TUI components for Bubble Tea 🫧 (7 months ago)
-- [charmbracelet/lipgloss](https://github.com/charmbracelet/lipgloss) - Style definitions for nice terminal layouts 👄 (10 months ago)
+- [charmbracelet/lipgloss](https://github.com/charmbracelet/lipgloss) - Style definitions for nice terminal layouts 👄 (11 months ago)
 
 #### 🌱 My latest projects
 
@@ -26,7 +26,7 @@ Want your own self-generating profile page? Check out [readme-scribe](https://gi
 
 #### 🔭 Latest releases I've contributed to
 
-- [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) ([v1.1.0](https://github.com/charmbracelet/bubbletea/releases/tag/v1.1.0), 4 days ago) - A powerful little TUI framework 🏗
+- [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) ([v1.1.0](https://github.com/charmbracelet/bubbletea/releases/tag/v1.1.0), 5 days ago) - A powerful little TUI framework 🏗
 - [charmbracelet/lipgloss](https://github.com/charmbracelet/lipgloss) ([v0.13.0](https://github.com/charmbracelet/lipgloss/releases/tag/v0.13.0), 2 weeks ago) - Style definitions for nice terminal layouts 👄
 - [charmbracelet/bubbles](https://github.com/charmbracelet/bubbles) ([v0.19.0](https://github.com/charmbracelet/bubbles/releases/tag/v0.19.0), 2 weeks ago) - TUI components for Bubble Tea 🫧
 
